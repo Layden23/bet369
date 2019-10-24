@@ -1,0 +1,25 @@
+,MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+0,684897,817,OMN L,Oman League,O,33,Oman,A,19068,Al Rustaq,8965,Sohar Club,-0.25,2.25,9,-0.25,0.75,4,1,2,4,5,2,0,1,0,89,84,43,58,1,2,5,12,0,0,92,1
+1,685176,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,32506,Alliance FC,13049,Ruvu Shooting,-0.25,1.75,,0.0,0.75,,1,0,8,6,0,2,0,0,120,122,91,90,4,1,9,4,0,0,92,1
+2,685141,2285,ZIM PSL,Zimbabwe Premier Soccer League,Z,203,Zimbabwe,J,26311,Chicken Inn FC,25765,CAPS United,-0.25,2.0,,0.0,0.75,,1,0,4,2,2,2,0,0,65,63,57,67,1,1,5,3,0,0,89,0
+3,685308,2346,Italy CP1,Italy Campionato Primavera 1,I,22,Italy,Y,4541,Fiorentina U19,8278,Pescara U19,-0.75,3.25,10,-0.25,1.25,4.5,3,3,5,5,0,1,0,0,127,124,98,86,5,6,10,3,51,49,93,1
+4,682491,191,RUS D1,Russia Division 1,R,12,Russia,E,3369,Krasnodar II,21674,FC Olimpiyets Nizhny Novgorod,+0.25,2.25,9,0.0,0.75,4.5,2,2,2,7,1,1,0,0,67,71,28,25,4,4,2,6,48,52,89,1
+5,685059,2317,Italy SCGC,Italy Serie C Group C,I,22,Italy,Y,18952,Virtus Francavilla,6914,Teramo,-0.25,1.75,,0.0,0.75,,0,1,5,7,4,2,0,0,121,99,77,69,3,3,9,2,0,0,88,1
+6,685106,2315,Italy SCGA,Italy Serie C Group A,I,22,Italy,Y,16066,Olbia,7016,Albinoleffe,0.0,2.25,,0.0,0.75,,1,1,0,7,3,1,0,0,77,145,35,86,2,1,4,5,0,0,88,1
+7,685182,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,38082,Namungo FC,20683,Mtibwa Sugar,-0.75,1.75,,-0.25,0.75,,1,0,4,4,1,0,0,0,148,167,80,112,4,2,5,3,0,0,90,1
+8,685178,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,16524,Tanzania Prisons,32728,Biashara United Mara,-1.0,2.0,,-0.25,0.75,,0,0,7,2,0,2,0,0,255,182,137,42,5,1,11,5,0,0,89,0
+9,685142,2285,ZIM PSL,Zimbabwe Premier Soccer League,Z,203,Zimbabwe,J,26361,Dynamos FC,26313,FC Platinum,0.0,1.75,8.5,0.0,0.75,4,0,0,3,2,3,3,0,0,58,61,39,59,1,2,0,5,0,0,88,0
+10,685223,833,UEFA YL,UEFA Youth League,U,4,International,G,16877,FC Salzburg U19,8283,Napoli U19,-1.5,3.25,10.5,-0.75,1.25,5,6,2,7,5,0,3,0,0,121,103,81,46,17,1,10,5,53,47,87,1
+11,685598,258,WClub F,World Club Friendlies,W,4,International,G,5691,Chittagong Abahani,34799,Young Elephants FC,-1.0,3.25,,-0.5,1.25,,4,2,8,1,1,1,0,0,76,65,59,51,4,6,2,3,0,0,87,1
+12,685179,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,20910,Ndanda FC,27309,Lipuli FC,0.0,1.5,,0.0,0.5,,1,1,5,7,0,0,1,0,131,128,76,74,1,1,1,4,0,0,87,1
+13,685112,237,POL L3,Poland III Liga,P,20,Poland,B,6967,Lechia Tomaszow Mazowiecki,12030,Legia Warsaw II,+1.5,3.25,,+0.5,1.25,,0,1,2,6,3,4,0,1,138,148,66,75,3,4,6,6,45,55,88,0
+14,685301,338,LTU AL W,Lithuania A Lyga Women,L,95,Lithuania,L,28020,Ssg FA Siauliai Women,37749,Utenis Utena Women,-1.75,4.5,,-0.75,1.75,,3,1,10,3,0,1,0,0,134,92,97,47,6,1,7,1,0,0,88,1
+15,685100,900,RWA NL,Rwanda National League,R,166,Rwanda,L,3571,Etincelles,9984,AS Kigali,-0.5,2.0,8.5,-0.25,0.75,4,0,0,1,8,3,2,0,0,101,126,63,96,7,3,6,7,0,0,84,0
+16,685421,704,ARG R,Argentina Reserve League,A,32,Argentina,A,7980,CA Tigre Reserves,15523,Deportivo Moron Reserves,-0.25,2.25,9,-0.25,1.0,4,0,1,4,4,5,3,0,0,98,103,50,70,3,3,3,8,0,0,83,0
+17,685432,704,ARG R,Argentina Reserve League,A,32,Argentina,A,19920,Chacarita Juniors Reserves,19660,Ferro Carril Oeste Reserves,+0.5,2.25,10,+0.25,1.0,4.5,2,3,3,5,0,2,0,0,98,95,58,59,3,6,9,9,0,0,82,0
+18,685422,704,ARG R,Argentina Reserve League,A,32,Argentina,A,16167,Nueva Chicago Reserves,13158,Sarmiento Reserves,+0.5,2.75,9,+0.25,1.25,4.5,5,3,3,5,1,0,0,0,121,138,54,63,7,7,2,5,0,0,85,1
+19,685290,749,ZAF ND1,South Africa National Div 1,S,37,South Africa,N,20033,Steenberg United,32395,TS Galaxy,-0.25,2.25,9.5,0.0,1.0,4.5,2,1,2,5,0,0,0,0,57,76,27,44,4,2,1,3,0,0,57,1
+20,685326,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,5086,JS Kairouanaise,5321,Stade Tunisien,-0.25,2.0,8.5,0.0,0.75,4,0,1,4,1,1,1,0,0,92,58,60,13,1,3,3,1,63,37,52,1
+21,685327,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,6213,Bizertin,3259,CS Sfaxien,+0.25,1.75,8.5,0.0,0.75,4,1,0,2,2,0,2,0,0,36,40,18,24,1,1,3,4,0,0,52,1
+22,685325,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,27923,AS Slimane,7637,CS Hammam Lif,-0.5,2.0,8,-0.25,0.75,3.5,0,0,4,1,1,1,0,0,36,36,43,15,4,0,1,0,0,0,50,0
+23,685067,238,DZA D1,Algeria Division 1,A,111,Algeria,A,27256,AS Ain M'lila,18968,US Biskra,-0.5,2.0,8.5,-0.25,0.75,4,3,0,8,2,1,0,0,0,55,52,42,35,5,0,5,1,48,52,HT,1

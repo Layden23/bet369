@@ -1,0 +1,11 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685766,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,7524,Persiku Kudus,36449,Persekat Kabupaten Tegal,-0.25,2.25,,0.0,0.75,,1,1,5,5,3,2,1,1,89,106,26,45,2,1,5,11,0,0,FT,0
+685495,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1652,Semen Padang,1309,Persipura Jayapura,+0.25,2.0,9.5,0.0,0.75,4.5,1,1,4,5,1,0,0,0,61,64,33,45,1,1,1,6,0,0,74,1
+685523,915,IND SPL,India Shillong Premier League,I,17,India,Y,10292,Langsning SC,22380,Nongrim Hills,-0.25,2.5,10,0.0,1.0,4.5,0,1,0,3,1,0,0,0,82,70,41,51,1,6,5,6,67,33,49,0
+685524,833,UEFA YL,UEFA Youth League,U,4,International,G,12244,FK Gabala U19,8892,Apoel Nicosia U19,-0.25,2.75,10,-0.25,1.25,4.5,0,0,1,2,0,0,0,0,27,26,14,16,0,0,2,3,48,52,30,1
+685816,258,WClub F,World Club Friendlies,W,4,International,G,27133,Bashundhara Kings,20341,Chennai City FC,0.0,3.0,8.5,0.0,1.25,4,1,0,3,0,1,0,0,0,16,14,21,6,3,0,0,1,54,46,28,1
+685642,263,Friendlies,Friendlies,F,4,International,G,7715,Thailand U19,17279,Chachoengsao,-1.0,3.0,,-0.5,1.25,,0,1,0,2,0,0,0,0,26,28,9,11,2,5,2,0,0,0,28,1
+685513,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,10288,FC Agsu,32528,FK Sumqayit II,+2,3.25,,+0.75,1.25,,0,0,1,0,0,0,0,0,2,1,2,1,1,0,0,0,0,0,1,1
+685512,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,17982,Zaqatala,8656,FK Kapaz,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+685511,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32537,Sabah FK II,32651,Keshla FK II,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+685534,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,22692,Chawnpui,23118,Chhinga Veng FC,+1.5,3.5,,+0.5,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

@@ -1,0 +1,21 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685816,258,WClub F,World Club Friendlies,W,4,International,G,27133,Bashundhara Kings,20341,Chennai City FC,0.0,3.0,8.5,0.0,1.25,4,3,2,10,1,2,3,0,2,90,70,89,41,12,4,4,6,54,46,FT,1
+685513,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,10288,FC Agsu,32528,FK Sumqayit II,+2,3.25,,+0.75,1.25,,3,0,5,5,2,2,0,0,79,87,52,62,9,6,4,2,0,0,75,1
+685512,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,17982,Zaqatala,8656,FK Kapaz,0.0,2.5,,0.0,1.0,,2,0,4,5,4,3,0,1,68,67,38,52,3,1,6,1,0,0,75,1
+685511,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32537,Sabah FK II,32651,Keshla FK II,0.0,2.5,,0.0,1.0,,1,1,4,2,2,1,0,0,92,70,62,52,4,2,5,2,60,40,73,1
+685925,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,33596,FC Shukura Kobuleti,16153,FC Tskhinvali,0.0,2.5,,0.0,1.0,,1,0,2,3,0,0,0,0,61,67,31,42,2,1,2,1,51,49,48,1
+685775,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,30295,Buildcon FC,23900,Lumwana Radiants,-0.25,2.0,,0.0,0.75,,0,0,5,1,0,0,0,0,48,40,54,33,1,3,2,4,58,42,HT,0
+685926,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,34876,FC Merani Tbilisi,10524,FC Zugdidi,-1.5,3.0,,-0.5,1.25,,0,0,1,1,1,1,0,0,65,54,36,29,3,2,4,3,57,43,45,0
+685915,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10521,FC Samtredia,29676,FC Telavi,+0.5,2.5,,+0.25,1.0,,1,0,1,1,0,2,0,0,52,88,24,45,1,4,1,2,38,62,HT,1
+685498,877,IRN D1,Iran Div 1,I,74,Iran,Y,37171,Rayka Babol,26971,Shahrdari Tabriz,-0.75,2.0,8.5,-0.25,0.75,4,0,0,3,0,1,1,0,0,60,53,50,38,3,0,2,1,56,44,HT,0
+685497,877,IRN D1,Iran Div 1,I,74,Iran,Y,27209,Qashqai Shiraz,9574,Niroye Zamini,-0.25,1.75,8.5,0.0,0.75,4,1,0,0,1,0,2,0,0,34,55,19,27,1,1,1,1,41,59,HT,1
+685496,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,8322,PSS Sleman,11439,Persija Jakarta,0.0,2.25,9.5,0.0,0.75,4.5,0,0,1,2,0,1,0,0,38,35,19,24,1,0,3,4,0,0,33,1
+685500,877,IRN D1,Iran Div 1,I,74,Iran,Y,9690,Damash Gilan,22462,Baadraan Tehran,+0.5,1.75,8.5,+0.25,0.5,4,0,0,1,1,0,1,0,0,23,30,11,13,0,0,1,2,47,53,31,1
+685499,877,IRN D1,Iran Div 1,I,74,Iran,Y,15796,Aluminium Arak,9954,Mes Rafsanjan,-0.25,1.75,8.5,0.0,0.75,4,0,1,3,1,0,1,0,0,36,25,29,11,0,3,2,0,60,40,29,1
+685501,877,IRN D1,Iran Div 1,I,74,Iran,Y,33134,Sorkhpooshan Pakdasht,32843,Navad Urmia,-0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,1,1,0,0,30,29,18,21,3,1,0,3,53,47,29,1
+685551,877,IRN D1,Iran Div 1,I,74,Iran,Y,27846,Besat Kermanshah,27849,Shohada Babolsar,-0.5,2.25,,-0.25,1.0,,0,1,2,2,0,0,0,0,23,24,17,12,0,1,4,1,0,0,28,1
+685553,877,IRN D1,Iran Div 1,I,74,Iran,Y,26972,Shahrdari Mahshahr,9688,Pas Hamedan,+0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,2,0,0,0,19,9,11,6,0,0,3,2,100,0,17,1
+685620,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,30717,Lokomotiv 1929 Sofia,5701,Litex Lovech,-0.25,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,4,4,2,2,0,0,0,1,58,42,4,1
+685547,1840,KOS SL,Kosovo Superliga,K,140,Kosovo,K,33047,KF Ballkani,33460,KF Flamurtari Pristina,-2,3.0,,-0.75,1.25,,0,0,0,0,0,0,0,0,3,9,2,2,0,0,0,1,0,0,4,1
+685839,1719,Bhutan TL,Bhutan Thimphu League,B,207,Bhutan,B,26189,Transport United FC,26256,High Quality United,-1.25,4.0,,-0.5,1.75,,0,0,0,0,0,0,0,0,8,6,2,2,0,0,0,0,0,0,2,1
+685566,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15213,Red Arrows FC,36420,Kansanshi Dynamos,-0.75,2.0,8.5,-0.25,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
