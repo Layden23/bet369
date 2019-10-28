@@ -1,0 +1,38 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685904,653,IRN PL,Iran Pro League,I,74,Iran,Y,9684,Sanat Naft Abadan,1262,Tractor Sazi,+0.25,1.75,8.5,0.0,0.5,4,2,1,2,2,4,4,0,0,98,131,56,75,3,3,5,4,0,0,90,1
+685866,1388,NOR EL U19,Norway U19 Elite League,N,70,Norway,N,27574,Mjondalen U19,28654,Bodø/Glimt U19,-2,5.0,9,-1.0,2.25,4.5,4,0,5,5,1,1,0,0,87,74,64,32,11,4,9,6,54,46,91,0
+686382,2236,Georgia EL,Georgia Erovnuli Liga,G,57,Georgia,G,10520,Dinamo Batumi,10528,Wit Georgia,-1.75,2.25,,-0.75,1.0,,1,0,4,3,0,0,0,0,86,85,54,44,6,1,12,2,0,0,61,1
+685946,849,CPY D2,Cyprus Division 2,C,69,Cyprus,S,7001,Agia Napa,18132,Alki Oroklinis,-0.25,2.5,,0.0,1.0,,1,0,3,2,2,1,0,0,73,69,31,25,2,0,4,3,59,41,64,0
+686014,289,MDA DN,Moldova Divizia Nationala,M,58,Moldova,M,8911,CS Petrocub,17490,Codru Lozova,-2,3.0,,-1.0,1.25,,1,0,4,2,0,2,0,0,78,82,70,52,5,2,7,4,51,49,65,1
+683585,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,8010,Al Feiha,5898,Al Fateh SC,+0.25,2.5,9,0.0,1.0,4.5,2,1,3,2,1,0,0,0,67,65,42,19,5,2,4,2,51,49,62,1
+686008,2181,ROM L2,Romania Liga II,R,30,Romania,L,1415,Pandurii Targu Jiu,1414,Universitatea Cluj,+0.75,2.5,,+0.25,1.0,,0,1,2,3,1,1,0,0,71,62,37,37,2,3,1,9,59,41,63,1
+685942,661,ARM PL,Armenia Premier League,A,88,Armenia,Y,37073,FC Urartu,7118,Alashkert FC,+0.25,2.0,,0.0,0.75,,2,3,3,3,1,1,0,0,92,106,47,70,2,6,0,3,0,0,62,1
+686154,1099,ECU RL,Ecuador Reserve League,E,115,Ecuador,E,14709,SD Aucas Reserves,26850,Guayaquil City Reserves,-0.25,2.5,8,0.0,1.0,3.5,0,0,5,2,1,1,0,0,89,74,45,21,1,0,6,2,0,0,60,0
+685945,511,SVK L3,Slovakia 3. Liga,S,28,Slovakia,S,1562,Spartak Myjava,23207,SK 1923 Gabcikovo,-1.5,2.5,,-0.5,1.0,,1,0,10,0,1,1,0,0,57,41,44,10,6,4,6,1,0,0,63,1
+685851,237,POL L3,Poland III Liga,P,20,Poland,B,4031,Baltyk Gdynia,31715,Baltyk Koszalin,-0.25,2.75,,0.0,1.25,,0,0,6,0,0,1,0,0,57,51,41,30,1,2,13,5,0,0,63,0
+683586,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,18792,Dhamk,867,Al Raed,+0.25,2.5,9.5,+0.5,0.5,4.5,0,0,2,1,0,1,0,0,57,55,33,42,3,0,1,5,44,56,HT,0
+685905,653,IRN PL,Iran Pro League,I,74,Iran,Y,16575,Esteghlal Tehran,23591,Pars Jonoubi Jam,-0.75,2.0,8,-0.25,0.75,4,2,0,1,4,1,0,0,0,47,41,32,33,4,0,7,5,0,0,47,1
+685939,1690,Mali PD,Mali Premiere Division,M,165,Mali,M,32217,AS Performance,26712,AS Police,+0.25,2.0,8.5,+0.25,0.75,4,0,1,0,4,0,1,0,0,25,24,15,23,1,4,0,3,26,74,25,1
+686465,943,SYR D1,Syria Division 1,S,64,Syria,X,10648,Tishreen,11692,Al Wahda Damascus,-0.5,2.25,,-0.25,0.75,,1,0,1,0,0,0,0,0,24,25,12,6,1,1,1,0,52,48,22,1
+684254,451,HRV H1,Croatia 1.HNL,C,98,Croatia,K,10133,NK Varazdin,6335,Inter Zapresic,0.0,2.5,9.5,0.0,1.0,4.5,0,0,1,0,1,0,0,0,30,23,11,11,0,1,1,2,49,51,21,1
+685842,355,SVN S2,Slovenia 2. SNL,S,68,Slovenia,S,5340,FC Koper,22573,Jadran Dekani,-2.25,3.5,,-0.5,1.0,,0,0,1,0,0,0,0,0,21,25,15,13,3,0,2,3,64,36,20,1
+686452,778,TUR L1,Turkey 1 Lig,T,26,Turkey,T,8229,Boluspor,9203,Keciorengucu,-0.25,2.0,9.5,0.0,0.75,4.5,2,0,2,0,0,0,0,0,18,33,12,20,2,1,1,2,54,46,20,1
+685906,750,KWT L,Kuwait League,K,72,Kuwait,K,6662,Al Qadsia SC,6599,Al Kuwait SC,+0.25,2.25,9.5,0.0,1.0,4.5,1,0,1,0,0,0,0,0,15,19,13,8,1,0,2,0,0,0,20,1
+685329,509,CYP D1,Cyprus Division 1,C,69,Cyprus,S,5374,Omonia Nicosia,9998,Olympiakos Nicosia,-1.0,2.75,,-0.5,1.0,,0,0,1,2,0,0,0,0,18,25,18,17,1,0,1,3,57,43,20,1
+685949,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,2814,Hanacka Slavia Kromeriz,3144,Sigma Olomouc B,-0.75,3.5,,-0.25,1.5,,0,0,0,2,0,1,0,0,7,18,4,17,0,0,0,3,0,0,19,1
+685840,281,EST EL,Estonia - Esiliiga,E,84,Estonia,A,3400,FC Flora Tallinn II,20192,JK Tammeka Tartu II,-1.25,3.25,,-0.5,1.25,,0,0,1,0,2,0,0,0,37,23,20,13,0,0,3,3,58,42,19,1
+686398,2798,Ast RV,Austria Regionalliga Vorarlberg,A,60,Austria,A,12604,SW Bregenz,7369,SCR Altach II,-0.25,3.5,,-0.25,1.5,,0,1,0,0,1,1,0,0,29,18,11,10,0,1,0,0,0,0,19,1
+684314,633,CSK FL,Czech First League,C,10,the Czech Republic,J,31769,FK Jablonec,5759,FK Teplice,-0.75,2.5,10,-0.25,1.0,4.5,1,0,0,2,0,0,0,0,28,24,9,12,1,0,1,1,60,40,19,1
+685281,267,POL L2,Poland II Liga,P,20,Poland,B,1730,Bytovia Bytow,4798,Garbarnia Krakow,-0.25,2.25,9.5,-0.25,0.75,4.5,0,0,0,0,0,1,0,0,17,30,8,14,0,0,1,0,42,58,19,1
+685947,659,BIH PL,Bosnia & Herzegovina Premier Liga,B,162,Bosnia and Herzegovina,B,2215,NK Celik Zenica,5489,Velez Mostar,-0.5,2.25,9.5,-0.25,1.0,4.5,0,0,0,1,0,0,0,0,20,16,12,7,0,1,1,1,61,39,18,1
+685859,733,MLT PL,Malta Premier League,M,71,Malta,M,6717,Floriana,10749,Senglea Athletic,-0.25,2.25,,0.0,1.0,,2,0,1,1,0,0,0,0,17,29,6,11,2,0,2,1,37,63,18,1
+685253,244,POL L1,Poland I Liga,P,20,Poland,B,1587,Stomil Olsztyn,5801,MKS Puszcza Niepolomice,-0.25,2.25,9.5,0.0,1.0,4.5,0,0,1,0,0,0,0,0,22,27,13,16,2,0,1,0,55,45,18,1
+686552,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,32840,La Luz U19,16115,Tacuarembo U19,+0.75,2.75,,+0.25,1.25,,1,1,0,2,0,0,0,0,41,33,20,25,2,2,1,0,0,0,18,1
+684246,299,POL E,Poland Ekstraklasa,P,20,Poland,B,2104,Cracovia Krakow,2446,Pogon Szczecin,-0.25,2.25,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,21,31,10,17,0,1,1,2,42,58,18,1
+685882,434,BLR PL,Belarus Premier League,B,94,Belarus,B,2991,Neman Grodno,3458,FC Minsk,0.0,2.25,8.5,0.0,0.75,4,1,0,0,1,0,0,0,0,28,32,9,15,1,0,0,2,48,52,18,1
+686377,219,AUT LL,Austria Landesliga,A,60,Austria,A,1472,SC Mannswörth,19131,ASK Elektra,+0.75,3.25,,+0.25,1.5,,0,1,0,1,0,0,0,0,10,20,8,7,1,2,1,1,0,0,17,1
+685962,101,SER SL,Serbia Super Liga,S,59,Serbia,S,1164,FK Napredak,510,FK Vozdovac,-0.25,2.5,8.5,0.0,1.0,4,0,0,1,0,0,0,0,0,30,15,11,2,0,0,0,0,59,41,16,1
+685292,660,CSK L2,Czech 2. Liga,C,10,the Czech Republic,J,1152,Vysocina Jihlava,2533,Pardubice,-0.25,2.5,10.5,-0.25,1.0,5,1,0,1,0,0,0,0,0,30,42,11,18,1,1,1,0,0,0,17,1
+685948,1123,MDV PL,Maldives Premier League,M,138,Maldives,M,25531,Club Green Streets,36136,Foakaidhoo FC,-1.0,3.0,,-0.25,1.25,,0,0,3,0,0,0,0,0,26,21,20,3,3,0,1,0,0,0,18,1
+683357,649,GER BII,Germany Bundesliga II,G,5,Germany,D,7029,Darmstadt,5487,Erzgebirge Aue,-0.25,2.5,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+684252,8,RUS PL,Russia Premier League,R,12,Russia,E,4651,Rubin Kazan,507,Ural,-0.25,2.5,9,0.0,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

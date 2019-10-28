@@ -1,0 +1,7 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685776,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8686,FC Beitar Yavne,33207,MS Ironi Kuseife,+0.75,3.0,,+0.25,1.25,,0,0,0,2,0,0,0,0,64,80,20,60,0,1,2,3,0,0,38,1
+686376,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38408,PS Pohuwato,38440,Boliyohuto FC,+2.5,3.5,,+1.0,1.5,,1,4,0,2,1,0,0,0,19,26,6,19,1,6,0,2,0,0,23,1
+686160,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37387,PSIL Lumajang,37384,Persebo Muda Bondowoso,-2.75,4.0,,-1.25,1.75,,0,0,2,0,0,0,0,0,12,6,9,0,1,0,2,0,0,0,10,1
+686447,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33170,Persekabpas Pasuruan,37681,Asifa FC,-5.25,6.0,,-2.25,2.5,,0,0,1,0,0,0,0,0,9,7,7,5,0,0,0,0,0,0,7,1
+686448,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1656,Jablonec U19,38270,FK Usti nad Labem U19,-0.25,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1
+684112,3,AUS AL,Australia A-League,A,7,Australia,A,350,Brisbane Roar,7810,Melbourne Victory,-0.25,2.75,11,0.0,1.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

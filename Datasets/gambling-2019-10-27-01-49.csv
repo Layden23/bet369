@@ -1,0 +1,27 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+686358,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,37328,Real Canamy,37228,Aguacateros CDU,+0.75,3.25,9.5,+0.25,1.25,4.5,1,0,4,6,1,2,0,0,55,70,24,52,2,1,5,8,53,47,90,1
+686307,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,37689,Cafetaleros de Chiapas II,32585,Club Canoneros Marina,-0.5,2.5,10.5,-0.25,1.0,5,3,0,7,3,2,3,1,0,64,56,25,24,5,2,4,2,53,47,90,1
+686884,1677,BRA CPU20,Brazil Campeonato Paulista U20,B,47,Brazil,B,15437,Sao Jose EC U20,29375,Inter de Bebedouro U20,0.0,2.5,,0.0,1.0,,0,0,3,3,3,2,0,0,123,101,70,55,3,3,4,8,0,0,90,0
+686678,2802,BRB SC,Barbados Super Cup,B,142,Barbados,B,2159,Paradise FC,26103,Barbados Soccer Academy,-3,4.5,,-1.25,1.75,,7,0,5,1,1,0,0,0,109,78,55,24,10,0,7,4,64,36,FT,1
+684750,607,MEX AL,Mexico Apertura,M,49,Mexico,M,6341,Queretaro,5431,Unam Pumas,-0.25,2.5,9,0.0,1.0,4,3,0,4,11,2,2,0,0,79,93,28,48,3,7,4,14,45,55,90,1
+686899,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,6192,CS Uruguay de Coronado,35553,Municipal Garabito,-0.25,2.5,,0.0,1.0,,0,1,7,3,0,1,0,0,74,70,50,28,0,1,0,0,0,0,91,0
+686920,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,8577,Colón C-3,9502,Atletico Nacional,0.0,2.25,,0.0,1.0,,2,1,4,5,2,4,0,1,76,73,35,22,2,1,5,3,0,0,87,1
+684712,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,4276,Bahia,1641,Internacional RS,-0.25,1.75,10,0.0,0.75,4.5,2,3,5,4,1,3,0,0,119,99,60,33,3,5,11,11,57,43,88,0
+686756,2375,Aruba DDH,Aruba Division Di Honor,A,116,Venezuela,W,33510,SV Brazil Juniors,28661,SV Britannia,+0.5,3.5,8.5,+0.25,1.5,3,2,5,2,8,1,0,0,0,55,68,23,56,3,6,3,5,0,0,65,1
+684711,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,4285,Fluminense,1645,Chapecoense,-1.25,2.5,10,-0.5,1.0,5,1,1,4,2,1,2,0,0,95,38,72,11,8,3,13,4,67,33,58,1
+685733,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,5826,Deportivo Cuenca,5816,LDU Quito,+0.25,2.75,9,0.0,1.0,4,0,0,1,2,0,2,0,0,46,55,19,24,2,2,4,2,42,58,HT,0
+686456,615,MEX AAL,Mexico Liga de Ascenso Apertura,M,49,Mexico,M,17037,Loros de Colima,5538,Dorados,0.0,2.25,9,0.0,1.0,4,1,0,0,10,0,0,0,0,28,33,15,39,1,2,1,2,0,0,HT,1
+687135,857,ATG PD,Antigua & Barbuda Premier Division,A,202,Antigua and Barbuda,A,9376,Greenbay Hoppers FC,38494,All Saints Utd FC,-1.0,3.25,,-0.5,1.25,,2,1,3,1,0,0,0,0,44,50,40,42,4,2,2,3,53,47,HT,1
+687640,1062,Other Match,Other Match,O,4,International,G,38435,Xelaju Reserves,38510,Deportivo Mixco Reserves,-0.5,3.25,,-0.25,1.25,,1,1,4,0,1,2,0,0,51,48,27,11,2,2,6,2,0,0,HT,1
+686309,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,18189,UA de Chihuahua,17073,Correcaminos II,-1.0,3.0,9.5,-0.25,1.25,4.5,1,0,0,1,2,1,0,0,53,57,24,36,1,1,0,0,45,55,HT,1
+686770,2673,USA USLC,USA USL Championship,U,6,the United States,M,2473,Pittsburgh Riverhounds,34916,Birmingham Legion FC,-1.5,3.0,9,-0.5,1.25,4.5,4,0,3,0,0,2,0,0,55,37,53,20,4,1,3,1,64,36,43,1
+686786,2673,USA USLC,USA USL Championship,U,6,the United States,M,12575,Louisville City FC,2984,Tampa Bay Rowdies,-0.25,2.75,10,-0.25,1.0,4.5,2,0,2,4,0,1,0,0,57,77,40,28,7,1,0,1,0,0,43,1
+687407,2803,USA NISA,USA NISA,U,6,the United States,M,20369,Miami FC,38096,Oakland Roots,-1.5,3.0,,-0.5,1.25,,2,0,3,0,0,1,0,0,29,17,27,5,6,0,2,1,0,0,39,1
+687551,2510,USA UPSL,USA UPSL,U,6,the United States,M,38506,Germantown City FC,38507,World Class Premier,0.0,3.0,,0.0,1.25,,0,0,0,3,1,1,0,0,19,50,8,31,2,3,1,3,0,0,36,1
+685761,397,PRY DP,Paraguay Division Profesional,P,114,Paraguay,B,2757,Guarani Asuncion,4574,Cerro Porteno,0.0,2.5,9,0.0,1.0,4.5,0,0,3,1,2,1,0,0,27,33,23,15,1,2,6,2,51,49,34,1
+686787,2673,USA USLC,USA USL Championship,U,6,the United States,M,2983,Indy Eleven,20298,New York Red Bulls II,-0.25,3.0,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,7,10,3,5,0,0,0,0,38,62,13,1
+687364,666,SLV AL,El Salvador Apertura,E,122,El Salvador,S,26845,AD Chalatenango,33769,Independiente San Vicente,-0.5,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+684708,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,5729,Cruzeiro,5558,Fortaleza FC,-0.75,2.25,9.5,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+687199,2802,BRB SC,Barbados Super Cup,B,142,Barbados,B,3491,Pride of Gall Hill FC,33545,Youth Milan,-0.5,3.5,,-0.25,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+687584,664,HND NL,Honduras Liga Nacional,H,119,Honduras,H,26766,Lobos UPNFM,7784,CD Platense,-0.5,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+684751,607,MEX AL,Mexico Apertura,M,49,Mexico,M,6394,Club America,5874,Puebla,-1.0,2.75,9,-0.5,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

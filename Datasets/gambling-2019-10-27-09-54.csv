@@ -1,0 +1,30 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+687258,1764,Mongolia PL,Mongolia Premier League,M,208,Mongolia,M,22771,Ulaanbaatar City,30709,Khangarid Klub,-0.75,4.0,,-0.25,1.75,,3,0,5,1,1,2,0,1,114,94,72,38,17,1,14,7,54,46,FT,1
+687646,1038,CHN,Chinese Matches,C,1,China,Z,20831,Shanghai Jiading,32900,Xian Daxing Chongde,-0.75,2.5,,-0.25,1.0,,2,0,11,3,0,3,0,0,101,77,77,43,5,1,12,4,0,0,FT,1
+686072,85,KOR KL,South Korea K-League Classic,S,3,Korea,H,1238,Incheon Utd,348,Suwon Bluewings,+0.25,2.5,9,+0.25,1.0,4,1,1,2,4,2,2,0,0,87,97,65,61,2,5,11,9,54,46,90,1
+684707,1275,JPN J2L,Japan J2-League,J,2,Japan,R,12778,Renofa Yamaguchi,1294,JEF Utd Chiba,0.0,2.75,9.5,0.0,1.25,4.5,3,2,5,4,1,2,0,0,136,101,73,61,6,6,6,7,57,43,92,1
+684116,3,AUS AL,Australia A-League,A,7,Australia,A,12793,Western United FC,6470,Melbourne City,0.0,2.5,10.5,0.0,1.0,5,1,2,4,7,3,3,0,1,116,111,44,37,6,10,8,5,54,46,89,1
+684693,2,CHN SL,China Super League,C,1,China,Z,34845,Tianjin Tianhai,20209,Beijing Renhe,-0.75,2.75,9.5,-0.25,1.25,4.5,2,2,1,4,1,3,0,0,67,66,32,29,4,3,7,3,50,50,62,1
+687063,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,2543,South China AA,8789,Hong Kong FC,+0.75,3.75,9.5,+0.25,1.5,4,0,1,4,5,1,2,0,0,42,41,24,28,3,3,0,7,53,47,67,0
+687064,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,9584,Wing Yee,32946,North District,-0.75,3.25,9.5,-0.25,1.25,4.5,1,0,2,2,2,1,0,0,60,66,23,30,2,2,1,5,50,50,57,1
+687062,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,9583,Shatin,29344,Resources Capital FC,+1.25,3.5,8,+0.5,1.5,3,0,1,2,3,1,0,0,0,68,58,33,33,0,2,3,2,47,53,47,1
+687675,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,7682,PSBK Blitar,16463,Persinga Ngawi,-0.5,3.0,,0.0,1.5,,1,1,2,3,1,0,0,0,66,44,30,28,1,1,0,1,0,0,HT,1
+687564,1023,ZAF DC,South Africa Diski Challenge,S,37,South Africa,N,16299,Bidvest Wits Reserves,11639,Mamelodi Sundowns Reserves,0.0,2.5,,0.0,1.0,,0,2,1,2,0,0,0,0,68,45,44,37,3,3,4,5,0,0,HT,1
+687673,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,36729,Bumi Wali FC,36728,Putra Sinar Giri,+2,3.0,,+0.75,1.25,,1,0,3,5,0,0,0,0,37,46,16,31,2,3,6,8,0,0,HT,1
+684728,191,RUS D1,Russia Division 1,R,12,Russia,E,1316,FK Yenisey,4444,Chertanovo,+0.25,2.25,9,+0.25,1.0,4.5,0,2,0,3,0,1,0,0,64,50,31,31,0,4,3,1,59,41,HT,1
+687674,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37937,Perspin Pinrang,37881,Nene Mallomo,0.0,2.5,,0.0,1.0,,1,2,2,1,0,1,0,0,50,53,49,39,1,2,1,1,0,0,51,1
+687677,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,25871,Persigo Semeru FC,32100,Perssu Sumenep,-1.25,3.25,,-0.5,1.25,,2,0,2,3,0,1,0,0,45,31,33,14,3,0,0,0,0,0,43,1
+687559,2583,PHL C,Philippines Cup,P,19,Philippines,F,4400,Green Archers Utd,20233,Philippines U22,-0.75,3.0,,-0.25,1.25,,0,0,1,0,0,0,0,0,69,52,45,38,1,0,4,4,0,0,40,1
+687678,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37388,Persid Jember,4826,Persewangi Banyuwangi,0.0,2.0,,0.0,0.75,,1,0,3,1,1,0,0,0,38,35,38,34,1,0,0,0,0,0,39,1
+687676,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38407,PS Gorut,38511,Boalemo FC,+0.5,2.5,,+0.25,1.0,,1,0,0,1,1,1,0,0,29,57,6,28,2,3,0,3,0,0,HT,1
+687679,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33710,PSN Ngada,22910,Celebest FC,-0.25,2.5,,0.0,1.0,,0,0,0,1,0,0,0,0,44,39,34,36,2,2,3,2,0,0,38,1
+687607,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,17242,Phetchabun FC U19,38473,Watbot City U19,0.0,2.25,,0.0,1.0,,2,0,1,3,0,0,0,0,24,28,10,14,2,0,1,1,0,0,24,1
+687606,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,17244,Chainat FC U19,17240,Singburi U19,-0.5,2.5,,-0.25,1.0,,0,0,1,0,0,0,0,0,20,28,15,15,0,0,1,2,0,0,24,1
+687298,1670,CAM PL,Cambodia Premier League,C,193,Cambodia,J,18759,Boeung Ket FC,30037,Soltilo Angkor,-1.0,3.0,10,-0.5,1.25,4.5,0,0,1,3,0,0,0,0,24,8,17,5,2,0,2,1,63,37,23,1
+687301,949,CYP D1 W,Cyprus Women Division 1,C,69,Cyprus,S,38500,Geroskipou Women,38501,Nea Salamis Famagusta Women,-2.25,4.0,,-1.0,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+687302,949,CYP D1 W,Cyprus Women Division 1,C,69,Cyprus,S,38502,Pyrgos Limassol Women,7426,Apollon Limassol Women,+2,3.0,,+0.75,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+687176,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36419,Krasnodar U20,36417,FC Orenburg U20,-1.0,2.75,,-0.5,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+687650,2495,Russia RW,Russia Premier Women,R,12,Russia,E,30592,FK Torpedo Izhevsk Women,4137,Zvezda 2005 Perm Women,+1.75,3.0,,+0.75,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+687300,913,SVK L1 W,Slovakia I Liga Women,S,28,Slovakia,S,32774,Spartak Trnava Women,16188,Spartak Myjava Women,+2.25,3.25,,+1.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+687566,2410,TUR LW,Turkey League Women,T,26,Turkey,T,18043,Kirecburnu Women,29235,Amed SK Women,-1.25,3.75,,-0.5,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+687567,2410,TUR LW,Turkey League Women,T,26,Turkey,T,7478,Konak Bel Women,38438,Kocaeli Women,-1.75,3.75,,-0.75,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

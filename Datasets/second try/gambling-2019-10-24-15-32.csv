@@ -1,0 +1,39 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685500,877,IRN D1,Iran Div 1,I,74,Iran,Y,9690,Damash Gilan,22462,Baadraan Tehran,+0.5,1.75,8.5,+0.25,0.5,4,2,0,6,6,1,5,0,1,77,81,43,50,3,2,6,5,48,52,FT,0
+685499,877,IRN D1,Iran Div 1,I,74,Iran,Y,15796,Aluminium Arak,9954,Mes Rafsanjan,-0.25,1.75,8.5,0.0,0.75,4,2,2,7,3,3,2,0,0,119,88,87,60,4,6,6,3,57,43,FT,1
+685501,877,IRN D1,Iran Div 1,I,74,Iran,Y,33134,Sorkhpooshan Pakdasht,32843,Navad Urmia,-0.25,2.0,8.5,0.0,0.75,4,0,0,5,2,4,3,0,0,108,91,85,79,11,5,5,6,59,41,FT,0
+685553,877,IRN D1,Iran Div 1,I,74,Iran,Y,26972,Shahrdari Mahshahr,9688,Pas Hamedan,+0.25,2.0,8.5,0.0,0.75,4,1,0,1,1,5,3,0,0,92,46,52,32,4,0,6,4,62,38,88,0
+685620,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,30717,Lokomotiv 1929 Sofia,5701,Litex Lovech,-0.25,2.25,,-0.25,1.0,,1,0,4,3,0,1,0,0,72,72,32,30,3,1,6,4,45,55,76,1
+685547,1840,KOS SL,Kosovo Superliga,K,140,Kosovo,K,33047,KF Ballkani,33460,KF Flamurtari Pristina,-2,3.0,,-0.75,1.25,,3,1,6,2,2,4,0,0,98,110,53,38,7,2,5,2,0,0,74,1
+685839,1719,Bhutan TL,Bhutan Thimphu League,B,207,Bhutan,B,26189,Transport United FC,26256,High Quality United,-1.25,4.0,,-0.5,1.75,,4,3,2,5,0,1,0,0,94,81,53,59,6,4,1,10,0,0,73,1
+685566,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15213,Red Arrows FC,36420,Kansanshi Dynamos,-0.75,2.0,8.5,-0.25,0.75,4,1,0,4,1,2,1,0,0,38,44,36,39,4,2,4,4,52,48,61,1
+686003,2822,Spain University League,Spain University League,S,206,None,W,38463,Universidad Pontificia De Comillas,38464,Universidad Europea De Madrid,0.0,4.0,,0.0,1.25,,0,2,1,4,3,1,0,0,0,0,0,0,0,2,0,0,0,0,63,1
+685552,877,IRN D1,Iran Div 1,I,74,Iran,Y,9572,Iranjavan Bushehr,9957,Naft Gachsaran,0.0,2.25,8.5,0.0,0.75,4,0,1,3,1,1,1,0,0,58,70,39,29,0,2,3,3,48,52,54,1
+685827,231,ISR YL,Israel Youth League,I,97,Israel,Y,34359,Hapoel Iksal Imad U19,33643,SC Haifa Robi Shapira U19,+0.75,3.25,,+0.25,1.25,,0,1,6,3,0,1,0,0,47,53,26,26,3,2,5,5,0,0,44,1
+685829,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,33712,Light SS FC,20106,Paidha Black Angels,-0.25,2.0,,-0.25,0.75,,0,0,1,1,0,0,0,0,66,76,58,42,0,0,0,2,0,0,34,1
+685623,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,27712,Spartak Pleven,26564,Septemvri Sofia,+2.25,3.25,,+1.0,1.5,,0,0,0,3,0,0,0,0,44,57,12,40,0,1,1,1,38,62,32,1
+685502,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,20439,Mbeya City,19557,Kagera Sugar,0.0,1.75,8.5,0.0,0.75,4,0,3,0,2,0,1,0,0,98,66,38,30,0,4,5,4,0,0,32,1
+685843,258,WClub F,World Club Friendlies,W,4,International,G,28999,Gokulam Kerala FC,2662,Terengganu,+0.25,3.0,,0.0,1.25,,0,0,4,0,1,1,0,0,33,25,36,9,3,0,0,1,57,43,31,1
+685622,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,20676,Pomorie,11959,Lokomotiv G. Oryahovitsa,-0.5,2.5,,-0.25,1.0,,0,2,2,1,0,0,0,0,33,25,18,19,0,3,0,1,48,52,31,1
+685550,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,31905,Portimonense U23,32397,Belenenses U23,-0.5,3.0,9.5,-0.25,1.25,4.5,1,0,1,2,1,0,0,0,39,46,22,21,2,1,4,2,45,55,31,1
+685719,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,22812,Boston River Reserves,1451,Nacional de Montevideo Reserves,+1.25,3.0,,+0.25,1.25,,0,0,1,1,1,0,0,0,51,52,29,26,3,1,0,3,0,0,30,1
+685603,2336,Albania CP,Albania Championship,A,53,Albania,A,14595,Partizani Tirana,15043,Skenderbeu,-0.75,2.0,,-0.25,1.0,,2,0,2,1,0,0,0,0,22,37,16,10,2,0,1,1,0,0,30,1
+685818,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,4268,Defensor Sporting Reserves,1889,Racing Club de Montevideo Reserves,-0.25,3.0,,0.0,1.25,,0,0,0,1,0,0,0,0,42,45,13,12,0,0,2,4,0,0,30,1
+685621,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,27513,FC Hebar Pazardzhik,15094,Pirin Blagoevgrad,-0.75,2.75,,-0.25,1.0,,0,1,2,3,0,1,0,0,26,24,12,11,0,2,2,6,51,49,28,1
+685564,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,4655,Nkana FC,20998,Lusaka Dynamos,-0.25,2.0,,0.0,0.75,,0,0,3,1,1,0,0,0,31,29,23,7,0,1,4,0,53,47,28,1
+685565,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,13925,Nkwazi,15112,NAPSA Stars,0.0,1.75,,0.0,0.75,,0,0,0,0,1,0,0,0,23,23,10,14,0,0,5,6,59,41,26,1
+685646,704,ARG R,Argentina Reserve League,A,32,Argentina,A,19790,All Boys Reserves,19819,Villa Dalmine Reserves,-0.25,2.25,10,0.0,1.0,4.5,0,0,2,0,0,0,0,0,42,35,25,20,1,1,2,3,0,0,26,1
+685817,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,14627,Zesco United,15463,Mufulira Wanderers,-0.75,2.0,,-0.25,0.75,,0,0,0,1,0,1,0,0,31,23,21,15,0,0,0,2,34,66,23,1
+685828,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,38460,Kigezi Homeboys FC,28248,Kitara FC,-0.25,2.0,,0.0,0.75,,0,1,1,1,0,0,0,0,26,27,13,13,0,1,0,2,0,0,23,1
+685825,969,GRC A Cup,Greece Amateur Cup,G,13,Greece,X,33764,Megarikos,29434,Thrasyvoulos Fylis,-1.75,3.5,,-0.75,1.5,,0,0,1,1,0,0,0,0,46,21,33,8,2,0,5,4,0,0,22,1
+685651,492,BRA,Brazilian Matches,B,47,Brazil,B,32785,Acao RJ,32263,Tomazinho FC,-1.5,2.75,11,-0.75,1.0,5.5,0,0,1,0,0,0,0,0,28,22,16,10,1,1,2,1,0,0,20,1
+685847,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,38374,MYDA FC,25369,Doves All Stars,0.0,1.75,,0.0,0.75,,0,0,0,1,0,1,0,0,26,26,8,16,0,1,0,0,0,0,20,1
+685844,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,28241,Bukedea TC FC,38462,Mbale Heroes,-0.25,2.0,,+0.5,0.5,,0,0,0,0,0,0,0,0,19,24,12,19,2,1,2,2,0,0,17,1
+685845,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,13029,Kasese New Villa,28246,Kansai Plascon FC,0.0,2.0,,0.0,0.75,,0,0,0,0,1,0,0,0,18,20,2,2,0,0,0,1,0,0,12,1
+685846,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,23370,Kataka FC,34185,Saviours FC,-0.5,2.0,,-0.25,0.75,,1,0,0,0,0,0,0,0,17,17,7,4,2,0,0,0,0,0,11,1
+685830,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,27673,UPDF FC,18500,Ndejje University,0.0,2.0,,0.0,0.75,,0,0,1,1,0,0,0,0,13,14,9,11,0,0,1,0,0,0,10,1
+685535,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,27392,Mizoram Police FC,33934,Venghnuai FC,0.0,2.75,9,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685503,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,5084,ES Metlaoui,4931,Club Africain,+0.25,1.75,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685505,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,20251,Tataouine,3260,Etoile Sportive Sahel,+0.5,2.0,8.5,+0.25,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+685504,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,4771,Esperance de Tunis,18816,US Ben Guerdane,-0.75,2.0,8.5,-0.25,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685551,877,IRN D1,Iran Div 1,I,74,Iran,Y,27846,Besat Kermanshah,27849,Shohada Babolsar,-0.5,2.25,,-0.25,1.0,,2,1,2,5,1,3,0,0,65,87,38,49,2,1,6,5,0,0,83,1

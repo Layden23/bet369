@@ -1,0 +1,36 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+684691,2460,SKorea K2,South Korea K-League 2,S,3,Korea,H,29503,Suwon FC,2955,Gwangju FC,+0.25,2.5,9,+0.25,1.0,4,0,3,2,9,2,2,0,0,89,82,49,74,1,11,10,9,0,0,FT,1
+687099,439,JPN FL,Japan Football League,J,2,Japan,R,4589,Sony Sendai,22972,Suzuka Unlimited,-1.0,3.25,,-0.5,1.25,,5,3,4,8,0,0,0,0,107,123,96,72,11,10,2,5,94,6,FT,1
+687100,439,JPN FL,Japan Football League,J,2,Japan,R,6134,Nara Club,25202,FC Imabari,+0.5,2.5,,+0.25,1.0,,1,1,6,1,1,0,0,0,128,123,60,51,2,1,2,3,0,0,FT,1
+687102,439,JPN FL,Japan Football League,J,2,Japan,R,6571,MIO Biwako Shiga,28959,Tegevajaro Miyazaki,+0.25,2.75,,0.0,1.0,,1,0,2,8,2,0,0,0,84,122,31,86,2,4,6,18,0,0,95,0
+687283,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,4709,INAC Leonessa Women,4118,JEF Utd Chiba Women,-0.5,2.5,9,-0.25,1.0,4,1,0,13,2,0,1,0,0,138,99,114,67,7,6,9,1,0,0,FT,1
+687098,439,JPN FL,Japan Football League,J,2,Japan,R,12209,FC Osaka,16262,Matsue City FC,-0.75,2.25,9,-0.25,0.75,4,1,0,6,6,2,2,0,0,90,91,47,29,5,2,11,5,50,50,FT,0
+684705,1275,JPN J2L,Japan J2-League,J,2,Japan,R,4958,FC Ryukyu,224,Omiya Ardija,+0.5,2.75,9,+0.25,1.25,4.5,2,3,2,6,2,1,0,0,74,68,44,79,5,9,6,12,54,46,92,1
+684697,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1297,Montedio Yamagata,2153,Ehime FC,-0.5,2.25,8.5,-0.25,1.0,4,3,0,7,5,2,1,0,0,78,94,73,66,5,2,3,10,41,59,92,1
+687249,435,JPN J3L,Japan J3-League,J,2,Japan,R,4724,Nagano Parceiro,1295,Kamatamare Sanuki,-0.25,2.25,9,0.0,0.75,3.5,0,0,6,2,2,1,0,0,98,80,79,34,3,0,7,3,50,50,90,0
+687248,435,JPN J3L,Japan J3-League,J,2,Japan,R,4246,Grulla Morioka FC,4959,Gainare Tottori,+0.25,3.0,10.5,+0.5,0.75,5,1,2,6,9,0,1,0,0,103,97,65,71,2,3,8,7,55,45,94,0
+687250,435,JPN J3L,Japan J3-League,J,2,Japan,R,12685,Sagamihara,2994,Fujieda MYFC,+0.25,2.25,8.5,0.0,0.75,4,1,1,3,1,2,3,0,0,71,75,59,43,1,3,1,2,0,0,90,1
+687257,1764,Mongolia PL,Mongolia Premier League,M,208,Mongolia,M,22718,Erchim,27914,Deren FC,-1.75,3.75,,-0.75,1.5,,3,0,5,4,1,0,0,0,104,112,64,75,8,2,8,6,47,53,FT,1
+687101,439,JPN FL,Japan Football League,J,2,Japan,R,13226,Ryutsu Keizai Dragons,25261,Veertien Mie,+0.5,3.0,,+0.75,0.75,,0,5,5,3,1,0,0,0,52,63,18,37,6,10,0,5,53,47,FT,1
+686070,85,KOR KL,South Korea K-League Classic,S,3,Korea,H,1237,Sangju Sangmu,7302,Seongnam FC,-0.25,2.0,8.5,0.0,0.75,4,0,0,0,2,0,1,0,0,52,41,34,29,1,2,1,4,0,0,HT,0
+687284,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,5277,Urawa Red Diamonds Women,5278,Iga FC Kunoichi Women,-1.0,2.5,,-0.5,1.0,,0,0,1,1,0,0,0,0,53,39,20,14,0,0,5,3,0,0,HT,0
+684115,3,AUS AL,Australia A-League,A,7,Australia,A,1234,Wellington Phoenix,6544,Perth Glory,+0.5,2.75,11,+0.25,1.0,5,0,2,6,2,0,1,0,0,65,46,23,21,0,5,2,3,55,45,HT,1
+684721,191,RUS D1,Russia Division 1,R,12,Russia,E,1331,SKA Energia Khabarovsk,3352,Spartak Moscow II,-0.25,2.5,9,0.0,1.0,4,1,0,2,1,1,2,0,0,45,29,26,10,1,1,4,3,0,0,HT,1
+684701,1275,JPN J2L,Japan J2-League,J,2,Japan,R,225,Ventforet Kofu,9330,Kagoshima United,-1.0,2.75,9,-0.5,1.0,4.5,1,1,2,5,0,0,1,0,53,53,27,47,1,2,1,5,42,58,HT,1
+687252,435,JPN J3L,Japan J3-League,J,2,Japan,R,20443,Gamba Osaka U23,20444,Cerezo Osaka U23,-0.25,3.0,9.5,0.0,1.25,4.5,0,0,1,3,0,1,0,0,44,45,34,33,0,4,3,4,47,53,HT,0
+687253,435,JPN J3L,Japan J3-League,J,2,Japan,R,1296,Giravanz Kitakyushu,2995,YSCC,-1.5,3.0,9,-0.75,1.25,3.5,1,1,1,2,0,0,0,0,47,45,39,30,4,4,4,1,53,47,HT,1
+687254,435,JPN J3L,Japan J3-League,J,2,Japan,R,1289,Thespa Kusatsu,1298,Kataller Toyama,-0.25,2.75,10.5,0.0,1.0,5.5,0,0,4,2,0,0,0,0,43,53,40,40,0,1,3,3,45,55,HT,0
+687251,435,JPN J3L,Japan J3-League,J,2,Japan,R,20139,FC Tokyo U23,488,Fukushima Utd,0.0,2.75,14.5,0.0,1.0,9,1,1,3,3,0,0,0,0,48,64,30,49,2,3,6,7,40,60,HT,1
+684704,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1300,V-Varen Nagasaki,6070,Zweigen Kanazawa,+0.25,2.5,9.5,0.0,1.0,4.5,1,2,5,0,0,0,0,0,57,42,34,24,3,2,4,3,52,48,HT,1
+684703,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1222,Tokushima Vortis,2782,Mito Hollyhock,-0.25,2.25,9,0.0,1.0,4.5,0,1,6,2,0,0,0,0,41,27,37,26,4,2,4,3,70,30,HT,1
+684700,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1333,Yokohama FC,4639,Tokyo Verdy,-1.0,3.0,8.5,-0.25,1.25,4,1,0,1,2,0,0,0,0,29,50,24,35,1,2,3,3,44,56,HT,1
+684702,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1462,Albirex Niigata,1315,Kyoto Sanga FC,0.0,2.5,8.5,0.0,1.0,4,1,0,2,2,0,1,0,0,44,60,33,55,6,1,1,1,41,59,HT,1
+687059,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,18808,Hoi King,9069,Citizen AA,+0.5,3.25,11.5,+0.25,1.25,6,0,0,1,3,0,0,0,0,15,13,9,9,0,1,3,2,58,42,22,1
+687395,824,HKG D2,Hong Kong 2nd Division,H,77,Hong Kong,Z,38136,Sparta Asia,9071,Lucky Mile,+1.0,3.5,,+0.25,1.5,,1,1,1,0,1,0,0,0,26,25,9,12,1,2,0,1,0,0,20,1
+687396,824,HKG D2,Hong Kong 2nd Division,H,77,Hong Kong,Z,18653,Wing Go Fu Moon,10072,Kowloon City,+0.25,4.0,,0.0,1.75,,0,0,1,0,0,0,0,0,20,23,7,6,1,1,0,1,0,0,18,1
+687060,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,22746,Hong Kong Sapling,29478,Metro Gallery FC,0.0,3.5,9,0.0,1.5,4,1,0,0,0,0,0,0,0,20,18,9,9,1,0,2,1,54,46,18,1
+684690,2460,SKorea K2,South Korea K-League 2,S,3,Korea,H,5722,Busan I Park,1247,Jeonnam Dragons,-0.75,2.75,8.5,-0.25,1.25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+684699,1275,JPN J2L,Japan J2-League,J,2,Japan,R,485,Machida Zelvia,1334,FC Gifu,-0.5,2.25,10,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+684698,1275,JPN J2L,Japan J2-League,J,2,Japan,R,6073,Kashiwa Reysol,4570,Avispa Fukuoka,-1.25,2.75,9.5,-0.5,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686071,85,KOR KL,South Korea K-League Classic,S,3,Korea,H,1235,Gyeongnam FC,1239,Jeju United,0.0,2.75,9,0.0,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+684692,2460,SKorea K2,South Korea K-League 2,S,3,Korea,H,2954,Bucheon FC 1995,25196,Asan Mugunghwa FC,-0.25,2.5,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

@@ -1,0 +1,30 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+686812,2547,ARG RC,Argentina Regional Cup,A,32,Argentina,A,19262,Racing de Cordoba,38486,CA Camioneros Cordoba,-0.25,2.5,,-0.25,1.0,,2,3,10,1,1,0,0,0,132,85,81,36,5,4,3,1,0,0,FT,1
+686161,2315,Italy SCGA,Italy Serie C Group A,I,22,Italy,Y,6549,Monza,6351,Renate,-1.0,2.25,9,-0.25,0.75,4,2,2,8,4,2,3,0,0,108,110,50,59,6,3,5,7,54,46,90,1
+678879,37,ITA SA,Italy Serie A,I,22,Italy,Y,6682,Genoa,6827,Brescia,-0.5,2.75,11,-0.25,1.0,5,3,1,5,3,6,3,0,0,93,85,32,44,10,1,6,5,56,44,90,1
+684167,40,NED E,Holland Eredivisie,H,25,the Netherlands,H,1043,Heracles,190,PEC Zwolle,-0.5,3.25,10.5,-0.25,1.25,5,4,0,7,7,0,1,0,0,81,100,34,39,11,7,10,10,42,58,91,1
+686044,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,7015,Piacenza,15356,Padova,0.0,2.25,9,0.0,0.75,4,1,1,5,4,4,2,0,0,117,102,77,64,3,2,7,1,53,47,90,1
+687125,544,PER RL,Peru Reserve League,P,117,Peru,M,34788,Molinos El Pirata Reserves,5021,Cesar Vallejo Reserves,0.0,3.25,8,0.0,1.25,3.5,2,2,1,7,0,2,0,0,113,105,62,75,4,6,4,3,0,0,83,1
+678893,36,SPN PL,Spain Primera Liga,S,23,Spain,X,6684,Atletico Madrid,6467,Athletic Bilbao,-0.75,2.0,9,-0.25,0.75,4.5,2,0,5,7,2,1,0,0,82,99,26,47,2,2,7,7,41,59,78,1
+686418,2673,USA USLC,USA USL Championship,U,6,the United States,M,12618,Real Monarchs SLC,35341,Orange County SC,-0.5,3.0,9.5,-0.25,1.25,4.5,3,1,3,3,1,2,0,1,57,71,53,44,7,1,5,5,49,51,72,1
+684714,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,1948,Figueirense,6234,Criciuma,0.0,1.75,10.5,0.0,0.75,5,2,0,2,4,2,1,0,0,69,61,38,38,2,0,3,5,47,53,50,1
+684713,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,6885,Sao Bento,11611,Guarani SP,-0.25,2.0,12,0.0,0.75,5.5,0,0,4,2,2,0,0,0,56,49,42,34,1,1,4,3,52,48,46,0
+684715,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,11604,Brasil de Pelotas,4330,Cuiaba,+0.25,2.0,10,0.0,0.75,4.5,0,0,4,5,0,0,0,0,71,63,58,56,1,2,3,7,0,0,47,0
+686914,1278,BRA P Cup,Brazil Paulista Cup,B,47,Brazil,B,20695,EC Sao Bernardo,4157,Sao Caetano,0.0,2.25,9.5,0.0,0.75,4.5,2,2,0,2,1,0,0,0,42,53,19,23,3,5,2,3,42,58,46,1
+679714,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6515,Moreirense,6088,Boavista,-0.25,1.75,10.5,0.0,0.75,5,1,0,1,5,0,2,1,0,46,51,7,32,2,2,3,7,46,54,HT,1
+686891,1769,Dominican L,Dominican Republic Liga,D,201,Dominican Republic,D,25333,Atletico Vega Real,21855,Atletico San Cristobal,-0.5,2.5,9,+0.25,0.5,4,0,0,7,0,1,1,0,0,58,58,50,25,2,0,11,2,52,48,HT,0
+686800,2707,VEN RL,Venezuela Reserve League,V,116,Venezuela,W,35532,Metropolitanos FC Reserves,35590,Caracas Reserves,+0.5,3.0,,+0.25,1.25,,2,0,0,2,0,1,0,0,44,48,20,21,6,3,2,6,0,0,HT,1
+686898,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,19478,AD Juventud Escazucena,24405,Curridabat FC,-0.5,2.75,,-0.25,1.0,,0,0,0,5,2,1,0,0,38,41,15,24,2,3,2,3,0,0,38,1
+687076,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,12165,Atletico Veraguense,22726,Azuero FC,-0.25,2.25,,+0.5,0.5,,0,1,2,2,2,2,0,1,29,26,21,17,2,4,3,2,0,0,37,1
+684710,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,6296,Corinthians,4286,Santos,0.0,2.0,10,0.0,0.75,5,0,0,0,1,0,0,0,0,41,42,14,19,2,1,1,8,40,60,35,1
+686226,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,17330,LALA FC,7398,Caracas,+0.5,2.25,8.5,+0.25,1.0,4,0,0,0,3,1,1,0,0,47,53,21,26,0,0,1,3,45,55,33,1
+684709,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,1455,Ceara,1471,Vasco Da Gama RJ,-0.5,2.0,11,-0.25,0.75,5,0,1,2,2,0,1,0,0,29,32,14,12,0,1,3,2,57,43,33,1
+686228,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,11658,Estudiantes de Caracas,3373,Mineros,+0.25,2.75,8.5,0.0,1.0,4,0,0,0,3,0,0,0,0,35,43,17,34,2,0,1,1,43,57,32,1
+686513,2717,CAN PL,Canada Premier League,C,120,Canada,J,35599,Forge FC,25777,Cavalry FC,-0.25,2.5,9.5,-0.25,1.0,4.5,0,0,1,1,0,1,0,0,42,25,23,19,2,1,2,1,0,0,30,1
+686225,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,1833,Carabobo,9970,Monagas,-0.75,2.5,8.5,-0.25,1.0,4,1,0,4,0,0,0,0,0,18,13,8,2,2,0,3,1,59,41,29,1
+686900,1017,VEN SD,Venezuela Segunda Division,V,116,Venezuela,W,19839,Titanes FC,30144,CD Hermanos Colmenares,-1.0,3.25,,-0.5,1.25,,0,0,2,2,1,0,0,0,38,20,22,9,3,0,0,0,72,28,29,1
+686227,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,7461,Portuguesa FC,7399,Estudiantes Merida,0.0,2.0,9,0.0,0.75,4,1,0,1,0,0,0,0,0,21,26,20,13,2,0,0,1,62,38,24,1
+686832,461,PER SL,Peru Segunda,P,117,Peru,M,4629,Cienciano,28775,Atletico Grau,-1.25,3.5,,-0.5,1.5,,0,0,0,0,0,1,0,0,23,18,9,5,1,0,1,1,0,0,19,1
+685731,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,5818,El Nacional,5763,Independiente del Valle,+0.25,2.5,9.5,+0.25,1.0,4.5,0,0,1,0,0,0,0,0,11,8,6,2,1,0,1,1,48,52,6,1
+685732,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,7620,Universidad Catolica del Ecuador,5844,Emelec,-1.0,2.5,9,-0.25,1.0,4,0,0,0,0,1,0,0,0,1,5,1,2,0,0,0,0,33,67,6,1
+687343,1517,PER Copa,Copa Peru,C,117,Peru,M,38504,Escuela de Futbol JTR,38505,Sport Estrella,-1.25,2.75,,-0.5,1.0,,0,0,0,0,0,0,0,0,6,3,5,0,0,0,1,0,0,0,4,1

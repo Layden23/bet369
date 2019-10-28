@@ -1,0 +1,27 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685731,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,5818,El Nacional,5763,Independiente del Valle,+0.25,2.5,9.5,+0.25,1.0,4.5,4,2,2,8,1,4,0,1,94,98,41,50,6,5,5,6,48,52,FT,1
+685732,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,7620,Universidad Catolica del Ecuador,5844,Emelec,-1.0,2.5,9,-0.25,1.0,4,1,1,4,4,3,3,0,0,38,34,56,45,2,4,4,3,58,42,FT,1
+687343,1517,PER Copa,Copa Peru,C,117,Peru,M,38504,Escuela de Futbol JTR,38505,Sport Estrella,-1.25,2.75,,-0.5,1.0,,1,0,7,6,0,4,0,0,129,102,84,33,2,4,14,6,0,0,92,0
+686890,664,HND NL,Honduras Liga Nacional,H,119,Honduras,H,8027,CD Marathon,8460,CD Vida,-1.0,2.75,10,-0.5,1.25,4.5,0,0,5,0,1,3,0,0,52,39,32,11,4,2,5,1,56,44,69,0
+686881,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,6592,CSD Municipal,12817,Deportivo Iztapa,-1.25,2.75,9,-0.5,1.25,4.5,1,0,10,2,2,3,0,0,67,58,45,29,5,5,8,3,57,43,69,1
+686305,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,16238,CD Nuevo Chimalhuacan,18116,Chapulineros,+0.75,3.25,,+0.25,1.25,,0,0,1,6,1,1,0,0,52,76,26,58,3,3,4,4,0,0,70,0
+686357,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,37176,Deportivo Dongu,16527,Mineros de Zacatecas II,+0.75,2.75,9.5,+0.25,1.25,4.5,0,0,2,3,1,1,0,0,70,63,51,47,5,1,3,4,45,55,70,0
+686830,618,PAN LPF,Panama - LPF,P,134,Panama,B,6835,Sporting San Miguelito,6815,CD Arabe Unido,-0.25,2.0,8.5,0.0,0.75,4,1,0,7,2,2,1,0,0,52,86,35,48,1,0,1,4,43,57,67,1
+686895,737,ECU PB,Ecuador Primera B,E,115,Ecuador,E,38490,CS Venecia,37610,Cumbaya FC,-0.25,2.0,,0.0,0.75,,2,1,0,6,1,2,0,0,54,56,23,20,2,3,3,2,0,0,64,1
+686896,737,ECU PB,Ecuador Primera B,E,115,Ecuador,E,14398,Sportivo Patria,37616,Chacaritas SC,0.0,2.25,,0.0,1.0,,1,0,4,3,2,2,0,0,42,50,29,30,3,2,4,2,0,0,64,1
+687097,857,ATG PD,Antigua & Barbuda Premier Division,A,202,Antigua and Barbuda,A,9329,Old Road FC,28890,Swetes FC,-0.5,3.0,,+0.25,0.75,,1,2,3,2,1,1,0,0,78,66,54,68,5,7,4,5,50,50,67,1
+686306,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,15881,Orizaba,15880,Unam Pumas II,0.0,2.5,9.5,0.0,1.0,4.5,1,1,4,2,0,2,0,0,43,56,19,27,2,7,4,2,35,65,61,1
+687631,1062,Other Match,Other Match,O,4,International,G,34232,Sonsonate FC Women,38509,Once Deportivo de Ahuachapán Women,-0.75,3.25,,-0.25,1.25,,1,0,5,2,0,0,0,0,81,71,62,41,1,0,9,0,0,0,63,1
+685760,397,PRY DP,Paraguay Division Profesional,P,114,Paraguay,B,3240,Club General Diaz,3237,Deportivo Capiata,0.0,2.25,9.5,0.0,1.0,4.5,2,0,0,0,0,1,0,0,57,63,37,29,3,0,2,3,38,62,58,1
+686897,666,SLV AL,El Salvador Apertura,E,122,El Salvador,S,23527,Jocoro FC,7164,CD Aguila,+0.25,2.25,9.5,0.0,1.0,5,0,1,3,2,0,2,0,0,90,70,36,26,3,1,4,2,58,42,56,1
+686308,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,18188,Inter Playa del Carmen,22833,Yalmakan FC,-0.75,3.0,9,-0.25,1.25,4,1,0,0,4,3,1,0,0,32,30,11,14,2,3,0,2,46,54,HT,1
+686358,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,37328,Real Canamy,37228,Aguacateros CDU,+0.75,3.25,9.5,+0.25,1.25,4.5,1,0,4,0,0,0,0,0,19,21,14,13,1,1,5,2,56,44,28,1
+686307,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,37689,Cafetaleros de Chiapas II,32585,Club Canoneros Marina,-0.5,2.5,10.5,-0.25,1.0,5,0,0,3,2,0,1,0,0,24,13,13,3,1,0,2,0,63,37,26,1
+686884,1677,BRA CPU20,Brazil Campeonato Paulista U20,B,47,Brazil,B,15437,Sao Jose EC U20,29375,Inter de Bebedouro U20,0.0,2.5,,0.0,1.0,,0,0,0,1,1,1,0,0,32,26,23,15,1,0,2,1,0,0,26,1
+686678,2802,BRB SC,Barbados Super Cup,B,142,Barbados,B,2159,Paradise FC,26103,Barbados Soccer Academy,-3,4.5,,-1.25,1.75,,2,0,2,1,1,0,0,0,29,25,16,5,5,0,1,2,63,37,26,1
+684750,607,MEX AL,Mexico Apertura,M,49,Mexico,M,6341,Queretaro,5431,Unam Pumas,-0.25,2.5,9,0.0,1.0,4,1,0,1,3,0,0,0,0,29,7,11,12,0,1,2,4,53,47,26,1
+686899,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,6192,CS Uruguay de Coronado,35553,Municipal Garabito,-0.25,2.5,,0.0,1.0,,0,0,1,0,0,0,0,0,20,26,11,7,0,0,0,0,0,0,25,1
+686920,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,8577,Colón C-3,9502,Atletico Nacional,0.0,2.25,,0.0,1.0,,0,0,0,0,0,1,0,0,22,28,4,6,0,0,0,1,0,0,25,1
+684712,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,4276,Bahia,1641,Internacional RS,-0.25,1.75,10,0.0,0.75,4.5,0,0,1,2,0,0,0,0,33,30,16,14,0,1,3,4,52,48,24,1
+686756,2375,Aruba DDH,Aruba Division Di Honor,A,116,Venezuela,W,33510,SV Brazil Juniors,28661,SV Britannia,+0.5,3.5,,+0.25,1.5,,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1
+684711,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,4285,Fluminense,1645,Chapecoense,-1.25,2.5,10,-0.5,1.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

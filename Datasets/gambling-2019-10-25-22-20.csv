@@ -1,0 +1,42 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+683470,1813,BEL FDA,Belgium First Division A,B,38,Belgium,B,1926,Eupen,5630,Anderlecht,+0.25,2.5,10,0.0,1.0,4.5,0,0,3,4,4,0,0,0,54,69,21,28,5,3,1,6,40,60,90,0
+678867,38,GER BI,Germany Bundesliga I,G,5,Germany,D,180,Mainz,6356,Cologne,0.0,3.0,10,0.0,1.25,4.5,3,1,5,10,2,2,0,0,111,120,43,47,6,8,12,9,48,52,92,1
+684247,299,POL E,Poland Ekstraklasa,P,20,Poland,B,2445,Lech Poznan,2126,Zaglebie Lubin,-0.5,2.75,10,-0.25,1.25,4.5,0,2,3,9,2,0,0,0,82,99,46,52,3,3,9,6,48,52,88,1
+685875,2788,GNL,Gibraltar National League,G,14,England,Y,23189,Europa Point,29001,FCB Magpies,+1.0,3.75,,+0.5,1.5,,2,3,5,8,1,3,0,0,72,61,35,43,6,11,6,6,55,45,90,1
+684269,187,FRA L2,France Ligue 2,F,31,France,F,24485,Rodez,7341,Chambly Thelle FC,-0.5,2.0,8.5,0.0,0.75,4,2,0,5,2,1,2,0,0,122,113,67,56,5,2,5,2,49,51,94,1
+684363,1812,BEL FDB,Belgium First Division B,B,38,Belgium,B,1118,OH Leuven,5398,Westerlo,0.0,2.5,10,0.0,1.0,4.5,2,1,4,7,2,1,1,0,97,108,56,68,6,3,11,5,47,53,91,1
+685857,1666,BEL SL W,Belgium Super League Women,B,38,Belgium,B,16102,Genk Women,2183,Anderlecht Women,+1.0,3.25,8,+0.5,1.25,3.5,1,1,4,7,2,1,0,0,84,91,42,41,9,6,5,7,40,60,FT,1
+686065,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,17257,Trindade U20,18841,Atletico Goianiense U20,0.0,3.0,,0.0,1.25,,0,2,3,8,1,1,0,0,102,96,37,48,2,7,4,3,0,0,92,1
+686063,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,35112,AE Olimpio U20,18897,Goiania U20,+1.0,3.75,,+0.5,1.5,,2,3,1,4,0,2,0,0,109,91,50,34,2,4,10,7,0,0,92,1
+686064,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,37341,Aparecida U20,8083,Goias U20,+0.75,2.75,,+0.25,1.25,,2,1,6,3,4,5,1,1,81,97,59,57,5,3,6,3,0,0,91,0
+685858,1666,BEL SL W,Belgium Super League Women,B,38,Belgium,B,2179,Gent Women,2181,OH Leuven Women,-3,4.5,,-1.25,1.75,,6,0,10,3,0,0,0,0,121,47,69,13,13,0,12,3,66,34,90,1
+686000,1693,IRE MSL,Ireland Munster Senior League,I,100,Ireland,A,20984,Midleton FC,4755,UCC,0.0,3.0,,0.0,1.25,,2,3,7,4,1,1,0,1,110,107,82,78,8,8,12,4,0,0,91,1
+686066,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,18871,Vila Nova U20,35162,Anapolina U20,-0.75,3.0,9.5,-0.25,1.25,4.5,3,0,11,7,0,2,0,0,92,63,62,38,5,2,4,2,0,0,90,1
+685913,2443,SCOT PLW,Scotland Premier League Women,S,24,Scotland,S,13754,Stirling Univ. Women FC,13760,Forfar Farmington Women,+0.25,3.25,10,+0.25,1.25,4.5,0,1,4,3,0,1,0,0,79,84,41,38,5,4,8,5,50,50,86,0
+684349,751,WAL PL,Wales Premier League,W,41,Welsh,W,5404,T.N.S.,6280,Bala Town,-1.5,3.5,9,-0.5,1.5,4,1,0,6,4,3,2,0,0,0,0,62,46,1,0,0,0,0,0,78,0
+685255,244,POL L1,Poland I Liga,P,20,Poland,B,1591,GKS Belchatow,1584,Miedz Legnica,+0.25,2.25,9.5,0.0,1.0,4.5,1,0,3,5,1,2,0,0,104,131,55,73,4,5,7,3,47,53,80,0
+684232,201,IRL PL,League of Ireland Premier Division,L,100,Ireland,A,2131,Bohemians Dublin,1383,Sligo Rovers,-0.75,2.75,,-0.25,1.0,,1,1,3,0,2,3,0,0,133,105,66,51,4,4,4,4,58,42,78,1
+682949,39,FRA L1,France Ligue 1,F,31,France,F,1064,Nantes,1055,Monaco,+0.25,2.5,9.5,0.0,1.0,4.5,0,1,3,3,2,0,0,0,129,94,43,27,3,5,10,5,59,41,78,1
+684347,751,WAL PL,Wales Premier League,W,41,Welsh,W,13477,Aberystwyth Town,5636,Connahs Quay Nomads,+1.5,3.25,9,+0.5,1.25,4,0,1,6,5,0,3,0,0,57,63,27,36,3,1,6,3,0,0,77,1
+684236,201,IRL PL,League of Ireland Premier Division,L,100,Ireland,A,4403,Waterford United,2127,UCD,-1.5,3.25,,-0.5,1.25,,4,1,3,4,2,2,0,0,104,99,53,56,6,2,5,5,52,48,78,1
+684356,690,NIR PL,Northern Ireland Premier,N,91,Northern Ireland,B,5783,Glentoran,6012,Ballymena Utd,-0.5,3.0,,-0.25,1.25,,2,1,2,3,3,3,0,0,129,124,75,58,5,2,8,2,48,52,75,1
+678876,37,ITA SA,Italy Serie A,I,22,Italy,Y,165,Verona,169,Sassuolo,-0.25,2.5,10.5,0.0,1.0,5,0,1,6,6,5,5,0,0,85,60,43,24,2,4,4,6,53,47,77,0
+684235,201,IRL PL,League of Ireland Premier Division,L,100,Ireland,A,4695,Shamrock Rovers,4612,Cork City,-1.5,2.75,,-0.5,1.0,,3,0,6,1,1,1,0,0,133,90,65,18,8,3,9,6,61,39,78,1
+684234,201,IRL PL,League of Ireland Premier Division,L,100,Ireland,A,1386,Dundalk,2128,St Patricks,-1.0,2.5,,-0.25,1.0,,3,0,7,4,1,1,0,0,82,65,34,24,7,4,3,4,53,47,77,1
+684348,751,WAL PL,Wales Premier League,W,41,Welsh,W,7999,Newtown,17421,Cardiff Met Uni,+0.25,2.5,8.5,0.0,1.0,4,1,0,5,5,0,0,0,0,77,75,56,56,3,1,4,6,0,0,75,0
+685912,999,SCOT LL,Scotland Lowland League,S,24,Scotland,S,5916,Spartans,26890,East Stirlingshire,+0.25,3.5,,+0.25,1.5,,1,2,0,2,4,3,0,0,55,63,24,30,2,3,3,6,46,54,73,1
+684233,201,IRL PL,League of Ireland Premier Division,L,100,Ireland,A,4628,Derry City,2136,Finn Harps,-2.25,3.25,,-1.0,1.25,,3,0,7,4,0,3,0,0,136,102,61,47,3,2,5,3,55,45,74,1
+686348,892,IRL PO,League Of Ireland Play-Offs,L,100,Ireland,A,4375,Drogheda United,11903,Cabinteely FC,-0.75,2.25,,-0.25,1.0,,4,1,5,4,1,2,0,0,102,86,57,32,7,4,4,4,57,43,71,1
+685914,2366,Ireland LSL,Republic of Ireland Leinster Senior League,R,100,Ireland,A,25378,Maynooth University Town FC,12227,Crumlin United,+0.5,3.25,,+0.25,1.25,,3,0,2,6,0,1,0,0,89,136,31,68,6,8,1,8,0,0,68,1
+678624,35,Barclays PL,Barclays Premier League,B,14,England,Y,6267,Southampton,748,Leicester,+0.25,2.5,10.5,0.0,1.0,5,0,7,0,3,0,0,1,0,69,108,11,59,1,12,1,7,34,66,63,1
+678889,36,SPN PL,Spain Primera Liga,S,23,Spain,X,6848,Villarreal,4699,CD Alaves,-1.0,2.5,10,-0.25,1.0,4.5,1,1,5,3,1,1,0,0,100,74,49,21,3,4,10,6,63,37,63,1
+684366,155,ESP S,Spain Segunda,S,23,Spain,X,4720,Albacete,3085,Cadiz,0.0,1.75,9,0.0,0.75,4.5,0,0,6,1,0,1,0,0,91,68,60,40,5,0,4,2,58,42,64,0
+684374,157,ITA SB,Italy Serie B,I,22,Italy,Y,7380,Ascoli,1704,Virtus Entella,-0.5,2.25,9,-0.25,1.0,4.5,2,1,2,3,3,2,0,0,43,83,31,28,3,2,5,9,39,61,60,1
+686039,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,7731,Racing Club de Montevideo,3002,Rampla Juniors,-0.5,2.75,10.5,-0.25,1.0,5,1,1,3,8,1,1,0,0,55,82,30,51,3,6,3,3,41,59,60,1
+686037,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,4675,Boston River,6676,Defensor Sporting,+0.25,2.5,9.5,0.0,1.0,4.5,1,3,1,2,0,0,0,0,83,68,48,46,5,3,4,5,0,0,59,1
+686038,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,4407,Danubio,6675,Penarol,+0.5,2.25,10,+0.25,1.0,4.5,0,1,1,3,1,1,0,0,68,79,43,57,1,3,5,5,40,60,58,0
+686414,2707,VEN RL,Venezuela Reserve League,V,116,Venezuela,W,35531,Zamora Reserves,35529,CD Lara Reserves,-0.25,2.25,,0.0,1.0,,1,0,2,2,2,2,0,0,50,58,47,52,3,1,4,2,0,0,54,1
+679710,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6353,Pacos Ferreira,1031,Rio Ave,0.0,2.25,10.5,0.0,1.0,5,0,0,2,3,0,0,0,0,55,42,19,15,2,0,9,3,52,48,HT,0
+685861,805,ESP TG12,Spain Tercera Group 12,S,23,Spain,X,10234,Ibarra,10346,CD Marino,+0.5,2.25,,+0.25,1.0,,0,0,0,1,0,0,0,0,30,34,14,17,0,0,0,0,34,66,21,1
+685491,534,PER PD,Peru Primera Division,P,117,Peru,M,4601,Real Garcilaso,3453,Deportivo Municipal,-1.25,2.75,10,-0.5,1.0,4.5,0,0,5,1,0,1,0,0,36,14,34,8,2,0,2,2,80,20,21,1
+686156,606,ARG Cup,Argentina Cup,A,32,Argentina,A,2502,CA Independiente,6395,Lanus,0.0,2.0,9.5,0.0,0.75,4.5,0,0,0,2,0,0,0,0,12,10,4,9,1,0,0,0,46,54,9,1

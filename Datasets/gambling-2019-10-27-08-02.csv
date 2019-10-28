@@ -1,0 +1,31 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+684701,1275,JPN J2L,Japan J2-League,J,2,Japan,R,225,Ventforet Kofu,9330,Kagoshima United,-1.0,2.75,9,-0.5,1.0,4.5,1,1,2,7,0,1,1,0,121,111,73,93,3,4,7,11,46,54,FT,1
+687252,435,JPN J3L,Japan J3-League,J,2,Japan,R,20443,Gamba Osaka U23,20444,Cerezo Osaka U23,-0.25,3.0,9.5,0.0,1.25,4.5,1,2,1,7,2,1,0,0,82,104,55,81,3,9,9,9,44,56,FT,0
+687253,435,JPN J3L,Japan J3-League,J,2,Japan,R,1296,Giravanz Kitakyushu,2995,YSCC,-1.5,3.0,9,-0.75,1.25,3.5,3,1,5,5,1,2,0,0,89,91,82,65,9,4,11,4,53,47,FT,1
+684704,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1300,V-Varen Nagasaki,6070,Zweigen Kanazawa,+0.25,2.5,9.5,0.0,1.0,4.5,2,4,7,2,2,1,0,0,99,89,70,57,6,4,12,6,57,43,FT,1
+684703,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1222,Tokushima Vortis,2782,Mito Hollyhock,-0.25,2.25,9,0.0,1.0,4.5,2,1,10,3,0,1,0,0,84,59,73,46,8,3,6,5,69,31,FT,1
+684700,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1333,Yokohama FC,4639,Tokyo Verdy,-1.0,3.0,8.5,-0.25,1.25,4,2,1,2,3,1,1,0,0,81,98,48,62,3,4,6,5,45,55,FT,1
+684702,1275,JPN J2L,Japan J2-League,J,2,Japan,R,1462,Albirex Niigata,1315,Kyoto Sanga FC,0.0,2.5,8.5,0.0,1.0,4,3,1,4,8,0,2,0,0,96,116,66,111,12,9,3,7,43,57,FT,1
+687059,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,18808,Hoi King,9069,Citizen AA,+0.5,3.25,11.5,+0.25,1.25,6,5,1,4,4,0,2,0,0,52,53,36,36,8,3,8,5,55,45,78,1
+687395,824,HKG D2,Hong Kong 2nd Division,H,77,Hong Kong,Z,38136,Sparta Asia,9071,Lucky Mile,+1.0,3.5,,+0.25,1.5,,1,1,4,6,2,2,0,0,79,83,27,59,2,8,1,8,0,0,75,1
+687396,824,HKG D2,Hong Kong 2nd Division,H,77,Hong Kong,Z,18653,Wing Go Fu Moon,10072,Kowloon City,+0.25,4.0,,0.0,1.75,,1,5,2,1,1,1,0,0,79,83,35,42,3,7,4,7,0,0,74,1
+687060,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,22746,Hong Kong Sapling,29478,Metro Gallery FC,0.0,3.5,9,0.0,1.5,4,2,0,4,4,0,0,0,0,77,69,39,45,7,2,9,8,53,47,69,1
+687604,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,17241,Kamphaeng Phet U19,17260,Phitsanulok FC U19,0.0,2.25,,0.0,1.0,,0,0,3,1,0,1,0,0,49,52,37,36,0,0,4,2,0,0,48,0
+687285,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,4708,NTV Beleza Women,9027,Parceiro Nagano Women,-2.25,3.25,,-1.0,1.5,,2,0,6,1,1,1,0,0,62,29,48,13,2,1,7,2,0,0,46,1
+684692,2460,SKorea K2,South Korea K-League 2,S,3,Korea,H,2954,Bucheon FC 1995,25196,Asan Mugunghwa FC,-0.25,2.5,9.5,+0.5,0.5,4.5,1,0,1,1,0,1,0,0,43,46,25,15,3,0,1,3,0,0,HT,1
+686071,85,KOR KL,South Korea K-League Classic,S,3,Korea,H,1235,Gyeongnam FC,1239,Jeju United,0.0,2.75,9,0.0,1.0,4,1,1,2,1,0,1,0,0,35,42,31,46,1,2,2,1,0,0,HT,1
+687605,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,38488,Sports Association Phichit U19,17247,Nakhon Sawan U19,+1.0,3.0,,+0.5,1.25,,0,4,0,2,0,0,0,0,30,46,9,44,0,4,0,8,0,0,HT,1
+684725,191,RUS D1,Russia Division 1,R,12,Russia,E,1303,Luch-Energiya Vladivostok,3369,Krasnodar II,-0.25,2.25,9,0.0,0.75,4,0,0,3,0,1,1,0,0,70,94,37,50,1,5,3,1,47,53,45,0
+684690,2460,SKorea K2,South Korea K-League 2,S,3,Korea,H,5722,Busan I Park,1247,Jeonnam Dragons,-0.75,2.75,8.5,-0.25,1.25,4,0,0,4,1,0,1,0,0,67,61,51,28,1,1,8,2,0,0,HT,0
+687670,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37955,Gaspa 1958,37782,Persijo Jeneponto,-0.5,2.25,,-0.25,1.0,,0,0,3,1,3,1,0,0,45,46,31,38,0,0,1,7,0,0,HT,0
+687256,435,JPN J3L,Japan J3-League,J,2,Japan,R,1299,Roasso Kumamoto,6577,Azul Claro Numazu,-0.5,2.25,,-0.25,1.0,,0,1,5,1,0,0,0,0,63,45,54,33,2,1,6,6,59,41,HT,1
+684698,1275,JPN J2L,Japan J2-League,J,2,Japan,R,6073,Kashiwa Reysol,4570,Avispa Fukuoka,-1.25,2.75,9.5,-0.5,1.25,4.5,2,0,5,3,0,1,0,0,46,37,42,26,3,1,11,1,57,43,HT,1
+684699,1275,JPN J2L,Japan J2-League,J,2,Japan,R,485,Machida Zelvia,1334,FC Gifu,-0.5,2.25,10,-0.25,1.0,4.5,0,0,3,2,1,0,0,0,43,47,40,28,2,0,5,3,53,47,HT,0
+687255,435,JPN J3L,Japan J3-League,J,2,Japan,R,3027,Blaublitz Akita,6075,Vanraure Hachinohe,0.0,2.5,,0.0,1.0,,0,0,1,6,0,0,0,0,53,64,34,43,3,1,2,4,0,0,HT,0
+687671,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,34519,Persidago Gorontalo,38441,Likot FC,+0.5,2.75,,+0.25,1.25,,1,0,3,2,1,0,0,0,39,33,32,15,6,0,2,1,0,0,HT,1
+687641,1379,HKG S Cup,Hong Kong Sapling Cup,H,77,Hong Kong,Z,3136,Southern District,11629,Happy Valley,-1.75,3.5,10.5,-0.75,1.5,5,1,0,5,1,1,0,0,0,23,13,11,7,1,1,3,2,59,41,31,1
+687258,1764,Mongolia PL,Mongolia Premier League,M,208,Mongolia,M,22771,Ulaanbaatar City,30709,Khangarid Klub,-0.75,4.0,,-0.25,1.75,,1,0,0,0,0,0,0,0,6,3,1,1,1,0,0,0,46,54,3,1
+687646,1038,CHN,Chinese Matches,C,1,China,Z,20831,Shanghai Jiading,32900,Xian Daxing Chongde,-0.75,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,1,1
+686072,85,KOR KL,South Korea K-League Classic,S,3,Korea,H,1238,Incheon Utd,348,Suwon Bluewings,+0.25,2.5,9,+0.25,1.0,4,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,23,77,1,1
+684116,3,AUS AL,Australia A-League,A,7,Australia,A,12793,Western United FC,6470,Melbourne City,0.0,2.5,10.5,0.0,1.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+684707,1275,JPN J2L,Japan J2-League,J,2,Japan,R,12778,Renofa Yamaguchi,1294,JEF Utd Chiba,0.0,2.75,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

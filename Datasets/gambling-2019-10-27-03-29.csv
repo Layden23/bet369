@@ -1,0 +1,19 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685751,534,PER PD,Peru Primera Division,P,117,Peru,M,4361,Universitario de Deportes,18233,Academia Deportiva Cantolao,-0.75,2.25,9.5,+0.25,0.5,4.5,1,1,5,1,3,3,0,0,126,102,67,48,4,2,4,6,0,0,74,1
+687260,618,PAN LPF,Panama - LPF,P,134,Panama,B,6812,Plaza Amador,31731,CD Universitario,-0.5,2.25,8.5,+0.25,0.5,4,0,1,7,4,2,2,0,0,86,60,73,52,2,2,6,3,56,44,71,0
+687230,960,NIC AL,Nicaragua Apertura,N,135,Nicaragua,N,11679,Managua FC,11793,Real Madriz FC,-1.25,2.75,,-0.5,1.25,,5,0,4,1,0,1,0,0,68,80,43,33,6,3,6,2,49,51,72,1
+687584,664,HND NL,Honduras Liga Nacional,H,119,Honduras,H,26766,Lobos UPNFM,7784,CD Platense,-0.5,2.5,,+0.25,0.5,,0,0,6,1,0,2,0,0,103,67,39,16,3,0,1,0,0,0,67,0
+687364,666,SLV AL,El Salvador Apertura,E,122,El Salvador,S,26845,AD Chalatenango,33769,Independiente San Vicente,-0.5,2.5,5,-0.25,1.0,,3,1,1,4,3,4,1,0,123,121,45,50,3,3,10,3,70,30,FT,1
+687553,2510,USA UPSL,USA UPSL,U,6,the United States,M,31332,Texas Spurs,31673,Inocentes FC,0.0,3.25,,+0.75,1.0,,0,3,6,5,1,0,0,0,75,76,36,41,2,13,7,10,0,0,90,1
+686772,2673,USA USLC,USA USL Championship,U,6,the United States,M,24874,Reno 1868 FC,2475,Sacramento Republic,-0.5,3.0,10,-0.25,1.25,4.5,1,3,9,2,0,2,0,0,119,94,53,33,4,6,10,6,0,0,90,1
+687259,618,PAN LPF,Panama - LPF,P,134,Panama,B,27770,CA Independiente de la Chorrera,6427,Tauro FC,-0.25,2.25,9,+0.5,0.5,4,2,2,8,3,2,1,0,0,86,83,73,42,4,2,3,4,0,0,73,1
+687231,960,NIC AL,Nicaragua Apertura,N,135,Nicaragua,N,7288,Real Esteli,10809,CD Walter Ferretti,-0.75,2.5,,-0.25,1.0,,0,1,2,2,1,1,0,0,88,80,53,46,0,1,0,0,0,0,57,1
+686458,615,MEX AAL,Mexico Liga de Ascenso Apertura,M,49,Mexico,M,15209,Cimarrones de Sonora FC,19087,Potros UAEM,0.0,2.0,9,0.0,0.75,4,0,1,4,1,0,0,0,0,40,32,30,23,1,5,0,2,0,0,28,1
+687178,615,MEX AAL,Mexico Liga de Ascenso Apertura,M,49,Mexico,M,17036,Tampico Madero,6796,Zacatepec 1948,0.0,2.25,8.5,0.0,0.75,4,1,1,0,1,0,0,0,0,28,27,8,17,1,1,3,1,50,50,28,1
+687289,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,6593,Xelaju,19449,Deportivo Mixco,-1.0,2.5,9.5,-0.25,1.0,4.5,0,0,1,3,1,0,0,0,31,19,24,7,1,1,4,1,0,0,26,1
+687615,724,CRI PD,Costa Rica Primera Division,C,48,Costa Rica,G,6146,Municipal Perez Zeledon,6541,AD San Carlos,+0.25,2.5,9,+0.25,1.0,4.5,0,0,1,1,0,1,0,0,27,27,15,20,0,1,1,0,0,0,24,1
+687408,2803,USA NISA,USA NISA,U,6,the United States,M,38052,LA Force,38051,California Utd Strikers,-1.0,3.0,,-0.5,1.25,,0,1,0,2,2,0,0,0,27,24,6,10,1,1,2,3,0,0,23,1
+684753,607,MEX AL,Mexico Apertura,M,49,Mexico,M,34222,Tigres UANL,5875,Cruz Azul,-0.5,2.25,9,-0.25,1.0,4.5,0,1,0,0,0,0,0,0,15,16,21,2,1,2,4,3,67,33,22,1
+687554,2510,USA UPSL,USA UPSL,U,6,the United States,M,14015,Real San Jose,38243,Stockton TLJ FC,-0.25,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+686774,2673,USA USLC,USA USL Championship,U,6,the United States,M,25407,Phoenix Rising FC,34914,Austin Bold FC,-1.75,3.75,9.5,-0.75,1.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686773,2673,USA USLC,USA USL Championship,U,6,the United States,M,30198,Fresno FC,34912,El Paso Locomotive FC,-0.5,2.75,9,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

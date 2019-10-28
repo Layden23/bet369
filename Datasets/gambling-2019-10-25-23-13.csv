@@ -1,0 +1,8 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+679710,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6353,Pacos Ferreira,1031,Rio Ave,0.0,2.25,10.5,0.0,1.0,5,0,0,2,4,0,1,0,0,94,84,32,30,4,1,12,4,50,50,83,0
+685861,805,ESP TG12,Spain Tercera Group 12,S,23,Spain,X,10234,Ibarra,10346,CD Marino,+0.5,2.25,,+0.25,1.0,,0,0,3,3,1,1,0,0,73,86,39,41,0,4,2,3,37,63,59,0
+685491,534,PER PD,Peru Primera Division,P,117,Peru,M,4601,Real Garcilaso,3453,Deportivo Municipal,-1.25,2.75,10,-0.5,1.0,4.5,1,0,6,2,1,1,0,0,84,55,70,37,5,0,5,10,64,36,57,1
+686156,606,ARG Cup,Argentina Cup,A,32,Argentina,A,2502,CA Independiente,6395,Lanus,0.0,2.0,9.5,0.0,0.75,4.5,0,1,0,3,2,5,0,0,65,47,30,29,2,5,4,1,59,41,HT,1
+685758,397,PRY DP,Paraguay Division Profesional,P,114,Paraguay,B,3236,Sol de America,3239,Sportivo Luqueno,-0.25,2.25,9.5,0.0,0.75,4.5,1,0,1,1,0,1,0,0,8,10,12,8,1,1,1,0,56,44,13,1
+686155,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,16286,Cruz Azul Hidalgo,19297,Atletico San Luis II,-1.0,2.25,9.5,-0.25,1.0,4.5,0,0,1,1,0,0,0,0,9,6,6,3,2,0,0,0,67,33,12,1
+686373,287,BRA U20,Brazil U20 League,B,47,Brazil,B,38406,Bandeirante U20,29369,XV de Jau U20,-0.25,2.75,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,14,10,8,3,0,0,1,0,47,53,9,1

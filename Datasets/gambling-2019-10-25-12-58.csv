@@ -1,0 +1,32 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685779,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16763,Hapoel Ironi Gedera,10876,Moadon Zeirey Rahat,+0.25,2.25,,0.0,0.75,,1,2,10,3,1,1,0,0,108,109,94,84,7,5,9,3,47,53,FT,0
+685777,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8766,Beitar Kfar Saba Shlomi,16657,Hapoel Kfar Bara,-1.0,2.25,,-0.5,1.0,,2,1,5,1,2,2,0,0,112,58,77,20,6,2,9,3,0,0,90,1
+685883,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,34032,Hapoel Bnei Zilpah,8967,Maccabi Ironi Kiryat Ata,0.0,2.25,,0.0,1.0,,5,2,8,9,2,1,0,0,98,97,39,50,7,5,5,8,0,0,FT,1
+685937,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,7439,Zorya Reserves,7654,Vorskla Poltava Reserves,+0.5,3.25,,+0.25,1.25,,4,0,6,5,1,2,0,0,125,116,74,68,8,2,4,5,0,0,FT,1
+685849,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1225,FK Pribram U19,4123,Sigma Olomouc U19,+0.25,4.0,,0.0,1.5,,2,5,8,8,0,1,0,0,146,115,58,51,7,7,6,3,53,47,90,1
+685876,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9170,Beitar Nahariya,28596,Elnahada Nazareth,-0.5,3.0,,-0.25,1.25,,2,0,7,2,1,2,0,0,56,53,40,29,2,0,5,0,0,0,83,1
+685884,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,28251,SC Haifa Robi Shapira,11378,Hapoel Kafr Kanna,0.0,2.25,,0.0,1.0,,0,0,7,3,1,1,0,0,68,71,44,36,3,2,7,4,0,0,70,0
+685784,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9624,Sports Club Beer Sheva,8988,Beitar Ironi Maale Adumim,0.0,2.25,,0.0,1.0,,1,0,1,1,0,1,0,0,0,0,22,28,1,0,0,0,0,0,HT,1
+685975,868,TUR L2K,Turkey 2 Lig Kirmizi,T,26,Turkey,T,10144,Sivas DE Belediyespor,9517,Eyupspor,-0.75,2.25,9,-0.25,0.75,4.5,0,0,3,2,1,1,0,0,40,37,32,16,2,0,4,1,0,0,HT,0
+685892,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,6068,Maccabi Herzliya,7238,Hakoah Amidar Ramat Gan,0.0,2.5,,0.0,1.0,,1,0,1,1,0,0,0,0,49,49,21,25,1,4,3,2,0,0,HT,1
+685799,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32402,Maritimo U23,32400,Benfica U23,+0.25,3.0,10.5,0.0,1.25,5,0,0,5,5,0,0,0,0,32,30,16,12,1,0,2,3,47,53,HT,0
+686224,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,2652,Kaisar Kyzylorda,2618,FK Atyrau,-0.25,2.5,,0.0,1.0,,0,1,1,3,1,2,0,0,33,32,19,20,2,1,3,1,0,0,HT,1
+685782,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9438,Ironi Modiin,16478,Maccabi Ironi Sderot,+0.25,3.0,,0.0,1.25,,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,HT,0
+685800,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32404,Vitoria Setubal U23,32403,Guimaraes U23,-0.5,3.0,10,-0.25,1.25,4.5,1,1,1,2,0,1,0,0,50,61,21,35,2,1,3,2,47,53,HT,1
+686251,1103,BLR RL,Belarus Reserve League,B,94,Belarus,B,27542,FK Gomel Reserves,12777,Dinamo Brest Reserves,+0.5,3.25,,+0.25,1.25,,2,0,6,0,1,1,0,0,45,40,47,20,3,0,5,1,57,43,HT,1
+686007,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32521,Zira IK II,32520,Neftchi Baku II,+1.0,3.25,,+0.5,1.25,,0,0,0,2,1,0,0,0,29,25,14,20,0,1,2,2,0,0,29,1
+685789,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32522,Sabail FC II,8437,Qaradag Lokbatan,-2.25,3.25,,-1.0,1.25,,1,0,1,0,1,0,0,0,32,23,28,4,3,1,3,0,59,41,28,1
+685783,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9391,Sport Club Dimona,8696,MS Hapoel Yeroham,-0.75,3.0,,-0.25,1.25,,0,0,5,0,1,0,0,0,33,20,20,2,3,0,0,1,64,36,27,1
+685888,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,9139,Maccabi Tzur Shalom,23320,Hapoel Bnei Arrara Ara,0.0,2.5,,0.0,1.0,,1,0,0,1,1,1,0,0,41,34,13,13,1,0,2,1,0,0,27,1
+685836,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,22356,Ramhlun North FC,12765,Aizawl FC,+1.0,3.25,,+0.25,1.25,,0,0,0,3,0,0,0,0,20,24,4,22,1,4,0,6,0,0,27,1
+685885,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,10120,Hapoel Iksal Imad,9394,Hapoel Kaukab,+0.25,2.25,,0.0,1.0,,0,0,0,1,0,0,0,0,12,12,5,15,1,3,0,1,33,67,11,1
+686252,1103,BLR RL,Belarus Reserve League,B,94,Belarus,B,35163,Energetik-BGU Minsk Reserves,12768,Dinamo Minsk Reserves,+0.75,3.25,,+0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685787,877,IRN D1,Iran Div 1,I,74,Iran,Y,27441,Mes Novin Kerman,27694,Foolad Novin,0.0,2.25,8,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685893,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,9419,Hapoel Azor,16201,AS Nordia Jerusalem,+0.25,2.75,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685891,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,27841,FC Holon Yermiyahu,34712,Maccabi Kiryat Gat,-3,3.75,,-1.25,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685880,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,8684,Hapoel Beit Shean Mesilot,9477,Hapoel Ramot Menashe,-0.75,3.0,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+685938,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,28688,FC Mariupol Reserves,36768,Kolos Kovalivka Reserves,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686018,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36410,FK Tambov U20,36382,FC Ufa U20,-2.5,3.25,,-1.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686019,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36416,Rostov U20,36397,FC Sochi U20,-0.5,2.75,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+685890,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,9423,Maccabi Shaaraim,10043,Maccabi Kabilio Jaffa,0.0,2.0,,0.0,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+685786,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8992,Maccabi Ironi Netivot,28709,Beitar Ironi Kiryat Gat,+0.25,3.25,,0.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

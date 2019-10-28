@@ -1,0 +1,19 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685776,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8686,FC Beitar Yavne,33207,MS Ironi Kuseife,+0.75,3.0,,+0.25,1.25,,0,1,7,2,4,2,1,0,138,158,62,108,0,3,4,9,0,0,FT,0
+686376,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38408,PS Pohuwato,38440,Boliyohuto FC,+2.5,3.5,,+1.0,1.5,,3,10,1,12,1,0,0,0,61,97,29,89,10,18,0,13,0,0,FT,1
+686160,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37387,PSIL Lumajang,37384,Persebo Muda Bondowoso,-2.75,4.0,,-1.25,1.75,,4,0,5,1,2,0,0,0,71,29,51,8,6,0,9,1,0,0,72,1
+686447,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33170,Persekabpas Pasuruan,37681,Asifa FC,-5.25,6.0,,-2.25,2.5,,2,0,6,1,1,0,0,0,78,42,67,18,2,0,0,0,0,0,69,1
+686448,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1656,Jablonec U19,38270,FK Usti nad Labem U19,-0.25,3.25,,-0.25,1.25,,3,0,5,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,65,1
+686454,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,38479,Sports Association Uthai Thani U19,17241,Kamphaeng Phet U19,+0.5,3.0,,+0.25,1.25,,0,1,2,6,1,0,0,0,48,58,30,52,2,3,2,6,0,0,55,1
+684112,3,AUS AL,Australia A-League,A,7,Australia,A,350,Brisbane Roar,7810,Melbourne Victory,-0.25,2.75,11,0.0,1.0,5,0,1,3,0,1,2,0,0,61,42,42,36,2,2,4,4,65,35,51,1
+686242,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,17242,Phetchabun FC U19,17240,Singburi U19,0.0,2.75,,0.0,1.25,,2,0,3,1,1,1,0,0,51,44,32,24,5,0,0,4,0,0,49,1
+685877,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,28597,Hapoel Bnei Parades,28256,Hapoel Tirat HaCarmel,-1.75,2.5,,-0.75,1.0,,1,0,1,1,0,0,0,0,102,47,43,19,3,2,3,0,0,0,46,1
+685780,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,10114,SC Bnei Yaffo Ortodoxim,8675,Hapoel Kiryat Ono,-0.25,2.75,,0.0,1.25,,0,0,1,1,2,1,0,0,51,53,28,33,1,3,3,2,0,0,45,1
+685779,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16763,Hapoel Ironi Gedera,10876,Moadon Zeirey Rahat,+0.25,2.25,,0.0,0.75,,0,0,4,2,0,1,0,0,51,52,46,42,1,3,6,0,40,60,44,1
+686017,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36457,Rubin Kazan U20,36381,Ural U20,-0.25,2.75,,0.0,1.0,,2,0,3,4,0,2,0,0,46,59,25,40,3,3,7,5,50,50,44,1
+685777,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8766,Beitar Kfar Saba Shlomi,16657,Hapoel Kfar Bara,-1.0,2.25,,-0.5,1.0,,0,1,2,0,0,2,0,0,53,24,31,10,0,2,2,2,0,0,42,1
+685883,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,34032,Hapoel Bnei Zilpah,8967,Maccabi Ironi Kiryat Ata,0.0,2.25,,0.0,1.0,,3,0,5,1,1,1,0,0,46,38,21,16,4,1,2,1,0,0,41,1
+685937,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,7439,Zorya Reserves,7654,Vorskla Poltava Reserves,+0.5,3.25,,+0.25,1.25,,1,0,2,0,1,2,0,0,57,44,30,23,1,1,0,2,0,0,37,1
+685849,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1225,FK Pribram U19,4123,Sigma Olomouc U19,+0.25,4.0,,0.0,1.5,,1,3,4,3,0,0,0,0,53,51,23,23,5,3,1,0,47,53,36,1
+685876,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9170,Beitar Nahariya,28596,Elnahada Nazareth,-0.5,3.0,,-0.25,1.25,,1,0,2,0,0,0,0,0,19,17,11,7,1,0,1,0,0,0,27,1
+685884,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,28251,SC Haifa Robi Shapira,11378,Hapoel Kafr Kanna,0.0,2.25,,0.0,1.0,,0,0,0,0,0,0,0,0,16,20,6,7,1,1,0,1,0,0,13,1

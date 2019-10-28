@@ -1,0 +1,39 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+684763,155,ESP S,Spain Segunda,S,23,Spain,X,6763,Malaga,9830,Oviedo,-0.25,2.0,9.5,-0.25,0.75,4.5,2,1,7,1,7,4,0,1,75,84,82,40,6,5,12,3,59,41,FT,0
+684445,299,POL E,Poland Ekstraklasa,P,20,Poland,B,3022,Lechia Gdansk,2350,Gornik Zabrze,-0.75,2.5,10,-0.25,1.0,4.5,1,1,12,2,2,3,0,0,94,101,87,64,5,3,9,6,54,46,FT,0
+686901,287,BRA U20,Brazil U20 League,B,47,Brazil,B,18858,CA Porto PE U20,24141,Central SC Caruaru U20,-0.5,2.75,,-0.25,1.0,,0,1,2,2,5,4,1,0,86,82,36,36,0,1,5,2,0,0,FT,1
+686910,492,BRA,Brazilian Matches,B,47,Brazil,B,27363,Juventude U19,11073,Criciuma U19,0.0,2.75,,0.0,1.0,,3,0,3,1,6,2,1,1,74,92,39,32,5,0,4,4,0,0,FT,0
+686842,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,18770,AFAD Djekanou,11251,Africa Sports,0.0,2.0,,0.0,0.75,,1,0,3,4,1,2,0,0,90,83,82,84,3,2,7,4,56,44,FT,0
+686911,2388,Brazil CNU20,Brazil Copa Nordeste U20,B,47,Brazil,B,34274,CS Paraibano U20,33495,CSA U20,-0.25,2.5,10,-0.25,1.0,4.5,3,0,8,2,2,5,0,1,96,96,75,62,4,1,7,4,54,46,FT,1
+685232,45,ZAF PL,South Africa Premier,S,37,South Africa,N,8167,Highlands Park,6777,Chippa United,-0.5,2.0,9.5,-0.25,0.75,4.5,2,0,3,5,0,3,0,0,105,95,69,66,3,0,14,11,50,50,89,1
+686839,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,16483,AS Ashdod,8695,Hapoel Marmorek,0.0,2.5,,0.0,1.0,,1,1,3,6,2,2,0,0,99,97,65,72,2,5,5,1,46,54,86,1
+684165,40,NED E,Holland Eredivisie,H,25,the Netherlands,H,6788,Fortuna Sittard,6203,VVV,-0.25,3.0,10.5,0.0,1.25,5,4,1,1,12,0,3,0,0,82,103,22,54,5,6,5,10,47,53,86,1
+683472,1813,BEL FDA,Belgium First Division A,B,38,Belgium,B,5523,Genk,1120,Cercle Brugge,-1.75,3.5,10,-0.75,1.5,4.5,1,0,8,3,0,1,0,0,85,63,77,44,6,3,5,6,64,36,75,1
+684755,1812,BEL FDB,Belgium First Division B,B,38,Belgium,B,7801,Union Saint Gilloise,5524,Lommel,-1.5,2.75,10,-0.75,1.25,4.5,2,1,11,4,2,3,0,1,106,72,69,28,7,1,8,2,60,40,73,1
+686475,2342,England U23 DL,England U23 Development League,E,14,England,Y,22847,Hull U23,22973,Sheff Utd U23,-0.5,3.25,,-0.25,1.25,,2,2,2,4,0,0,0,0,70,92,31,45,3,3,2,4,0,0,67,1
+686879,2547,ARG RC,Argentina Regional Cup,A,32,Argentina,A,20814,Argentino Penarol,38489,Belgrano XI,-0.5,2.75,,-0.25,1.25,,1,2,6,0,0,0,0,0,89,86,47,35,2,5,6,1,0,0,67,1
+686812,2547,ARG RC,Argentina Regional Cup,A,32,Argentina,A,19262,Racing de Cordoba,38486,CA Camioneros Cordoba,-0.25,2.5,,-0.25,1.0,,2,3,5,1,1,0,0,0,81,64,42,30,4,4,1,0,0,0,63,1
+686161,2315,Italy SCGA,Italy Serie C Group A,I,22,Italy,Y,6549,Monza,6351,Renate,-1.0,2.25,9,-0.25,0.75,4,2,0,6,3,2,0,0,0,68,73,31,42,4,1,3,6,50,50,60,1
+678879,37,ITA SA,Italy Serie A,I,22,Italy,Y,6682,Genoa,6827,Brescia,-0.5,2.75,11,-0.25,1.0,5,0,1,1,2,2,2,0,0,67,50,18,24,4,1,2,2,60,40,54,1
+684167,40,NED E,Holland Eredivisie,H,25,the Netherlands,H,1043,Heracles,190,PEC Zwolle,-0.5,3.25,10.5,-0.25,1.25,5,1,0,3,2,0,1,0,0,46,69,22,25,7,4,4,4,40,60,56,1
+686044,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,7015,Piacenza,15356,Padova,0.0,2.25,9,0.0,0.75,4,1,0,2,4,1,1,0,0,64,60,43,39,3,1,5,0,48,52,55,1
+687125,544,PER RL,Peru Reserve League,P,117,Peru,M,34788,Molinos El Pirata Reserves,5021,Cesar Vallejo Reserves,0.0,3.25,8,0.0,1.25,3.5,2,2,0,3,0,1,0,0,78,60,42,38,3,4,2,1,0,0,47,1
+678893,36,SPN PL,Spain Primera Liga,S,23,Spain,X,6684,Atletico Madrid,6467,Athletic Bilbao,-0.75,2.0,9,-0.25,0.75,4.5,1,0,2,6,2,0,0,0,43,60,12,28,1,2,4,3,39,61,HT,1
+686418,2673,USA USLC,USA USL Championship,U,6,the United States,M,12618,Real Monarchs SLC,35341,Orange County SC,-0.5,3.0,9.5,-0.25,1.25,4.5,2,1,3,2,1,1,0,0,28,45,23,31,2,1,4,2,49,51,HT,1
+684714,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,1948,Figueirense,6234,Criciuma,0.0,1.75,10.5,0.0,0.75,5,0,0,2,4,2,1,0,0,44,27,26,23,0,0,2,5,53,47,30,1
+684713,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,6885,Sao Bento,11611,Guarani SP,-0.25,2.0,12,0.0,0.75,5.5,0,0,3,2,1,0,0,0,34,24,29,23,0,0,0,0,50,50,30,1
+684715,214,BRA CB SB,Campeonato Brasileiro Serie B,C,47,Brazil,B,11604,Brasil de Pelotas,4330,Cuiaba,+0.25,2.0,10,0.0,0.75,4.5,0,0,4,3,0,0,0,0,52,40,46,29,0,1,3,3,0,0,29,1
+686914,1278,BRA P Cup,Brazil Paulista Cup,B,47,Brazil,B,20695,EC Sao Bernardo,4157,Sao Caetano,0.0,2.25,9.5,0.0,0.75,4.5,1,1,0,0,0,0,0,0,26,33,12,13,2,4,1,1,44,56,29,1
+679714,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6515,Moreirense,6088,Boavista,-0.25,1.75,10.5,0.0,0.75,5,0,0,1,2,0,0,1,0,34,30,4,17,1,0,1,5,49,51,28,1
+686891,1769,Dominican L,Dominican Republic Liga,D,201,Dominican Republic,D,25333,Atletico Vega Real,21855,Atletico San Cristobal,-0.5,2.5,9,+0.25,0.5,4,0,0,3,0,1,0,0,0,29,33,25,17,1,0,5,2,52,48,30,1
+686800,2707,VEN RL,Venezuela Reserve League,V,116,Venezuela,W,35532,Metropolitanos FC Reserves,35590,Caracas Reserves,+0.5,3.0,,+0.25,1.25,,1,0,0,1,0,0,0,0,19,28,9,9,3,1,1,3,0,0,23,1
+686898,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,19478,AD Juventud Escazucena,24405,Curridabat FC,-0.5,2.75,,-0.25,1.0,,0,0,0,0,0,0,0,0,5,4,2,1,0,0,0,0,0,0,2,1
+687076,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,12165,Atletico Veraguense,22726,Azuero FC,-0.25,2.25,,+0.5,0.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+684710,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,6296,Corinthians,4286,Santos,0.0,2.0,10,0.0,0.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686226,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,17330,LALA FC,7398,Caracas,+0.5,2.25,8.5,+0.25,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686513,2717,CAN PL,Canada Premier League,C,120,Canada,J,35599,Forge FC,25777,Cavalry FC,-0.25,2.5,9.5,+0.25,0.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+684709,251,BRA CB,Campeonato Brasileiro,C,47,Brazil,B,1455,Ceara,1471,Vasco Da Gama RJ,-0.5,2.0,11,-0.25,0.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686832,461,PER SL,Peru Segunda,P,117,Peru,M,4629,Cienciano,28775,Atletico Grau,-1.0,3.5,,-0.5,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+686228,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,11658,Estudiantes de Caracas,3373,Mineros,+0.25,2.75,8.5,0.0,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686227,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,7461,Portuguesa FC,7399,Estudiantes Merida,0.0,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+686225,1264,VEN PD,Venezuela Primera Division,V,116,Venezuela,W,1833,Carabobo,9970,Monagas,-0.5,2.5,8.5,-0.25,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
