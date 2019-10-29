@@ -1,0 +1,18 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+687749,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,32472,Ross County Reserves,32468,Kilmarnock Reserves,-0.5,3.5,,-0.25,1.5,,1,0,4,2,0,0,0,0,74,67,44,42,7,4,7,2,0,0,70,1
+687982,432,MAR G2,Morocco GNF 2,M,46,Morocco,M,3359,ASS Sale,8023,Chabab Atlas Khénifra,-0.25,1.75,8,0.0,0.75,3.5,0,0,3,1,0,2,0,0,62,51,32,17,4,1,8,0,57,43,69,1
+687838,2342,England U23 DL,England U23 Development League,E,14,England,Y,23670,Charlton U23,23308,Bristol City U23,-0.5,3.0,,-0.25,1.25,,1,0,3,1,0,0,0,0,95,57,54,23,7,0,7,5,0,0,67,1
+687806,2346,Italy CP1,Italy Campionato Primavera 1,I,22,Italy,Y,8434,Sampdoria U19,4450,Torino U19,+0.25,2.75,9.5,0.0,1.0,4.5,3,0,3,8,2,2,0,0,74,101,36,54,5,5,3,6,46,54,72,1
+687777,889,IND SL,India Super League,I,17,India,Y,16581,FC Goa,7353,Bengaluru,-0.25,2.75,10.5,0.0,1.0,5,0,1,1,6,0,0,0,0,50,70,37,60,0,1,3,4,47,53,67,1
+687797,783,CMR E1,Cameroon Elite One,C,54,Cameroon,K,20221,APEJES Academy,19877,Young Sports,-0.25,2.0,,0.0,0.75,,1,0,3,3,1,1,0,0,107,98,53,52,1,1,8,9,0,0,70,1
+687809,866,SER WL,Serbia League Women,S,59,Serbia,S,12610,ZFK Sloga Women,36675,ZFK Zemun Women,-2.25,3.75,,-1.0,1.5,,4,2,1,1,1,0,0,0,90,76,51,39,5,6,8,5,0,0,65,1
+687804,836,UAE RL,UAE Reserve League,U,35,The United Arab Emirates (UAE),A,8931,Al Ittihad Kalba Reserves,9429,Al Jazira SC Reserves,-0.25,2.75,9,0.0,1.25,4.5,0,0,1,1,2,0,0,0,88,64,72,46,0,1,3,2,0,0,52,1
+687805,836,UAE RL,UAE Reserve League,U,35,The United Arab Emirates (UAE),A,9482,Al Wasl SC Reserves,9430,Al Dhafra Reserves,-0.75,2.75,10,-0.25,1.0,4.5,1,2,2,3,1,1,0,0,48,49,28,28,1,7,4,3,54,46,50,1
+687812,2445,Kuwait D1,Kuwait Division 1,K,72,Kuwait,K,8016,Al Salibikhaet SC,7960,Al Fahaheel SC,-0.25,2.5,9,0.0,1.0,4,0,1,0,4,0,1,0,0,42,45,24,31,2,1,2,3,0,0,HT,1
+687813,2445,Kuwait D1,Kuwait Division 1,K,72,Kuwait,K,8014,Khaitan,7955,Al Jahra,0.0,2.5,8.5,+0.5,0.5,4,0,0,3,2,1,0,0,0,36,36,29,41,1,0,2,6,0,0,HT,1
+688039,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28480,Umm Salal U23,28479,Qatar SC Doha U23,-0.75,4.0,,-0.25,1.5,,0,0,1,4,1,0,0,0,29,37,19,37,3,2,1,1,0,0,41,1
+687152,2809,GRCGSL,Greece Super League 2,G,13,Greece,X,949,Ergotelis,758,Platanias,0.0,2.25,,0.0,1.0,,1,0,1,0,1,1,0,0,28,30,17,11,1,0,3,5,57,43,27,1
+687769,147,AZE PL,Azerbaijan Premier League,A,85,Azerbaijan,A,1271,FK Karabakh,23107,Sabail FC,-2,3.0,8.5,-0.75,1.25,4,0,0,0,1,0,0,0,0,40,42,13,12,1,0,1,0,57,43,27,1
+687997,817,OMN L,Oman League,O,33,Oman,A,2953,Fanja,3513,Al-Oruba Sur,-0.25,2.25,9,-0.25,0.75,4,0,0,1,0,0,0,0,0,24,26,16,10,1,0,0,0,0,0,16,1
+687996,817,OMN L,Oman League,O,33,Oman,A,9483,Al-Nasr Salalah,19069,Mirbat SC,-1.0,2.75,9,-0.5,1.25,4,1,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,16,1
+687796,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,11252,ASI Abengourou,24995,WAC d'Adjame,-0.25,1.75,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

@@ -1,0 +1,10 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+687984,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,35197,Akademia Ontustyk Reserves,30576,Shakhter Karagandy Reserves,+0.5,3.5,,+0.25,1.5,,0,1,6,3,3,6,0,0,76,56,38,33,0,2,3,4,0,0,FT,1
+687321,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,2796,FK Admira Praha,3310,FK MAS Taborsko,+0.75,3.0,,+0.25,1.25,,0,1,5,5,3,2,0,0,110,123,64,70,2,5,2,8,45,55,89,1
+687832,915,IND SPL,India Shillong Premier League,I,17,India,Y,10251,Shillong Lajong FC,22380,Nongrim Hills,-1.25,3.0,10,-0.5,1.25,4.5,1,0,7,5,4,2,0,0,102,104,85,80,1,7,13,3,0,0,85,1
+687986,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30408,Irtysh Pavlodar Reserves,30976,Altay Reserves,-0.25,3.25,,0.0,1.25,,1,0,11,3,4,1,0,0,103,81,53,36,4,1,8,7,0,0,FT,0
+687817,230,ARM L1,Armenia First League,A,88,Armenia,Y,4011,Alashkert FC II,36655,FC West Armenia,+1.75,3.75,,+0.75,1.5,,0,0,0,0,0,0,0,0,5,2,2,4,0,0,0,0,0,0,3,1
+687983,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32404,Vitoria Setubal U23,32399,Braga U23,+0.25,2.5,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,68,32,2,1
+688061,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,27698,Shevardeni,10759,FC Gagra,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,1,7,0,3,0,0,0,0,22,78,2,1
+688063,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10592,Guria Lanchkhuti,34876,FC Merani Tbilisi,+1.75,3.5,,+0.75,1.5,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,100,0,1,1
+688062,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,16153,FC Tskhinvali,10521,FC Samtredia,+1.75,3.5,,+0.75,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

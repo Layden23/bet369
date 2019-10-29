@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UsHA1Fe7FinqSQlZmfkiEC8BrkDNyIMa
 """
 
-import urllib.request, json, time
+import urllib.request, json, time, os 
 import pandas as pd
 from datetime import datetime
 
@@ -18,8 +18,8 @@ while 1:
     
     nlive = []
     #Get matches that have more that have our info:
-    variables = "id" and "league" and "host" and "guest" and "rd" and "plus" and "sdh" and "sdf" and "status"
-    for i in live["rs"]:
+    variables = ("id" and "league" and "host" and "guest" and "rd" and "plus" and "sdh" and "sdf" and "status")
+    for i in live:
         if variables in i:
             if "rd" in i:
                 if "sd" in i:
@@ -56,7 +56,7 @@ while 1:
         sdf = sdf.rename(columns={'hrf': 'HostHandicapFT', 'hdx': 'ExpectedGoalsFT', 'hcb': 'BettingCuoteFT'})
         status = pd.DataFrame({nlive[i]["status"]},index= [i])
         status = status.rename(columns = {0:"Status"})
-        if {'c': 'Score After First Half - 0-0', 't': 'h'} in nlive[i]["events"]:
+        if (nlive[i]["rd"]["gg"]== "0" and nlive[i]["rd"]["hg"]== "0"):
             label = pd.DataFrame({"Goal": 0}, index = [i])
         else:
             label = pd.DataFrame({"Goal": 1}, index = [i])
@@ -73,7 +73,7 @@ while 1:
     
         df2 = pd.concat([df2,df3])
     
-    
+
     filename = datetime.now().strftime('gambling-%Y-%m-%d-%H-%M.csv')
     df2.to_csv(filename, index = False)
-    time.sleep(60)
+    time.sleep(30)

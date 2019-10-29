@@ -1,0 +1,13 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688022,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,35726,Badak Lampung,1309,Persipura Jayapura,+0.25,2.5,,+0.25,1.0,,0,1,3,1,4,2,0,0,94,97,34,39,3,7,4,8,0,0,FT,0
+688030,2391,THA UL,Thailand University League,T,8,Thailand,T,29028,Bangkok Thonburi University,33774,Rajamangala University Thanyaburi,-3,4.0,,-1.25,1.5,,5,0,6,1,0,2,0,0,100,75,72,28,11,2,11,7,0,0,87,1
+688027,1062,Other Match,Other Match,O,4,International,G,29113,Chulalongkorn University,29206,Kasetsart University,-1.0,3.0,,-0.5,1.25,,3,0,10,1,4,2,0,0,88,72,44,28,5,1,10,2,0,0,89,1
+688028,1062,Other Match,Other Match,O,4,International,G,25948,North Bangkok University,6881,Kasembundit Uni.,-1.5,2.75,,-0.5,1.0,,4,0,6,1,0,1,0,0,94,66,83,24,14,1,5,1,0,0,90,1
+688029,1062,Other Match,Other Match,O,4,International,G,29204,Dhurakij Pundit University,29259,Kasembundit University,-0.75,2.75,,-0.25,1.25,,2,3,2,2,1,2,0,0,71,79,37,47,5,3,6,10,0,0,87,1
+687987,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30579,FK Aktobe Reserves,35079,FK Arys,+0.75,3.25,,+0.25,1.25,,1,2,4,3,2,0,0,0,124,93,68,107,3,7,3,8,0,0,82,1
+687760,917,AFC C U19W,AFC U19 Womens Championship,A,4,International,G,15804,Japan Women U19,7763,Myanmar Women U19,-5.75,6.5,10,-2.5,2.75,4.5,5,0,16,0,1,1,0,0,67,32,39,14,11,0,6,1,69,31,77,1
+687984,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,35197,Akademia Ontustyk Reserves,30576,Shakhter Karagandy Reserves,+0.5,3.5,,+0.25,1.5,,0,1,6,2,2,3,0,0,56,48,25,26,0,2,2,3,0,0,76,1
+687321,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,2796,FK Admira Praha,3310,FK MAS Taborsko,+0.75,3.0,,+0.25,1.25,,0,1,1,3,3,2,0,0,81,84,40,48,0,5,1,5,42,58,60,1
+687832,915,IND SPL,India Shillong Premier League,I,17,India,Y,10251,Shillong Lajong FC,22380,Nongrim Hills,-1.25,3.0,10,-0.5,1.25,4.5,1,0,7,4,2,0,0,0,68,66,63,53,1,6,10,1,0,0,56,1
+687986,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30408,Irtysh Pavlodar Reserves,30976,Altay Reserves,-0.25,3.25,,0.0,1.25,,1,0,10,2,2,1,0,0,79,61,41,26,4,0,6,3,0,0,73,0
+687985,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,27557,FC Taraz Reserves,30212,Sdyushor 8,+0.75,3.5,,+0.25,1.5,,3,0,1,3,2,0,0,0,62,97,26,54,5,1,7,7,0,0,75,1
