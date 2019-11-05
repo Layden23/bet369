@@ -1,0 +1,52 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692511,2336,Albania CP,Albania Championship,A,53,Albania,A,27826,Vllaznia Shkoder,28565,Bylis Ballsh,-0.25,2.0,,0.0,0.75,,0,1,4,2,2,7,0,0,120,136,58,64,6,3,7,6,0,0,FT,1
+691562,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,10043,Maccabi Kabilio Jaffa,8676,FC Ironi Or Yehuda,-0.25,2.25,,0.0,0.75,,0,0,4,3,3,2,0,1,61,65,63,51,3,3,2,0,0,0,FT,0
+691556,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9624,Sports Club Beer Sheva,8696,MS Hapoel Yeroham,0.0,2.5,,+0.5,0.5,,1,1,10,4,3,1,0,0,76,44,58,25,5,1,7,1,0,0,85,1
+691406,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,956,Bnei Sakhnin,6023,Hapoel Petach Tikva,-0.5,2.5,9,-0.25,1.0,4,1,1,8,1,2,4,0,1,138,60,97,11,6,1,18,2,68,32,FT,1
+691407,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,36610,Hapoel Nof HaGalil,5936,Hapoel Afula,-0.5,2.25,9,-0.25,1.0,4,1,0,3,8,2,3,0,0,124,134,62,75,4,3,4,5,47,53,FT,1
+688624,158,TUR SL,Turkey Super Lig,T,26,Turkey,T,10741,Ankaragucu,27033,Gazisehir Gaziantep FK,+0.25,2.5,9,0.0,1.0,4.5,1,2,6,3,2,2,0,0,98,97,79,64,6,5,6,3,52,48,FT,1
+692350,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,12057,Budaiya,2305,Manama,+1.0,3.0,9,+0.25,1.25,4,0,0,2,3,2,2,1,0,54,83,39,62,2,1,2,5,0,0,72,0
+691563,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,16201,AS Nordia Jerusalem,27841,FC Holon Yermiyahu,-0.25,2.5,,0.0,1.0,,0,0,3,2,2,0,0,0,69,48,30,19,2,0,2,3,59,41,66,0
+692327,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,32458,FC Emmen Reserves,15635,Cambuur Leeuwarden Reserves,-0.25,3.75,9.5,-0.25,1.75,4.5,4,1,2,2,1,0,0,0,82,75,42,44,4,7,3,11,49,51,74,1
+692331,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,15485,NEC Reserves,34410,VVV Reserves,-0.5,3.75,10,-0.25,1.5,4.5,0,0,5,1,1,1,0,0,89,54,68,37,4,2,9,1,58,42,66,0
+692330,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,7821,NAC Reserves,33928,Excelsior Reserves,-2.75,4.0,,-1.0,1.5,,2,0,3,3,0,1,0,0,80,73,62,57,7,3,2,5,0,0,70,1
+692329,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,6530,Heerenveen Reserves,7537,Go Ahead Eagles Reserves,+0.5,4.0,10,+0.25,1.5,4.5,0,5,1,6,1,0,0,0,98,83,57,54,1,6,2,5,49,51,73,1
+692326,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,7540,Dordrecht Reserves,7554,Fortuna Sittard Reserves,+0.5,4.0,10,+0.25,1.5,4.5,1,4,2,8,0,0,0,0,52,76,23,44,4,8,2,9,38,62,72,1
+692325,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,23491,FC Den Bosch Reserves,7820,Willem II Reserves,+0.5,3.0,10,+0.25,1.25,4.5,0,5,3,7,0,0,0,0,62,93,31,43,6,13,7,5,40,60,77,1
+692328,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,5699,FC Groningen Reserves,7543,De Graafschap Reserves,-2.75,4.25,10.5,-1.25,1.75,5,1,0,11,0,1,2,0,0,73,36,42,14,5,1,6,1,57,43,72,1
+692361,238,DZA D1,Algeria Division 1,A,111,Algeria,A,8457,USM Bel Abbes,2726,JS Kabylie,0.0,2.0,8.5,0.0,0.75,4,1,0,1,1,3,1,0,0,63,59,38,46,2,2,5,3,48,52,51,1
+692357,492,BRA,Brazilian Matches,B,47,Brazil,B,37182,Arturzinho,32159,Buzios,+1.5,3.25,,+0.5,1.25,,1,2,4,2,1,2,1,1,40,38,32,31,2,3,4,4,0,0,HT,1
+692363,1804,BRA CG,Brazil Copa Gaucho,B,47,Brazil,B,30439,Internacional B,16024,Sao Jose PA,0.0,2.25,10,0.0,0.75,4.5,1,3,4,5,2,0,0,0,33,32,28,31,2,3,1,0,60,40,46,1
+692356,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,32887,Racing Club Abidjan,14410,SC Gagnoa,-0.5,2.25,8.5,+0.25,0.5,4,1,0,2,1,1,0,0,0,46,57,32,28,5,1,2,2,0,0,HT,1
+687228,104,DNK SL,Denmark Superligaen,D,15,Denmark,D,4835,Silkeborg IF,5214,Brondby,+0.75,3.25,11,+0.25,1.5,5,0,1,5,5,0,0,0,0,45,49,16,19,1,5,3,2,53,47,HT,1
+687795,632,GER L3,Germany 3.Liga,G,5,Germany,D,5542,MSV Duisburg,2426,KFC Uerdingen 05,-0.5,3.0,10,-0.25,1.25,4.5,2,0,1,3,1,2,0,0,65,68,34,53,3,0,1,2,46,54,45,1
+688314,2792,GRC SL1,Greece Super League 1,G,13,Greece,X,8161,Lamia,28545,Volos NFC,-0.25,2.0,8.5,0.0,0.75,4,0,0,2,3,2,1,0,0,59,47,34,26,1,1,2,0,53,47,HT,0
+692359,290,MAR G1,Morocco GNF 1,M,46,Morocco,M,15913,Mouloudia Oujda,2978,Youssoufia Berrechid,-0.25,2.0,8.5,0.0,0.75,4,1,0,0,1,0,1,0,0,53,59,31,29,1,0,4,2,0,0,HT,1
+689837,733,MLT PL,Malta Premier League,M,71,Malta,M,5208,Birkirkara,9353,Gudja United,-1.0,2.5,,-0.5,1.0,,1,1,1,0,2,0,0,0,41,37,20,13,2,1,1,3,59,41,HT,1
+692358,1690,Mali PD,Mali Premiere Division,M,165,Mali,M,21512,USFAS Bamako,24754,CSK FC,-0.5,2.25,8,-0.25,1.0,3.5,1,0,1,3,1,0,0,0,76,89,19,29,3,7,4,4,0,0,HT,1
+688226,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,11616,Odd BK,1410,Mjondalen,-0.75,2.5,9.5,-0.25,1.0,4.5,1,1,3,2,0,1,0,0,64,39,58,12,1,2,10,3,66,34,HT,1
+692594,492,BRA,Brazilian Matches,B,47,Brazil,B,32759,CF Sao Jose RJ,32476,Atletico Carioca,+0.25,2.75,,0.0,1.0,,1,1,0,3,0,0,0,0,39,36,26,20,3,1,2,1,0,0,HT,1
+692467,526,DNK U21,Denmark U21 League,D,15,Denmark,D,16175,B 1908 U21,38624,Vestia U21,-1.75,3.75,,-0.75,1.5,,0,1,6,3,0,0,0,0,77,54,52,31,1,2,4,1,0,0,HT,1
+688644,151,ISR PL,Israel Premier League,I,97,Israel,Y,6307,Hapoel Tel-Aviv,767,Maccabi Haifa,+1.25,2.5,9,+0.5,1.0,4,1,0,2,3,1,1,0,0,21,34,12,23,1,1,1,2,41,59,43,1
+692445,365,ARG PCM,Argentina Primera C Metropolitana,A,32,Argentina,A,11914,San Martin De Burzaco,11990,Deportivo Laferrere,0.0,2.0,8.5,0.0,0.75,4,1,0,2,0,1,0,0,0,39,52,21,45,3,0,2,3,49,51,27,1
+690994,518,ARG PDM,Argentina Primera D Metropolitana,A,32,Argentina,A,10754,CA Atlas,13252,Argentino de Rosario,0.75,2.0,8,-0.25,0.75,3.5,0,0,2,3,0,1,0,0,27,28,13,13,1,0,1,4,55,45,33,0
+692421,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22671,Gent Reserves,32971,OH Leuven Reserves,-1.5,3.75,8.5,-0.5,1.5,4,1,0,0,0,1,0,0,0,48,27,31,10,1,0,2,1,68,32,26,1
+692420,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,16783,Eupen Reserves,22674,Westerlo Reserves,-1.5,3.5,9,-0.5,1.5,4,0,0,1,1,1,0,0,0,60,34,29,14,2,0,5,2,0,0,31,0
+692422,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,37090,Royal Excel Mouscron Reserves,16505,Antwerp Reserves,-0.25,3.25,8.5,0.0,1.25,4,2,0,3,1,1,2,0,0,28,20,20,9,2,1,0,2,0,0,26,1
+692427,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22672,KV Oostende Reserves,22664,Zulte Waregem Reserves,+0.25,3.25,9,+0.25,1.25,4.5,0,2,0,2,0,0,0,0,31,35,22,27,0,4,0,2,0,0,27,1
+692459,662,GER OL R,Germany Oberliga Rheinland-Pfalz/Saar,G,5,Germany,D,26492,FV Dudenhofen,8110,TuS Mechtersheim,-1.25,3.0,9,-0.5,1.25,4,1,1,1,1,1,1,0,0,37,36,22,13,0,1,3,2,64,36,30,1
+691564,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,16483,AS Ashdod,9419,Hapoel Azor,-1.0,2.75,,-0.5,1.25,,0,0,2,0,0,2,0,1,37,20,28,10,0,0,2,0,69,31,28,0
+688034,204,ROM L1,Romania Liga I,R,30,Romania,L,2627,CS U Craiova,5637,Dinamo Bucharest,-0.75,2.25,10.5,-0.25,1.0,5,1,0,1,1,0,0,0,0,28,20,27,11,3,0,0,1,58,42,28,1
+692368,1802,ENG PL2,England Premier League 2,E,14,England,Y,22534,Aston Villa U23,22537,Newcastle U23,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,3,5,0,3,0,0,0,1,0,0,2,0
+688346,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7347,Ajax Reserves,6052,FC Volendam,-1.5,4.0,10.5,-0.75,1.75,5,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,0,52,48,1,0
+688347,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7367,PSV Reserves,6051,Roda JC,0.0,2.75,10,0.0,1.25,4.5,0,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,37,63,1,0
+692369,1802,ENG PL2,England Premier League 2,E,14,England,Y,22544,Middlesbrough U23,22540,Man Utd U23,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+692412,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1448,Danubio Reserves,8723,Penarol Reserves,0.0,3.0,9,0.0,1.25,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0
+692444,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,16503,Cercle Brugge Reserves,22668,Lokeren Reserves,-0.5,3.25,9.5,-0.25,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692423,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,17035,Excelsior Virton Reserves,16387,Union Saint Gilloise Reserves,-0.25,3.25,8.5,0.0,1.25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692424,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22666,KV Kortrijk Reserves,17349,Lommel Reserves,-0.25,3.5,,-0.25,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+688646,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6268,Belenenses,6353,Pacos Ferreira,0.0,2.25,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+692413,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1577,Montevideo Wanderers Reserves,3603,Juventud De Las Piedras Reserves,+0.75,3.25,,+0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692411,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,34757,Cerro Largo Reserves,16278,Liverpool Montevideo Reserves,-0.5,3.0,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692410,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,8893,CA River Plate Reserves,1451,Nacional de Montevideo Reserves,-0.25,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692409,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,22812,Boston River Reserves,4268,Defensor Sporting Reserves,+0.75,3.0,,+0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

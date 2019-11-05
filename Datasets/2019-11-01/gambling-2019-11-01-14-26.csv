@@ -1,0 +1,60 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689270,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,4115,Kalteng Putra FC,1307,Persib Bandung,0.0,2.25,10,0.0,0.75,4.5,0,2,2,5,4,4,1,0,73,71,30,36,2,3,4,4,0,0,FT,1
+689474,2373,SPN YL,Spain Youth League,S,23,Spain,X,38560,Leioa U19,29217,CD Alaves U19,-0.5,3.25,,-0.25,1.25,,1,2,1,5,3,2,1,0,109,128,101,101,3,7,2,8,51,49,FT,1
+689265,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,9394,Hapoel Kaukab,9906,Hapoel Ironi Baqa Al Gharbiyye,-0.75,2.25,,-0.25,1.0,,3,0,7,1,2,2,0,0,111,81,55,15,9,2,11,0,0,0,FT,1
+689642,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16657,Hapoel Kfar Bara,8683,Hapoel Mahane Yehuda,+0.5,2.5,,+0.25,1.0,,2,1,1,3,1,1,0,0,115,116,58,53,6,1,1,2,0,0,FT,1
+686866,21,CHN FA C,China FA Cup,C,1,China,Z,1211,Shandong Luneng,1231,Shanghai Shenhua,-0.25,2.75,9.5,-0.25,1.25,4.5,1,0,6,8,0,1,0,0,114,90,90,61,4,5,12,9,0,0,90,1
+689149,653,IRN PL,Iran Pro League,I,74,Iran,Y,15933,Gol Gohar,5943,Paykan,0.0,1.75,8.5,0.0,0.75,4,0,0,2,3,1,2,0,0,102,112,71,71,1,1,14,9,0,0,85,0
+689230,2373,SPN YL,Spain Youth League,S,23,Spain,X,28760,Recreativo Huelva U19,28850,CD 26 de Febrero U19,-0.5,2.75,8.5,-0.25,1.25,4,2,0,5,4,1,1,0,1,68,62,23,23,3,2,5,1,59,41,73,1
+689249,943,SYR D1,Syria Division 1,S,64,Syria,X,2022,Al-Jazeera,11692,Al Wahda Damascus,+0.75,2.0,,+0.25,0.75,,1,5,5,2,3,2,0,0,66,69,57,47,3,6,4,4,51,49,68,1
+689644,1830,ROM LIII,Romania Liga III,R,30,Romania,L,23066,CS Soimii Lipova,38110,CS Viitorul Daesti,-0.75,3.25,,-0.25,1.25,,3,0,7,1,1,1,0,0,120,108,73,40,6,2,16,1,0,0,71,1
+689246,943,SYR D1,Syria Division 1,S,64,Syria,X,33119,Al Taliya SC,32964,Jableh SC,-0.5,2.0,,-0.25,0.75,,0,0,5,2,1,2,0,0,92,82,65,28,6,0,4,4,49,51,68,0
+689248,943,SYR D1,Syria Division 1,S,64,Syria,X,10541,Al-Jaish Damascus,10648,Tishreen,0.0,2.0,,0.0,0.75,,0,0,4,1,1,1,0,0,64,67,45,54,3,3,3,2,54,46,68,0
+689454,1830,ROM LIII,Romania Liga III,R,30,Romania,L,36813,CSM Bacau,17051,CSM Pascani,-2.5,4.0,,-1.25,1.75,,1,0,4,2,1,1,0,0,99,71,68,33,1,3,10,4,56,44,67,1
+689139,805,ESP TG12,Spain Tercera Group 12,S,23,Spain,X,8420,Union Viera CF,15906,Atletico Tacoronte,-0.75,2.75,,-0.25,1.25,,0,0,2,2,3,2,0,0,72,62,52,30,3,1,4,3,65,35,66,0
+689643,1830,ROM LIII,Romania Liga III,R,30,Romania,L,3658,Ariesul Turda,7023,CSC Sanmartin,-0.5,2.75,,-0.25,1.0,,1,1,5,5,2,2,0,0,92,81,69,53,2,2,1,3,0,0,69,1
+689456,1830,ROM LIII,Romania Liga III,R,30,Romania,L,16116,FC Voluntari II,32644,CSM Slatina,+1.5,3.0,,+0.75,1.25,,3,2,1,2,1,3,0,0,56,101,39,56,5,5,9,4,42,58,70,1
+689229,2373,SPN YL,Spain Youth League,S,23,Spain,X,19454,Rayo Vallecano U19,32867,Valladolid U19,+0.75,2.75,9,+0.25,1.25,4,0,0,2,4,1,1,0,0,65,68,22,32,3,3,5,6,42,58,68,0
+689250,943,SYR D1,Syria Division 1,S,64,Syria,X,27155,Al-Shorta Damascus,10647,Al Ittihad Aleppo,-0.25,2.0,,0.0,0.75,,0,1,2,0,0,1,0,0,71,72,40,28,0,2,1,3,44,56,64,1
+689457,1830,ROM LIII,Romania Liga III,R,30,Romania,L,10575,Inainte Modelu,37129,AS Mostistea Ulmu,-0.25,2.25,,0.0,1.0,,2,2,3,6,1,2,0,0,76,82,38,54,3,4,4,3,42,58,68,1
+689255,1840,KOS SL,Kosovo Superliga,K,140,Kosovo,K,27263,KF Llapi,25552,KF Drenica Skenderaj,-0.5,2.25,,-0.25,1.0,,1,0,1,1,3,0,0,0,109,104,44,49,3,1,6,7,0,0,67,1
+689453,1830,ROM LIII,Romania Liga III,R,30,Romania,L,15065,CS U Craiova II,36824,ACS Vedita Colonesti MS,-0.5,2.75,,-0.25,1.0,,2,0,4,3,2,0,0,0,80,92,45,61,6,2,3,12,46,54,68,1
+689452,1830,ROM LIII,Romania Liga III,R,30,Romania,L,27279,CFR Cluj II,2233,Unirea Dej,-0.5,2.75,,-0.25,1.0,,2,1,2,4,0,2,0,0,104,117,47,74,2,3,2,8,0,0,66,1
+689209,1867,SAU AD2,Saudi Arabia Division 2,S,36,Saudi Arabia,S,28558,Al Jubail Club,23679,Al Washm,0.0,2.25,10,0.0,1.0,4.5,0,1,0,2,0,0,0,0,59,52,44,35,3,2,11,5,0,0,67,1
+689231,2373,SPN YL,Spain Youth League,S,23,Spain,X,16577,Sevilla U19,32868,Vazquez Cultural U19,-2,4.0,8.5,-0.75,1.75,4,2,0,3,1,0,0,0,0,121,57,80,16,4,1,8,4,73,27,59,1
+689210,1867,SAU AD2,Saudi Arabia Division 2,S,36,Saudi Arabia,S,11166,Al Sahel,33562,Weg Taif SC,-0.25,2.25,10,0.0,1.0,4.5,1,1,10,3,1,2,0,0,65,49,36,27,3,3,5,0,54,46,65,1
+689232,2373,SPN YL,Spain Youth League,S,23,Spain,X,28968,Tenerife U19,33040,CD Ofra U19,-2,3.5,9,-0.75,1.5,4,3,1,6,2,0,0,0,0,81,65,64,31,4,1,5,6,57,43,62,1
+689455,1830,ROM LIII,Romania Liga III,R,30,Romania,L,23080,CSM Flacara Moreni,27747,AFC Progresul Spartac Bucuresti,0.0,2.75,,0.0,1.0,,1,2,3,5,1,0,0,0,94,90,59,50,2,4,3,6,49,51,66,1
+689330,704,ARG R,Argentina Reserve League,A,32,Argentina,A,36677,Central Cordoba SdE Reserves,12674,Velez Sarsfield Reserves,0.0,2.5,,0.0,1.0,,2,2,1,1,1,2,0,0,86,78,33,30,2,3,1,5,0,0,62,1
+689451,1830,ROM LIII,Romania Liga III,R,30,Romania,L,2919,Balotesti,37514,CS Blejoi,0.0,3.0,,0.0,1.25,,0,1,2,4,1,1,0,0,19,22,8,8,1,2,2,0,46,54,70,1
+689331,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8852,Defensa y Justicia Reserves,12709,Argentinos Jrs Reserves,+0.25,2.5,9.5,0.0,1.0,4.5,0,0,5,3,1,1,0,0,75,61,54,57,3,3,7,8,51,49,64,0
+689458,1830,ROM LIII,Romania Liga III,R,30,Romania,L,29569,Unirea Bascov,33122,FC Pucioasa,-0.75,3.0,,-0.25,1.25,,3,2,3,1,2,1,0,0,15,16,6,9,2,1,0,0,54,46,60,1
+689659,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9477,Hapoel Ramot Menashe,23123,Ihud Bnei Kfar Kara,+1.25,3.25,,+0.5,1.25,,2,5,2,4,3,0,0,0,53,53,25,39,4,9,1,4,48,52,56,1
+689266,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,28251,SC Haifa Robi Shapira,33131,Hapoel Bnei Zalafa,-0.5,2.25,,-0.25,0.75,,1,1,4,1,1,1,0,0,48,53,29,24,2,3,5,3,41,59,49,1
+689214,1867,SAU AD2,Saudi Arabia Division 2,S,36,Saudi Arabia,S,33490,Al-Arabi Al-Saudi,29203,Al Hjazz,-1.0,2.75,,-0.5,1.0,,2,1,2,1,0,1,0,0,54,51,39,25,4,1,3,1,53,47,HT,1
+689825,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,28411,Hapoel Kafr Qasim Shouaa,28414,Shimshon Bnei Tayibe,-0.25,2.75,,0.0,1.0,,0,2,3,2,0,2,0,0,53,40,33,19,1,2,4,2,0,0,HT,1
+689284,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,3714,Opava U19,2776,Sparta Prague U19,+1.5,3.5,,+0.75,1.5,,1,4,1,3,0,0,0,0,64,80,29,31,1,6,0,1,38,62,HT,1
+689277,480,SER PL,Serbia Prva Liga,S,59,Serbia,S,9445,FK Backa,15929,Dinamo Vranje,-0.25,2.0,,0.0,0.75,,1,0,5,2,0,3,0,1,47,45,43,29,3,1,1,2,65,35,HT,1
+689240,511,SVK L3,Slovakia 3. Liga,S,28,Slovakia,S,13818,Liptovsky Hradok,32800,SK Pramen Kovacova,0.0,2.5,,0.0,1.0,,0,0,4,2,0,2,0,0,49,53,36,21,2,1,3,3,0,0,HT,0
+689422,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,23777,Bidiyah,2953,Fanja,+0.25,2.5,,0.0,1.0,,0,1,0,2,0,0,0,0,36,44,14,23,0,1,1,6,0,0,40,1
+689833,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,8664,Al-Khaboora,8965,Sohar Club,+1.0,2.5,,+0.5,1.0,,1,0,2,1,0,1,0,0,33,43,29,26,3,1,1,3,0,0,36,1
+689216,1867,SAU AD2,Saudi Arabia Division 2,S,36,Saudi Arabia,S,38288,Al Entesar Club,33813,Afief Club,+0.25,2.5,10,0.0,1.0,4.5,0,1,2,1,1,0,0,0,29,25,19,11,3,1,1,1,39,61,35,1
+689221,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,10773,FC Kafr Qasim,8765,Hapoel Ashkelon,-0.25,2.25,8.5,0.0,1.0,4,2,1,4,1,0,0,0,0,25,27,10,12,2,2,6,1,59,41,26,1
+689790,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,6232,Hapoel Ramat Gan,37872,Beitar Tel Aviv Bat Yam,-0.25,2.0,,0.0,0.75,,1,0,1,0,1,0,0,0,34,16,18,12,1,2,1,2,59,41,26,1
+689224,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,952,Maccabi Petach Tikva,10895,Hapoel Umm al-Fahm,-0.75,2.25,8.5,-0.25,1.0,4,0,0,2,1,0,1,0,0,33,30,32,18,0,2,0,0,53,47,26,0
+689157,216,AUT RO,Austria Regionalliga Ost,A,60,Austria,A,4689,Neusiedl,17315,Admira Wacker Modling II,-0.5,2.75,9.5,-0.25,1.25,4.5,0,0,1,1,0,0,0,0,18,30,13,20,0,0,0,3,57,43,25,0
+689222,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,961,Hapoel Akko,7958,Hapoel Nir Ramat Hasharon,+0.25,2.25,9,0.0,0.75,4,0,0,0,0,1,1,0,0,39,41,17,22,0,2,0,2,36,64,25,0
+689357,704,ARG R,Argentina Reserve League,A,32,Argentina,A,27833,Patronato Parana Reserves,7981,Racing Club Reserves,0.0,2.5,9,0.0,1.0,4.5,0,0,2,1,0,0,0,0,34,31,22,15,3,0,2,0,50,50,25,0
+689223,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,2199,Hapoel Katamon,11379,Maccabi Ahi Nazareth,-0.75,2.5,9,-0.25,1.0,4.5,0,0,1,4,0,0,0,0,19,20,12,5,1,1,1,3,47,53,24,0
+689333,704,ARG R,Argentina Reserve League,A,32,Argentina,A,12074,Boca Juniors Reserves,7509,Arsenal de Sarandi Reserves,-0.5,2.25,9,-0.25,1.0,4.5,1,0,1,1,1,0,0,0,41,27,26,27,2,3,1,2,59,41,24,1
+689334,704,ARG R,Argentina Reserve League,A,32,Argentina,A,13587,CA Aldosivi Reserves,8048,River Plate Reserves,+1.0,2.5,,+0.5,1.0,,0,2,2,0,1,1,0,0,27,27,22,15,0,2,3,1,0,0,23,1
+689346,704,ARG R,Argentina Reserve League,A,32,Argentina,A,23858,CA Talleres de Córdoba Reserves,17359,Newell's Reserves,-0.25,2.75,9,0.0,1.0,4,1,0,0,1,0,0,0,0,27,26,10,11,1,0,1,3,46,54,23,1
+689345,704,ARG R,Argentina Reserve League,A,32,Argentina,A,7982,CA Independiente Reserves,8879,San Lorenzo Reserves,0.0,2.5,9.5,0.0,1.0,4.5,0,0,0,3,0,0,0,0,27,23,16,19,2,1,1,1,55,45,22,0
+689838,834,PLE WBL,Palestine West Bank League,P,125,Palestine,B,10517,Markaz Balata,18793,Shabab Al Am'ari,0.0,2.25,,+0.5,0.5,,1,0,2,0,0,0,0,0,15,17,26,8,2,1,2,0,0,0,22,1
+689285,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1475,MFK Karvina U19,2777,Banik Ostrava U19,+1.0,3.5,,+0.5,1.25,,0,1,0,1,0,0,0,0,23,17,16,11,0,2,1,0,0,0,22,1
+689356,704,ARG R,Argentina Reserve League,A,32,Argentina,A,12075,Huracan Reserves,8304,Lanus Reserves,-0.5,2.75,8.5,-0.25,1.0,4,0,0,4,0,0,0,0,0,27,15,23,12,2,3,1,3,57,43,21,0
+689347,704,ARG R,Argentina Reserve League,A,32,Argentina,A,16702,Colon Reserves,19610,Atletico Tucuman Reserves,-0.25,2.25,9,-0.25,0.75,4.5,0,1,1,0,0,0,0,0,31,29,16,11,3,1,1,0,53,47,21,1
+689348,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8851,Gimnasia LP Reserves,7510,Estudiantes LP Reserves,0.0,2.25,9.5,0.0,0.75,4.5,0,0,1,2,0,0,0,0,24,25,15,18,0,0,1,1,52,48,21,0
+689320,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,34185,Saviours FC,38374,MYDA FC,0.0,2.0,,0.0,0.75,,0,0,1,0,0,0,0,0,29,25,17,12,1,1,0,1,0,0,20,0
+689332,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8149,Banfield Reserves,15848,Union Santa Fe Reserves,-0.25,2.25,9,0.0,0.75,4.5,0,0,1,0,0,0,0,0,16,26,13,12,0,1,2,1,51,49,18,0
+689267,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9288,SC Villa,4660,URA,0.0,1.75,,0.0,0.75,,0,0,1,1,0,0,0,0,24,37,3,10,0,1,0,2,0,0,17,0

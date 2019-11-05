@@ -72,8 +72,14 @@ while 1:
                    'HostPossessionFT', 'GuestPossessionFT',"Status","Goal"]]
     
         df2 = pd.concat([df2,df3])
-    
-
+        
+    os.chdir('/Users/jojoel/Google Drive/Github/bet369/Datasets/')
+    dirname = ('/Users/jojoel/Google Drive/Github/bet369/Datasets/'+datetime.now().strftime('%Y-%m-%d'))
+    if not os.path.exists(dirname):
+        os.mkdir(datetime.now().strftime('%Y-%m-%d'))
+    dirname = ('/Users/jojoel/Google Drive/Github/bet369/Datasets/'+datetime.now().strftime('%Y-%m-%d')+'/')
     filename = datetime.now().strftime('gambling-%Y-%m-%d-%H-%M.csv')
-    df2.to_csv(filename, index = False)
-    time.sleep(30)
+    df2.to_csv(dirname+filename, index = False)
+    time.sleep(15)
+
+    

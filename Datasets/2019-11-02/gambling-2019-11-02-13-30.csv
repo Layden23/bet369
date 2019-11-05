@@ -1,0 +1,132 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689820,871,TUR L3G2,Turkey 3.Lig Group 2,T,26,Turkey,T,8232,Karsiyaka,23520,Elaziz Belediyespor,-0.75,2.25,8,-0.25,0.75,4,1,0,6,4,3,4,0,0,95,92,90,75,2,1,4,1,54,46,90,1
+690010,322,DNK U19,Denmark U19 League,D,15,Denmark,D,10213,Esbjerg U19,4833,Sonderjyske U19,-0.75,3.5,,-0.25,1.5,,3,2,11,3,1,1,0,0,71,48,39,13,10,4,11,3,57,43,87,1
+689703,231,ISR YL,Israel Youth League,I,97,Israel,Y,9614,Hapoel Ramat Gan U19,1561,Maccabi Petach Tikva U19,+0.25,2.5,,0.0,1.0,,0,0,7,3,0,1,0,1,71,77,41,55,7,3,10,11,41,59,87,0
+689618,236,DZA YL,Algeria Youth League,A,111,Algeria,A,9273,ASM Oran U21,10767,AS Khroub U21,-1.0,2.5,,-0.5,1.0,,0,1,7,1,2,1,0,0,78,60,48,30,2,1,5,5,60,40,77,1
+689771,1608,SPN WP,Spain Women Primera,S,23,Spain,X,8455,Sevilla Women,3167,Real Sociedad Women,0.0,2.25,,0.0,1.0,,1,2,3,5,0,1,0,0,114,117,66,57,6,9,6,5,44,56,75,1
+689782,392,GER BL U19,Germany Bundesliga U19,G,5,Germany,D,3112,Hannover 96 U19,27060,Chemnitzer U19,-4,5.0,,-1.75,2.0,,1,0,4,2,1,1,0,0,121,102,76,58,4,1,6,4,0,0,75,1
+690016,317,EST ELB,Estonia Esiliiga B,E,84,Estonia,A,20437,Viimsi JK,25236,Paide Linnameeskond II,-1.25,4.0,,-0.5,1.5,,2,0,9,2,0,0,0,0,110,92,83,43,10,3,4,1,50,50,77,1
+689903,199,RUS D2,Russia Division 2,R,12,Russia,E,26541,FC Lokomotiv-Kazanka Moscow,31729,FK Leningradets,-0.25,2.5,,0.0,1.0,,4,5,6,7,2,0,0,0,81,93,46,48,5,5,2,3,0,0,74,1
+689728,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32456,CD Aves U23,32404,Vitoria Setubal U23,-0.5,2.75,10.5,-0.25,1.0,5,2,0,2,5,1,1,0,0,93,79,43,36,5,2,6,6,51,49,73,1
+689608,598,KEN PL,Kenya Premier League,K,105,Kenya,K,7255,Tusker,31039,Nzoia Sugar,-0.75,2.25,,-0.25,1.0,,3,1,5,6,1,1,0,0,105,102,76,99,2,4,2,6,48,52,70,1
+690015,281,EST EL,Estonia - Esiliiga,E,84,Estonia,A,2065,Tallinna JK Legion,24529,Parnu JK Vaprus,-1.5,4.0,,-0.75,1.75,,1,2,2,0,2,2,0,0,108,105,48,19,4,5,4,2,47,53,75,1
+689731,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32405,Sporting U23,37037,Academica  U23,-2.5,3.5,10.5,-1.0,1.5,5,0,2,9,5,1,3,0,0,114,92,84,57,2,3,6,4,54,46,72,1
+689803,505,POL E W,Poland Ekstraklasa Women,P,20,Poland,B,4623,Gornik Leczna Women,20537,UKS SMS Lodz Women,-2,3.75,,-0.75,1.5,,5,1,5,4,1,0,0,0,71,56,42,33,8,2,9,6,54,46,75,1
+689905,199,RUS D2,Russia Division 2,R,12,Russia,E,3971,Zvezda St Petersburg,1379,Pskov 747,+0.25,2.75,,0.0,1.0,,0,0,6,5,1,2,0,0,35,42,23,30,2,1,3,3,53,47,71,0
+689904,199,RUS D2,Russia Division 2,R,12,Russia,E,20663,Veles,4383,Zenit St Petersburg II,-0.5,2.75,,-0.25,1.0,,0,0,7,2,4,2,0,0,79,84,48,45,0,4,4,0,0,0,72,0
+689666,221,EST ML,Estonia Meistriliiga,E,84,Estonia,A,2586,JK Trans Narva,1485,JK Tallinna Kalev,-1.75,3.5,,-0.75,1.5,,2,0,7,2,0,0,0,0,119,75,82,32,3,0,4,0,68,32,73,1
+687537,681,PRT SL,Portugal Segunda Liga,P,45,Portugal,P,6197,Sporting Covilha,1011,Penafiel,-0.25,2.25,10,0.0,0.75,4.5,0,0,4,1,0,2,0,0,99,87,56,46,2,0,4,4,55,45,71,0
+687439,8,RUS PL,Russia Premier League,R,12,Russia,E,6748,FC Ufa,5658,Lokomotiv Moscow,+0.25,1.75,9,+0.25,0.75,4.5,1,1,2,4,1,4,0,0,101,84,39,36,3,1,4,12,49,51,71,1
+690013,2502,DEN DW1,Denmark 1.Division Women,D,15,Denmark,D,38591,JAI Women,38592,Aarhus 1900 Women,0.0,3.5,,0.0,1.5,,1,0,2,3,1,3,0,0,68,95,42,73,2,5,0,4,0,0,71,1
+689821,281,EST EL,Estonia - Esiliiga,E,84,Estonia,A,1807,Rakvere JK Tarvas,3400,FC Flora Tallinn II,+2.25,3.75,,+1.0,1.5,,0,1,6,3,1,0,1,1,73,115,52,81,1,5,0,10,41,59,75,1
+689593,392,GER BL U19,Germany Bundesliga U19,G,5,Germany,D,7072,Cottbus U19,3124,Hertha Berlin U19,+1.75,4.0,,+0.75,1.75,,0,1,1,3,0,0,0,0,80,109,59,79,4,3,3,8,0,0,73,1
+689798,778,TUR L1,Turkey 1 Lig,T,26,Turkey,T,3610,Hatayspor,9228,Altay,-0.5,2.5,9,-0.25,1.0,4.5,3,1,0,8,1,0,0,0,66,57,48,55,5,4,8,4,49,51,68,1
+689864,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,8156,Dynamo Kiev Reserves,31897,FK Lviv Reserves,-2.75,3.75,,-1.25,1.5,,2,1,7,6,0,4,0,0,85,88,63,52,4,2,9,3,55,45,69,1
+689899,2457,HUN NW,Hungary NBI Women,H,44,Hungary,X,27158,Diosgyori VTK Women,33229,Szent Mihaly SE Women,-3.5,4.5,,-1.5,1.75,,2,0,11,1,0,0,0,0,100,89,90,60,10,1,8,7,0,0,74,1
+690011,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15112,NAPSA Stars,15577,Forest Rangers,-0.25,3.0,,0.0,1.25,,0,0,5,1,2,0,0,0,75,85,37,55,5,3,4,5,43,57,68,0
+689926,2801,Spa PNW,Spain Primera Nacional Women,S,23,Spain,X,35291,Fundacion Albacete B Women,34074,Ciudad de Murcia Women,-1.25,3.5,,-0.5,1.5,,1,0,3,2,1,1,1,0,0,0,39,29,1,0,0,0,0,0,70,1
+687437,8,RUS PL,Russia Premier League,R,12,Russia,E,5463,Dinamo Moscow,22,Terek Grozny,-0.75,2.0,9,-0.25,0.75,4,0,1,1,4,3,4,1,0,71,123,16,26,1,3,3,5,47,53,68,1
+689729,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32402,Maritimo U23,32398,Cova de Piedade U23,-0.5,2.75,,-0.25,1.0,,1,1,4,1,1,1,0,0,56,50,34,25,3,0,7,3,54,46,63,1
+689927,2801,Spa PNW,Spain Primera Nacional Women,S,23,Spain,X,18496,Rayo Vallecano II Women,18505,Torrelodones Women,-0.25,3.25,,-0.25,1.25,,3,2,4,1,1,0,0,0,81,58,44,14,6,2,6,3,0,0,66,1
+689594,392,GER BL U19,Germany Bundesliga U19,G,5,Germany,D,3114,Holstein Kiel U19,3115,St Pauli U19,+0.5,3.5,,+0.25,1.5,,1,1,8,2,1,0,0,0,63,49,46,20,6,2,11,4,64,36,70,1
+690014,453,BLR D1,Belarus Division 1,B,94,Belarus,B,3281,Smolevichi,35274,FK Ruh Brest,-0.5,3.0,,-0.25,1.25,,0,0,6,1,0,3,0,0,143,55,81,22,2,2,6,2,0,0,70,0
+689910,199,RUS D2,Russia Division 2,R,12,Russia,E,3506,FK Kvant Obninsk,31860,Salyut Belgorod,+0.25,2.5,,0.0,1.0,,0,1,6,4,1,1,0,0,78,78,54,43,4,4,8,10,0,0,68,1
+689960,541,AUT L1 W,Austria Women League 1,A,60,Austria,A,8033,FC Südburgenland Women,7994,Neulengbach Women,+1.75,3.75,9.5,+0.75,1.5,4.5,0,1,2,3,0,0,0,0,93,111,42,59,4,7,3,13,43,57,72,1
+689737,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,2554,Ceske Budejovice U19,1654,Hradec Kralove U19,0.0,3.5,,0.0,1.5,,1,0,4,6,0,0,0,0,104,87,43,33,2,0,2,1,0,0,68,1
+689738,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1658,FC Brno U19,2553,Slavia Prague U19,+0.25,3.5,,+0.25,1.5,,0,1,4,3,1,0,0,0,62,60,31,23,4,1,7,5,43,57,66,1
+690012,916,SER U19,Serbia U19 League,S,59,Serbia,S,37007,FK Graficar U19,10863,Cukaricki U19,-0.25,3.0,,0.0,1.25,,1,1,4,2,0,0,0,0,122,100,59,43,1,2,5,1,0,0,68,1
+689911,199,RUS D2,Russia Division 2,R,12,Russia,E,36480,Khimik-Arsenal,3318,FK Kaluga,-0.5,2.75,,-0.25,1.25,,0,0,10,3,0,0,0,0,101,82,54,39,2,5,2,2,0,0,73,0
+689690,598,KEN PL,Kenya Premier League,K,105,Kenya,K,30017,FC Talanta,13781,Ushuru FC,0.0,2.0,,+0.5,0.5,,0,2,2,3,0,0,0,0,66,72,28,41,0,2,0,2,48,52,53,1
+689723,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,25652,Bhayangkara FC,1652,Semen Padang,-1.0,2.5,9.5,-0.5,1.0,4.5,0,0,8,2,1,0,0,0,65,47,47,22,0,2,5,0,0,0,45,0
+690019,881,AFC C U19,AFC U19 Championships,A,4,International,G,15979,Cambodia U19,15950,Malaysia U19,+0.25,2.75,9,+0.25,1.25,4,0,3,2,7,1,1,0,0,48,65,23,60,0,11,0,4,35,65,HT,1
+690017,261,TUR U19,Turkey U19 League,T,26,Turkey,T,12484,Kasimpasa U19,15795,Yeni Malatyaspor U19,-0.25,2.75,,0.0,1.0,,0,1,8,1,0,0,0,0,49,48,27,14,3,3,6,3,52,48,HT,1
+689806,261,TUR U19,Turkey U19 League,T,26,Turkey,T,3266,Trabzonspor U19,15958,Goztepe U19,-0.25,2.5,,-0.25,1.0,,0,1,4,1,0,1,0,0,70,27,52,16,1,1,5,3,64,36,HT,1
+689617,236,DZA YL,Algeria Youth League,A,111,Algeria,A,11950,Amal Bou Saada U21,10690,DRB Tadjenant U21,-0.25,2.25,,0.0,1.0,,0,1,4,1,0,2,1,0,39,52,20,24,1,3,2,0,42,58,HT,1
+690018,261,TUR U19,Turkey U19 League,T,26,Turkey,T,1700,Genclerbirligi U19,27968,Gazisehir Gaziantep FK U19,-0.5,2.25,,-0.25,0.75,,0,0,10,0,1,0,0,0,38,23,36,9,4,0,5,2,0,0,HT,0
+689595,392,GER BL U19,Germany Bundesliga U19,G,5,Germany,D,7444,RB Leipzig U19,3116,Dynamo Dresden U19,-1.0,3.25,9.5,-0.5,1.25,4.5,0,2,1,1,1,0,0,0,59,43,26,19,0,2,0,2,53,47,HT,1
+689809,2373,SPN YL,Spain Youth League,S,23,Spain,X,28440,UD Santa Marta U19,8887,Real Madrid U19,+2,3.5,,+0.75,1.5,,0,0,0,2,0,1,0,0,0,0,21,43,0,0,0,0,0,0,HT,0
+689804,2411,Italy SAW,Italy Serie A Women,I,22,Italy,Y,22911,Juventus Women,17006,Verona Women,-3,4.0,,-1.25,1.5,,1,0,3,0,0,0,1,0,55,33,31,17,2,0,4,4,61,39,HT,1
+689912,199,RUS D2,Russia Division 2,R,12,Russia,E,3386,Sokol Saratov,3507,Zorkiy Krasnogorsk,-1.25,2.75,,-0.5,1.25,,2,0,1,3,0,0,0,0,52,37,25,19,2,0,3,2,50,50,HT,1
+689808,261,TUR U19,Turkey U19 League,T,26,Turkey,T,11180,Osmanlispor FK U19,10978,Sivasspor U19,0.0,2.5,9,0.0,1.0,4,1,2,2,2,0,1,0,0,64,53,26,30,1,2,1,0,53,47,HT,1
+689073,244,POL L1,Poland I Liga,P,20,Poland,B,1584,Miedz Legnica,1752,Radomiak Radom,-0.25,2.5,10,0.0,1.0,4.5,3,0,3,1,1,0,0,0,56,59,37,30,5,0,1,8,48,52,HT,1
+689732,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32164,Rio Ave U23,32397,Belenenses U23,-0.25,2.5,10,-0.25,1.0,4.5,1,0,2,2,0,1,0,0,42,52,20,17,2,1,1,3,44,56,44,1
+689730,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,31905,Portimonense U23,32400,Benfica U23,+1.25,3.0,10.5,+0.5,1.25,5,0,1,4,4,0,0,1,0,29,37,15,23,3,4,3,6,44,56,44,1
+689807,261,TUR U19,Turkey U19 League,T,26,Turkey,T,29342,Erokspor U19,24066,Buyuksehir Erzurumspor U19,-0.75,2.25,,-0.25,0.75,,0,0,1,3,1,1,0,0,54,58,13,19,0,3,1,8,0,0,41,0
+689822,1607,SPN WS,Spain Women Segunda,S,23,Spain,X,20115,UDG Tenerife Sur Women II,12224,CFF Caceres Women,+1.75,3.75,,+0.75,1.5,,0,0,0,0,0,0,0,0,30,33,16,12,2,1,3,3,47,53,31,0
+689672,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,1796,Klepp Women,4167,Arna Bjornar Women,-1.25,3.25,8.5,-0.5,1.25,4,1,0,2,0,0,0,0,0,24,20,15,7,3,2,5,0,56,44,31,1
+690022,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,4332,Lillestrom SK Women,2601,Fart Women,-3.75,4.5,,-1.5,1.75,,0,2,4,1,0,0,0,0,57,34,25,10,1,2,0,0,0,0,30,1
+689641,845,UGA PL,Uganda Premier League,U,109,Uganda,W,33065,Wakiso Giants FC,9022,Express FC,-0.5,2.0,,-0.25,0.75,,0,2,2,0,0,0,0,0,101,56,56,34,0,2,2,1,0,0,30,1
+689826,943,SYR D1,Syria Division 1,S,64,Syria,X,34115,Al Wathba SC,38432,Al Futowa,-0.75,2.25,,-0.25,0.75,,1,0,6,0,1,1,0,0,30,23,28,7,4,0,2,0,51,49,30,1
+689877,837,ARM Cup,Armenian Cup,A,88,Armenia,Y,6028,Pyunik Yerevan,37073,FC Urartu,-0.5,2.0,,-0.25,0.75,,0,0,0,1,0,0,0,0,29,33,10,4,2,1,0,0,48,52,30,0
+689894,973,GRC FL U19,Greece Football League U19,G,13,Greece,X,23287,PAOK Salonika U19,32737,Panathinaikos U19,-0.5,3.0,,-0.25,1.25,,0,0,0,1,0,1,0,0,40,39,23,38,1,2,2,4,0,0,30,0
+690025,1345,HRV U19,Croatia U19 League,C,98,Croatia,K,15224,Hajduk Split U19,17046,NK Sesvete U19,-2.25,4.25,,-1.0,1.75,,0,0,1,1,1,1,0,0,23,15,14,4,1,1,3,1,71,29,30,0
+689303,357,DNK SG3,Denmark Series Group 3,D,15,Denmark,D,7406,Kolding B,20496,Oure FA,0.0,3.25,,0.0,1.25,,0,1,1,4,0,0,0,0,26,47,18,25,2,3,1,0,0,0,30,1
+689050,721,HRV H2,Croatia 2.HNL,C,98,Croatia,K,6290,NK Sesvete,6204,NK Rudes,-0.25,2.25,9,0.0,1.0,4,0,2,2,0,1,1,0,0,21,21,11,8,0,1,2,0,48,52,30,1
+687530,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5487,Erzgebirge Aue,5544,Heidenheim,-0.25,2.5,10,0.0,1.0,4.5,0,0,2,0,1,2,0,0,25,18,9,12,0,0,3,2,44,56,30,0
+687532,36,SPN PL,Spain Primera Liga,S,23,Spain,X,6831,Espanyol,934,Valencia,0.0,2.25,9.5,0.0,0.75,4.5,0,0,5,1,0,1,0,0,43,19,26,5,2,0,5,1,58,42,29,0
+690026,1345,HRV U19,Croatia U19 League,C,98,Croatia,K,17045,NK Istra 1961 Pula U19,17262,HNK Rijeka U19,+1.25,3.25,,+0.5,1.25,,1,1,2,2,0,0,0,0,19,23,8,18,2,1,2,4,43,57,30,1
+687529,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5488,Greuther Furth,7029,Darmstadt,-0.25,2.5,10.5,0.0,1.0,5,0,0,2,1,1,0,0,0,63,21,23,6,3,0,9,2,68,32,30,0
+687528,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5609,St Pauli,5884,Karlsruhe,-0.25,2.75,10,-0.25,1.0,4.5,0,0,2,2,0,0,0,0,42,37,22,4,2,2,6,2,65,35,30,0
+687414,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,1621,IFK Goteborg,3485,Ostersunds FK,-1.0,2.75,9,-0.25,1.25,4.5,1,1,1,1,0,1,0,0,51,23,17,13,3,2,4,2,0,0,30,1
+687416,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,2121,Sirius,1413,Kalmar FF,+0.75,2.5,9,+0.25,1.0,4,0,0,2,3,0,0,0,0,42,23,18,10,1,2,5,3,57,43,30,0
+687415,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,3483,AIK,4605,GIF Sundsvall,-0.75,2.5,9,-0.25,1.0,4,0,0,2,0,0,1,0,0,41,22,22,6,0,0,1,2,51,49,30,0
+687411,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,2468,Falkenbergs FF,8028,IFK Eskilstuna,-1.0,2.75,9.5,-0.25,1.25,4.5,0,0,3,1,1,0,0,0,31,29,35,8,2,1,5,1,61,39,30,0
+687410,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,2467,Orebro SK,1917,Malmo FF,+2,3.5,9,+0.75,1.5,4,0,2,0,3,0,0,0,0,18,49,7,29,0,2,3,12,29,71,30,1
+689946,1840,KOS SL,Kosovo Superliga,K,140,Kosovo,K,25317,KF Feronikeli,33047,KF Ballkani,-0.75,2.5,,-0.25,1.0,,0,0,1,3,0,0,0,0,32,42,22,23,1,0,1,3,0,0,30,0
+689675,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,3223,Trondheims-Ørn Women,1798,Stabaek Women,-1.0,2.75,9,-0.5,1.25,4,1,0,0,1,1,0,0,0,33,29,17,20,2,1,2,1,58,42,30,1
+690021,598,KEN PL,Kenya Premier League,K,105,Kenya,K,7751,Chemelil Sugar FC,30853,Kisumu All Stars,0.0,2.0,,0.0,0.75,,0,0,3,1,0,0,0,0,30,39,33,25,0,0,1,1,0,0,30,0
+687801,158,TUR SL,Turkey Super Lig,T,26,Turkey,T,6709,Konyaspor,7970,Genclerbirligi,0.0,2.25,9,0.0,1.0,4,0,0,0,1,0,0,0,0,37,43,16,19,1,0,2,1,49,51,29,0
+689784,2346,Italy CP1,Italy Campionato Primavera 1,I,22,Italy,Y,8283,Napoli U19,4541,Fiorentina U19,+0.25,2.5,10,+0.25,1.0,5,1,1,1,6,0,1,0,0,32,58,12,39,1,4,0,1,33,67,29,1
+689060,267,POL L2,Poland II Liga,P,20,Poland,B,17961,Elena Torun,1753,Znicz Pruszków,-0.25,2.75,,+0.5,0.5,,0,1,3,1,0,0,0,0,55,32,44,13,4,2,0,1,0,0,29,1
+688210,1292,DNK D2G1,Denmark 2. Division Group 1,D,15,Denmark,D,3132,FC Helsingor,10210,Slagelse,-3,3.75,10,-1.25,1.75,4.5,2,0,3,0,0,0,0,0,39,33,30,12,3,0,3,0,62,38,29,1
+689761,237,POL L3,Poland III Liga,P,20,Poland,B,37194,Lechia Zielona Góra,2928,Ruch Chorzow,0.0,2.75,,0.0,1.25,,0,0,2,2,0,0,0,0,25,29,9,9,2,1,0,2,42,58,29,0
+687413,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,4703,Hammarby,5428,BK Hacken,-1.25,3.5,10,-0.5,1.5,4.5,0,0,4,2,2,1,0,0,35,38,19,8,2,0,3,4,48,52,29,0
+689674,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,12394,Sandviken Women,4168,Kolbotn Women,-1.25,3.0,,-0.5,1.25,,0,0,2,3,0,1,0,0,37,42,10,17,2,2,1,4,47,53,29,0
+689811,309,UKR PL,Ukraine Persha Liga,U,21,Ukraine,W,2204,Kremin Kremenchuk,27898,Ahrobiznes Volochysk,+1.25,2.75,,+0.5,1.25,,0,0,3,2,0,1,0,0,31,21,12,12,2,1,2,1,52,48,29,0
+687412,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,3012,IFK Norrkoping,5586,Djurgarden,+0.25,2.25,9,0.0,1.0,4.5,2,0,1,4,1,0,0,0,17,24,7,18,2,0,0,7,35,65,29,1
+689676,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,1797,Valerenga Women,3222,Avaldsnes Women,-1.0,2.75,8.5,-0.5,1.25,4,0,0,2,2,0,0,0,0,33,24,27,11,0,0,0,0,0,0,29,0
+689854,1802,ENG PL2,England Premier League 2,E,14,England,Y,22517,Chelsea U23,22547,Blackburn U23,-0.75,1.0,,-0.25,1.25,,1,0,1,0,0,0,0,0,21,19,13,12,1,1,1,0,0,0,28,1
+689762,237,POL L3,Poland III Liga,P,20,Poland,B,1543,Sokol Aleksandrow,6967,Lechia Tomaszow Mazowiecki,-1.0,3.0,,-0.5,1.25,,0,0,4,1,1,0,0,0,21,20,13,12,1,1,2,1,46,54,28,0
+689898,259,THA Cup,Thailand Cup,T,8,Thailand,T,2762,Ratchaburi FC,11963,Port FC,+0.5,2.75,9.5,+0.25,1.0,4.5,0,0,0,3,0,0,0,0,19,28,12,28,0,1,0,1,38,62,28,0
+687409,203,SWE AL,Sweden Allsvenskan,S,101,Sweden,R,1618,Helsingborg,5862,Elfsborg,0.0,3.0,9.5,0.0,1.25,4.5,0,0,0,6,0,0,0,0,23,33,12,23,4,2,4,2,34,66,28,0
+689628,215,AUT RM,Austria Regionalliga Mitte,A,60,Austria,A,19575,Wolfsberger AC II,16309,TUS Bad Gleichenberg,-0.25,3.5,9.5,0.0,1.5,4.5,1,0,2,3,0,0,0,0,57,25,43,33,2,1,4,1,59,41,28,1
+689673,283,NOR TW,Norway Toppserien Women,N,70,Norway,N,3944,Lyn Fotball Women,2752,Røa Women,0.0,3.0,8.5,0.0,1.25,4,0,0,0,1,0,0,0,0,37,42,18,21,0,0,3,3,53,47,28,0
+688211,1292,DNK D2G1,Denmark 2. Division Group 1,D,15,Denmark,D,2672,Vanløse,2300,HIK,0.0,2.75,8.5,0.0,1.0,4,0,0,0,1,0,0,0,0,37,29,23,16,0,0,3,0,38,62,28,0
+689865,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,37160,Dnipro-1 Reserves,7439,Zorya Reserves,0.0,3.5,,0.0,1.5,,0,1,0,3,0,0,0,0,20,53,8,33,1,2,0,1,19,81,27,1
+687503,634,UKR VL,Ukraine Vyscha Liga,U,21,Ukraine,W,5464,Vorskla Poltava,2032,Desna Chernihiv,+1.0,2.25,9.5,+0.25,1.0,4.5,0,0,4,0,0,0,0,0,37,37,18,15,0,0,4,5,43,57,27,0
+687504,634,UKR VL,Ukraine Vyscha Liga,U,21,Ukraine,W,5625,Karpaty Lviv,1196,Shakhtar Donetsk,+1.25,2.75,10,+0.5,1.25,4.5,0,1,0,1,0,0,0,0,38,83,22,67,0,1,2,1,24,76,27,1
+689794,468,SGP Cup,Singapore Cup,S,11,Singapore,X,20415,Tampines Rovers FC,1992,Warriors FC,-0.75,3.0,9,-0.25,1.25,4.5,1,2,2,0,0,0,0,0,43,20,31,12,1,3,4,1,66,34,27,1
+689596,392,GER BL U19,Germany Bundesliga U19,G,5,Germany,D,2670,Borussia M'gladbach U19,7437,Arminia Bielefeld U19,-1.5,3.5,,-0.5,1.5,,2,0,3,1,0,1,0,0,23,29,18,15,2,0,2,1,0,0,27,1
+689612,147,AZE PL,Azerbaijan Premier League,A,85,Azerbaijan,A,23107,Sabail FC,28915,Keshla FK,0.0,2.25,8.5,0.0,1.0,4,0,0,1,1,2,1,0,0,32,34,13,9,2,0,2,0,51,49,27,0
+689061,267,POL L2,Poland II Liga,P,20,Poland,B,2904,Stal Rzeszow,1580,Gornik Leczna,-0.25,2.5,,0.0,1.0,,0,0,2,1,0,0,0,0,27,48,15,26,1,1,1,1,0,0,26,0
+689810,2373,SPN YL,Spain Youth League,S,23,Spain,X,28442,CF Juventud Laguna U19,28719,AD Huracan U19,-0.25,2.75,,0.0,1.25,,0,0,4,0,0,0,0,0,35,39,25,22,1,2,3,1,0,0,24,0
+690023,1388,NOR EL U19,Norway U19 Elite League,N,70,Norway,N,20393,Molde U19,25480,Kongsvinger U19,-1.0,4.0,,-0.5,1.5,,0,1,2,1,0,1,0,0,37,14,20,8,1,1,3,1,0,0,29,1
+690024,322,DNK U19,Denmark U19 League,D,15,Denmark,D,2067,FC Copenhagen U19,10433,Silkeborg IF U19,-0.25,3.25,,0.0,1.25,,0,0,2,2,0,0,0,0,33,19,19,8,4,3,0,3,58,42,29,0
+689691,598,KEN PL,Kenya Premier League,K,105,Kenya,K,35145,Muranga Seal,34076,Mount Kenya United,0.0,2.25,,0.0,0.75,,1,0,1,0,0,0,0,0,18,19,12,12,2,2,1,1,0,100,15,1
+688322,660,CSK L2,Czech 2. Liga,C,10,the Czech Republic,J,29653,SK Prostejov,1152,Vysocina Jihlava,+0.25,2.5,11.5,0.0,1.0,5.5,0,0,0,0,0,0,0,0,14,10,5,6,0,0,0,0,0,0,13,0
+689913,199,RUS D2,Russia Division 2,R,12,Russia,E,6953,FK Ryazan,6785,Saturn Ramenskoye,-0.25,2.75,,+0.5,0.75,,0,0,0,0,0,0,0,0,5,15,8,12,0,0,0,0,44,56,12,0
+689848,659,BIH PL,Bosnia & Herzegovina Premier Liga,B,162,Bosnia and Herzegovina,B,5489,Velez Mostar,3780,Sloboda Tuzla,-1.0,2.25,9.5,-0.5,0.75,4.5,0,0,0,0,0,0,0,0,4,4,2,0,0,0,0,0,65,35,1,0
+690031,381,HKG D1,Hong Kong 1st Division,H,77,Hong Kong,Z,29478,Metro Gallery FC,2543,South China AA,+0.25,3.5,9,0.0,1.5,4.5,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,1,0
+690032,668,MKD L1,Macedonia First League,M,83,Macedonia,M,23204,Akademija Pandev,5568,Rabotnicki Skopje,-0.75,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,100,1,0
+690033,859,SER SL,Serbia Srpska Liga,S,59,Serbia,S,14892,Radnicki Obrenovac,30243,FK Radnicki Novi Belgrad,-0.5,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,84,16,1,0
+689084,346,SVK L2,Slovakia 2. Liga,S,28,Slovakia,S,21428,Puchov,4800,MFk Skalica,+0.25,2.75,,0.0,1.25,,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,53,47,1,0
+689847,659,BIH PL,Bosnia & Herzegovina Premier Liga,B,162,Bosnia and Herzegovina,B,20661,FK Zvijezda 09,5696,Zrinjski Mostar,+1.5,2.25,9.5,+0.5,1.0,4.5,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0
+689562,835,GER OL NS,Germany Oberliga NOFV Sud,G,5,Germany,D,10726,Einheit Rudolstadt,10158,Carl Zeiss Jena II,-0.25,2.75,,0.0,1.0,,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,40,60,1,0
+689083,346,SVK L2,Slovakia 2. Liga,S,28,Slovakia,S,4231,Partizan Bardejov,3394,MFK Dubnica,+0.5,3.0,,+0.25,1.25,,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+689389,373,GER RL NE,Germany Regionalliga North East,G,5,Germany,D,19802,VSG Altglienicke,2489,Viktoria 89 Berlin,-0.25,2.75,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689846,659,BIH PL,Bosnia & Herzegovina Premier Liga,B,162,Bosnia and Herzegovina,B,31651,FK Tuzla City,9473,Mladost Doboj Kakanj,-1.25,2.25,,-0.5,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+684643,35,Barclays PL,Barclays Premier League,B,14,England,Y,1129,Bournemouth,6664,Man Utd,+0.25,2.5,10,+0.25,1.0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689028,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,3072,Slovacko B,19708,Banik Ostrava B,0.0,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+689387,373,GER RL NE,Germany Regionalliga North East,G,5,Germany,D,2493,Optik Rathenow,22484,BSG Chemie Leipzig,+0.25,2.5,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689869,425,MNE PL,Montenegro Prva Liga,M,81,Montenegro,H,2942,FK Rudar Pljevlja,8636,FK Iskra Danilovgrad,+0.25,2.25,,+0.25,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+689870,425,MNE PL,Montenegro Prva Liga,M,81,Montenegro,H,2932,FK Zeta Golubovci,2943,Buducnost Podgorica,+0.25,2.25,,+0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+689871,425,MNE PL,Montenegro Prva Liga,M,81,Montenegro,H,4243,OFK Petrovac,7769,FK Grbalj Radanovici,-0.25,2.25,,0.0,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+689868,425,MNE PL,Montenegro Prva Liga,M,81,Montenegro,H,15963,FK Kom Podgorica,31605,OFK Titograd,-0.25,2.25,8.5,0.0,1.0,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,100,0,1,0
+689062,267,POL L2,Poland II Liga,P,20,Poland,B,2905,Legionovia Legionowo,2964,Olimpia Elblag,+0.25,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689082,346,SVK L2,Slovakia 2. Liga,S,28,Slovakia,S,31964,FC Kosice,2250,ZP Sport Podbrezova,-0.5,2.75,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689858,1865,SWE D2Q,Sweden Div 2 Qualification,S,101,Sweden,R,7263,BK Olympic,4674,IFK Berga,,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+686723,42,UK Champ,England Championship,E,14,England,Y,5800,Wigan,6543,Swansea,0.0,2.5,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,1,0
+690027,1199,MWI SL,Malawi Super League,M,186,Malawi,M,29127,Masters Security,29213,Chitipa United,-0.25,2.25,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+690028,1199,MWI SL,Malawi Super League,M,186,Malawi,M,23865,Azam Tigers FC,17229,Mzuzu University,-0.75,2.0,,-0.25,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+690030,2610,MWI CC,Malawi Challenge Cup,M,186,Malawi,M,22070,Big Bullets,22219,Karonga United,-1.0,2.0,,-0.5,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+690029,2610,MWI CC,Malawi Challenge Cup,M,186,Malawi,M,22053,Silver Strikers,35357,Mlatho Mponela FC,-1.0,2.0,,-0.5,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

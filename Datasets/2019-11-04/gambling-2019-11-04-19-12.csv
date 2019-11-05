@@ -1,0 +1,38 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692360,238,DZA D1,Algeria Division 1,A,111,Algeria,A,1981,USM Alger,7760,JS Saoura,-0.75,2.25,9,+0.25,0.5,4,1,1,3,0,1,2,0,0,64,52,49,33,4,2,2,1,60,40,62,1
+692349,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28476,Al-Khor SC U23,28017,Al Gharafa U23,-0.75,3.25,9,-0.25,1.25,4,1,1,3,2,2,1,0,0,64,68,51,53,4,5,3,6,0,0,68,1
+692511,2336,Albania CP,Albania Championship,A,53,Albania,A,27826,Vllaznia Shkoder,28565,Bylis Ballsh,-0.25,2.0,,0.0,0.75,,0,1,1,1,2,1,0,0,72,84,24,34,1,3,2,3,0,0,50,1
+692590,1909,Arab CC,Arab Club Championship,A,36,Saudi Arabia,S,909,Al Ittihad Jeddah,930,Al Wasl SC,-1.25,3.0,9.5,-0.5,1.0,4.5,2,0,2,4,0,1,0,0,59,55,21,28,4,1,1,1,0,0,55,1
+688155,633,CSK FL,Czech First League,C,10,the Czech Republic,J,2650,FC Fastav Zlín,1178,Viktoria Plzen,+1.0,2.5,9,+0.25,1.0,4.5,0,0,0,6,1,0,0,0,71,98,28,65,0,4,4,4,33,67,54,0
+689008,509,CYP D1,Cyprus Division 1,C,69,Cyprus,S,4218,AEL Limassol,10167,Pafos FC,-0.75,2.25,,-0.25,1.0,,0,0,3,0,1,2,0,0,49,48,21,15,4,0,4,2,49,51,53,0
+688324,451,HRV H1,Croatia 1.HNL,C,98,Croatia,K,5222,NK Lokomotiva Zagreb,10133,NK Varazdin,-1.25,2.75,10,-0.5,1.0,4.5,2,1,4,3,0,0,0,0,90,94,44,35,5,5,6,4,58,42,58,1
+691562,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,10043,Maccabi Kabilio Jaffa,8676,FC Ironi Or Yehuda,-0.25,2.25,,0.0,0.75,,0,0,2,2,1,1,0,0,42,46,39,34,3,2,1,0,0,0,55,0
+691557,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9168,Maccabi Amishav Petah Tikva,8699,Beitar Ramat Gan,+0.25,3.0,,0.0,1.25,,3,0,2,4,3,0,0,0,92,84,59,71,6,2,6,2,49,51,57,1
+691556,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,9624,Sports Club Beer Sheva,8696,MS Hapoel Yeroham,0.0,2.5,,+0.5,0.5,,1,1,4,1,2,1,0,0,42,20,31,12,2,1,4,1,0,0,HT,1
+691407,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,36610,Hapoel Nof HaGalil,5936,Hapoel Afula,-0.5,2.25,9,-0.25,1.0,4,0,0,2,2,1,0,0,0,69,67,42,34,2,3,3,2,53,47,50,0
+691406,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,956,Bnei Sakhnin,6023,Hapoel Petach Tikva,-0.5,2.5,9,-0.25,1.0,4,0,1,8,0,0,1,0,1,74,41,53,6,3,1,10,2,63,37,55,1
+692333,233,LTU AL,Lithuania A Lyga,L,95,Lithuania,L,1536,Trakai FK,1533,Atlantas Klaipeda,-2.25,3.75,,-1.0,1.75,,2,2,3,5,1,0,0,0,90,66,64,38,4,6,3,4,64,36,56,1
+687767,299,POL E,Poland Ekstraklasa,P,20,Poland,B,1915,Slask Wroclaw,1589,Wisla Plock,-0.75,2.25,9.5,-0.25,1.0,4.5,2,0,2,0,2,0,0,0,71,72,40,45,4,3,5,4,48,52,55,1
+688624,158,TUR SL,Turkey Super Lig,T,26,Turkey,T,10741,Ankaragucu,27033,Gazisehir Gaziantep FK,+0.25,2.5,9,0.0,1.0,4.5,0,1,3,2,1,1,0,0,56,58,39,35,2,3,3,2,50,50,51,1
+691408,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,5727,Hapoel Rishon Lezion,6370,Hapoel Bnei Lod,-2.5,3.25,9.5,-1.0,1.5,4.5,2,0,6,3,1,1,0,0,71,66,54,45,7,0,1,3,54,46,55,1
+692350,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,12057,Budaiya,2305,Manama,+1.0,3.0,9,+0.25,1.25,4,0,0,1,2,2,1,0,0,28,42,22,36,0,1,2,3,0,0,40,0
+691563,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,16201,AS Nordia Jerusalem,27841,FC Holon Yermiyahu,-0.25,2.5,,0.0,1.0,,0,0,1,0,2,0,0,0,40,26,19,11,1,0,0,2,60,40,39,0
+692331,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,15485,NEC Reserves,34410,VVV Reserves,-0.5,3.75,10,-0.25,1.5,4.5,0,0,0,0,1,1,0,0,41,30,29,25,2,1,2,1,49,51,34,0
+692330,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,7821,NAC Reserves,33928,Excelsior Reserves,-2.75,4.0,,-1.0,1.5,,0,0,1,1,0,0,0,0,45,44,33,29,2,1,1,2,0,0,40,0
+692329,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,6530,Heerenveen Reserves,7537,Go Ahead Eagles Reserves,+0.5,4.0,10,+0.25,1.5,4.5,0,4,1,3,0,0,0,0,69,39,44,26,1,4,2,2,57,43,41,1
+692328,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,5699,FC Groningen Reserves,7543,De Graafschap Reserves,-2.75,4.25,10.5,-1.25,1.75,5,1,0,9,0,0,0,0,0,39,21,24,9,4,1,5,0,57,43,41,1
+692326,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,7540,Dordrecht Reserves,7554,Fortuna Sittard Reserves,+0.5,4.0,10,+0.25,1.5,4.5,1,1,1,6,0,0,0,0,30,46,10,25,2,6,1,6,40,60,40,1
+692325,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,23491,FC Den Bosch Reserves,7820,Willem II Reserves,+0.5,3.0,10,+0.25,1.25,4.5,0,4,2,2,0,0,0,0,29,53,14,29,3,10,1,4,34,66,42,1
+692327,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,32458,FC Emmen Reserves,15635,Cambuur Leeuwarden Reserves,-0.25,3.75,9.5,-0.25,1.75,4.5,2,0,1,1,1,0,0,0,47,43,21,24,2,3,1,4,49,51,41,1
+692361,238,DZA D1,Algeria Division 1,A,111,Algeria,A,8457,USM Bel Abbes,2726,JS Kabylie,0.0,2.0,8.5,0.0,0.75,4,0,0,0,1,1,1,0,0,26,23,13,24,0,1,2,2,55,45,21,0
+692357,492,BRA,Brazilian Matches,B,47,Brazil,B,37182,Arturzinho,32159,Buzios,+1.5,3.25,,+0.5,1.25,,1,0,1,1,0,0,0,0,13,6,8,5,1,0,0,1,0,0,10,1
+692363,1804,BRA CG,Brazil Copa Gaucho,B,47,Brazil,B,30439,Internacional B,16024,Sao Jose PA,0.0,2.25,10,0.0,0.75,4.5,0,0,0,1,0,0,0,0,11,13,9,11,1,0,1,0,53,47,14,0
+692356,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,32887,Racing Club Abidjan,14410,SC Gagnoa,-0.5,2.25,8.5,+0.25,0.5,4,0,0,1,0,0,0,0,0,5,8,6,2,0,0,0,1,0,0,10,0
+687228,104,DNK SL,Denmark Superligaen,D,15,Denmark,D,4835,Silkeborg IF,5214,Brondby,+0.75,3.25,11,+0.25,1.5,5,0,0,2,1,0,0,0,0,9,20,3,7,1,2,0,0,45,55,12,0
+687795,632,GER L3,Germany 3.Liga,G,5,Germany,D,5542,MSV Duisburg,2426,KFC Uerdingen 05,-0.5,3.0,10,-0.25,1.25,4.5,0,0,0,2,0,0,0,0,11,19,6,14,0,0,0,1,43,57,13,0
+688314,2792,GRC SL1,Greece Super League 1,G,13,Greece,X,8161,Lamia,28545,Volos NFC,-0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,1,0,0,0,14,12,7,6,0,0,0,0,58,42,10,0
+692359,290,MAR G1,Morocco GNF 1,M,46,Morocco,M,15913,Mouloudia Oujda,2978,Youssoufia Berrechid,-0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,11,11,4,4,0,0,2,0,0,0,9,0
+689837,733,MLT PL,Malta Premier League,M,71,Malta,M,5208,Birkirkara,9353,Gudja United,-1.0,2.5,,-0.5,1.0,,0,0,0,0,0,0,0,0,17,13,7,1,0,0,0,0,61,39,16,0
+692358,1690,Mali PD,Mali Premiere Division,M,165,Mali,M,21512,USFAS Bamako,24754,CSK FC,-0.5,2.25,8,-0.25,1.0,3.5,0,0,0,0,0,0,0,0,16,26,3,3,0,1,1,0,0,0,9,0
+688226,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,11616,Odd BK,1410,Mjondalen,-0.75,2.5,9.5,-0.25,1.0,4.5,0,0,1,0,0,0,0,0,14,10,12,3,0,0,1,2,64,36,12,0
+688644,151,ISR PL,Israel Premier League,I,97,Israel,Y,6307,Hapoel Tel-Aviv,767,Maccabi Haifa,+1.25,2.5,9,+0.5,1.0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

@@ -1,0 +1,24 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+691429,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,8675,Hapoel Kiryat Ono,8697,Beitar Petah Tikva,-1.0,3.0,,-0.25,1.25,,1,2,3,4,1,2,0,0,72,67,41,32,6,4,6,2,60,40,90,1
+691558,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,2200,Ironi Tiberias,9139,Maccabi Tzur Shalom,0.0,2.5,,0.0,1.0,,2,1,3,1,2,2,0,0,81,86,25,32,1,3,3,3,45,55,78,1
+691559,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,9396,MS Tira,23665,Maccabi Tamra,-1.0,2.5,,-0.25,1.0,,0,1,5,2,2,6,0,0,70,45,35,19,4,1,8,2,64,36,73,1
+691425,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,28256,Hapoel Tirat HaCarmel,10041,Maccabi Umm al-Fahm,-0.5,3.25,,-0.25,1.25,,0,1,5,4,2,1,0,0,73,83,50,54,6,6,6,8,47,53,86,1
+690927,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9900,Hapoel Sandala Gilboa,8684,Hapoel Beit Shean Mesilot,0.0,3.0,,0.0,1.25,,1,5,1,9,1,1,0,0,86,80,48,58,7,11,4,5,0,0,83,1
+691554,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16216,Ironi Beit Dagan,8766,Beitar Kfar Saba Shlomi,-0.5,3.25,,-0.25,1.25,,3,2,4,5,2,5,1,0,0,0,53,67,3,2,0,0,0,0,82,1
+691553,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8988,Beitar Ironi Maale Adumim,10116,Bnei Eilat,+0.75,3.0,,+0.5,1.25,,1,3,2,3,2,2,0,0,73,64,34,35,4,4,5,4,57,43,78,1
+691555,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,28410,MS Shikun Hamizrah,9438,Ironi Modiin,-0.75,2.75,,-0.25,1.25,,1,0,2,2,0,3,0,0,90,65,46,36,5,4,3,3,0,0,78,1
+690990,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16478,Maccabi Ironi Sderot,16763,Hapoel Ironi Gedera,-3,4.0,,-1.25,1.5,,3,1,2,3,0,1,0,0,89,45,60,30,8,2,10,6,0,0,77,1
+692312,2609,PLE SPL,Palestine Gaza Strip Premier League,P,125,Palestine,B,37941,Al Ahli Gaza,32978,Ittihad Khanyounis,0.0,2.25,,0.0,0.75,,0,2,0,2,1,2,0,0,110,109,60,83,5,11,7,10,0,0,74,1
+692352,568,EGY D2,Egypt Division 2,E,110,Egypt,A,1476,Petrojet,28260,Serameka,-0.25,2.0,,0.0,0.75,,0,1,2,4,1,1,0,0,80,77,45,38,0,2,2,1,0,0,79,1
+692354,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10678,Suez Montakhab,9251,Al Nasr Cairo,0.0,3.0,,0.0,1.75,,1,0,3,12,1,0,0,0,66,94,33,84,1,3,2,5,0,0,74,1
+692353,568,EGY D2,Egypt Division 2,E,110,Egypt,A,30036,Tersana SC,10680,Marekh,-0.25,2.0,,-0.25,0.75,,1,0,1,10,1,0,0,0,87,78,59,68,3,3,0,6,0,0,77,1
+692351,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10402,Olympic El Qanal,27760,Gomhoryet Shebin,-0.75,2.0,,-0.25,0.75,,0,0,9,1,0,2,0,0,102,78,72,34,1,0,4,0,0,0,74,0
+690941,743,AFC Cup,AFC Cup,A,4,International,G,25286,April 25,9544,Al Ahed,+0.5,2.25,9.5,+0.25,0.75,4.5,0,0,2,2,0,0,1,0,38,49,28,50,0,3,3,7,30,70,51,0
+692321,1345,HRV U19,Croatia U19 League,C,98,Croatia,K,17047,Hrvatski Dragovoljac U19,37310,HNK Orijent U19,-1.5,3.5,,-0.5,1.5,,1,2,5,0,1,0,0,0,52,50,28,21,1,4,3,5,55,45,58,1
+692323,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,6542,FC Twente Reserves,7535,Heracles Reserves,+0.5,4.0,10,+0.25,1.75,4.5,0,1,1,2,0,0,0,0,45,77,13,30,2,4,2,3,42,58,51,1
+691328,833,UEFA YL,UEFA Youth League,U,4,International,G,4139,Midtjylland U19,15347,Zrinjski Mostar U19,-2.25,3.25,10,-1.0,1.25,4.5,1,0,6,0,0,0,0,0,58,32,31,9,6,0,6,1,67,33,51,1
+692355,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,20106,Paidha Black Angels,34185,Saviours FC,0.0,2.25,,0.0,0.75,,0,1,0,0,0,1,0,0,73,57,21,12,1,1,1,2,0,0,45,1
+688020,8,RUS PL,Russia Premier League,R,12,Russia,E,23,Krylia Sovetov,4651,Rubin Kazan,-0.25,2.0,9,0.0,0.75,4,0,0,1,1,1,1,0,0,40,54,10,18,0,4,3,5,48,52,37,0
+692324,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,8315,Vitesse Reserves,15691,Feyenoord Reserves,0.25,3.75,10,0.25,1.75,4.5,0,0,0,1,0,0,0,0,5,12,1,10,0,1,0,1,25,75,8,0
+692173,2827,UK List,UK List,U,206,None,W,32468,Kilmarnock Reserves,32478,Motherwell Reserves,+0.75,3.25,,+0.25,1.25,,0,0,1,0,0,0,0,0,0,4,3,8,0,0,0,2,0,0,7,0
+692174,2827,UK List,UK List,U,206,None,W,32470,Queen of South Reserves,32472,Ross County Reserves,+1.0,3.0,,+0.5,1.25,,0,0,0,0,0,0,0,0,14,12,7,4,1,0,0,1,0,0,9,0

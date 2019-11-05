@@ -1,0 +1,30 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688234,817,OMN L,Oman League,O,33,Oman,A,10743,Muscat,8707,Al-Suwaiq,+0.25,2.25,9,0.0,1.0,4,2,0,3,3,2,1,0,0,92,99,50,52,2,0,10,8,0,0,FT,1
+688110,900,RWA NL,Rwanda National League,R,166,Rwanda,L,10145,Gicumbi FC,10147,Espoir FC,0.0,2.0,8,0.0,0.75,4,2,1,6,4,1,0,0,0,125,148,84,63,5,3,4,5,0,0,85,1
+688040,776,GRC Cup,Greece Cup,G,13,Greece,X,27606,Apollon Larissa,4887,Xanthi,+1.75,3.0,,+0.75,1.25,,2,1,1,6,1,3,0,0,82,101,51,75,6,9,9,8,45,55,82,1
+688175,568,EGY D2,Egypt Division 2,E,110,Egypt,A,1504,El Daklyeh,1476,Petrojet,0.0,2.0,,0.0,0.75,,0,1,4,2,2,1,0,0,80,77,55,45,4,2,7,1,0,0,82,1
+688166,258,WClub F,World Club Friendlies,W,4,International,G,2662,Terengganu,6781,Mohun Bagan,+0.5,3.0,,+0.25,1.25,,4,2,1,4,0,3,0,0,84,77,41,61,5,4,4,5,53,47,82,1
+688128,507,MOZ Moca,Mozambique Mocambola,M,108,Mozambique,M,4194,CD Maxaquene,36463,Clube Ferroviário de Nacala,0.0,2.0,,0.0,0.75,,0,1,8,0,1,1,0,0,88,70,82,50,3,2,6,2,0,0,84,1
+688174,568,EGY D2,Egypt Division 2,E,110,Egypt,A,9251,Al Nasr Cairo,28260,Serameka,+0.25,2.0,,+0.25,0.75,,1,3,6,3,4,3,0,0,96,82,64,33,4,4,0,2,0,0,74,1
+688180,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10678,Suez Montakhab,28043,Coca Cola FC,0.0,2.0,,0.0,0.75,,2,1,5,4,3,1,0,1,92,111,65,38,5,1,3,3,0,0,73,1
+688176,568,EGY D2,Egypt Division 2,E,110,Egypt,A,27760,Gomhoryet Shebin,17494,Al Zarka,-0.5,2.0,,-0.25,0.75,,2,1,6,6,1,1,0,0,72,90,28,41,2,2,1,3,0,0,62,1
+688178,568,EGY D2,Egypt Division 2,E,110,Egypt,A,9440,National Bank,1717,Dayrout,0.0,2.0,,0.0,0.75,,0,0,2,1,1,1,0,0,118,107,82,67,6,4,3,3,0,0,77,0
+688177,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10680,Marekh,10402,Olympic El Qanal,0.0,2.0,,0.0,0.75,,0,1,5,3,1,2,0,0,103,89,70,34,2,2,6,3,0,0,74,1
+688111,900,RWA NL,Rwanda National League,R,166,Rwanda,L,29629,Heroes FC,10126,Mukura,+0.75,2.25,8,+0.25,1.0,3.5,0,1,3,4,0,2,0,0,84,80,54,56,2,3,5,3,0,0,78,1
+688179,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10033,Nogoom Mostakbal,30036,Tersana SC,0.0,2.0,,0.0,0.75,,0,1,4,6,1,3,0,0,87,86,46,63,2,4,0,3,0,0,75,1
+688235,817,OMN L,Oman League,O,33,Oman,A,27575,Dhofar,19068,Al Rustaq,-1.0,2.5,8.5,-0.25,1.0,4,1,0,2,0,0,1,0,0,83,91,50,38,1,0,3,3,54,46,70,1
+688112,900,RWA NL,Rwanda National League,R,166,Rwanda,L,12871,Marines FC,14315,Bugesera,0.0,2.0,8,0.0,0.75,3.5,1,0,2,2,0,1,0,0,100,105,88,55,4,2,7,3,0,0,70,1
+688074,2342,England U23 DL,England U23 Development League,E,14,England,Y,24200,Millwall U23,23071,QPR U23,-0.75,2.75,9.5,-0.25,1.25,4.5,0,2,1,1,1,1,0,0,59,50,37,29,2,6,3,3,0,0,52,1
+688132,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,22356,Ramhlun North FC,22692,Chawnpui,-0.25,2.25,,0.0,1.0,,1,1,1,3,0,0,0,0,58,60,32,31,2,6,4,2,0,0,52,1
+688242,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9021,Uganda Police FC,33065,Wakiso Giants FC,0.0,2.25,,0.0,1.0,,0,1,2,1,2,1,0,0,73,87,20,17,2,2,4,3,0,0,51,1
+688240,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9431,BUL FC,9281,Bright Stars,-0.5,2.25,,-0.25,0.75,,1,0,3,3,1,0,0,0,46,51,17,26,2,0,0,0,0,0,52,1
+688125,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9228,Altay,37482,Gorelespor,-2,3.0,9.5,-0.75,1.25,4.5,0,0,7,3,0,1,0,0,66,46,52,28,8,1,10,1,67,33,49,0
+688245,369,GER RL W,Germany Regionalliga West,G,5,Germany,D,2429,Schalke II,2436,Rot-Weiss Oberhausen,0.0,2.75,9.5,0.0,1.0,4.5,1,1,5,2,1,0,0,1,62,44,50,32,3,1,6,3,52,48,47,1
+688241,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9022,Express FC,37531,Busoga United FC,0.0,2.25,,0.0,1.0,,1,1,1,1,0,1,0,0,72,58,35,16,2,1,0,0,0,0,45,1
+688193,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,6367,Lokomotiv Plovdiv,6505,Cherno More Varna,-0.5,2.25,,-0.25,1.0,,1,0,1,1,1,1,0,0,32,48,26,37,3,1,1,1,40,60,40,1
+688079,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32398,Cova de Piedade U23,32405,Sporting U23,+1.25,3.0,10,+0.5,1.25,5,0,0,2,1,0,0,0,0,40,51,22,30,7,1,1,2,43,57,39,0
+688060,889,IND SL,India Super League,I,17,India,Y,28913,Jamshedpur FC,38461,Hyderabad FC,-1.25,2.75,10.5,-0.5,1.25,5,1,0,1,2,0,1,0,0,43,35,22,19,5,0,2,2,49,51,38,1
+688559,853,UK R,England Reserve Matches,E,14,England,Y,9174,Scunthorpe Reserves,9242,Walsall Reserves,-1.25,3.25,,-0.5,1.25,,0,0,0,0,0,0,0,0,34,17,23,5,2,0,7,0,0,0,38,0
+688499,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,20022,Dynamo de Douala,38528,Fauve Azur Elite,-0.25,2.25,,-0.25,0.75,,0,2,1,0,2,0,0,0,45,53,17,24,0,4,0,1,49,51,38,1
+688239,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,13078,Rentistas U19,23820,Deportivo Maldonado U19,-1.0,2.75,,-0.25,1.0,,1,0,1,1,0,0,0,0,49,41,36,26,3,0,2,1,0,0,36,1
+688251,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,5410,Al Qadisiya Al Khubar,23906,Al Thuqbah,-0.75,2.5,9,-0.25,1.0,4,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,1,0

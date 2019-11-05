@@ -1,0 +1,25 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688080,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32401,Feirense U23,31905,Portimonense U23,+0.25,3.0,9.5,0.0,1.25,4.5,2,2,4,0,0,3,0,1,110,86,78,44,5,5,13,2,61,39,95,1
+688135,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,2792,Opava,31769,FK Jablonec,+0.5,2.5,10.5,+0.25,1.0,5,0,0,4,6,1,2,0,0,113,130,85,82,1,0,6,9,46,54,90,0
+688206,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2050,Al Hala,10426,Qalali,-1.0,3.25,,0.0,0.75,,2,1,4,4,1,2,0,0,73,64,44,43,3,1,2,8,0,0,90,1
+688207,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2305,Manama,12057,Budaiya,-1.5,3.25,9,-0.5,1.25,4.5,0,0,7,4,0,1,0,0,95,74,50,46,5,4,3,4,59,41,FT,0
+688142,625,MEX U20,Mexico U20 League,M,49,Mexico,M,6918,Unam Pumas U20,8020,Atlas U20,0.0,2.75,9,0.0,1.25,4,1,1,2,7,4,1,0,0,96,137,52,72,6,3,5,4,39,61,92,1
+688143,625,MEX U20,Mexico U20 League,M,49,Mexico,M,7710,Veracruz U20,8711,Puebla U20,-1.25,2.5,9,-0.5,1.0,4,2,0,4,0,2,1,0,0,51,56,21,31,6,3,6,7,52,48,87,1
+688501,776,GRC Cup,Greece Cup,G,13,Greece,X,10844,Panserraikos,28545,Volos NFC,+1.5,2.5,,+0.5,1.0,,1,0,2,3,1,4,0,0,82,114,53,74,3,2,2,5,33,67,78,1
+688254,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,6437,Hottain,858,Al Shoalah,0.0,2.25,,0.0,0.75,,1,1,2,0,2,0,0,0,70,59,49,37,3,3,0,0,54,46,72,1
+688237,817,OMN L,Oman League,O,33,Oman,A,8339,Saham,23781,Bahla,-0.5,2.75,9,-0.25,1.25,4.5,0,0,4,5,1,0,0,0,74,63,42,52,0,0,3,3,0,0,68,0
+688255,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,15771,Ohod Madinah,7660,Al Jeel,0.0,2.25,9,0.0,1.0,4,0,0,3,0,0,0,0,0,89,78,45,31,2,0,4,6,56,44,67,0
+688081,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,37037,Academica  U23,32456,CD Aves U23,+0.25,2.75,10,0.0,1.0,4.5,0,1,2,4,0,1,0,0,79,85,30,43,4,4,4,5,49,51,66,1
+688126,22,TUR Cup,Turkey Cup,T,26,Turkey,T,7187,Adanaspor,16703,Diyarbakirspor,-0.75,3.0,9,+0.25,0.75,4.5,1,0,2,1,0,1,0,0,80,76,52,21,1,0,6,0,60,40,61,1
+688349,277,SVN Cup,Slovenia Cup,S,68,Slovenia,S,5340,FC Koper,2832,Aluminij Kidricevo,0.0,2.25,,0.0,1.0,,2,2,8,3,2,0,0,0,93,100,48,69,3,6,8,11,0,0,66,1
+688232,943,SYR D1,Syria Division 1,S,64,Syria,X,10648,Tishreen,2022,Al-Jazeera,-1.0,2.0,,-0.5,0.75,,2,1,5,1,0,1,0,0,63,39,56,26,3,2,4,1,0,0,HT,1
+688113,900,RWA NL,Rwanda National League,R,166,Rwanda,L,7331,Rayon Sports FC,3571,Etincelles,-1.0,2.25,8.5,-0.5,1.0,4,0,0,2,2,1,1,0,0,77,61,36,34,0,2,4,4,0,0,HT,0
+688082,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32400,Benfica U23,36347,Famalicao U23,-1.75,3.0,10.5,-0.75,1.25,5,0,0,0,3,1,1,0,0,65,40,30,15,2,2,1,2,58,42,HT,0
+688136,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,5237,Sigma Olomouc,757,Dukla Praha,-1.0,3.0,10,-0.5,1.25,4.5,2,0,2,0,1,0,0,0,63,64,37,29,2,0,6,3,58,42,HT,1
+688236,817,OMN L,Oman League,O,33,Oman,A,28626,Al Seeb,24159,Al-Nahda,-0.25,2.25,,0.0,0.75,,2,0,5,1,0,1,0,0,45,46,32,21,2,0,4,2,0,0,HT,1
+688144,625,MEX U20,Mexico U20 League,M,49,Mexico,M,38034,Atletico San Luis U20,10052,Club America U20,-0.25,3.0,9,0.0,1.25,4.5,1,0,3,3,1,0,0,0,33,33,20,15,2,0,1,1,49,51,HT,1
+688066,330,ROM Cup,Romania Cup,R,30,Romania,L,2620,CS Mioveni,23309,AFC Hermannstadt,+0.25,2.25,9.5,0.0,0.75,4.5,0,0,3,4,1,0,0,0,44,46,14,24,0,1,1,2,44,56,33,0
+688169,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,27109,Tsarsko Selo 2015,1194,Ludogorets Razgrad,+1.75,2.75,,+0.75,1.25,,0,1,0,3,1,0,0,0,22,21,14,26,1,2,1,3,38,62,22,1
+685708,548,POL Cup,Poland Cup,P,20,Poland,B,1730,Bytovia Bytow,2104,Cracovia Krakow,+1.25,3.0,9.5,+0.5,1.25,4.5,0,0,0,0,0,0,0,0,33,39,20,14,1,0,1,0,54,46,20,0
+688141,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,38524,Podgorze Krakow Women,38525,Naprzod Sobolow Women,-2,4.5,,-0.75,2.0,,0,1,1,1,0,0,0,0,26,29,14,13,0,1,1,0,0,0,11,1
+685713,546,AUT Cup,Austria Cup,A,60,Austria,A,2112,St Polten,5268,SV Ried,0.0,2.75,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

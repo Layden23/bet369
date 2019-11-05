@@ -1,0 +1,29 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692444,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,16503,Cercle Brugge Reserves,22668,Lokeren Reserves,-0.5,3.25,9.5,-0.25,1.25,4.5,1,0,2,3,1,1,0,0,31,43,14,24,1,1,4,1,0,0,81,1
+692369,1802,ENG PL2,England Premier League 2,E,14,England,Y,22544,Middlesbrough U23,22540,Man Utd U23,-0.5,3.25,,-0.25,1.25,,1,4,8,6,2,0,0,0,75,84,48,50,3,10,6,9,0,0,90,1
+692368,1802,ENG PL2,England Premier League 2,E,14,England,Y,22534,Aston Villa U23,22537,Newcastle U23,-0.5,3.25,,-0.25,1.25,,3,2,0,3,2,1,0,0,103,91,46,41,9,7,6,7,0,0,92,1
+688347,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7367,PSV Reserves,6051,Roda JC,0.0,2.75,10,0.0,1.25,4.5,1,1,2,4,0,1,0,0,148,112,78,51,4,5,8,5,64,36,91,1
+688346,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7347,Ajax Reserves,6052,FC Volendam,-1.5,4.0,10.5,-0.75,1.75,5,1,2,6,2,2,0,0,0,133,103,87,63,6,9,5,3,57,43,91,1
+688646,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6268,Belenenses,6353,Pacos Ferreira,0.0,2.25,10,0.0,1.0,4.5,0,0,1,7,0,3,0,0,74,75,22,38,1,5,6,9,57,43,81,0
+692410,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,8893,CA River Plate Reserves,1451,Nacional de Montevideo Reserves,-0.25,3.25,,0.0,1.25,,0,2,3,6,5,2,0,0,73,97,28,61,2,8,7,9,0,0,91,1
+692413,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1577,Montevideo Wanderers Reserves,3603,Juventud De Las Piedras Reserves,+0.75,3.25,,+0.25,1.25,,0,2,4,5,2,1,0,0,142,115,85,71,4,3,7,8,0,0,89,1
+692412,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1448,Danubio Reserves,8723,Penarol Reserves,0.0,3.0,9,0.0,1.25,4,0,2,4,4,3,3,0,0,132,105,46,42,2,4,1,2,0,0,92,1
+692411,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,34757,Cerro Largo Reserves,16278,Liverpool Montevideo Reserves,-0.5,3.0,,-0.25,1.25,,1,1,14,3,3,5,0,0,93,84,57,31,2,3,3,4,0,0,88,1
+692425,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,19083,KFCO Beerschot-Wilrijk Reserves,22665,Waasland-Beveren Reserves,+1.25,3.5,8.5,+0.5,1.5,4,0,3,5,3,2,1,0,0,112,81,71,53,0,3,2,2,0,0,75,1
+689449,369,GER RL W,Germany Regionalliga West,G,5,Germany,D,2431,Fortuna Cologne,6355,Alemannia Aachen,+0.25,2.5,9.5,+0.25,1.0,4.5,1,0,2,6,2,0,0,0,73,58,26,44,3,3,2,7,55,45,60,1
+687664,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5958,Bochum,6148,Nurnberg,-0.25,3.0,10.5,0.0,1.25,5,3,0,3,4,0,1,0,0,84,66,31,25,4,3,4,6,55,45,61,1
+692474,2788,GNL,Gibraltar National League,G,14,England,Y,32314,FC Boca Juniors Gibraltar,29001,FCB Magpies,+0.75,3.25,,+0.25,1.25,,0,1,6,5,1,0,0,0,93,87,65,53,3,3,4,4,49,51,62,1
+687768,299,POL E,Poland Ekstraklasa,P,20,Poland,B,4796,Rakow Czestochowa,2349,Wisla Krakow,-0.75,2.5,10,-0.25,1.0,4.5,0,0,3,0,2,2,0,0,68,87,62,32,0,0,7,1,47,53,60,0
+688643,187,FRA L2,France Ligue 2,F,31,France,F,1104,Le Havre,1093,Nancy,-0.25,2.0,9.5,0.0,0.75,4.5,1,0,3,2,0,2,0,0,50,47,32,32,2,1,1,3,54,46,48,1
+691365,37,ITA SA,Italy Serie A,I,22,Italy,Y,7709,Spal,7070,Sampdoria,-0.25,2.25,11,0.0,0.75,5,0,0,5,3,1,1,0,0,56,49,25,21,0,2,12,8,54,46,48,0
+689045,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,6579,AC Feralpisalo,8518,Triestina,-0.25,2.25,9,0.0,0.75,4,1,0,2,0,0,1,0,0,49,34,41,26,1,0,5,3,55,45,45,1
+692386,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,32632,East Kilbride Reserves,32633,Queens Park Reserves,-0.5,4.0,,-0.25,1.5,,1,0,0,6,3,1,0,0,47,54,25,36,4,3,3,2,0,0,HT,1
+692385,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,37226,BSC Glasgow Reserves,32970,Airdrieonians Reserves,-0.5,4.0,,-0.25,1.75,,1,0,2,3,0,1,0,0,29,36,25,32,4,3,3,5,0,0,50,1
+692528,630,UK C Cup,England County Cup,E,14,England,Y,6245,Harrogate Town,6485,Bradford P A,-1.25,3.5,,-0.5,1.5,,1,1,1,3,1,0,0,0,69,56,39,36,6,4,2,3,0,0,HT,1
+692466,981,UK SLD1,Southern League Div One,S,14,England,Y,17031,Coleshill Town,28814,Thame Utd,0.0,3.0,,0.0,1.25,,1,0,2,5,0,0,0,0,40,36,22,21,4,3,6,7,55,45,HT,1
+688652,157,ITA SB,Italy Serie B,I,22,Italy,Y,7449,Cosenza,3020,Cremonese,-0.25,2.0,9.5,0.0,0.75,4.5,2,0,3,1,1,2,0,0,45,52,25,17,2,0,8,4,54,46,HT,1
+692419,2366,Ireland LSL,Republic of Ireland Leinster Senior League,R,100,Ireland,A,18065,St Patricks CY FC,28462,Lucan United,0.0,3.0,,0.0,1.25,,1,0,0,0,0,1,0,0,54,68,25,26,4,1,5,5,0,0,HT,1
+692473,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,37905,Champions FC Academy,38126,Veraguas FC,+0.5,2.5,,+0.25,1.0,,1,0,0,1,3,1,1,0,30,37,12,14,2,0,2,2,0,0,46,1
+692180,42,UK Champ,England Championship,E,14,England,Y,155,Stoke,838,West Brom,+0.25,2.5,10,0.0,1.0,4.5,0,1,3,2,1,1,0,0,56,65,21,26,2,1,1,4,39,61,46,1
+688648,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6520,Portimonense,6865,Santa Clara,-0.5,2.25,10.5,-0.25,0.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+688647,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,1039,Vitoria Setubal,6088,Boavista,0.0,1.75,10.5,0.0,0.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

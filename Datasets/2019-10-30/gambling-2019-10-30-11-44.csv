@@ -1,0 +1,21 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688700,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,9045,Okzhetpes Kokshetau,2653,FC Astana,+1.0,3.0,,+0.5,1.25,,0,1,3,6,2,0,0,0,89,107,40,64,0,6,6,3,0,0,84,1
+688381,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,11944,Nojima Women,5279,Albirex Niigata Women,0.0,2.0,8.5,0.0,0.75,4,0,0,0,2,0,0,0,0,56,72,30,54,1,0,2,4,32,68,58,0
+688383,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4591,Lecce U19,11700,Benevento U19,-0.75,3.0,10.5,-0.25,1.25,5,0,1,3,2,1,1,0,0,43,50,23,29,4,6,6,4,47,53,56,1
+688710,236,DZA YL,Algeria Youth League,A,111,Algeria,A,8882,NA Hussein Dey U21,11019,JS Saoura U21,+0.75,3.0,,+0.25,1.25,,0,1,2,5,0,0,0,0,61,60,18,28,1,3,3,5,0,0,48,1
+688462,22,TUR Cup,Turkey Cup,T,26,Turkey,T,37233,Vanspor,15543,Sancaktepe Belediye,-0.25,2.5,,0.0,1.0,,1,0,0,5,0,1,0,0,0,0,0,0,1,0,0,0,0,0,HT,1
+688459,22,TUR Cup,Turkey Cup,T,26,Turkey,T,17002,Kastamonuspor,18383,24 Erzincanspor,-1.0,2.75,,-0.5,1.25,,0,0,3,3,2,1,0,0,0,0,25,24,0,0,0,0,0,0,44,0
+688382,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,9027,Parceiro Nagano Women,5310,Vegalta Sendai Women,-0.25,2.25,8,0.0,0.75,3.5,0,1,0,5,1,0,0,0,49,63,14,49,2,2,1,7,0,0,44,1
+688460,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9628,Gumushanespor,8201,Samsunspor,+0.25,2.5,,0.0,1.0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,34,66,44,0
+688663,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,37798,Marcus Gdynia Women,38541,Wloclawek Women,+0.75,4.0,,+0.25,1.5,,1,0,4,1,1,0,0,0,28,41,16,24,3,6,2,6,0,0,43,1
+688413,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,2652,Kaisar Kyzylorda,3727,Tobol Kostanay,+0.25,2.0,9,+0.25,0.75,4,1,0,4,0,0,1,0,0,28,25,22,13,1,2,6,4,0,0,42,1
+688384,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4566,Cremonese U19,11667,Salernitana U19,-0.5,2.75,10,-0.25,1.0,4.5,1,1,2,1,0,0,0,0,35,66,25,46,1,4,2,3,37,63,41,1
+685700,1275,JPN J2L,Japan J2-League,J,2,Japan,R,9330,Kagoshima United,1334,FC Gifu,-0.5,2.25,9.5,-0.25,1.0,4.5,0,0,2,3,1,1,0,0,49,37,41,34,1,3,2,2,63,37,41,0
+688602,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15577,Forest Rangers,16665,Power Dynamos,-0.25,2.25,,0.0,0.75,,0,0,3,2,2,0,0,0,45,41,43,31,0,2,3,4,57,43,39,0
+688662,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,38539,Resovia Rzeszow II Women,38540,UKS Staszkowka Jelna Women,+2.5,4.0,,+1.0,1.75,,0,0,1,6,0,0,0,0,62,44,30,29,0,6,3,5,0,0,38,0
+688871,916,SER U19,Serbia U19 League,S,59,Serbia,S,4742,Red Star Belgrade U19,10835,FK Brodarac U19,-0.25,3.0,,0.0,1.25,,0,1,0,1,1,0,0,0,47,43,41,33,1,1,1,2,47,53,37,1
+688463,22,TUR Cup,Turkey Cup,T,26,Turkey,T,26667,Payasspor,37557,Manisa FK,+1.0,3.25,,+0.5,1.25,,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+688450,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,12765,Aizawl FC,31994,Electric Veng FC,+0.25,2.5,,0.0,1.0,,0,0,1,1,0,0,0,0,16,8,6,8,0,0,1,0,0,0,14,0
+688712,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9203,Keciorengucu,33187,Siirt Il Ozel Idaresi Spor,-1.75,3.5,,-0.25,1.0,,0,1,1,0,0,0,0,0,29,14,9,4,0,1,0,0,70,30,13,1
+688608,257,HKG RD,Hong Kong Reserve Division,H,77,Hong Kong,Z,28627,Lee Man FC Reserves,9470,Eastern Salon Reserves,+1.0,4.0,9,+0.5,1.5,4,0,0,0,0,0,0,0,0,10,12,5,5,0,0,0,1,47,53,9,0
+688464,22,TUR Cup,Turkey Cup,T,26,Turkey,T,24347,Kemerspor 2003,1128,Kasimpasa,+2.25,3.75,,+1.0,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

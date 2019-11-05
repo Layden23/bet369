@@ -1,0 +1,47 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+686873,548,POL Cup,Poland Cup,P,20,Poland,B,1587,Stomil Olsztyn,1589,Wisla Plock,0.0,2.75,9.5,0.0,1.0,4.5,0,0,3,3,3,2,0,1,97,89,57,49,2,3,10,4,47,53,102,0
+688819,830,UAE PL,UAE Premier League,U,35,The United Arab Emirates (UAE),A,930,Al Wasl SC,9279,Hatta Dubai,-0.75,3.0,9.5,-0.25,1.25,4.5,3,1,2,4,3,1,1,0,30,42,26,36,3,4,2,6,34,66,90,1
+688821,830,UAE PL,UAE Premier League,U,35,The United Arab Emirates (UAE),A,919,Sharjah SCC,9057,Al Fujairah,-1.75,3.75,10.5,-0.75,1.5,5,2,1,8,4,2,1,0,1,87,71,86,35,4,2,11,8,0,0,90,1
+686871,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,923,Al Ahli Jeddah,909,Al Ittihad Jeddah,-0.25,3.0,9.5,0.0,1.25,4.5,2,1,4,5,2,2,0,0,106,112,54,73,2,8,7,6,47,53,89,1
+688849,750,KWT L,Kuwait League,K,72,Kuwait,K,7957,Al Salmiyah SC,7956,Al Tadamon SC,-1.0,3.25,9,-0.5,1.25,4.5,3,1,4,4,3,3,0,1,67,65,50,37,6,3,6,7,0,0,84,1
+686868,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,5898,Al Fateh SC,1261,Al Hilal Riyadh,+1.0,3.25,9.5,+0.25,1.25,4.5,3,2,3,4,2,2,0,0,84,109,54,65,9,5,4,7,39,61,87,1
+688726,281,EST EL,Estonia - Esiliiga,E,84,Estonia,A,19399,Tartu JK Welco,4749,K-Jarve JK Jarve,-0.75,3.5,,-0.25,1.25,,0,2,5,1,1,0,0,0,67,49,45,28,3,4,1,4,54,46,79,1
+688955,704,ARG R,Argentina Reserve League,A,32,Argentina,A,33450,Lujan Reserves,33452,El Porvenir Reserves,+0.5,2.75,,+0.25,1.25,,0,1,0,3,1,2,0,1,58,58,29,37,0,4,1,2,0,0,62,1
+688888,233,LTU AL,Lithuania A Lyga,L,95,Lithuania,L,1536,Trakai FK,19843,FK Kauno Zalgiris,-0.5,2.75,,-0.25,1.0,,0,1,3,5,2,1,0,0,68,87,38,52,1,6,2,7,0,0,58,1
+688993,22,TUR Cup,Turkey Cup,T,26,Turkey,T,8218,Denizlispor,37466,Icel Idmanyurdu Spor,-3,4.0,10,-1.25,1.75,4.5,2,1,2,3,0,1,0,0,75,42,37,22,2,2,2,0,58,42,46,1
+688954,287,BRA U20,Brazil U20 League,B,47,Brazil,B,1827,Corinthians U20,1825,Sao Paulo U20,0.0,2.5,9.5,0.0,1.0,4.5,0,0,2,2,0,0,0,0,65,72,36,30,3,2,2,3,53,47,46,0
+688264,851,NED Cup,Holland Cup,H,25,the Netherlands,H,17463,Excelsior '31,6547,FC Utrecht,+2.75,3.75,11.5,+1.25,1.5,5.5,0,2,0,6,0,0,0,0,50,74,23,74,1,7,5,4,32,68,45,1
+688900,776,GRC Cup,Greece Cup,G,13,Greece,X,11371,Trikala,949,Ergotelis,0.0,2.25,,0.0,0.75,,0,0,4,0,1,0,0,0,49,56,58,27,1,1,5,1,47,53,HT,0
+689056,1099,ECU RL,Ecuador Reserve League,E,115,Ecuador,E,35217,America de Quito Reserves,15289,Universidad Catolica del Ecuador Reserves,+0.5,3.0,,+0.25,1.25,,1,0,1,2,1,1,0,0,57,65,18,35,2,1,2,3,0,0,45,1
+688887,682,ISR Cup,Israel Cup,I,97,Israel,Y,25651,Maccabi Ashdod,956,Bnei Sakhnin,+0.75,2.5,9,+0.25,1.0,4,0,1,1,4,0,0,0,0,50,66,15,41,1,5,1,2,31,69,HT,1
+688913,492,BRA,Brazilian Matches,B,47,Brazil,B,32160,Teresopolis,38235,IQSL Brasileirinho,0.0,2.5,10.5,0.0,1.0,5,0,1,0,2,0,0,0,0,27,44,16,23,1,1,0,2,0,0,35,1
+688948,287,BRA U20,Brazil U20 League,B,47,Brazil,B,1862,Palmeiras U20,9160,Cruzeiro U20,-0.5,2.25,9,-0.25,1.0,4.5,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,72,28,35,1
+688912,492,BRA,Brazilian Matches,B,47,Brazil,B,20762,Campo Grande AC,32290,Paduano EC,-0.75,2.5,9.5,-0.25,1.0,4.5,0,1,2,1,0,0,0,0,31,29,26,15,1,1,0,1,47,53,34,1
+684537,36,SPN PL,Spain Primera Liga,S,23,Spain,X,4697,Eibar,6848,Villarreal,-0.25,2.5,10,0.0,1.0,4.5,0,0,1,0,0,1,0,0,71,34,23,15,0,1,4,2,55,45,34,0
+688743,215,AUT RM,Austria Regionalliga Mitte,A,60,Austria,A,21931,UVB Vocklamarkt,3816,SC Kalsdorf,-0.5,3.75,9.5,-0.25,1.5,4.5,2,2,1,1,0,0,0,0,52,51,31,29,4,3,1,1,0,0,34,1
+684538,36,SPN PL,Spain Primera Liga,S,23,Spain,X,947,Mallorca,6961,Osasuna,0.0,2.0,10,0.0,0.75,4.5,1,0,4,0,0,2,0,0,36,35,26,7,1,0,5,2,65,35,34,1
+688953,492,BRA,Brazilian Matches,B,47,Brazil,B,32476,Atletico Carioca,37183,Paraiba do Sul,+0.75,2.5,10.5,+0.25,1.0,5,0,1,2,7,0,1,0,0,24,39,22,24,0,1,4,3,0,0,32,1
+688904,492,BRA,Brazilian Matches,B,47,Brazil,B,29202,EC Resende,37182,Arturzinho,-2.5,3.5,9.5,-1.0,1.25,4.5,0,0,2,0,0,0,0,0,28,34,23,22,3,2,0,2,0,0,32,0
+688840,219,AUT LL,Austria Landesliga,A,60,Austria,A,14122,VST Volkermarkt,35111,St Michael Bleiburg,0.0,2.75,,0.0,1.0,,0,0,4,0,0,0,0,0,29,19,21,8,3,0,1,0,0,0,31,0
+688934,1804,BRA CG,Brazil Copa Gaucho,B,47,Brazil,B,31703,Sport Clube Gaucho,2641,Caxias RS,-0.25,2.5,10,0.0,1.0,4.5,0,0,1,3,1,0,0,0,33,38,16,19,2,1,3,2,0,0,30,0
+688854,704,ARG R,Argentina Reserve League,A,32,Argentina,A,13856,Villa San Carlos Reserves,13855,CA Colegiales Reserves,0.0,2.5,,0.0,1.0,,3,0,2,3,0,0,0,0,35,34,27,28,4,1,1,2,0,0,30,1
+689294,1090,AUT L2,Austria 2. Landesliga,A,60,Austria,A,26557,UFC Fehring,38556,SV Union Fladnitz,-2,4.5,,-0.75,1.75,,2,0,3,1,0,0,0,0,39,47,22,21,7,0,1,2,0,0,29,1
+688705,662,GER OL R,Germany Oberliga Rheinland-Pfalz/Saar,G,5,Germany,D,19444,Engers,2419,TuS Koblenz,+0.25,2.75,9,+0.5,0.75,4.5,0,0,0,1,0,1,0,0,17,24,9,11,2,2,1,0,33,67,27,0
+688839,219,AUT LL,Austria Landesliga,A,60,Austria,A,19470,KAC 1909,22029,St Jakob/Rosental,0.0,2.75,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,26,18,17,33,0,1,1,1,50,50,22,0
+688925,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,35026,Aparecidense U20,35327,Aparecida EC U20,-0.25,2.5,9.5,-0.25,1.0,4.5,0,0,0,1,0,0,0,0,7,8,3,8,0,1,1,0,30,70,7,0
+688916,2373,SPN YL,Spain Youth League,S,23,Spain,X,28965,AD Nervion U19,33054,Calavera CF U19,0.0,2.5,8.5,0.0,1.0,4,0,0,0,0,0,0,0,0,7,10,5,2,0,0,0,0,15,85,6,0
+688659,602,GER L,German Landespokal,G,5,Germany,D,6355,Alemannia Aachen,38538,DJK Rasensport Aachen-Brand,-5,5.75,10,-2.25,2.5,4.5,0,0,0,0,0,0,0,0,9,5,4,0,1,0,0,0,79,21,5,0
+688927,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,18897,Goiania U20,8083,Goias U20,+0.5,3.0,9.5,+0.25,1.25,4.5,0,0,0,0,0,0,0,0,8,8,2,4,0,0,0,0,0,0,5,0
+689411,2782,AUT RS,Austria Regionalliga Salzburg,A,60,Austria,A,16589,SK Bischofshofen,6429,FC Pinzgau,+4.5,5.5,,+2,2.5,,0,1,0,0,0,0,0,0,4,7,0,2,0,1,0,1,0,0,5,1
+688757,219,AUT LL,Austria Landesliga,A,60,Austria,A,4054,SV Gerasdorf Stammersdorf,4217,Sportunion Mauer,-0.75,3.25,10.5,-0.25,1.25,5,0,0,0,0,0,0,0,0,7,4,4,2,0,0,0,0,76,24,4,0
+688725,216,AUT RO,Austria Regionalliga Ost,A,60,Austria,A,4665,ASV Drassburg,4238,Team Wiener Linien,-0.25,3.0,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,10,4,6,0,0,0,1,0,0,0,4,0
+689295,1090,AUT L2,Austria 2. Landesliga,A,60,Austria,A,30634,SPG Innsbruck West,8038,Schonwies Mils,+2.25,4.75,,+1.0,2.0,,0,0,0,0,0,0,0,0,2,4,0,1,0,0,0,0,0,0,3,0
+689185,789,ESP TG18,Spain Tercera Group 18,S,23,Spain,X,8270,CD Quintanar del Rey,36689,CD Torrijos,-1.0,2.5,,-0.5,1.0,,0,0,0,0,0,0,0,0,4,3,0,2,0,0,0,0,0,0,1,0
+686867,755,CHE S Cup,Swiss Cup,S,29,Switzerland,R,19428,Bulle,14489,FC Rapperswil-Jona,+0.75,3.25,10.5,+0.25,1.25,5,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,1,0
+688901,245,GER RL B,Germany Regionalliga Bayern,G,5,Germany,D,2119,Memmingen,5994,FV Illertissen,-0.25,3.0,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,3,4,2,2,0,0,0,0,46,54,1,0
+688758,219,AUT LL,Austria Landesliga,A,60,Austria,A,4052,Union St Florian,5645,Grieskirchen,-0.75,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0
+688926,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,35611,Aseev U20,18841,Atletico Goianiense U20,+0.75,3.0,9.5,+0.25,1.25,4.5,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,1,0
+688918,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,35162,Anapolina U20,18871,Vila Nova U20,+0.25,2.75,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+688852,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22669,Charleroi Reserves,17173,Roeselare Reserves,-1.25,3.5,,-0.5,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+688756,219,AUT LL,Austria Landesliga,A,60,Austria,A,3949,Kottingbrunn,6779,SV Waidhofen/Thaya,-2,3.25,,-0.75,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+688741,215,AUT RM,Austria Regionalliga Mitte,A,60,Austria,A,27029,SK Sturm Graz II,26430,SV Ried II,-1.25,3.5,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

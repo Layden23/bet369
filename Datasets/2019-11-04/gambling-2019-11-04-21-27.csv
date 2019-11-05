@@ -1,0 +1,35 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692445,365,ARG PCM,Argentina Primera C Metropolitana,A,32,Argentina,A,11914,San Martin De Burzaco,11990,Deportivo Laferrere,0.0,2.0,8.5,0.0,0.75,4,1,2,4,5,2,1,1,0,128,166,79,138,7,4,3,9,43,57,92,1
+692422,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,37090,Royal Excel Mouscron Reserves,16505,Antwerp Reserves,-0.25,3.25,8.5,0.0,1.25,4,3,0,10,4,3,3,0,0,95,79,60,42,7,3,10,7,0,0,90,1
+692421,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22671,Gent Reserves,32971,OH Leuven Reserves,-1.5,3.75,8.5,-0.5,1.5,4,2,0,2,2,2,2,0,0,162,96,99,50,1,0,8,1,64,36,90,1
+692420,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,16783,Eupen Reserves,22674,Westerlo Reserves,-1.5,3.5,9,-0.5,1.5,4,0,1,9,3,3,2,0,0,144,100,93,48,3,1,8,4,0,0,FT,1
+692427,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,22672,KV Oostende Reserves,22664,Zulte Waregem Reserves,+0.25,3.25,9,+0.25,1.25,4.5,3,2,2,5,2,1,0,0,101,126,81,89,4,6,4,5,0,0,FT,1
+692459,662,GER OL R,Germany Oberliga Rheinland-Pfalz/Saar,G,5,Germany,D,26492,FV Dudenhofen,8110,TuS Mechtersheim,-1.25,3.0,9,-0.5,1.25,4,1,1,2,5,3,4,1,0,130,124,69,49,3,3,6,7,51,49,FT,1
+691564,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,16483,AS Ashdod,9419,Hapoel Azor,-1.0,2.75,,-0.5,1.25,,2,0,6,5,2,3,0,1,142,82,109,49,3,0,12,1,68,32,92,1
+688034,204,ROM L1,Romania Liga I,R,30,Romania,L,2627,CS U Craiova,5637,Dinamo Bucharest,-0.75,2.25,10.5,-0.25,1.0,5,4,1,4,4,3,3,0,0,78,63,66,71,8,2,9,7,49,51,FT,1
+692444,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,16503,Cercle Brugge Reserves,22668,Lokeren Reserves,-0.5,3.25,9.5,-0.25,1.25,4.5,1,0,1,1,1,1,0,0,31,43,14,24,1,1,4,1,0,0,59,1
+692369,1802,ENG PL2,England Premier League 2,E,14,England,Y,22544,Middlesbrough U23,22540,Man Utd U23,-0.5,3.25,,-0.25,1.25,,0,2,5,4,2,0,0,0,59,66,36,37,2,6,4,8,0,0,68,1
+692368,1802,ENG PL2,England Premier League 2,E,14,England,Y,22534,Aston Villa U23,22537,Newcastle U23,-0.5,3.25,,-0.25,1.25,,2,2,0,1,1,1,0,0,83,72,36,30,6,6,6,7,0,0,70,1
+688346,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7347,Ajax Reserves,6052,FC Volendam,-1.5,4.0,10.5,-0.75,1.75,5,0,2,6,2,2,0,0,0,94,81,64,50,4,9,5,2,57,43,69,1
+688347,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7367,PSV Reserves,6051,Roda JC,0.0,2.75,10,0.0,1.25,4.5,1,1,2,2,0,0,0,0,117,85,59,35,4,3,6,3,65,35,69,1
+688646,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6268,Belenenses,6353,Pacos Ferreira,0.0,2.25,10,0.0,1.0,4.5,0,0,1,5,0,1,0,0,52,52,18,31,1,5,3,7,60,40,59,0
+692413,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1577,Montevideo Wanderers Reserves,3603,Juventud De Las Piedras Reserves,+0.75,3.25,,+0.25,1.25,,0,0,4,3,2,1,0,0,113,86,67,51,4,1,3,6,0,0,67,0
+692410,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,8893,CA River Plate Reserves,1451,Nacional de Montevideo Reserves,-0.25,3.25,,0.0,1.25,,0,1,2,5,3,1,0,0,53,77,25,45,2,6,7,6,0,0,69,1
+692412,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,1448,Danubio Reserves,8723,Penarol Reserves,0.0,3.0,9,0.0,1.25,4,0,1,2,3,1,2,0,0,109,79,36,31,2,2,1,1,0,0,70,1
+692411,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,34757,Cerro Largo Reserves,16278,Liverpool Montevideo Reserves,-0.5,3.0,,-0.25,1.25,,1,1,8,2,2,3,0,0,68,61,37,24,1,3,1,4,0,0,66,1
+692425,1323,BEL RL,Belgium Reserve League,B,38,Belgium,B,19083,KFCO Beerschot-Wilrijk Reserves,22665,Waasland-Beveren Reserves,+1.25,3.5,8.5,+0.5,1.5,4,0,1,4,3,1,1,0,0,73,60,46,40,0,1,1,1,0,0,53,1
+689449,369,GER RL W,Germany Regionalliga West,G,5,Germany,D,2431,Fortuna Cologne,6355,Alemannia Aachen,+0.25,2.5,9.5,+0.25,1.0,4.5,0,0,2,6,2,0,0,0,55,42,20,33,2,2,2,7,56,44,HT,0
+687664,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5958,Bochum,6148,Nurnberg,-0.25,3.0,10.5,0.0,1.25,5,3,0,2,3,0,1,0,0,59,43,22,12,4,3,3,5,58,42,HT,1
+692474,2788,GNL,Gibraltar National League,G,14,England,Y,32314,FC Boca Juniors Gibraltar,29001,FCB Magpies,+0.75,3.25,,+0.25,1.25,,0,1,6,5,0,0,0,0,65,69,54,41,3,3,3,4,50,50,HT,1
+687768,299,POL E,Poland Ekstraklasa,P,20,Poland,B,4796,Rakow Czestochowa,2349,Wisla Krakow,-0.75,2.5,10,-0.25,1.0,4.5,0,0,3,0,2,1,0,0,45,66,46,28,0,0,6,1,45,55,HT,0
+688643,187,FRA L2,France Ligue 2,F,31,France,F,1104,Le Havre,1093,Nancy,-0.25,2.0,9.5,0.0,0.75,4.5,1,0,3,1,0,2,0,0,45,36,30,23,2,1,1,2,57,43,42,1
+691365,37,ITA SA,Italy Serie A,I,22,Italy,Y,7709,Spal,7070,Sampdoria,-0.25,2.25,11,0.0,0.75,5,0,0,5,2,0,1,0,0,48,43,21,19,0,2,12,5,55,45,41,0
+689045,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,6579,AC Feralpisalo,8518,Triestina,-0.25,2.25,9,0.0,0.75,4,1,0,2,0,0,1,0,0,43,29,39,21,1,0,5,3,58,42,40,1
+692386,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,32632,East Kilbride Reserves,32633,Queens Park Reserves,-0.5,4.0,,-0.25,1.5,,1,0,0,5,1,1,0,0,45,48,23,28,3,2,3,1,0,0,39,1
+692385,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,37226,BSC Glasgow Reserves,32970,Airdrieonians Reserves,-0.5,4.0,,-0.25,1.75,,0,0,2,3,0,1,0,0,19,29,19,28,2,3,2,4,0,0,42,0
+692528,630,UK C Cup,England County Cup,E,14,England,Y,6245,Harrogate Town,6485,Bradford P A,-1.25,3.5,,-0.5,1.5,,1,1,1,3,1,0,0,0,61,42,36,26,6,4,2,2,0,0,41,1
+692466,981,UK SLD1,Southern League Div One,S,14,England,Y,17031,Coleshill Town,28814,Thame Utd,0.0,3.0,,0.0,1.25,,1,0,2,3,0,0,0,0,33,27,19,16,3,2,5,5,58,42,40,1
+688652,157,ITA SB,Italy Serie B,I,22,Italy,Y,7449,Cosenza,3020,Cremonese,-0.25,2.0,9.5,0.0,0.75,4.5,2,0,2,1,1,0,0,0,21,32,15,15,2,0,3,2,51,49,26,1
+692419,2366,Ireland LSL,Republic of Ireland Leinster Senior League,R,100,Ireland,A,18065,St Patricks CY FC,28462,Lucan United,0.0,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,34,48,14,14,2,0,1,1,0,0,27,0
+692473,463,PAN NL,Panama Liga Nacional de Ascenso,P,134,Panama,B,37905,Champions FC Academy,38126,Veraguas FC,+0.5,2.5,,+0.25,1.0,,0,0,0,1,3,0,1,0,10,18,5,7,0,0,1,0,0,0,24,0
+692180,42,UK Champ,England Championship,E,14,England,Y,155,Stoke,838,West Brom,+0.25,2.5,10,0.0,1.0,4.5,0,1,2,0,0,0,0,0,28,42,12,17,2,1,1,2,32,68,24,1

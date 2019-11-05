@@ -1,0 +1,87 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688972,2315,Italy SCGA,Italy Serie C Group A,I,22,Italy,Y,7205,Pistoiese,7417,US Pianese,-0.25,2.0,9,0.0,0.75,4,1,0,1,6,1,4,0,0,89,93,47,93,2,4,6,11,41,59,FT,1
+690806,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,1261,Al Hilal Riyadh,34289,Arar FC,-3.25,4.0,,-1.25,1.75,,4,1,5,0,0,1,0,0,89,83,88,39,9,3,10,3,0,0,FT,1
+689965,434,BLR PL,Belarus Premier League,B,94,Belarus,B,4604,BATE Borisov,4184,Isloch,-1.25,2.75,9.5,-0.5,1.25,4.5,2,4,8,2,0,1,0,0,161,103,123,59,4,5,4,3,62,38,FT,1
+690805,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28018,Al Sailiya U23,28477,Al-Rayyan SC U23,+0.75,3.5,,+0.25,1.5,,3,0,1,7,3,2,0,1,90,95,47,66,3,1,4,5,0,0,FT,1
+690823,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,35885,Capitalinos FC,27051,CD Sansare,-0.75,2.25,9.5,-0.25,1.0,4.5,0,1,4,3,3,2,0,0,97,92,56,43,5,5,6,10,55,45,87,1
+690826,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,33630,Solola FC,18222,Nueva Concepcion,+0.25,2.5,,+0.25,1.0,,2,0,5,2,5,2,0,0,91,95,59,49,11,4,9,14,51,49,84,1
+690821,1608,SPN WP,Spain Women Primera,S,23,Spain,X,23400,CD Tacon Women,10925,Real Betis Women,+0.25,2.75,,0.0,1.0,,1,1,8,3,0,2,0,0,63,64,38,29,4,3,9,1,52,48,85,1
+690809,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,23541,Santa Ana,6192,CS Uruguay de Coronado,-0.5,2.5,,-0.25,1.0,,2,4,8,3,3,1,0,0,103,81,58,37,7,7,6,4,0,0,84,1
+684669,38,GER BI,Germany Bundesliga I,G,5,Germany,D,476,Augsburg,6514,Schalke,+0.75,3.0,9.5,+0.25,1.25,4.5,2,2,1,5,1,3,0,0,75,92,27,36,4,3,6,7,37,63,76,1
+690816,724,CRI PD,Costa Rica Primera Division,C,48,Costa Rica,G,6147,Cartagines,26807,Guadalupe FC,-0.75,2.75,10,-0.25,1.0,4.5,2,1,7,2,3,3,0,0,71,67,31,34,6,4,6,1,58,42,82,1
+690818,221,EST ML,Estonia Meistriliiga,E,84,Estonia,A,1478,JK Tammeka Tartu,1484,Paide Linnameeskond,+1.0,3.0,,+0.25,1.25,,3,1,2,0,1,3,0,0,68,96,45,53,7,2,3,5,45,55,84,1
+688224,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,4502,Viking FK,2465,Lillestrom,-0.75,3.0,9.5,-0.25,1.25,4.5,3,0,8,6,1,2,0,0,85,85,34,38,4,2,5,10,48,52,81,1
+688293,151,ISR PL,Israel Premier League,I,97,Israel,Y,958,MS Ashdod,8998,Sektzia Nes Tziona,-0.5,2.5,9,-0.25,1.0,4.5,2,1,5,3,1,2,0,0,124,93,78,51,7,1,2,4,56,44,80,1
+688221,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,1391,Bodo/Glimt,1390,Haugesund,-1.5,3.0,10.5,-0.5,1.25,5,2,2,1,4,2,0,1,0,100,109,41,41,6,4,9,9,51,49,82,1
+689450,757,ESP SBG2,Spain Segunda B Group 2,S,23,Spain,X,7265,Cultural Leonesa,6784,Real Sociedad B,-0.75,2.5,,-0.25,1.0,,3,0,4,1,3,4,0,0,80,108,49,47,7,0,4,5,42,58,83,1
+689484,759,ESP SBG3,Spain Segunda B Group 3,S,23,Spain,X,942,Hercules,4722,Lleida,-0.25,2.0,,-0.25,0.75,,1,1,7,2,0,2,0,0,83,54,38,23,3,1,6,5,57,43,84,1
+688222,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,1398,Ranheim,1396,Stabaek,-0.25,2.5,9.5,0.0,1.0,4.5,0,2,6,6,3,0,0,0,97,103,57,46,1,6,7,6,52,48,82,1
+688298,1813,BEL FDA,Belgium First Division A,B,38,Belgium,B,791,Gent,1127,Standard Liege,-0.5,3.0,9.5,-0.25,1.25,4.5,1,1,5,4,1,4,1,0,109,75,77,41,2,4,9,8,61,39,80,1
+690814,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,32158,Quiche FC,27069,Chimaltenango FC,-0.75,2.25,,-0.25,0.75,,0,1,3,4,1,3,0,0,114,100,52,44,0,7,7,3,51,49,82,1
+688223,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,2945,Sarpsborg,3026,Tromso,-1.0,2.75,10.5,-0.5,1.25,5,3,1,2,4,1,1,0,0,66,104,39,31,4,3,9,4,41,59,82,1
+689483,759,ESP SBG3,Spain Segunda B Group 3,S,23,Spain,X,2476,Barcelona B,36975,FC Andorra,-0.5,2.25,,-0.25,0.75,,0,0,1,0,2,2,0,0,73,52,46,31,7,3,11,6,67,33,84,0
+690811,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,22199,Deportivo Reu,35883,Xinabajul,-0.25,2.5,9.5,0.0,1.0,4.5,1,0,2,4,1,1,0,0,57,58,30,28,3,6,3,2,47,53,81,1
+690819,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,6830,CSD Comunicaciones,23749,Siquinala FC,-1.25,2.5,,-0.5,1.0,,2,2,8,3,2,3,0,0,0,0,44,30,2,2,0,0,0,0,80,1
+689506,760,ESP SBG4,Spain Segunda B Group 4,S,23,Spain,X,6935,FC Cartagena,6998,San Fernando CD,-0.5,2.0,,-0.25,0.75,,0,0,8,3,1,4,0,0,60,55,37,29,5,2,6,2,63,37,80,0
+690810,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,34344,Deportivo Catocha,10518,Sacachispas,-0.5,2.25,9.5,-0.25,0.75,4.5,1,1,7,4,3,2,0,0,95,94,43,45,5,9,3,8,51,49,82,1
+687227,104,DNK SL,Denmark Superligaen,D,15,Denmark,D,5646,FC Copenhagen,1150,Sonderjyske,-1.25,3.0,10,-0.5,1.25,4.5,2,0,3,5,0,4,0,0,89,80,42,44,0,0,6,8,58,42,80,1
+690808,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,19296,Deportivo Carcha,4773,Aurora,-1.5,2.5,9.5,0.0,0.5,4.5,1,0,3,0,2,3,0,0,88,79,77,54,5,2,6,1,54,46,78,1
+690807,287,BRA U20,Brazil U20 League,B,47,Brazil,B,3766,Vasco Da Gama U20,7952,Atletico Mineiro U20,-1.0,2.25,9.5,-0.25,1.0,4.5,1,0,1,0,0,3,0,0,99,74,89,48,8,0,15,5,69,31,76,1
+690820,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,22338,Deportivo Sanarate FC,6593,Xelaju,-0.75,2.25,9.5,-0.25,1.0,4.5,1,0,5,6,0,3,0,0,102,85,56,53,6,4,5,4,57,43,79,1
+690824,724,CRI PD,Costa Rica Primera Division,C,48,Costa Rica,G,10011,AD Grecia,6146,Municipal Perez Zeledon,0.0,2.75,9,0.0,1.0,4.5,0,0,4,6,1,2,0,0,103,87,64,48,0,0,3,1,56,44,77,0
+690813,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,22502,Deportivo San Pedro,6440,Marquense,-0.75,2.25,9,-0.25,1.0,4.5,1,0,3,6,2,1,0,0,69,80,52,58,1,2,7,7,47,53,79,1
+688036,37,ITA SA,Italy Serie A,I,22,Italy,Y,6289,Fiorentina,1017,Parma,-1.0,2.75,11.5,-0.25,1.0,5.5,1,1,4,1,2,2,0,0,104,70,56,25,2,3,13,4,61,39,77,1
+690825,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,19479,AD Cartagena,17364,AD Cofutpa,0.0,3.0,,0.0,1.25,,1,2,3,2,3,2,0,0,45,61,30,35,1,2,4,2,0,0,75,1
+690815,1517,PER Copa,Copa Peru,C,117,Peru,M,28774,FC Carlos Stein,38604,Miguel Grau,-1.0,2.5,,-0.5,1.0,,1,0,2,5,0,0,0,0,77,64,47,31,1,0,0,0,0,0,73,1
+690817,1517,PER Copa,Copa Peru,C,117,Peru,M,33656,Credicoop San Cristobal,23691,Octavio Espinosa de Ica,-1.5,3.0,,0.0,0.75,,2,0,5,3,4,1,0,0,84,84,49,39,6,2,9,2,0,0,72,1
+690812,770,CRI SL,Costa Rica Segunda,C,48,Costa Rica,G,17365,Municipal Turrialba,22814,Sporting San Jose,+0.5,2.5,,+0.25,1.0,,0,2,3,2,2,0,0,0,54,60,49,51,5,3,7,10,0,0,77,1
+688307,681,PRT SL,Portugal Segunda Liga,P,45,Portugal,P,7068,Varzim,6460,Academica,0.0,2.0,10,0.0,0.75,4.5,2,1,2,5,1,3,0,0,57,81,31,69,2,5,4,9,39,61,67,1
+688303,155,ESP S,Spain Segunda,S,23,Spain,X,4702,Real Zaragoza,326,Las Palmas,-0.5,2.5,9.5,-0.25,1.0,4.5,2,0,2,3,1,1,0,0,45,63,20,48,3,3,5,5,42,58,53,1
+688008,36,SPN PL,Spain Primera Liga,S,23,Spain,X,1014,Celta Vigo,6693,Getafe,-0.25,2.0,9.5,0.0,0.75,4.5,0,1,3,2,0,2,0,0,70,67,16,39,1,2,2,3,50,50,53,1
+688292,634,UKR VL,Ukraine Vyscha Liga,U,21,Ukraine,W,16034,Kolos Kovalivka,4006,Olimpik Donetsk,+0.25,2.25,9.5,0.0,1.0,4.5,0,0,0,2,3,0,0,0,58,77,22,40,0,1,0,5,39,61,53,0
+688009,36,SPN PL,Spain Primera Liga,S,23,Spain,X,4721,Leganes,4697,Eibar,-0.25,2.0,9.5,-0.25,0.75,4.5,1,1,2,1,1,2,0,0,82,69,28,29,2,1,4,2,50,50,52,1
+688306,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,9882,Tondela,1033,Sporting,+0.5,2.5,10.5,+0.25,1.0,5,0,0,1,3,2,1,0,0,41,74,16,31,2,0,2,5,37,63,46,0
+690827,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,2498,Almirante Brown,1501,Villa San Carlos,0.0,1.75,8.5,0.0,0.75,4,0,0,3,1,0,0,0,0,85,62,63,28,2,0,2,3,60,40,49,0
+688281,2792,GRC SL1,Greece Super League 1,G,13,Greece,X,7075,AEK Athens,759,Atromitos Athinon,-1.25,2.5,8.5,-0.5,1.0,4,0,1,2,3,0,3,0,0,75,49,38,17,3,1,2,0,59,41,46,1
+690822,2531,GTM LNW,Guatemala Liga Nacional Women,G,121,Guatemala,W,32272,Cobaneras FC Women,31230,Comunicaciones Women,+2.5,4.0,,+1.0,1.5,,0,2,2,3,0,0,0,0,47,50,22,23,5,5,2,4,52,48,47,1
+689781,456,SVN PL,Slovenia Prva Liga,S,68,Slovenia,S,2832,Aluminij Kidricevo,3323,NK Domzale,-0.25,2.5,10,0.0,1.0,4.5,1,0,1,1,0,1,0,0,67,72,37,32,3,2,2,0,52,48,39,1
+689118,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,5761,Olmedo,5817,Barcelona Guayaquil,0.0,2.75,8.5,0.0,1.0,4,0,0,0,1,1,1,0,0,40,40,17,16,2,0,3,2,43,57,39,0
+688282,2792,GRC SL1,Greece Super League 1,G,13,Greece,X,636,PAOK Salonika,508,Panathinaikos,-1.25,2.5,8,-0.5,1.0,3.5,0,0,0,1,1,0,0,0,46,38,45,23,1,0,1,0,53,47,39,0
+690834,1517,PER Copa,Copa Peru,C,117,Peru,M,23688,Deportivo Garcilaso,21537,Sport Ancash,-1.75,3.25,,-0.75,1.25,,0,0,5,2,1,3,0,0,40,38,34,9,1,0,6,2,0,0,39,0
+690844,2579,Brazil P CA2,Brazil Campeonato Pernambucano A2,B,47,Brazil,B,33306,Porto PE,11163,Vera Cruz,-0.25,2.0,,0.0,0.75,,0,1,4,0,1,1,0,0,45,37,25,13,0,3,1,0,0,0,39,1
+690839,1909,Arab CC,Arab Club Championship,A,36,Saudi Arabia,S,1507,Al Ittihad Al Sakandary,2783,Al-Muharraq,-0.75,2.25,,-0.25,0.75,,0,0,1,2,1,1,0,0,40,27,24,10,2,2,2,1,57,43,39,0
+690838,461,PER SL,Peru Segunda,P,117,Peru,M,28775,Atletico Grau,11763,Sport Loreto,-2,3.75,10,-0.75,1.75,4.5,0,1,4,0,0,1,0,0,72,29,63,11,4,1,4,1,0,0,39,1
+690836,461,PER SL,Peru Segunda,P,117,Peru,M,35831,Santos FC,5024,Union Huaral,-0.75,2.25,,-0.25,1.0,,0,1,6,1,1,0,0,0,66,41,52,26,3,2,2,2,0,0,39,1
+690830,404,CAF CC,CAF Confederations Cup,C,4,International,G,3358,HUSA Agadir,15306,Green Eagles,-1.0,2.0,,-0.25,0.75,,0,0,3,0,0,0,0,0,44,38,32,12,0,0,4,1,0,0,39,0
+690845,404,CAF CC,CAF Confederations Cup,C,4,International,G,32109,Pyramids FC,13050,Young Africans,-1.0,2.0,,-0.5,0.75,,1,0,4,0,0,0,0,0,43,50,28,21,2,0,1,1,0,0,39,1
+690841,404,CAF CC,CAF Confederations Cup,C,4,International,G,3361,RSB Berkane,29771,Fosa Juniors FC,-2.75,3.5,,-0.75,1.0,,3,0,2,1,0,1,0,0,54,42,35,9,3,0,4,2,0,0,39,1
+690840,1909,Arab CC,Arab Club Championship,A,36,Saudi Arabia,S,3408,OC Safi,4771,Esperance de Tunis,+0.25,2.0,,0.0,0.75,,0,1,3,2,0,1,0,1,37,42,25,23,1,3,4,7,0,0,39,1
+690832,2388,Brazil CNU20,Brazil Copa Nordeste U20,B,47,Brazil,B,9256,Vitoria Salvador U20,23344,CRB U20,-1.0,2.5,10,-0.25,1.0,4.5,1,1,5,0,0,1,0,0,30,28,15,12,4,1,2,2,57,43,39,1
+690842,1829,BRA CG U19,Brazil Copa Gaucho U19,B,47,Brazil,B,27129,Soledade FC U19,22714,Sapucaiense U19,-1.0,3.0,,-0.5,1.25,,3,0,0,0,0,1,0,0,28,30,17,7,4,0,5,2,0,0,38,1
+690835,2531,GTM LNW,Guatemala Liga Nacional Women,G,121,Guatemala,W,32586,Muniguate Women,32769,CSD Barcena FF Women,-2.25,4.0,,-1.0,1.5,,3,0,4,0,0,0,0,0,44,43,46,15,4,0,11,2,49,51,37,1
+690831,492,BRA,Brazilian Matches,B,47,Brazil,B,12779,Sao Cristovao RJ,20762,Campo Grande AC,0.0,2.25,,0.0,1.0,,0,0,3,4,0,2,0,0,26,33,27,26,3,6,1,3,42,58,36,0
+690828,1804,BRA CG,Brazil Copa Gaucho,B,47,Brazil,B,2641,Caxias RS,6902,EC Pelotas,-0.25,2.75,10,0.0,1.0,4.5,0,0,3,4,0,0,0,0,26,34,14,15,3,1,0,3,39,61,35,0
+690843,492,BRA,Brazilian Matches,B,47,Brazil,B,38605,Minas Boca Women,38465,Esporte Clube Futgol Women,+1.75,3.75,,+0.75,1.5,,0,2,1,0,1,0,0,0,16,24,8,17,0,3,1,3,0,0,35,1
+690833,619,GTM NL,Guatemala Liga Nacional,G,121,Guatemala,W,22631,Santa Lucia FC,6439,Guastatoya,0.0,2.0,9,0.0,0.75,4,0,0,2,2,0,3,0,0,33,31,20,12,5,2,1,0,52,48,34,0
+688295,607,MEX AL,Mexico Apertura,M,49,Mexico,M,6065,Toluca,5723,Chivas Guadalajara,-0.25,2.25,9.5,0.0,1.0,4.5,1,1,0,2,0,0,0,0,31,42,10,17,1,2,2,9,33,67,34,1
+689117,585,ECU CN,Ecuador Campeonato Nacional,E,115,Ecuador,E,26604,Guayaquil City,5826,Deportivo Cuenca,-0.25,2.75,8.5,0.0,1.0,4,1,1,3,2,1,1,0,0,60,41,52,28,2,1,3,1,62,38,39,1
+690837,1517,PER Copa,Copa Peru,C,117,Peru,M,38505,Sport Estrella,38504,Escuela de Futbol JTR,-1.5,2.75,,0.0,0.5,,1,0,3,1,0,1,0,0,37,34,35,13,1,0,3,1,0,0,29,1
+690829,222,ARG NB,Argentina Nacional B,A,32,Argentina,A,7840,Defensores de Belgrano,2518,Sarmiento,-0.25,2.0,,0.0,0.75,,1,0,3,3,1,0,0,0,24,34,24,19,1,0,3,3,46,54,26,1
+688294,151,ISR PL,Israel Premier League,I,97,Israel,Y,960,Hapoel Beer Sheva,5907,Maccabi Netanya,-1.0,2.5,9.5,-0.25,1.0,4.5,1,0,0,1,0,0,0,0,25,19,10,10,3,1,3,0,63,37,22,1
+690858,1062,Other Match,Other Match,O,4,International,G,33203,Deportivo Ocotal U20,33026,Managua U20,0.0,3.75,,0.0,1.5,,0,0,1,0,0,0,0,0,21,19,12,19,0,0,0,0,0,0,12,0
+690846,365,ARG PCM,Argentina Primera C Metropolitana,A,32,Argentina,A,10053,Lujan,3447,Deportivo Merlo,0.0,1.75,9,0.0,0.75,4,0,0,0,0,0,0,0,0,5,12,3,5,0,0,0,2,47,53,10,0
+690847,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,4355,Fenix,2892,Acassuso,0.0,1.75,9,0.0,0.75,4.5,0,0,0,2,0,0,0,0,8,11,3,11,0,0,0,0,31,69,9,0
+690850,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,3505,Tristan Suarez,10643,CA San Miguel,-0.25,2.0,9,0.0,0.75,4.5,0,0,2,0,1,0,0,0,6,15,7,14,0,0,0,1,44,56,9,0
+690851,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,3444,UAI Urquiza,9324,Argentino Quilmes,-0.5,1.75,8.5,-0.25,0.75,4,0,0,3,1,0,0,0,0,7,4,7,3,0,0,0,0,60,40,8,0
+690848,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,3339,Deportivo Armenio,7841,JJ Urquiza,-0.25,2.0,9,0.0,0.75,4.5,0,0,1,1,0,0,0,0,6,8,4,13,0,0,0,0,44,56,8,0
+690853,222,ARG NB,Argentina Nacional B,A,32,Argentina,A,3445,Barracas Central,3048,Independiente Rivadavia,-0.25,2.25,9.5,-0.25,0.75,4.5,0,0,1,0,0,0,0,0,11,9,9,10,0,0,0,0,50,50,8,0
+688310,654,ARG PD,Argentina Primera Division,A,32,Argentina,A,6775,Talleres Remedios,6774,Newell's,0.0,2.0,9.5,0.0,0.75,4.5,0,0,0,0,0,0,0,0,7,13,5,4,0,0,0,0,46,54,6,0
+690852,1105,ARG C W,Argentina Championship Women,A,32,Argentina,A,13336,Estudiantes LP Women,15930,Villa San Carlos Women,-2,3.5,,-0.75,1.5,,0,1,0,0,0,0,0,0,15,10,7,4,2,1,0,0,0,0,5,1
+690849,422,ARG PBM,Argentina Primera B Metropolitana,A,32,Argentina,A,10518,Sacachispas,2891,Club Comunicaciones,0.0,1.75,9,0.0,0.75,4.5,0,0,0,0,0,0,0,0,8,6,4,2,1,0,0,0,65,35,5,0
+690857,436,URY SL,Uruguay Segunda,U,52,Uruguay,W,3001,Torque,3003,Deportivo Maldonado,0.0,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,11,4,8,1,0,0,0,0,89,11,4,0
+690859,492,BRA,Brazilian Matches,B,47,Brazil,B,38606,Paraense FC,38607,Tiradentes PA,-1.5,2.5,,-0.5,1.0,,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,0,32,68,4,0
+690854,487,ARG TA,Argentina Torneo A,A,32,Argentina,A,14773,Deportivo Madryn,10878,Huracan Las Heras,-0.25,1.75,,0.0,0.75,,0,0,0,0,0,0,0,0,7,1,3,0,0,0,0,0,0,0,3,0
+690855,2580,Brazil CFL,Brazil Copa Fares Lopes,B,47,Brazil,B,27353,Caucaia,34354,FC Atlético Cearense,-0.25,2.0,,0.0,0.75,,0,0,0,1,0,0,0,0,2,6,1,8,0,0,0,2,0,0,3,0
+690861,436,URY SL,Uruguay Segunda,U,52,Uruguay,W,10447,Villa Espanola,7771,CA Atenas,-0.25,2.5,10,+0.25,0.5,4.5,0,0,0,0,0,1,0,0,5,3,1,0,0,0,1,0,0,0,3,0
+690856,436,URY SL,Uruguay Segunda,U,52,Uruguay,W,3004,Cerrito,7720,IA Sud America,-0.25,2.0,9.5,+0.5,0.5,4.5,0,0,0,0,0,0,0,0,8,6,0,1,0,0,0,0,0,0,3,0
+690862,436,URY SL,Uruguay Segunda,U,52,Uruguay,W,7728,Rentistas,2998,Villa Teresa,-0.5,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,7,1,7,4,0,1,0,0,0,0,3,0

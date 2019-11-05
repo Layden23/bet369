@@ -1,0 +1,47 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+686869,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,653,Al Faisaly Harmah,18792,Dhamk,-1.25,2.75,9.5,-0.5,1.25,4.5,2,0,7,4,1,5,0,0,103,85,76,60,3,1,10,6,54,46,FT,1
+689360,434,BLR PL,Belarus Premier League,B,94,Belarus,B,3458,FC Minsk,3471,FC Slutsk,-0.25,2.0,9.5,-0.25,0.75,4.5,1,0,9,3,5,2,0,0,88,86,72,47,4,2,5,3,48,52,FT,1
+689280,757,ESP SBG2,Spain Segunda B Group 2,S,23,Spain,X,3152,Osasuna B,3156,Izarra,-0.25,2.0,,0.0,0.75,,1,0,10,4,1,4,1,0,107,116,42,46,5,4,9,6,50,50,FT,1
+686870,32,SAU PL,Saudi Arabia Premier League,S,36,Saudi Arabia,S,867,Al Raed,20085,Al Wahda Mecca,0.0,2.75,9.5,0.0,1.0,4.5,3,2,3,6,3,4,0,0,61,104,23,43,4,6,3,4,40,60,FT,1
+689254,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32403,Guimaraes U23,32399,Braga U23,+0.5,2.5,10,+0.25,1.0,4.5,2,1,7,14,3,2,0,0,81,70,56,37,6,4,9,7,47,53,FT,1
+689497,747,PRT U19,Portugal U19 League,P,45,Portugal,P,7906,Varzim U19,38563,Atletico Arcos U19,-0.75,3.25,,-0.25,1.25,,2,2,2,7,1,1,0,1,98,94,65,76,5,5,7,6,51,49,FT,1
+689409,788,ESP TG6,Spain Tercera Group 6,S,23,Spain,X,33414,Atzeneta,2028,Acero,-0.75,2.25,,-0.25,1.0,,1,0,2,5,1,2,0,0,94,104,81,60,7,4,8,6,0,0,FT,1
+689414,1099,ECU RL,Ecuador Reserve League,E,115,Ecuador,E,15445,Emelec Reserves,16918,Mushuc Runa Reserves,-2,3.75,,-0.75,1.75,,3,0,9,0,0,1,0,0,73,67,50,18,3,0,12,6,0,0,FT,1
+689183,784,ESP TG2,Spain Tercera Group 2,S,23,Spain,X,18364,UD Llanera,11388,Mosconia,-1.0,2.5,,-0.25,1.0,,1,0,4,1,4,4,0,0,144,136,129,113,7,4,7,7,0,0,FT,1
+686857,155,ESP S,Spain Segunda,S,23,Spain,X,3085,Cadiz,4700,Sporting Gijon,-0.25,1.75,9.5,0.0,0.75,4.5,3,1,6,6,3,4,0,0,93,76,56,60,4,2,6,7,48,52,FT,1
+689239,2373,SPN YL,Spain Youth League,S,23,Spain,X,29121,CD Roces U19,29101,Real Oviedo U19,+0.75,3.0,,+0.25,1.25,,2,3,3,9,4,3,1,0,88,102,52,65,2,7,3,8,37,63,FT,1
+689928,544,PER RL,Peru Reserve League,P,117,Peru,M,24680,Academia Deportiva Cantolao Reserves,37374,Pirata Reserves,-0.5,3.0,,-0.25,1.25,,4,1,5,4,2,2,0,0,113,91,86,44,16,3,8,2,0,0,89,1
+689180,785,ESP TG3,Spain Tercera Group 3,S,23,Spain,X,8819,Racing Santander B,32744,Torina,-0.5,2.75,,-0.25,1.0,,0,2,8,0,1,1,1,0,90,53,41,27,3,3,7,2,68,32,70,1
+689166,786,ESP TG4,Spain Tercera Group 4,S,23,Spain,X,8446,Pasaia KE,22727,Tolosa,-0.25,2.25,,0.0,0.75,,0,2,3,5,0,1,0,0,79,72,35,35,2,4,0,2,0,0,68,1
+689186,791,ESP TG8,Spain Tercera Group 8,S,23,Spain,X,15358,UD Santa Marta,8814,Numancia B,+1.0,2.5,,+0.25,1.0,,0,1,2,1,1,1,0,0,81,75,30,31,3,7,7,2,58,42,68,1
+689233,2373,SPN YL,Spain Youth League,S,23,Spain,X,23286,Malaga U19,37899,Pena Barcelonista U19,-3,4.25,9,-1.25,1.75,4.5,5,0,9,0,1,2,0,1,90,44,41,7,14,1,7,2,70,30,66,1
+689235,625,MEX U20,Mexico U20 League,M,49,Mexico,M,8020,Atlas U20,38034,Atletico San Luis U20,-1.75,3.25,9,-0.75,1.25,4.5,3,1,3,3,2,2,0,0,64,60,38,34,6,6,3,6,0,0,67,1
+689423,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,19069,Mirbat SC,19067,Nizwa,0.0,2.25,,0.0,1.0,,2,2,2,2,0,0,0,0,58,45,44,39,6,4,0,3,58,42,56,1
+689142,787,ESP TG9,Spain Tercera Group 9,S,23,Spain,X,23038,Motril,3102,Atletico Malagueno,-0.25,2.5,,0.0,1.0,,0,2,3,1,1,0,0,0,65,53,43,40,1,4,1,3,55,45,HT,1
+689125,790,ESP TG11,Spain Tercera Group 11,S,23,Spain,X,15924,Santa Catalina Atletico,16291,CE Esporles,-0.25,2.25,,0.0,0.75,,0,0,3,2,0,0,0,0,37,49,22,23,1,1,1,1,37,63,HT,0
+689190,796,ESP TG1,Spain Tercera Group 1,S,23,Spain,X,9791,Bergantinos,37707,CD Estradense,-0.75,2.5,,-0.25,1.0,,0,1,2,0,0,0,0,0,22,19,24,26,2,3,1,2,54,46,HT,1
+689092,2181,ROM L2,Romania Liga II,R,30,Romania,L,9542,FK Csikszereda Miercurea Ciuc,32986,Turris-Oltul Turnu Măgurele,+0.25,2.0,,0.0,0.75,,0,0,0,3,0,1,0,0,52,53,33,32,2,1,4,2,41,59,HT,0
+689394,849,CPY D2,Cyprus Division 2,C,69,Cyprus,S,7414,Aris Limassol,16628,Asil Lysis,-0.5,2.75,,-0.25,1.25,,1,0,1,3,1,1,0,0,39,41,19,18,1,1,6,6,50,50,HT,1
+689241,511,SVK L3,Slovakia 3. Liga,S,28,Slovakia,S,1562,Spartak Myjava,4233,Slovan Duslo Sala,-2.25,3.25,,-1.0,1.25,,3,1,2,1,0,1,0,0,41,23,31,8,4,1,2,1,58,42,HT,1
+689019,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,36462,FK Pribram B,2797,Kraluv Dvur,-0.5,3.0,,-0.25,1.25,,0,1,1,2,0,1,0,0,76,54,30,25,1,1,3,2,0,0,HT,1
+689234,2373,SPN YL,Spain Youth League,S,23,Spain,X,16879,Villarreal U19,29155,Real Murcia U19,-2.5,4.0,9.5,-1.25,1.75,4.5,4,0,4,0,0,0,0,0,43,38,28,20,6,1,4,2,64,36,HT,1
+689167,786,ESP TG4,Spain Tercera Group 4,S,23,Spain,X,37340,Urduliz FT,7083,Balmaseda FC,+0.5,2.0,,+0.25,0.75,,0,0,3,1,0,1,0,0,43,46,17,15,1,1,3,2,49,51,HT,0
+689281,757,ESP SBG2,Spain Segunda B Group 2,S,23,Spain,X,7084,Amorebieta,18538,Unionistas de Salamanca CF,-1.0,2.0,,-0.25,0.75,,0,1,3,1,3,1,0,0,44,37,25,18,3,1,3,1,60,40,HT,1
+688316,660,CSK L2,Czech 2. Liga,C,10,the Czech Republic,J,13833,MFK Vitkovice,2537,Varnsdorf,-0.5,2.75,10.5,-0.25,1.0,5,0,0,2,0,3,3,0,0,65,72,35,46,3,0,6,3,45,55,HT,0
+689189,796,ESP TG1,Spain Tercera Group 1,S,23,Spain,X,11399,Alondras,6971,Racing Club Villalbes,-0.25,2.25,,0.0,1.0,,1,1,3,1,0,1,0,0,55,46,39,15,3,1,1,2,0,0,HT,1
+689283,147,AZE PL,Azerbaijan Premier League,A,85,Azerbaijan,A,1175,Neftchi Baku,1271,FK Karabakh,+0.25,2.25,9,0.0,1.0,4,0,0,2,3,1,2,0,0,51,60,16,21,1,3,3,2,41,59,HT,0
+689251,943,SYR D1,Syria Division 1,S,64,Syria,X,28152,Hutteen,11577,Al Nawaeir,-0.75,2.25,,+0.25,0.5,,2,0,1,1,0,0,0,0,48,45,6,5,2,0,0,0,64,36,HT,1
+689410,798,ESP TG17,Spain Tercera Group 17,S,23,Spain,X,9941,Illueca,32750,CF Calamocha,-0.75,2.5,,-0.25,1.0,,0,1,1,0,0,1,0,0,77,43,40,20,1,2,4,1,0,0,40,1
+689600,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36409,Zenit St Petersburg U20,36439,CSKA Moscow U20,+0.25,2.75,,0.0,1.0,,1,0,1,0,0,1,0,0,42,52,14,10,1,1,5,4,41,59,37,1
+689193,30,QAT SL,Qatar Stars League,Q,34,Qatar,K,6583,Al-Arabi Doha,6576,Al-Wakrah SC,-0.75,2.75,9.5,-0.25,1.25,4.5,0,0,0,2,1,0,0,0,31,16,22,23,0,0,0,0,49,51,30,0
+689168,786,ESP TG4,Spain Tercera Group 4,S,23,Spain,X,22755,Sodupe,8550,Gernika,0.0,2.25,,0.0,0.75,,0,1,1,4,0,0,0,0,21,24,11,14,1,1,2,2,48,52,24,1
+687510,247,DNK D1,Denmark Division 1,D,15,Denmark,D,2061,Skive,4830,FC Roskilde,0.0,2.75,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,30,46,21,11,2,0,2,1,31,69,24,0
+689188,788,ESP TG6,Spain Tercera Group 6,S,23,Spain,X,16104,Recambios Colon,22388,Silla CF,-0.25,2.0,,0.0,0.75,,1,1,0,1,1,1,0,0,20,23,6,12,2,1,1,3,45,55,23,1
+689191,796,ESP TG1,Spain Tercera Group 1,S,23,Spain,X,33124,Ourense CF,18534,UD Paiosaco,-1.75,3.0,,-0.75,1.25,,0,0,4,0,1,2,0,0,23,12,7,5,1,0,2,0,80,20,22,0
+689143,830,UAE PL,UAE Premier League,U,35,The United Arab Emirates (UAE),A,929,Al Ain SCC,920,Al Jazira SC,0.0,3.25,9.5,0.0,1.25,4.5,0,0,1,0,0,0,0,0,19,12,8,9,0,0,0,0,46,54,9,0
+689147,750,KWT L,Kuwait League,K,72,Kuwait,K,6599,Al Kuwait SC,8005,Al Sahel SC,-1.5,3.25,9,-0.5,1.25,4.5,0,0,1,0,0,0,0,0,17,3,11,1,1,0,1,0,83,17,5,0
+689153,219,AUT LL,Austria Landesliga,A,60,Austria,A,5982,SV Schwechat,2116,First Vienna FC 1894,+1.25,3.0,10,+0.5,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+688317,660,CSK L2,Czech 2. Liga,C,10,the Czech Republic,J,3311,FK Usti nad Labem,2651,Hradec Kralove,-0.25,2.0,10,0.0,0.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689003,509,CYP D1,Cyprus Division 1,C,69,Cyprus,S,5740,Doxa Katokopias,6095,Nea Salamis Famagusta,0.0,2.25,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+687481,633,CSK FL,Czech First League,C,10,the Czech Republic,J,1226,Bohemians 1905,1153,Slovacko,-0.25,2.25,9,0.0,0.75,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689020,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,7530,FC Pisek,36533,Slavia Prague B,+0.25,3.25,,0.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

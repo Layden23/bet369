@@ -1,0 +1,49 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688124,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9517,Eyupspor,6709,Konyaspor,+1.5,2.75,9,+0.5,1.25,4.5,1,0,1,10,2,5,0,0,92,155,38,117,1,3,2,3,31,69,105,1
+688275,943,SYR D1,Syria Division 1,S,64,Syria,X,10635,Al Foutoua,27155,Al-Shorta Damascus,0.0,2.0,,0.0,0.75,,0,0,4,7,4,0,0,0,71,109,41,65,2,3,6,8,49,51,90,0
+688229,943,SYR D1,Syria Division 1,S,64,Syria,X,11577,Al Nawaeir,10541,Al-Jaish Damascus,+1.0,2.25,,+0.25,0.75,,2,1,3,9,3,0,0,0,101,112,52,91,3,2,2,5,47,53,90,1
+688119,1222,UZB PFL,Uzbekistan PFL,U,67,Uzbekistan,W,14330,Sogdiana Jizzakh,20554,Dinamo Samarqand,-1.0,2.5,,-0.25,1.0,,3,0,7,1,2,5,0,0,85,76,95,38,13,3,2,2,62,38,92,1
+688118,1222,UZB PFL,Uzbekistan PFL,U,67,Uzbekistan,W,15560,Qizilqum Zarafshon,14332,Metalourg Bekabad,-0.5,2.0,,-0.25,0.75,,1,1,3,8,0,2,0,0,73,91,38,41,8,8,7,6,42,58,90,1
+688230,943,SYR D1,Syria Division 1,S,64,Syria,X,11692,Al Wahda Damascus,34116,Al Sahel Tartous,-0.75,2.0,,-0.25,0.75,,2,0,7,3,0,1,0,0,85,83,77,60,5,1,8,2,0,100,FT,1
+688233,943,SYR D1,Syria Division 1,S,64,Syria,X,10647,Al Ittihad Aleppo,33119,Al Taliya SC,-0.5,2.0,,-0.25,0.75,,2,1,6,0,1,3,0,0,92,77,93,36,6,2,14,2,62,38,88,1
+688049,1379,HKG S Cup,Hong Kong Sapling Cup,H,77,Hong Kong,Z,27280,Lee Man FC,17516,HK Pegasus,-0.25,3.25,10,0.0,1.25,4.5,1,3,7,6,3,1,0,0,125,96,93,64,5,5,8,6,61,39,92,1
+685469,548,POL Cup,Poland Cup,P,20,Poland,B,7930,Rekord Bielsko-Biala,1580,Gornik Leczna,+0.75,2.75,,+0.25,1.0,,0,2,3,7,1,1,0,0,99,121,51,77,1,5,6,7,36,64,92,1
+688050,548,POL Cup,Poland Cup,P,20,Poland,B,6334,KS Stilon Gorzow,2126,Zaglebie Lubin,+2.5,3.5,,+1.0,1.5,,1,5,4,7,0,0,0,0,97,113,46,80,2,7,3,13,0,0,92,1
+688495,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,14507,Boston River U19,12546,Juventud U19,-0.25,2.75,,0.0,1.25,,2,1,0,4,2,2,0,0,140,124,49,57,6,3,5,9,0,0,89,1
+685471,548,POL Cup,Poland Cup,P,20,Poland,B,10385,CWKS Resovia Rzeszów,2445,Lech Poznan,+1.0,2.5,10,+0.5,1.0,4.5,0,4,0,7,0,2,0,0,84,119,48,83,2,9,4,5,0,0,88,1
+685470,548,POL Cup,Poland Cup,P,20,Poland,B,1752,Radomiak Radom,1611,GKS Tychy 71,0.0,2.75,10.5,0.0,1.0,5,1,2,7,1,2,3,0,0,141,154,75,65,3,4,8,4,0,0,89,1
+688494,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,5267,Penarol U19,5664,Racing U19,0.0,3.5,,0.0,1.5,,4,3,2,4,1,3,0,0,123,104,42,52,5,4,2,3,0,0,88,1
+688496,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,12082,Defensor Sporting U19,7051,Liverpool U19,0.0,2.75,,0.0,1.25,,2,2,5,8,3,2,0,0,111,132,83,93,10,8,6,7,0,0,89,1
+685701,548,POL Cup,Poland Cup,P,20,Poland,B,2903,Blekitni Stargard Szczecinski,1610,Sandecja Nowy Sacz,+0.25,2.5,10,0.0,1.0,5,3,0,6,3,1,3,0,1,72,75,34,26,7,3,7,2,50,50,88,1
+688231,943,SYR D1,Syria Division 1,S,64,Syria,X,32964,Jableh SC,28152,Hutteen,+0.25,2.0,,+0.5,0.5,,0,1,0,4,1,1,0,0,84,97,24,43,3,5,7,11,48,52,85,1
+688497,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,7010,River Plate U19,14347,Cerro U19,-1.25,3.25,,-0.5,1.25,,1,2,5,5,3,5,1,0,124,87,66,56,6,5,10,5,0,0,90,1
+688498,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,1719,Wanderers U19,13715,Danubio U19,+0.75,2.5,,+0.25,1.25,,0,2,4,6,3,2,0,0,133,98,80,91,0,7,6,6,0,0,90,1
+688238,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,13910,Miramar Misiones U19,14349,Fenix U19,+0.5,2.5,,+0.25,1.0,,1,3,5,7,0,0,0,0,93,108,76,73,2,5,5,4,0,0,89,1
+688150,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,29796,Yafoot FC,38526,Stade FC de Bertoua,0.0,2.0,,0.0,0.75,,0,0,3,4,1,2,0,0,92,97,29,28,3,8,7,3,49,51,89,0
+688348,277,SVN Cup,Slovenia Cup,S,68,Slovenia,S,5627,NK Radomlje,3320,NK Celje,+0.75,2.5,,+0.25,1.0,,0,0,2,4,1,1,0,0,54,79,15,45,1,3,2,3,38,62,62,0
+688560,859,SER SL,Serbia Srpska Liga,S,59,Serbia,S,3788,FK Teleoptik Zemun,14892,Radnicki Obrenovac,-0.25,2.25,,0.0,0.75,,1,1,5,2,0,0,0,0,61,59,55,30,1,2,5,2,55,45,58,1
+688482,1103,BLR RL,Belarus Reserve League,B,94,Belarus,B,35179,FK Dnyapro Reserves,14306,FC BATE Borisov Reserves,+1.25,3.25,,+0.5,1.25,,0,2,1,3,0,0,0,0,69,105,31,66,2,5,2,6,0,0,58,1
+688234,817,OMN L,Oman League,O,33,Oman,A,10743,Muscat,8707,Al-Suwaiq,+0.25,2.25,9,0.0,1.0,4,0,0,1,2,0,0,0,0,44,47,20,21,0,0,4,3,0,0,HT,0
+688110,900,RWA NL,Rwanda National League,R,166,Rwanda,L,10145,Gicumbi FC,10147,Espoir FC,0.0,2.0,8,0.0,0.75,4,1,1,5,3,0,0,0,0,68,84,51,34,4,2,2,1,0,0,HT,1
+688040,776,GRC Cup,Greece Cup,G,13,Greece,X,27606,Apollon Larissa,4887,Xanthi,+1.75,3.0,,+0.75,1.25,,0,1,1,6,0,1,0,0,39,59,24,41,4,5,6,2,41,59,HT,1
+688175,568,EGY D2,Egypt Division 2,E,110,Egypt,A,1504,El Daklyeh,1476,Petrojet,0.0,2.0,,0.0,0.75,,0,1,2,1,1,1,0,0,45,47,30,27,2,2,2,1,0,0,HT,1
+688166,258,WClub F,World Club Friendlies,W,4,International,G,2662,Terengganu,6781,Mohun Bagan,+0.5,3.0,,+0.25,1.25,,1,0,1,2,0,2,0,0,50,46,22,39,2,2,3,3,52,48,HT,1
+688128,507,MOZ Moca,Mozambique Mocambola,M,108,Mozambique,M,4194,CD Maxaquene,36463,Clube Ferroviário de Nacala,0.0,2.0,,0.0,0.75,,0,1,3,0,0,0,0,0,42,39,29,32,3,1,2,1,0,0,HT,1
+688174,568,EGY D2,Egypt Division 2,E,110,Egypt,A,9251,Al Nasr Cairo,28260,Serameka,+0.25,2.0,,+0.25,0.75,,1,2,2,3,2,3,0,0,54,43,26,18,2,3,0,2,0,0,45,1
+688180,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10678,Suez Montakhab,28043,Coca Cola FC,0.0,2.0,,0.0,0.75,,0,0,3,2,1,0,0,0,48,65,38,22,3,0,3,3,0,0,45,0
+688176,568,EGY D2,Egypt Division 2,E,110,Egypt,A,27760,Gomhoryet Shebin,17494,Al Zarka,-0.5,2.0,,-0.25,0.75,,2,0,3,4,1,0,0,0,51,61,18,27,2,1,0,1,0,0,44,1
+688178,568,EGY D2,Egypt Division 2,E,110,Egypt,A,9440,National Bank,1717,Dayrout,0.0,2.0,,0.0,0.75,,0,0,1,0,0,0,0,0,76,63,61,30,6,2,1,1,0,0,44,0
+688177,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10680,Marekh,10402,Olympic El Qanal,0.0,2.0,,0.0,0.75,,0,1,1,3,1,0,0,0,51,41,40,19,2,2,5,2,0,0,43,1
+688111,900,RWA NL,Rwanda National League,R,166,Rwanda,L,29629,Heroes FC,10126,Mukura,+0.75,2.25,8,+0.25,1.0,3.5,0,1,2,0,0,1,0,0,43,44,28,30,1,2,3,2,0,0,42,1
+688179,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10033,Nogoom Mostakbal,30036,Tersana SC,0.0,2.0,,0.0,0.75,,0,0,4,2,0,0,0,0,48,51,26,37,2,1,0,3,0,0,43,0
+688235,817,OMN L,Oman League,O,33,Oman,A,27575,Dhofar,19068,Al Rustaq,-1.0,2.5,8.5,-0.25,1.0,4,0,0,0,0,0,0,0,0,39,51,26,21,0,0,2,2,54,46,39,0
+688112,900,RWA NL,Rwanda National League,R,166,Rwanda,L,12871,Marines FC,14315,Bugesera,0.0,2.0,8,0.0,0.75,3.5,0,0,1,1,0,1,0,0,49,51,41,23,2,1,3,1,0,0,32,0
+688074,2342,England U23 DL,England U23 Development League,E,14,England,Y,24200,Millwall U23,23071,QPR U23,-0.75,2.75,9.5,-0.25,1.25,4.5,0,1,0,0,0,0,0,0,21,19,13,9,0,2,1,0,0,0,18,1
+688132,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,22356,Ramhlun North FC,22692,Chawnpui,-0.25,2.25,,0.0,1.0,,1,1,0,1,0,0,0,0,17,17,7,8,1,1,0,1,0,0,18,1
+688242,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9021,Uganda Police FC,33065,Wakiso Giants FC,0.0,2.25,,0.0,1.0,,0,0,1,0,1,0,0,0,21,28,7,6,1,1,0,1,0,0,16,0
+688240,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9431,BUL FC,9281,Bright Stars,-0.5,2.25,,-0.25,0.75,,0,0,2,2,0,0,0,0,9,9,5,6,0,0,0,0,0,0,16,0
+688125,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9228,Altay,37482,Gorelespor,-2,3.0,9.5,-0.75,1.25,4.5,0,0,1,0,0,0,0,0,27,16,17,8,3,0,1,0,68,32,15,0
+688245,369,GER RL W,Germany Regionalliga West,G,5,Germany,D,2429,Schalke II,2436,Rot-Weiss Oberhausen,0.0,2.75,9.5,0.0,1.0,4.5,0,0,1,0,0,0,0,0,24,16,14,9,2,0,0,0,43,57,13,0
+688241,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9022,Express FC,37531,Busoga United FC,0.0,2.25,,0.0,1.0,,0,0,0,1,0,0,0,0,19,17,11,5,0,0,0,0,0,0,11,0
+688193,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,6367,Lokomotiv Plovdiv,6505,Cherno More Varna,-0.5,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+688060,889,IND SL,India Super League,I,17,India,Y,28913,Jamshedpur FC,38461,Hyderabad FC,-1.25,3.0,10.5,-0.5,1.25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

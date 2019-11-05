@@ -1,0 +1,52 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688273,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,21515,FK Chlumec N.C,1178,Viktoria Plzen,+3,4.25,,+1.25,1.75,,3,3,4,8,6,2,0,0,107,142,52,95,4,12,5,6,41,59,100,1
+688539,568,EGY D2,Egypt Division 2,E,110,Egypt,A,4983,Telephonaat Bani Suweif,10161,Fayoum FC,-0.5,2.0,,-0.25,0.75,,1,0,4,0,1,1,0,0,122,118,40,39,1,3,2,3,0,0,FT,1
+688606,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,4655,Nkana FC,15213,Red Arrows FC,0.0,2.0,,0.0,0.75,,3,0,2,3,5,3,1,1,92,99,46,63,8,4,2,5,55,45,FT,1
+688605,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,16687,Kabwe Warriors,23900,Lumwana Radiants,-0.25,2.0,,0.0,0.75,,1,3,3,3,2,3,0,0,69,63,46,42,6,6,8,4,54,46,96,1
+688917,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,30201,Kabwe Youth Soccer Academy,15305,Green Buffaloes,-0.25,2.25,,0.0,0.75,,1,2,1,4,3,2,0,0,85,96,36,34,3,4,5,7,0,0,87,1
+688386,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,8283,Napoli U19,4496,Lazio U19,-0.5,2.75,9.5,-0.25,1.0,4.5,2,1,3,1,2,2,0,0,78,125,41,41,5,4,4,11,37,63,81,1
+688385,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,8799,Genoa U19,2846,Virtus Entella U19,-1.25,2.75,10.5,-0.5,1.25,5,3,4,6,7,0,1,0,0,121,85,84,47,7,7,10,3,60,40,81,1
+688376,809,ITA SD,Italy Serie D,I,22,Italy,Y,17209,Ponte San Pietro-Isola,15514,Caravaggio,-0.25,2.5,9,0.0,1.0,4.5,0,0,9,1,2,1,0,0,58,57,53,39,1,1,9,3,0,0,80,0
+688378,809,ITA SD,Italy Serie D,I,22,Italy,Y,10091,Pro Sesto,11764,US Inveruno,-1.5,3.0,8.5,-0.5,1.25,4,4,2,7,1,2,2,0,0,94,85,94,41,10,3,9,1,55,45,80,1
+688469,22,TUR Cup,Turkey Cup,T,26,Turkey,T,7970,Genclerbirligi,28838,Erokspor AS,-1.75,3.25,9,-0.75,1.25,4,0,2,10,2,0,1,0,0,140,77,72,29,4,3,6,1,73,27,78,1
+688388,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,8469,Spezia U19,5028,AC Milan U19,+0.5,2.75,10,+0.25,1.0,4.5,1,3,2,9,4,1,0,0,55,60,23,23,2,5,3,6,45,55,78,1
+688537,809,ITA SD,Italy Serie D,I,22,Italy,Y,3042,Savona,11915,ASD Bra,-0.75,2.75,,-0.25,1.25,,1,2,4,0,5,1,0,0,81,70,59,26,6,3,6,3,0,0,77,1
+688373,809,ITA SD,Italy Serie D,I,22,Italy,Y,33103,APDC Chions,27415,GSD Ambrosiana,-0.25,2.5,,0.0,1.0,,2,1,2,6,1,2,0,0,89,91,54,61,5,4,4,6,0,0,79,1
+688387,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,7215,Sassuolo U19,7313,Bologna U19,+0.25,3.0,10,+0.25,1.25,4.5,2,1,7,2,1,1,0,1,105,75,82,50,7,5,9,12,58,42,77,1
+688763,236,DZA YL,Algeria Youth League,A,111,Algeria,A,10691,CA Bordj Bou Arreridj U21,2810,MC Oran U21,-0.5,3.0,,-0.25,1.25,,0,0,5,1,0,0,0,0,134,115,85,47,1,0,5,2,58,42,76,0
+688375,809,ITA SD,Italy Serie D,I,22,Italy,Y,17206,Campodarsego,22624,AC Vigasio,-1.5,2.75,,-0.5,1.25,,1,0,9,0,0,1,0,0,93,64,84,45,4,0,5,1,61,39,77,1
+688549,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,12967,Pordenone U19,8279,Verona U19,+0.75,2.75,,+0.25,1.25,,0,4,4,3,2,2,0,0,71,97,52,70,2,4,0,3,42,58,74,1
+688548,809,ITA SD,Italy Serie D,I,22,Italy,Y,26702,ASD Brusaporto,38532,Virtus Ciserano Bergamo,-0.25,2.0,,0.0,0.75,,0,0,7,6,1,1,0,0,65,82,26,43,2,0,7,8,0,0,78,0
+688451,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,27392,Mizoram Police FC,12761,Chanmari FC,0.0,2.25,,0.0,0.75,,1,1,2,5,1,1,0,0,62,64,40,54,5,2,4,9,0,0,74,1
+688270,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,1180,Mlada Boleslav,2650,FC Fastav Zlín,-1.5,3.0,10,-0.75,1.25,4.5,2,1,7,4,1,3,0,0,112,76,79,28,5,2,10,3,64,36,72,1
+688380,809,ITA SD,Italy Serie D,I,22,Italy,Y,23609,US Adriese,7038,Belluno,-0.75,2.75,,-0.25,1.0,,1,2,7,3,1,2,1,0,83,61,46,24,3,4,8,5,0,0,76,1
+688618,1048,ITA SD Cup,Italy Serie D Cup,I,22,Italy,Y,19440,Citta di Fasano,7382,Taranto,-0.25,2.25,8.5,0.0,0.75,4,2,2,3,4,2,2,0,1,52,57,19,25,7,5,5,10,45,55,74,1
+688610,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,21959,Racing de Bafoussam,34622,OFTA of Kribi,0.0,2.0,8.5,0.0,0.75,4,0,0,2,0,1,1,0,0,42,40,9,10,1,0,1,3,58,42,53,0
+688800,238,DZA D1,Algeria Division 1,A,111,Algeria,A,7695,NA Hussein Dey,7760,JS Saoura,0.0,1.75,8.5,0.0,0.75,,1,0,8,2,0,2,0,0,83,89,38,19,4,1,3,3,0,0,47,1
+688170,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,5032,Botev Plovdiv,30956,Arda Kardzhali,-0.25,2.25,,-0.25,1.0,,0,0,1,0,2,1,0,0,59,74,30,29,2,1,2,3,41,59,47,0
+688801,238,DZA D1,Algeria Division 1,A,111,Algeria,A,23854,NC Magra,1981,USM Alger,0.0,2.0,9,0.0,0.75,4,0,0,1,1,1,1,0,0,48,58,26,42,1,5,3,0,42,58,HT,0
+688364,889,IND SL,India Super League,I,17,India,Y,9835,Chennaiyin FC,33557,ATK,+0.25,2.75,10.5,+0.25,1.0,5,0,1,1,5,0,0,0,0,44,45,28,44,3,1,4,4,49,51,48,1
+685145,562,RUS Cup,Russia Cup,R,12,Russia,E,507,Ural,25796,Arsenal Tula,0.0,2.25,9.5,0.0,0.75,4.5,2,2,4,3,2,1,0,0,55,50,25,36,3,4,1,1,49,51,47,1
+688687,704,ARG R,Argentina Reserve League,A,32,Argentina,A,14445,Almirante Brown Reserves,14448,Deportivo Armenio Reserves,-0.25,2.25,,0.0,0.75,,0,0,3,3,1,0,0,0,40,43,34,40,2,3,5,2,0,0,HT,0
+688858,238,DZA D1,Algeria Division 1,A,111,Algeria,A,2726,JS Kabylie,27256,AS Ain M'lila,-0.5,2.0,8.5,-0.25,0.75,4,1,0,0,0,1,0,0,0,62,68,35,34,3,0,2,3,0,0,46,1
+688410,783,CMR E1,Cameroon Elite One,C,54,Cameroon,K,10550,Panthere Sportive Du Nde,20662,Cotonsport,+0.25,2.0,8,+0.25,0.75,3.5,0,0,0,3,0,1,0,0,39,48,11,22,0,2,0,1,53,47,HT,0
+688688,704,ARG R,Argentina Reserve League,A,32,Argentina,A,33475,Argentino Quilmes Reserves,28178,CA San Miguel Reserves,-0.25,2.75,,0.0,1.0,,1,0,11,2,0,0,0,0,46,58,45,30,3,0,2,1,0,0,47,1
+688666,704,ARG R,Argentina Reserve League,A,32,Argentina,A,33361,Ferrocarril Midland Reserves,33347,Victoriano Arenas Reserves,-0.5,3.25,,-0.25,1.25,,0,0,1,1,1,0,0,0,20,21,15,22,1,3,3,1,0,0,HT,0
+688664,704,ARG R,Argentina Reserve League,A,32,Argentina,A,14444,Defensores de Belgrano Reserves,16042,Almagro Reserves,-0.5,2.25,,+0.25,0.5,,1,2,1,1,0,0,0,0,70,52,33,26,4,4,3,3,0,0,45,1
+688374,809,ITA SD,Italy Serie D,I,22,Italy,Y,33581,ASD Villafranca,36805,ASD San Luigi Calcio,-1.25,2.75,8.5,-0.5,1.25,4,0,0,2,3,1,0,0,0,57,41,36,33,1,0,5,1,62,38,HT,0
+688607,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,14627,Zesco United,20998,Lusaka Dynamos,-1.0,2.25,,0.0,0.5,,1,0,0,0,0,0,0,0,57,51,29,24,1,0,1,5,52,48,41,1
+688370,101,SER SL,Serbia Super Liga,S,59,Serbia,S,1182,Radnicki Nis,7753,FK Radnik Surdulica,-1.5,2.75,9,-0.5,1.25,4.5,0,0,4,1,0,1,0,0,55,48,32,16,1,0,0,2,65,35,35,0
+688366,101,SER SL,Serbia Super Liga,S,59,Serbia,S,1162,FK Cukaricki,5319,Partizan Belgrade,+0.75,2.25,8.5,+0.25,1.0,4,1,0,2,3,2,0,0,0,39,48,29,26,1,1,2,1,46,54,35,1
+688256,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,924,Al Nahdha,7701,Al Mojzel,-0.5,2.5,9,-0.25,1.0,4,0,0,4,1,2,0,0,0,22,29,16,16,0,1,0,1,0,0,26,0
+688257,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,18789,Al Najoom,28557,Al Taqdom,0.0,2.25,9,0.0,1.0,4,0,0,1,2,0,0,0,0,25,27,13,8,2,1,1,2,56,44,20,0
+688402,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,29174,Al-Khuraitiat,10717,Al Markhiya,-0.5,3.5,8.5,-0.25,1.5,4,1,0,2,1,0,1,0,0,13,16,3,5,1,0,0,1,46,54,19,1
+685686,681,PRT SL,Portugal Segunda Liga,P,45,Portugal,P,5840,Academico Viseu,6117,FC Porto B,-0.25,2.25,10,0.0,1.0,4.5,0,0,1,0,0,0,0,0,6,9,5,3,0,0,0,0,45,55,6,0
+688393,769,HRV Cup,Croatia Cup,C,98,Croatia,K,5697,Istra 1961,6335,Inter Zapresic,0.0,2.5,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,11,8,6,2,0,0,0,0,0,0,6,0
+688655,737,ECU PB,Ecuador Primera B,E,115,Ecuador,E,5827,Manta FC,30052,Orense,-0.25,2.25,8,0.0,1.0,3.5,0,0,0,0,0,0,0,0,16,7,3,3,0,0,1,1,0,0,5,0
+685146,562,RUS Cup,Russia Cup,R,12,Russia,E,22,Terek Grozny,1303,Luch-Energiya Vladivostok,-1.25,2.25,9,-0.5,1.0,4.5,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,61,39,4,0
+688342,718,SVK Cup,Slovakia Cup,S,28,Slovakia,S,4349,FK Poprad,1552,Dukla Banska Bystrica,-0.25,2.75,,0.0,1.0,,0,0,0,1,0,0,0,0,10,5,5,3,0,0,0,0,49,51,4,0
+688069,330,ROM Cup,Romania Cup,R,30,Romania,L,2920,CS Sanatatea Cluj,1417,Petrolul Ploiesti,+0.75,2.25,,+0.25,1.0,,0,0,0,0,0,0,0,0,12,12,4,1,0,0,0,0,54,46,4,0
+688588,748,VEN Cup,Venezuela Cup,V,116,Venezuela,W,1832,Deportivo La Guaira,9970,Monagas,-0.5,2.25,8,-0.25,1.0,3.5,0,0,0,0,0,0,0,0,6,5,4,0,1,0,1,0,82,18,4,0
+688488,674,UKR Cup,Ukraine Cup,U,21,Ukraine,W,16034,Kolos Kovalivka,5464,Vorskla Poltava,0.0,2.25,9.5,0.0,0.75,4.5,0,0,0,1,0,0,0,0,8,9,4,2,0,0,0,0,53,47,4,0
+685685,681,PRT SL,Portugal Segunda Liga,P,45,Portugal,P,6293,Nacional,7068,Varzim,-0.75,2.25,10.5,-0.25,1.0,5,0,0,1,0,0,0,0,0,4,4,6,0,0,0,1,0,87,13,3,0
+688449,625,MEX U20,Mexico U20 League,M,49,Mexico,M,6588,Chivas Guadalajara U20,7724,Tijuana U20,-0.25,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,2,4,2,0,0,0,0,0,0,0,2,0

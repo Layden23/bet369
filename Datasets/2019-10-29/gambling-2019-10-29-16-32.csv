@@ -1,0 +1,27 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688125,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9228,Altay,37482,Gorelespor,-2,3.0,9.5,-0.75,1.25,4.5,1,0,11,3,1,1,0,0,124,100,103,47,10,1,20,2,67,33,FT,1
+688245,369,GER RL W,Germany Regionalliga West,G,5,Germany,D,2429,Schalke II,2436,Rot-Weiss Oberhausen,0.0,2.75,9.5,0.0,1.0,4.5,1,1,15,3,2,2,0,1,118,85,103,63,8,3,14,8,54,46,FT,1
+688241,845,UGA PL,Uganda Premier League,U,109,Uganda,W,9022,Express FC,37531,Busoga United FC,0.0,2.25,,0.0,1.0,,1,2,3,2,0,1,0,0,152,113,70,31,2,3,1,0,0,0,FT,1
+688193,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,6367,Lokomotiv Plovdiv,6505,Cherno More Varna,-0.5,2.25,,-0.25,1.0,,1,0,1,5,2,2,1,0,62,88,40,72,4,2,4,3,36,64,73,1
+688079,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32398,Cova de Piedade U23,32405,Sporting U23,+1.25,3.0,10,+0.5,1.25,5,0,0,3,3,1,1,0,0,81,100,49,54,7,3,3,3,43,57,73,0
+688060,889,IND SL,India Super League,I,17,India,Y,28913,Jamshedpur FC,38461,Hyderabad FC,-1.25,2.75,10.5,-0.5,1.25,5,2,1,3,4,0,1,0,0,81,68,47,47,7,2,9,3,49,51,73,1
+688559,853,UK R,England Reserve Matches,E,14,England,Y,9174,Scunthorpe Reserves,9242,Walsall Reserves,-1.25,3.25,,-0.5,1.25,,3,1,3,0,0,0,0,0,64,39,43,9,5,1,14,1,0,0,72,1
+688499,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,20022,Dynamo de Douala,38528,Fauve Azur Elite,-0.25,2.25,,-0.25,0.75,,0,2,1,1,3,2,0,0,95,100,45,45,0,4,0,1,49,51,72,1
+688239,265,URY U19,Uruguay U19 League,U,52,Uruguay,W,13078,Rentistas U19,23820,Deportivo Maldonado U19,-1.0,2.75,,-0.25,1.0,,4,0,3,2,0,0,0,0,95,83,68,40,10,1,6,1,0,0,67,1
+688251,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,5410,Al Qadisiya Al Khubar,23906,Al Thuqbah,-0.75,2.5,9,-0.25,1.0,4,0,0,8,1,1,1,0,0,70,35,61,14,2,0,5,3,50,50,HT,0
+688087,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28494,Al-Sadd SC U23,28493,Al-Ahli Doha U23,-0.25,3.75,,-0.25,1.5,,4,0,2,7,0,1,0,0,56,46,32,28,4,0,2,1,0,0,HT,1
+688086,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28495,Al Duhail U23,28478,Al-Arabi Doha U23,-0.75,3.75,,-0.25,1.5,,0,0,1,2,1,0,0,0,56,44,40,28,2,2,2,4,0,0,47,0
+688252,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,22835,Al Batin,652,Najran SC,0.0,2.25,9,0.0,0.75,4,1,0,4,5,1,1,0,0,0,0,0,0,1,0,0,0,51,49,37,1
+688080,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32401,Feirense U23,31905,Portimonense U23,+0.25,3.0,9.5,0.0,1.25,4.5,1,1,0,0,0,0,0,0,27,37,17,19,3,2,3,0,46,54,32,1
+688135,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,2792,Opava,31769,FK Jablonec,+0.5,2.5,10.5,+0.25,1.0,5,0,0,1,1,0,0,0,0,50,47,28,24,1,0,1,1,51,49,32,0
+688206,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2050,Al Hala,10426,Qalali,-1.0,3.25,,0.0,0.75,,0,0,3,0,1,0,0,0,21,23,15,10,0,0,1,2,0,0,32,0
+688207,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2305,Manama,12057,Budaiya,-1.5,3.25,9,-0.5,1.25,4.5,0,0,1,2,0,0,0,0,32,26,14,17,1,1,1,3,53,47,32,0
+688142,625,MEX U20,Mexico U20 League,M,49,Mexico,M,6918,Unam Pumas U20,8020,Atlas U20,0.0,2.75,9,0.0,1.25,4,0,0,0,2,1,0,0,0,31,50,14,21,1,1,2,1,43,57,29,0
+688143,625,MEX U20,Mexico U20 League,M,49,Mexico,M,7710,Veracruz U20,8711,Puebla U20,-1.25,2.5,9,-0.5,1.0,4,1,0,3,0,0,0,0,0,13,12,7,8,2,2,1,3,56,44,26,1
+688501,776,GRC Cup,Greece Cup,G,13,Greece,X,10844,Panserraikos,28545,Volos NFC,+1.5,2.5,,+0.5,1.0,,0,0,1,0,0,0,0,0,21,25,11,10,0,0,1,0,32,68,14,0
+688254,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,6437,Hottain,858,Al Shoalah,0.0,2.25,,0.0,0.75,,0,0,0,0,0,0,0,0,13,9,10,5,0,0,0,0,47,53,12,0
+688237,817,OMN L,Oman League,O,33,Oman,A,8339,Saham,23781,Bahla,-0.5,2.75,9,-0.25,1.25,4.5,0,0,0,0,0,0,0,0,10,6,5,2,0,0,0,0,0,0,7,0
+688255,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,15771,Ohod Madinah,7660,Al Jeel,0.0,2.25,9,0.0,1.0,4,0,0,0,0,0,0,0,0,9,6,3,4,1,0,0,0,45,55,6,0
+688081,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,37037,Academica  U23,32456,CD Aves U23,+0.25,2.75,10,0.0,1.0,4.5,0,0,0,0,0,0,0,0,6,4,1,4,0,0,0,1,42,58,4,0
+688349,277,SVN Cup,Slovenia Cup,S,68,Slovenia,S,5340,FC Koper,2832,Aluminij Kidricevo,0.0,2.25,,0.0,1.0,,1,0,0,0,0,0,0,0,4,1,3,0,1,0,0,0,0,0,2,1
+688126,22,TUR Cup,Turkey Cup,T,26,Turkey,T,7187,Adanaspor,16703,Diyarbakirspor,-0.75,3.0,9,-0.25,1.25,4.5,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,50,50,NS,0
