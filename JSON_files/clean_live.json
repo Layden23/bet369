@@ -1,0 +1,395 @@
+{
+	"id": "681945",
+	"league": {
+		"i": "277",
+		"zc": "1",
+		"jc": "0",
+		"bd": "0",
+		"n": "SVN Cup",
+		"fn": "Slovenia Cup",
+		"ls": "S",
+		"sbn": "",
+		"stn": "",
+		"ci": "68",
+		"cn": "Slovenia",
+		"cs": "S"
+	},
+	"host": {
+		"i": "13052",
+		"n": "NK Nafta 1903",
+		"sbn": "",
+		"stn": ""
+	},
+	"guest": {
+		"i": "3325",
+		"n": "NK Rudar Velenje",
+		"sbn": "",
+		"stn": ""
+	},
+	"heh": "0",
+	"lvc": 0,
+	"rcn": 6,
+	"zhanyi": "0",
+	"sd": {
+		"f": {
+			"hrf": "0.0",
+			"hdx": "3.25",
+			"hcb": null
+		},
+		"h": {
+			"hrf": "0.0",
+			"hdx": "1.25",
+			"hcb": null
+		}
+	},
+	"events": [
+		{
+			"t": "e",
+			"c": "Score After Full Time - 2-1"
+		},
+		{
+			"t": "it",
+			"c": "Second Half Injury Time: 4 Mins"
+		},
+		{
+			"t": "gyc",
+			"c": "86 - 3rd Yellow Card -  (NK Rudar Velenje)"
+		},
+		{
+			"t": "gc",
+			"c": "79 - 8th Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "gg",
+			"c": "72 - 3rd Goal -   (NK Rudar Velenje) "
+		},
+		{
+			"t": "d",
+			"c": "72 - Race to 5 Corners - NK Rudar Velenje"
+		},
+		{
+			"t": "gc",
+			"c": "72 - 7th Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "hg",
+			"c": "64 - 2nd Goal -   (NK Nafta 1903) "
+		},
+		{
+			"t": "gc",
+			"c": "59 - 6th Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "d",
+			"c": "53 - Race to 3 Corners - NK Rudar Velenje"
+		},
+		{
+			"t": "gc",
+			"c": "53 - 5th Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "gc",
+			"c": "52 - 4th Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "hg",
+			"c": "49 - 1st Goal -   (NK Nafta 1903)"
+		},
+		{
+			"t": "h",
+			"c": "Score After First Half - 0-0"
+		},
+		{
+			"t": "it",
+			"c": "First Half Injury Time: 1 Mins"
+		},
+		{
+			"t": "hyc",
+			"c": "45 - 2nd Yellow Card -  (NK Nafta 1903)"
+		},
+		{
+			"t": "hc",
+			"c": "38 - 3rd Corner - NK Nafta 1903"
+		},
+		{
+			"t": "hc",
+			"c": "27 - 2nd Corner - NK Nafta 1903"
+		},
+		{
+			"t": "hyc",
+			"c": "12 - 1st Yellow Card -  (NK Nafta 1903)"
+		},
+		{
+			"t": "gc",
+			"c": "4 - 1st Corner - NK Rudar Velenje"
+		},
+		{
+			"t": "cd",
+			"c": "Pitch: GOOD"
+		},
+		{
+			"t": "tq",
+			"c": "Weather: GOOD"
+		}
+	],
+	"events_graph": {
+		"events": [
+			{
+				"status": "4",
+				"t": "gc",
+				"content": "4 - 1st Corner - NK Rudar Velenje"
+			},
+			{
+				"status": "27",
+				"t": "hc",
+				"content": "27 - 2nd Corner - NK Nafta 1903"
+			},
+			{
+				"status": "38",
+				"t": "hc",
+				"content": "38 - 3rd Corner - NK Nafta 1903"
+			},
+			{
+				"status": "49",
+				"t": "hg",
+				"content": "49 - 1st Goal -   (NK Nafta 1903) "
+			},
+			{
+				"status": "52",
+				"t": "gc",
+				"content": "52 - 4th Corner - NK Rudar Velenje"
+			},
+			{
+				"status": "53",
+				"t": "gc",
+				"content": "53 - 5th Corner - NK Rudar Velenje"
+			},
+			{
+				"status": "59",
+				"t": "gc",
+				"content": "59 - 6th Corner - NK Rudar Velenje"
+			},
+			{
+				"status": "64",
+				"t": "hg",
+				"content": "64 - 2nd Goal -   (NK Nafta 1903)"
+			},
+			{
+				"status": "72",
+				"t": "gc",
+				"content": "72 - 7th Corner - NK Rudar Velenje"
+			},
+			{
+				"status": "72",
+				"t": "gg",
+				"content": "72 - 3rd Goal -   (NK Rudar Velenje)"
+			},
+			{
+				"status": "79",
+				"t": "gc",
+				"content": "79 - 8th Corner - NK Rudar Velenje"
+			}
+		],
+		"ml": "90",
+		"status": "90"
+	},
+	"ss": "S",
+	"ss_ta": "0",
+	"rd": {
+		"hg": "2",
+		"gg": "1",
+		"hc": "2",
+		"gc": "6",
+		"hy": "2",
+		"gy": "1",
+		"hr": "0",
+		"gr": "0"
+	},
+	"plus": {
+		"ha": "114",
+		"ga": "146",
+		"hd": "66",
+		"gd": "82",
+		"hso": "9",
+		"gso": "6",
+		"hsf": "6",
+		"gsf": "3",
+		"hqq": "41",
+		"gqq": "59"
+	},
+	"rh": {
+		"hg": "0",
+		"gg": "0",
+		"hc": "2",
+		"gc": "1"
+	},
+	"status": "85",
+	"h_ld": {
+		"hrf": -0.25,
+		"hrfsp": "2.200",
+		"grfsp": "1.650",
+		"rft": "2",
+		"rf": [
+			{
+				"hrf": -0.25,
+				"hrfsp": "2.200",
+				"grfsp": "1.650",
+				"rft": "2",
+				"ps": "2276"
+			},
+			{
+				"hrf": -0.25,
+				"hrfsp": "2.150",
+				"grfsp": "1.675",
+				"rft": "2",
+				"ps": "2250"
+			},
+			{
+				"hrf": -0.25,
+				"hrfsp": "2.075",
+				"grfsp": "1.725",
+				"rft": "2",
+				"ps": "2223"
+			},
+			{
+				"hrf": -0.25,
+				"hrfsp": "2.050",
+				"grfsp": "1.750",
+				"rft": "2",
+				"ps": "2196"
+			},
+			{
+				"hrf": -0.25,
+				"hrfsp": "2.000",
+				"grfsp": "1.800",
+				"rft": "2",
+				"ps": "2166"
+			}
+		],
+		"hdx": "1.5",
+		"hdxsp": "3.000",
+		"gdxsp": "1.375",
+		"dxt": "2",
+		"dx": [
+			{
+				"hdx": "1.5",
+				"hdxsp": "3.000",
+				"gdxsp": "1.375",
+				"dxt": "2",
+				"ps": "2276"
+			},
+			{
+				"hdx": "1.5",
+				"hdxsp": "2.850",
+				"gdxsp": "1.400",
+				"dxt": "2",
+				"ps": "2250"
+			},
+			{
+				"hdx": "1.5",
+				"hdxsp": "2.750",
+				"gdxsp": "1.425",
+				"dxt": "2",
+				"ps": "2223"
+			},
+			{
+				"hdx": "1.5",
+				"hdxsp": "2.675",
+				"gdxsp": "1.450",
+				"dxt": "2",
+				"ps": "2196"
+			},
+			{
+				"hdx": "1.5",
+				"hdxsp": "2.600",
+				"gdxsp": "1.475",
+				"dxt": "2",
+				"ps": "2166"
+			}
+		]
+	},
+	"f_ld": {
+		"hrf": "-2",
+		"hrfsp": "1.850",
+		"grfsp": "1.950",
+		"rft": "2",
+		"rf": [
+			{
+				"hrf": "-2",
+				"hrfsp": "1.850",
+				"grfsp": "1.950",
+				"rft": "2",
+				"ps": "2250"
+			},
+			{
+				"hrf": "-2",
+				"hrfsp": "1.825",
+				"grfsp": "1.975",
+				"rft": "2",
+				"ps": "2213"
+			},
+			{
+				"hrf": "-2",
+				"hrfsp": "1.800",
+				"grfsp": "2.000",
+				"rft": "0",
+				"ps": "2166"
+			},
+			{
+				"hrf": -2.25,
+				"hrfsp": "2.025",
+				"grfsp": "1.775",
+				"rft": "2",
+				"ps": "2136"
+			},
+			{
+				"hrf": -2.25,
+				"hrfsp": "2.000",
+				"grfsp": "1.800",
+				"rft": "2",
+				"ps": "2089"
+			}
+		],
+		"hdx": "3.75",
+		"hdxsp": "2.000",
+		"gdxsp": "1.800",
+		"dxt": "2",
+		"dx": [
+			{
+				"hdx": "3.75",
+				"hdxsp": "2.000",
+				"gdxsp": "1.800",
+				"dxt": "2",
+				"ps": "2276"
+			},
+			{
+				"hdx": "3.75",
+				"hdxsp": "1.975",
+				"gdxsp": "1.825",
+				"dxt": "2",
+				"ps": "2250"
+			},
+			{
+				"hdx": "3.75",
+				"hdxsp": "1.950",
+				"gdxsp": "1.850",
+				"dxt": "2",
+				"ps": "2213"
+			},
+			{
+				"hdx": "3.75",
+				"hdxsp": "1.925",
+				"gdxsp": "1.875",
+				"dxt": "2",
+				"ps": "2196"
+			},
+			{
+				"hdx": "3.75",
+				"hdxsp": "1.900",
+				"gdxsp": "1.900",
+				"dxt": "2",
+				"ps": "2166"
+			}
+		]
+	}
+}
