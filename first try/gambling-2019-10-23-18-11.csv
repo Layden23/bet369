@@ -1,0 +1,31 @@
+,MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+0,685560,861,IRQ L,Iraq League,I,66,Iraq,Y,36174,Al Talaba,36145,Naft Al Junoob,-0.25,2.25,,+0.5,0.5,,4,4,3,5,0,3,0,0,104,101,73,61,8,11,4,4,0,0,90,1
+1,685265,833,UEFA YL,UEFA Youth League,U,4,International,G,36075,FCI Levadia U19,8170,IA Akranes U19,+2.25,4.25,10,+1.0,1.75,4.5,0,10,0,10,2,0,1,0,93,134,32,92,2,16,0,9,46,54,82,1
+2,685202,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,32399,Braga U23,37037,Academica  U23,-1.0,2.75,10,-0.25,1.25,4.5,2,2,5,6,3,1,0,0,76,85,50,56,8,5,1,4,47,53,80,1
+3,685571,2445,Kuwait D1,Kuwait Division 1,K,72,Kuwait,K,8016,Al Salibikhaet SC,12447,Burgan SC,-0.5,2.75,,-0.25,1.0,,0,0,2,2,3,2,0,0,59,56,62,56,8,4,4,4,0,0,70,0
+4,685572,2445,Kuwait D1,Kuwait Division 1,K,72,Kuwait,K,8014,Khaitan,7960,Al Fahaheel SC,-0.25,2.75,,0.0,1.0,,1,2,2,1,1,1,0,0,74,63,50,39,1,6,3,2,0,0,66,1
+5,684931,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,23906,Al Thuqbah,28557,Al Taqdom,-0.25,2.5,9,+0.5,0.5,4,2,0,6,6,1,1,0,0,79,89,33,31,5,2,1,3,0,0,64,1
+6,685082,236,DZA YL,Algeria Youth League,A,111,Algeria,A,11019,JS Saoura U21,32221,NC Magra U21,-2,3.5,,-0.75,1.5,,0,0,6,0,2,3,0,0,60,31,61,16,3,1,15,2,0,0,63,0
+7,685276,955,BHR D2,Bahrain Division 2,B,80,Bahrain,B,12742,Al Ittifaq Maqaba,10562,Isa Town,+2,3.0,8.5,+0.75,1.25,4,0,1,1,5,1,0,0,0,41,37,14,36,0,3,0,4,0,0,54,1
+8,685277,955,BHR D2,Bahrain Division 2,B,80,Bahrain,B,10426,Qalali,2024,Malkiya,+1.5,3.25,8.5,+0.75,1.25,4,1,2,2,4,2,2,0,0,43,44,22,31,2,5,1,2,0,0,54,1
+9,685134,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,25207,Al Kawkab,24316,Al Jabalain,+0.25,2.25,,0.0,1.0,,0,0,1,3,2,1,0,0,52,54,32,38,1,3,2,6,0,0,51,0
+10,685305,315,UKR DL,Ukraine Druha Liga,U,21,Ukraine,W,32096,FC Alliance Lipova Dolina,37522,FK Avanhard Kramatorsk II,-2.25,3.5,,-1.0,1.5,,1,0,3,1,2,2,0,0,65,55,46,33,2,1,5,4,0,0,49,1
+11,685154,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,10293,Al Mesaimeer SC,19941,Al-Kharitiyath SC,+0.5,3.25,9.5,+0.25,1.25,4.5,2,1,2,2,0,1,0,0,44,45,27,44,10,5,2,8,0,0,50,1
+12,685271,833,UEFA YL,UEFA Youth League,U,4,International,G,23288,Sheriff Tiraspol U19,38196,Shkendija Tirane U19,-1.25,3.25,11.5,-0.5,1.25,5.5,1,0,2,3,0,1,0,0,57,59,30,27,4,4,3,2,46,54,53,1
+13,685413,704,ARG R,Argentina Reserve League,A,32,Argentina,A,28720,Deportivo Laferrere Reserves,33363,CA Ituzaingo Reserves,+0.25,3.0,,+0.25,1.25,,2,2,3,2,2,1,0,0,71,74,45,33,4,3,5,3,0,0,54,1
+14,685156,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,38086,Al Waab FC,13044,Al-Mu'aidar,+1.25,3.25,8.5,+0.5,1.25,4,0,1,0,7,0,1,0,0,36,48,12,23,1,4,1,8,40,60,52,1
+15,682493,191,RUS D1,Russia Division 1,R,12,Russia,E,1318,Neftekhimik Nizhnekamsk,1331,SKA Energia Khabarovsk,-0.25,2.25,10,-0.25,1.0,4.5,1,1,0,4,1,2,0,1,70,56,37,27,3,4,5,6,56,44,50,1
+16,685264,833,UEFA YL,UEFA Youth League,U,4,International,G,8877,Ludogorets Razgrad U19,2578,Slovan Bratislava U19,0.0,3.0,10,0.0,1.25,4.5,1,0,0,2,1,0,0,0,74,75,39,40,2,1,3,2,52,48,54,1
+17,685263,833,UEFA YL,UEFA Youth League,U,4,International,G,23287,PAOK Salonika U19,31995,Bohemians Dublin U19,-0.5,3.0,10,-0.25,1.25,4.5,1,0,5,4,0,0,0,0,68,50,44,40,4,0,3,3,49,51,52,0
+18,685278,833,UEFA YL,UEFA Youth League,U,4,International,G,10835,FK Brodarac U19,19596,Rennes U19,+1.5,3.0,9.5,+0.75,1.25,4.5,0,0,0,3,3,2,0,0,52,88,18,54,0,2,1,7,0,0,54,0
+19,685280,833,UEFA YL,UEFA Youth League,U,4,International,G,38195,FK Liepaja U19,7905,FC Porto U19,+2.75,4.25,,+1.25,1.75,,0,1,1,5,1,1,0,0,39,97,15,66,1,4,0,5,0,0,51,1
+20,685317,769,HRV Cup,Croatia Cup,C,98,Croatia,K,5584,NK Zadar,5349,NK Osijek,+2.5,3.25,,+1.0,1.25,,0,2,3,1,0,1,0,0,73,77,20,37,0,5,3,2,47,53,53,1
+21,682489,191,RUS D1,Russia Division 1,R,12,Russia,E,5372,Rotor Volgograd,1303,Luch-Energiya Vladivostok,-1.0,2.25,9,-0.25,1.0,4,2,0,4,4,0,3,0,0,67,87,50,46,2,0,3,1,55,45,50,1
+22,685153,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,33107,Al Bidda SC,10717,Al Markhiya,+1.0,3.0,8.5,+0.5,1.25,4,0,2,0,1,1,0,0,0,51,44,16,29,0,2,1,3,0,0,47,1
+23,685414,704,ARG R,Argentina Reserve League,A,32,Argentina,A,23097,Excursionistas Reserves,33771,General Lamadrid Reserves,-1.0,2.75,,-0.5,1.0,,1,0,2,0,0,2,0,0,54,42,26,15,4,0,0,4,0,0,HT,1
+24,684949,817,OMN L,Oman League,O,33,Oman,A,24159,Al-Nahda,27575,Dhofar,+0.75,2.5,8.5,+0.25,1.0,4,0,0,2,3,0,1,0,0,43,35,31,27,2,3,5,5,0,0,HT,0
+25,684932,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,34228,Al-Bukayriyah FC,18789,Al Najoom,-0.25,2.5,9,0.0,1.0,4,5,1,3,4,0,1,0,0,52,40,35,24,6,2,2,0,0,0,HT,1
+26,682494,191,RUS D1,Russia Division 1,R,12,Russia,E,1275,Shinnik Yaroslavl,1256,Baltika Kaliningrad,0.0,2.25,8.5,0.0,0.75,4,0,1,2,2,0,0,0,0,37,43,27,36,0,2,1,1,43,57,39,1
+27,682490,191,RUS D1,Russia Division 1,R,12,Russia,E,1378,FK Khimki,25462,FK Armavir,-1.25,2.25,9,-0.5,1.0,4,0,0,1,0,0,1,0,0,50,26,13,8,0,0,1,0,60,40,27,1
+28,682497,191,RUS D1,Russia Division 1,R,12,Russia,E,4444,Chertanovo,5443,Tekstilshchik Ivanovo,-1.25,2.5,9.5,-0.5,1.0,4.5,0,0,0,0,0,0,0,0,20,14,12,3,0,0,3,0,62,38,10,1
+29,682496,191,RUS D1,Russia Division 1,R,12,Russia,E,1273,Torpedo Moscow,17080,FC Chayka,-1.0,2.25,9,-0.25,1.0,4.5,0,0,1,1,0,0,0,0,16,10,8,8,1,0,0,0,65,35,9,1
