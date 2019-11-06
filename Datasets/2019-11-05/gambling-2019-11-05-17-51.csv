@@ -1,0 +1,15 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692484,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,7660,Al Jeel,38551,Al Anwar Club,-0.5,2.0,9.5,-0.25,0.75,4.5,2,1,3,4,1,1,0,0,143,168,59,59,4,2,6,5,0,0,108,1
+692453,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,10427,Al-Ahli Manama,2784,Al-Riffa,+0.25,2.75,9,0.0,1.25,4,0,2,9,4,2,2,1,0,103,96,88,48,3,2,12,4,0,0,FT,1
+692392,1388,NOR EL U19,Norway U19 Elite League,N,70,Norway,N,5930,Viking FK U19,27573,FK Bodo/Glimt U19,-0.75,4.0,9.5,-0.25,1.75,4.5,3,1,12,3,0,3,0,0,80,90,55,31,17,1,8,5,52,48,FT,1
+692543,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,10717,Al Markhiya,13044,Al-Mu'aidar,-0.25,3.25,9,-0.25,1.25,4,1,3,2,3,6,4,1,0,117,113,93,82,2,10,8,4,0,0,91,1
+692544,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,18410,Lusail,19941,Al-Kharitiyath SC,+1.75,3.75,,+0.75,1.5,,1,0,3,11,3,0,0,0,82,124,34,89,1,2,2,8,0,0,86,1
+692485,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,5410,Al Qadisiya Al Khubar,38287,Al-Rawdhah Club,-1.75,3.25,9.5,-0.75,1.5,4.5,1,2,4,3,1,1,0,0,107,84,49,37,3,2,8,5,0,0,92,1
+692524,833,UEFA YL,UEFA Youth League,U,4,International,G,9433,Chelsea U19,8963,Ajax U19,-0.5,3.25,10,-0.25,1.25,4.5,1,1,6,1,0,3,0,0,99,69,77,25,4,3,4,3,60,40,93,1
+692526,833,UEFA YL,UEFA Youth League,U,4,International,G,8287,Lyon U19,7901,Benfica U19,+0.5,3.5,10,+0.25,1.5,4.5,2,3,5,3,1,4,0,0,82,108,45,69,3,11,7,7,45,55,91,1
+692461,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,19815,AS Tanda,24995,WAC d'Adjame,-0.25,2.25,8,0.0,0.75,4,2,0,1,0,0,0,0,0,83,76,46,35,3,4,4,6,0,0,60,1
+692436,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,6505,Cherno More Varna,6308,CSKA Sofia,+0.25,2.0,,+0.25,0.75,,0,0,2,0,3,2,0,0,82,90,40,46,1,2,0,3,44,56,60,0
+692401,1690,Mali PD,Mali Premiere Division,M,165,Mali,M,21105,Club Olympique de Bamako,21549,Onze Créateurs,-0.25,2.25,8,-0.25,0.75,3.5,0,0,2,3,2,0,1,0,48,36,26,37,0,1,1,2,0,0,HT,0
+692396,2181,ROM L2,Romania Liga II,R,30,Romania,L,1417,Petrolul Ploiesti,9542,FK Csikszereda Miercurea Ciuc,-1.25,2.25,,-0.5,1.0,,0,0,3,4,1,1,0,0,90,64,55,30,2,1,2,1,61,39,47,0
+692458,787,ESP TG9,Spain Tercera Group 9,S,23,Spain,X,3102,Atletico Malagueno,10838,Almeria B,-0.5,2.5,,-0.25,1.0,,0,0,5,1,1,2,0,0,41,41,21,16,3,1,3,2,58,42,HT,0
+692545,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,7976,Al-Shamal SC,10293,Al Mesaimeer SC,+0.75,3.25,8.5,+0.25,1.25,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,69,31,3,0

@@ -70,7 +70,8 @@ while 1:
                    'GuestYCFT','HostRCFT', 'GuestRCFT', 'HostAttacksFT', 'GuestAttacksFT', 'HostDAttacksFT',
                    'GuestDAttacksFT', 'HostonTargetFT', 'GuestonTargetFT', 'HostoffTargetFT', 'GuestoffTargetFT',
                    'HostPossessionFT', 'GuestPossessionFT',"Status","Goal"]]
-    
+        df3["Pitch"] = nlive[i]["events"][-2]["c"]
+        df3["Weather"] = nlive[i]["events"][-1]["c"]
         df2 = pd.concat([df2,df3])
         
     os.chdir('/Users/jojoel/Google Drive/Github/bet369/Datasets/')

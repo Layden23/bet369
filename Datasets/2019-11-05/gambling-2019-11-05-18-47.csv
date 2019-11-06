@@ -1,0 +1,14 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692401,1690,Mali PD,Mali Premiere Division,M,165,Mali,M,21105,Club Olympique de Bamako,21549,Onze Créateurs,-0.25,2.25,8,-0.25,0.75,3.5,0,1,3,3,3,3,1,0,81,80,53,63,2,3,3,4,0,0,89,1
+692458,787,ESP TG9,Spain Tercera Group 9,S,23,Spain,X,3102,Atletico Malagueno,10838,Almeria B,-0.5,2.5,,-0.25,1.0,,0,3,7,4,2,3,0,0,88,74,44,27,4,4,6,4,59,41,92,1
+692545,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,7976,Al-Shamal SC,10293,Al Mesaimeer SC,+0.75,3.25,8.5,+0.25,1.25,4,1,0,2,4,0,1,0,0,27,28,10,14,1,1,1,3,59,41,HT,1
+692477,704,ARG R,Argentina Reserve League,A,32,Argentina,A,14448,Deportivo Armenio Reserves,28609,Sacachispas Reserves,0.0,2.25,9,0.0,0.75,4.5,1,0,2,0,2,3,0,0,55,52,40,26,1,1,0,2,0,0,44,1
+692593,2682,COL RL,Colombia Regional League,C,16,Colombia,G,35085,Politecnico J.I.C.,38628,Club Deportivo La Chalaca,-0.75,2.75,,-0.25,1.25,,1,0,2,1,0,2,0,0,33,41,14,22,1,3,1,3,0,0,35,1
+692541,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,28596,Elnahada Nazareth,9144,Maccabi Sektzia Maalot,-0.25,2.25,,0.0,0.75,,0,0,0,1,1,1,0,0,40,53,20,27,2,1,1,1,0,0,45,0
+692486,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,923,Al Ahli Jeddah,33889,Al Jndal,-2.75,3.5,10.5,-1.25,1.5,5,0,1,2,0,0,1,0,0,40,27,27,7,4,2,2,1,0,0,32,1
+692455,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2024,Malkiya,24268,Al Hidd,+0.25,2.25,9.5,0.0,1.0,4.5,0,0,2,2,0,0,0,0,15,6,9,15,0,2,3,2,0,0,18,0
+692488,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,8695,Hapoel Marmorek,25651,Maccabi Ashdod,-1.0,2.75,,-0.25,1.0,,0,0,0,1,0,1,0,0,18,20,10,12,0,0,1,1,56,44,14,0
+692376,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,7541,Roda JC Reserves,22561,RKC Reserves,+0.75,3.0,10.5,+0.25,1.25,5,0,0,0,1,0,0,0,0,11,26,5,10,0,2,1,0,46,54,14,0
+692378,45,ZAF PL,South Africa Premier,S,37,South Africa,N,1147,Bloem Celtic,8167,Highlands Park,0.0,2.0,,0.0,0.75,,0,0,1,1,0,1,0,0,16,20,9,10,0,1,3,1,0,0,19,0
+692381,45,ZAF PL,South Africa Premier,S,37,South Africa,N,1111,Supersport United,1143,Golden Arrows,-0.5,2.0,9.5,-0.25,0.75,4.5,0,0,1,1,0,0,0,0,28,24,17,10,0,0,3,4,0,0,17,0
+692380,45,ZAF PL,South Africa Premier,S,37,South Africa,N,1110,Orlando Pirates,1249,Maritzburg Utd,-0.5,2.0,11,-0.25,0.75,5,0,0,0,1,0,0,0,0,37,13,16,9,1,0,1,1,0,0,16,0
