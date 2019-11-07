@@ -1,0 +1,11 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688846,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37294,Persikasi Kabupaten Bekasi,31756,Patriot Candrabhaga,0.0,2.75,,0.0,1.0,,4,1,6,6,2,7,0,1,93,98,61,58,5,2,7,5,0,0,90,1
+688837,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37421,Benpica FC Karawang,37367,Persitas Tasikmalaya,0.0,2.75,,0.0,1.25,,1,1,5,5,3,0,0,0,104,91,48,27,3,1,0,0,0,0,89,1
+688856,258,WClub F,World Club Friendlies,W,4,International,G,20233,Philippines U22,4972,Ceres FC,+1.0,3.5,,+0.5,1.5,,1,2,5,6,2,1,0,0,85,112,63,84,2,5,3,9,0,0,86,1
+688857,258,WClub F,World Club Friendlies,W,4,International,G,11973,Mendiola FC,4400,Green Archers Utd,+0.5,3.25,,+0.25,1.25,,1,0,4,2,1,2,0,1,107,117,65,44,10,2,8,5,56,44,86,1
+688847,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37385,PSGJ Kabupaten Cirebon,37291,Perses Sumedang,-0.25,2.75,,0.0,1.0,,1,5,5,8,3,0,0,0,74,72,39,49,8,8,8,9,0,0,86,1
+688838,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,7516,Persikab Bandung,37420,PSKC Kota Cimahi,+1.25,3.0,,+0.5,1.25,,0,3,0,0,1,1,0,0,59,70,8,25,2,3,5,5,0,0,79,1
+688681,263,Friendlies,Friendlies,F,4,International,G,38542,FK Sarajevo U21,38543,Japan Students U21,+1.0,3.5,,+0.5,1.5,,0,3,2,2,1,0,0,0,49,60,37,64,1,5,3,6,0,0,57,1
+688700,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,9045,Okzhetpes Kokshetau,2653,FC Astana,+1.0,3.0,,+0.5,1.25,,0,1,1,4,1,0,0,0,38,51,12,33,0,6,1,2,0,0,42,1
+688381,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,11944,Nojima Women,5279,Albirex Niigata Women,0.0,2.0,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,13,16,6,19,0,0,0,1,32,68,14,1
+688383,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4591,Lecce U19,11700,Benevento U19,-0.75,3.0,10.5,-0.25,1.25,5,0,0,0,0,0,0,0,0,9,12,7,7,2,0,3,0,51,49,10,1

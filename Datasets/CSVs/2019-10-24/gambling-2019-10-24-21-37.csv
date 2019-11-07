@@ -1,0 +1,37 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+685834,1727,IVO CLC,Ivory Coast League Cup,I,152,Ivory Coast,K,2766,ASEC Mimosas,18757,Jeunesse Club d'Abidjan,-1.5,2.5,,-0.5,1.0,,2,0,2,3,1,2,0,0,105,96,62,44,3,1,4,5,55,45,82,1
+685718,2579,Brazil P CA2,Brazil Campeonato Pernambucano A2,B,47,Brazil,B,36931,Retro FC Brasil,28649,Decisao,-0.25,2.25,9.5,0.0,0.75,4.5,0,0,4,2,3,1,0,0,69,61,38,32,2,4,7,10,55,45,80,0
+685649,704,ARG R,Argentina Reserve League,A,32,Argentina,A,33451,Berazategui Reserves,33450,Lujan Reserves,-0.5,2.5,,-0.25,1.0,,2,0,4,0,4,2,0,0,92,89,65,54,6,0,6,7,0,0,81,1
+685634,403,CAF CL,CAF Champions League,C,4,International,G,2785,El Zamalek,24794,Generation Foot,-1.75,2.5,9.5,-0.75,1.0,4.5,1,0,7,9,1,1,0,0,58,55,63,76,4,5,5,3,56,44,79,1
+685593,771,MAR Cup,Morocco Cup,M,46,Morocco,M,1860,Difaa El Jadida,8023,Chabab Atlas Khénifra,-0.5,1.75,9,-0.25,0.75,4,1,0,7,0,0,2,0,0,57,38,43,20,4,1,5,1,72,28,77,1
+685648,704,ARG R,Argentina Reserve League,A,32,Argentina,A,14628,Barracas Central Reserves,14444,Defensores de Belgrano Reserves,-0.25,2.25,9.5,0.0,0.75,4.5,0,0,3,5,1,2,0,0,83,73,51,44,5,4,3,8,58,42,81,0
+685653,492,BRA,Brazilian Matches,B,47,Brazil,B,8626,Resende RJ,32159,Buzios,0.0,3.0,9.5,0.0,1.25,4.5,0,1,2,8,1,1,0,0,80,70,62,81,3,5,8,6,0,0,71,0
+685717,2579,Brazil P CA2,Brazil Campeonato Pernambucano A2,B,47,Brazil,B,23447,Ibis SC,10851,CA Porto,+0.25,2.0,10,0.0,0.75,4.5,2,1,6,5,3,2,0,0,94,94,46,45,4,4,4,4,0,0,79,1
+685652,492,BRA,Brazilian Matches,B,47,Brazil,B,12779,Sao Cristovao RJ,12950,Ceres RJ,0.0,2.25,9.5,0.0,1.0,4.5,1,0,3,6,1,1,0,0,84,83,33,51,2,3,3,5,0,0,75,0
+685668,1804,BRA CG,Brazil Copa Gaucho,B,47,Brazil,B,31703,Sport Clube Gaucho,22947,Gremio B,0.0,2.5,,0.0,1.0,,1,0,7,9,1,0,0,0,48,52,33,30,2,1,2,0,0,0,74,1
+685820,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,8119,Rampla Juniors Reserves,1577,Montevideo Wanderers Reserves,0.0,3.0,,0.0,1.25,,2,1,2,1,2,0,0,0,85,82,38,31,5,3,7,8,0,0,73,1
+685538,2788,GNL,Gibraltar National League,G,14,England,Y,28990,College 1975 FC,32314,FC Boca Juniors Gibraltar,+2.5,4.5,,+1.0,1.75,,0,2,0,7,0,0,0,0,51,78,14,61,0,5,4,9,40,60,50,1
+685716,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,35585,Uniao Inhumas U20,35225,Monte Cristo EC U20,-2.5,3.25,,-1.0,1.25,,5,0,8,1,0,1,0,0,46,35,56,15,9,1,7,0,54,46,46,1
+685671,492,BRA,Brazilian Matches,B,47,Brazil,B,38458,Carajas EC,38017,Tuna Luso,+0.5,2.75,,+0.25,1.0,,0,0,1,3,1,1,0,0,44,39,31,33,2,4,2,4,50,50,HT,0
+685098,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,7292,Fermana,8518,Triestina,+0.25,2.25,8.5,0.0,0.75,4,0,1,2,1,0,1,0,0,69,49,39,26,0,4,3,3,62,38,HT,1
+685091,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,15475,Fano,10228,Vis Pesaro,0.0,1.75,8,0.0,0.5,4,0,1,2,8,1,2,0,0,66,33,46,32,0,3,2,5,64,36,HT,1
+685097,2316,Italy SCGB,Italy Serie C Group B,I,22,Italy,Y,371,Carpi,370,Modena,-0.5,2.25,9,-0.25,1.0,4,0,0,2,1,1,2,0,0,44,45,23,21,1,0,1,1,52,48,HT,0
+677714,128,UEFA EL,UEFA Europa League,U,4,International,G,6693,Getafe,1134,Basel,-0.75,2.5,9.5,-0.25,1.0,4.5,0,1,2,0,0,2,0,0,53,30,16,6,1,2,4,2,56,44,37,1
+677713,128,UEFA EL,UEFA Europa League,U,4,International,G,889,Trabzonspor,239,Krasnodar,-0.25,2.75,9.5,0.0,1.25,4.5,0,0,1,2,0,2,0,0,46,52,17,16,4,0,2,4,58,42,37,1
+677712,128,UEFA EL,UEFA Europa League,U,4,International,G,6382,Eintracht Frankfurt,1127,Standard Liege,-1.5,3.25,10,-0.75,1.5,4.5,1,0,2,0,0,0,0,0,37,37,21,11,2,0,3,1,62,38,37,1
+677709,128,UEFA EL,UEFA Europa League,U,4,International,G,5682,Celtic,6565,Lazio,-0.25,2.5,10,0.0,1.0,4.5,0,0,2,2,0,0,0,0,51,44,38,13,0,2,3,0,53,47,37,1
+677710,128,UEFA EL,UEFA Europa League,U,4,International,G,5378,Dynamo Kiev,5646,FC Copenhagen,-0.5,2.25,9,-0.25,1.0,4.5,0,1,2,0,1,0,0,0,55,59,19,17,2,3,3,1,52,48,37,1
+677708,128,UEFA EL,UEFA Europa League,U,4,International,G,1053,PSV,2314,LASK Linz,-0.5,2.75,10,-0.25,1.0,4.5,0,0,2,1,1,2,0,0,52,73,10,17,3,0,3,3,55,45,36,1
+677718,128,UEFA EL,UEFA Europa League,U,4,International,G,1917,Malmo FF,5362,Lugano,-0.5,2.0,9,-0.25,0.75,4,2,0,0,1,0,2,0,0,38,27,15,11,2,1,2,1,58,42,36,1
+677717,128,UEFA EL,UEFA Europa League,U,4,International,G,1058,Rennes,1629,CFR Cluj,-0.5,2.25,9.5,-0.25,0.75,4.5,0,1,1,4,2,1,1,0,43,28,33,17,1,2,1,4,57,43,36,1
+677711,128,UEFA EL,UEFA Europa League,U,4,International,G,984,Sevilla,6348,F91 Dudelange,-3.25,4.25,11,-1.5,2.0,5,0,0,5,1,0,1,0,0,84,24,28,8,3,0,7,1,73,27,36,1
+685638,2442,MRT D1,Mauritania Division 1,M,187,Mauritania,M,29705,ASC Tevragh Zeine,34235,ASC Tidjikja,0.0,2.25,,+0.5,0.5,,2,0,0,2,0,0,0,0,58,49,40,28,4,1,1,1,54,46,36,1
+677716,128,UEFA EL,UEFA Europa League,U,4,International,G,6493,Arsenal,6323,Guimaraes,-1.5,3.0,11,-0.75,1.25,5,1,2,4,1,1,0,0,0,44,41,23,18,1,3,4,5,57,43,36,1
+685749,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,3005,Plaza Colonia,9756,Club Atletico Progreso,-0.25,2.25,10,0.0,1.0,4.5,0,0,1,2,0,0,0,0,43,39,38,22,1,3,0,1,51,49,36,1
+677715,128,UEFA EL,UEFA Europa League,U,4,International,G,1033,Sporting,2482,Rosenborg,-1.0,2.75,10.5,-0.25,1.25,5,0,0,3,2,0,0,0,0,48,21,16,12,2,1,6,2,62,38,35,1
+685747,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,4170,CA River Plate,6568,Nacional De Football,+0.5,2.5,10,+0.25,1.0,4.5,2,0,1,2,0,1,0,0,36,40,22,24,2,1,1,1,43,57,33,1
+685748,1036,URY CL,Uruguay Clausura,U,52,Uruguay,W,7732,Cerro,7721,Atletico Fenix Montevideo,0.0,2.25,9.5,0.0,1.0,4.5,0,0,1,3,0,0,0,0,44,39,14,23,0,0,1,2,48,52,32,1
+685661,487,ARG TA,Argentina Torneo A,A,32,Argentina,A,10878,Huracan Las Heras,11867,Sportivo Estudiantes,-0.5,2.0,10,-0.25,0.75,4.5,0,0,2,0,0,0,0,0,40,33,38,26,1,0,2,3,0,0,30,1
+685662,487,ARG TA,Argentina Torneo A,A,32,Argentina,A,19988,Sansinena,34654,CS Penarol de San Juan,-0.25,1.75,9,-0.25,0.5,4.5,0,0,2,0,0,0,0,0,41,31,29,21,1,1,4,2,0,0,30,1
+685821,2366,Ireland LSL,Republic of Ireland Leinster Senior League,R,100,Ireland,A,2127,UCD,11815,Tolka Rovers,+0.5,3.0,,+0.25,1.25,,0,1,1,1,0,0,0,0,38,51,18,23,0,3,3,3,0,0,29,1
+685666,492,BRA,Brazilian Matches,B,47,Brazil,B,35098,3B da Amazonia Women,38405,Nacional Women,-2.75,4.25,,-1.25,1.75,,0,0,1,0,0,0,0,0,9,4,7,0,1,0,0,0,0,0,6,1

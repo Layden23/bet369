@@ -1,0 +1,11 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688846,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37294,Persikasi Kabupaten Bekasi,31756,Patriot Candrabhaga,0.0,2.75,,0.0,1.0,,2,1,5,6,2,5,0,1,81,82,53,47,3,2,7,5,0,0,75,1
+688837,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37421,Benpica FC Karawang,37367,Persitas Tasikmalaya,0.0,2.75,,0.0,1.25,,0,1,4,4,3,0,0,0,88,78,37,21,2,1,0,0,0,0,74,1
+688856,258,WClub F,World Club Friendlies,W,4,International,G,20233,Philippines U22,4972,Ceres FC,+1.0,3.5,,+0.5,1.5,,1,1,5,4,1,1,0,0,73,91,57,69,2,3,3,6,0,0,72,1
+688857,258,WClub F,World Club Friendlies,W,4,International,G,11973,Mendiola FC,4400,Green Archers Utd,+0.5,3.25,,+0.25,1.25,,1,0,3,1,1,2,0,0,92,99,55,35,9,2,8,4,55,45,72,1
+688847,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37385,PSGJ Kabupaten Cirebon,37291,Perses Sumedang,-0.25,2.75,,0.0,1.0,,1,5,5,7,2,0,0,0,62,62,33,42,8,7,6,7,0,0,72,1
+688838,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,7516,Persikab Bandung,37420,PSKC Kota Cimahi,+1.25,3.0,,+0.5,1.25,,0,2,0,0,0,0,0,0,50,62,6,19,1,2,4,4,0,0,65,1
+688681,263,Friendlies,Friendlies,F,4,International,G,38542,FK Sarajevo U21,38543,Japan Students U21,+1.0,3.5,,+0.5,1.5,,0,3,2,2,1,0,0,0,36,46,28,51,1,4,2,6,0,0,HT,1
+688700,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,9045,Okzhetpes Kokshetau,2653,FC Astana,+1.0,3.0,,+0.5,1.25,,0,0,1,2,1,0,0,0,26,30,7,19,0,3,1,1,0,0,28,1
+688383,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4591,Lecce U19,11700,Benevento U19,-0.75,3.0,10.5,-0.25,1.25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+688381,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,11944,Nojima Women,5279,Albirex Niigata Women,0.0,2.0,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

@@ -1,0 +1,19 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688841,22,TUR Cup,Turkey Cup,T,26,Turkey,T,30283,Bayburt GO Idarespor,870,Bursaspor,+0.5,2.5,9.5,+0.25,1.0,4.5,1,1,4,3,1,1,0,0,82,83,45,50,1,2,3,1,42,58,69,1
+688850,538,VNM Cup,Vietnam Cup,V,78,Vietnam,Y,4098,Quang Nam,4129,Ha Noi FC,+0.75,3.0,,+0.75,0.75,,1,1,2,7,0,1,0,0,74,88,45,72,4,4,5,4,43,57,70,1
+688906,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,16091,Dunajska Streda U19,1567,MFK Zemplin Michalovce U19,-2.75,3.75,,-1.25,1.5,,2,0,3,2,0,1,0,0,71,67,29,19,4,1,6,3,55,45,69,1
+688720,435,JPN J3L,Japan J3-League,J,2,Japan,R,4724,Nagano Parceiro,2995,YSCC,-0.25,2.0,9,0.0,0.75,4,1,0,5,2,0,0,0,0,72,68,58,38,2,2,5,9,0,0,68,0
+689276,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,38270,FK Usti nad Labem U19,2816,Slovan Liberec U19,+3,4.75,,+1.25,2.0,,0,3,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,66,1
+688907,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,2575,MFK Ruzomberok U19,2572,FC Nitra U19,+0.25,2.5,,+0.25,1.0,,1,0,4,2,0,0,0,0,77,63,41,34,2,5,6,6,41,59,66,1
+688909,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,2579,Spartak Trnava U19,2578,Slovan Bratislava U19,+1.25,3.0,,+0.5,1.25,,0,1,5,7,0,0,0,0,36,48,13,20,3,4,5,7,44,56,62,0
+688830,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,8508,Moik Baku,17982,Zaqatala,-0.25,2.75,,0.0,1.0,,0,1,3,1,0,1,0,0,49,30,20,15,2,4,1,4,61,39,HT,1
+688831,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32520,Neftchi Baku II,32522,Sabail FC II,+0.75,2.75,,+0.25,1.0,,1,0,1,1,2,2,0,0,45,36,28,19,2,1,1,3,58,42,HT,1
+688829,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,8656,FK Kapaz,32521,Zira IK II,-1.25,3.0,,-0.5,1.25,,0,0,3,1,0,0,0,0,47,47,31,10,1,1,7,2,0,0,HT,0
+689220,22,TUR Cup,Turkey Cup,T,26,Turkey,T,38552,Baskent Akademi,887,Sivasspor,+2.25,3.75,10,+1.0,1.5,4.5,0,3,1,2,2,0,0,0,42,38,29,22,1,5,0,1,56,44,42,1
+689274,561,POL YL,Poland Youth League,P,20,Poland,B,4727,Ruch Chorzow U19,38555,Rakow Czestochowa U19,-0.5,3.25,,-0.25,1.25,,2,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,26,1
+689195,1329,HUN D2 U19,Hungary U19 2nd Division,H,44,Hungary,X,16184,Kecskemeti TE U19,16106,Kaposvari Rakoczi U19,+0.5,3.25,,+0.25,1.25,,0,0,0,0,0,0,0,0,38,33,18,18,1,0,1,0,58,42,25,1
+689278,2465,IranU23,Iran U23 League,I,74,Iran,Y,30090,Mes Rafsanjan U23,23591,Pars Jonoubi Jam,-0.5,2.5,,-0.25,1.0,,1,0,0,0,0,0,0,0,26,29,13,13,4,0,1,0,0,0,19,1
+689101,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,27513,FC Hebar Pazardzhik,28060,CSKA 1948 Sofia,+0.75,2.5,,+0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688709,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,2207,PS Barito Putera,7989,Pusamania Borneo,-0.25,2.25,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+688708,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,14199,Bali United,1269,Persela Lamongan,-1.25,3.0,9.5,-0.5,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688842,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9200,Kirklarelispor,10741,Ankaragucu,+0.25,3.0,8.5,0.0,1.25,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

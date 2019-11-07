@@ -1,0 +1,22 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689274,561,POL YL,Poland Youth League,P,20,Poland,B,4727,Ruch Chorzow U19,38555,Rakow Czestochowa U19,-0.5,3.25,,-0.25,1.25,,4,2,4,3,1,1,0,0,0,0,0,0,4,2,0,0,0,0,83,1
+689195,1329,HUN D2 U19,Hungary U19 2nd Division,H,44,Hungary,X,16184,Kecskemeti TE U19,16106,Kaposvari Rakoczi U19,+0.5,3.25,,+0.25,1.25,,1,2,2,5,1,1,0,0,97,91,62,76,3,5,2,4,52,48,89,1
+689278,2465,IranU23,Iran U23 League,I,74,Iran,Y,30090,Mes Rafsanjan U23,23591,Pars Jonoubi Jam,-0.5,2.5,,-0.25,1.0,,1,1,2,2,2,1,0,0,99,107,49,47,5,1,3,2,0,0,72,1
+688709,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,2207,PS Barito Putera,7989,Pusamania Borneo,-0.25,2.25,9.5,0.0,1.0,4.5,1,0,1,7,2,2,0,0,48,51,21,25,1,0,1,4,0,0,55,1
+689101,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,27513,FC Hebar Pazardzhik,28060,CSKA 1948 Sofia,+0.75,2.5,,+0.25,1.0,,0,1,0,2,0,0,0,0,53,68,28,55,0,5,2,5,44,56,56,1
+688842,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9200,Kirklarelispor,10741,Ankaragucu,+0.25,3.0,8.5,0.0,1.25,4,1,0,3,2,2,1,0,0,53,50,34,25,1,1,1,0,40,60,53,1
+688708,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,14199,Bali United,1269,Persela Lamongan,-1.25,3.0,9.5,-0.5,1.25,4.5,1,0,2,2,1,2,1,0,61,47,29,30,1,0,2,4,0,0,51,1
+688905,2457,HUN NW,Hungary NBI Women,H,44,Hungary,X,30507,Gyor ETO FC Women,13807,Ferencvarosi Women,+2.5,4.0,8.5,+1.0,1.75,4,0,2,0,1,0,0,0,0,32,61,15,24,3,6,2,1,0,0,42,1
+689148,653,IRN PL,Iran Pro League,I,74,Iran,Y,7632,Saipa Karadj,36487,Shahre Khodro,+0.25,1.75,8.5,+0.25,0.75,4,0,0,0,3,0,0,0,0,41,40,11,13,0,1,1,1,0,0,41,1
+688910,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,2569,AS Trencin U19,20842,FK Poprad U19,-0.75,2.75,,-0.25,1.0,,2,1,3,2,0,0,0,0,33,35,28,24,3,3,1,3,0,0,40,1
+688889,1222,UZB PFL,Uzbekistan PFL,U,67,Uzbekistan,W,29983,AGMK,12035,Lokomotiv Tashkent,+0.25,2.5,,0.0,1.0,,0,1,7,3,0,0,0,0,34,42,15,26,1,3,2,2,39,61,40,1
+688920,917,AFC C U19W,AFC U19 Womens Championship,A,4,International,G,15818,South Korea Women U19,15804,Japan Women U19,+1.0,2.5,9,+0.25,1.0,4,0,1,2,2,0,0,0,0,49,78,33,58,0,6,3,2,45,55,39,1
+688753,835,GER OL NS,Germany Oberliga NOFV Sud,G,5,Germany,D,10788,FC Oberlausitz Neugersdorf,26926,VfB 1921 Krieschow,-1.0,3.0,,-0.25,1.25,,0,0,3,2,1,0,0,0,38,27,24,14,1,1,4,2,0,0,38,1
+688908,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,1566,MSK Zilina U19,2570,FK Senica U19,-2.5,4.0,,-1.0,1.75,,1,0,3,2,0,0,0,0,52,35,25,11,3,0,3,4,63,37,37,1
+688706,237,POL L3,Poland III Liga,P,20,Poland,B,13170,Slask Wroclaw II,4475,Gornik Zabrze II,-0.5,3.0,,+0.25,0.75,,1,0,3,2,0,0,0,0,29,26,11,9,5,0,1,1,45,55,36,1
+689102,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,27903,FK Strumska,20676,Pomorie,-0.75,2.5,,-0.25,1.0,,0,0,2,1,0,0,0,0,19,15,6,7,1,0,0,1,0,0,10,1
+688968,745,MKD Cup,Macedonia Cup,M,83,Macedonia,M,5881,FK Renova,32499,FK Tikves,-1.75,2.75,,-1.0,1.25,,0,0,0,0,0,0,0,0,26,11,11,6,0,0,0,0,0,0,10,1
+688071,330,ROM Cup,Romania Cup,R,30,Romania,L,27748,AFC Metalul Buzau,2634,CSMS Iasi,+1.5,2.5,10,+0.5,1.0,4.5,0,0,0,0,0,0,0,0,13,17,0,6,0,0,0,1,48,52,9,1
+689103,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,26564,Septemvri Sofia,34563,Spartak Varna,-2.25,3.25,,-1.0,1.5,,0,0,0,0,0,0,0,0,10,6,4,2,0,0,1,0,0,0,6,1
+688823,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,23363,Al Ittihad Kalba U19,16622,Al Wasl SC U19,-0.5,3.75,9.5,-0.25,1.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688824,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,37895,Khor Fakkan U19,37887,Al Arabi Umm Al Quwain U19,-1.5,4.0,,-0.5,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

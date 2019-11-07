@@ -1,0 +1,55 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688802,238,DZA D1,Algeria Division 1,A,111,Algeria,A,2731,CR Belouizdad,667,ES Setif,-1.0,2.25,8.5,-0.25,0.75,4,1,0,8,5,3,3,1,1,137,85,102,65,6,3,5,1,57,43,FT,0
+688259,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,24316,Al Jabalain,33568,Albukiryah,-0.25,2.5,9,0.0,1.0,4,1,1,4,2,2,1,0,0,112,115,69,50,5,1,5,1,46,54,FT,0
+688552,776,GRC Cup,Greece Cup,G,13,Greece,X,1005,Kavala,6650,OFI Crete,+1.5,3.25,,+0.75,1.25,,2,0,2,4,2,2,0,0,83,170,49,125,6,3,2,1,32,68,94,1
+688260,720,SAU D1,Saudi Arabia Division 1,S,36,Saudi Arabia,S,16498,Al Ansar,7759,Al Khaleej Saihat,+0.25,2.25,9,0.0,0.75,4,1,1,1,6,1,1,0,0,108,104,52,65,4,4,1,4,42,58,86,1
+688915,2313,BGR BPFG,Bulgaria B PFG,B,40,Bulgaria,B,19433,PFC Neftochimic Burgas,20949,Ludogorets Razgrad II,-1.25,3.0,,-0.5,1.25,,0,0,3,5,1,1,0,0,107,98,79,35,3,5,8,2,0,0,81,0
+688569,447,MDA Cup,Moldova Cup,M,58,Moldova,M,8911,CS Petrocub,5456,Zimbru Chisinau,-2,2.75,,-0.75,1.25,,2,1,6,2,1,2,0,0,93,77,49,35,3,2,9,5,0,0,83,0
+688470,22,TUR Cup,Turkey Cup,T,26,Turkey,T,3609,Goztepe,10144,Sivas DE Belediyespor,-1.25,3.0,9.5,-0.5,1.25,4.5,2,0,4,5,1,3,0,0,80,81,56,67,5,3,4,2,47,53,74,1
+688350,277,SVN Cup,Slovenia Cup,S,68,Slovenia,S,3325,NK Rudar Velenje,13052,NK Nafta 1903,-0.25,3.0,,0.0,1.25,,1,1,6,3,2,2,0,0,102,85,74,27,3,2,2,2,60,40,80,1
+688562,323,UEFA CLW,UEFA Womens Champions League,U,4,International,G,2881,Lyon Women,2806,Fortuna Hjørring Women,-5.5,6.0,10.5,-2.25,2.5,5,4,0,11,0,0,0,0,0,107,60,100,20,14,0,14,3,74,26,78,1
+688616,2373,SPN YL,Spain Youth League,S,23,Spain,X,33401,Lorca CFB U19,29109,Levante U19,+0.75,2.5,,+0.25,1.0,,0,3,0,1,0,0,0,0,47,61,32,52,4,5,0,4,44,56,54,1
+688343,718,SVK Cup,Slovakia Cup,S,28,Slovakia,S,1556,FC Nitra,3392,Tatran Liptovsky Mikulas,-0.5,2.75,,-0.25,1.25,,1,1,6,9,0,0,0,0,75,44,46,48,0,5,4,5,51,49,53,1
+688859,233,LTU AL,Lithuania A Lyga,L,95,Lithuania,L,1532,Suduva Marijampole,1533,Atlantas Klaipeda,-3.5,4.5,,-1.5,1.75,,6,0,6,2,0,0,0,0,55,48,39,17,6,1,4,1,0,0,54,1
+688412,290,MAR G1,Morocco GNF 1,M,46,Morocco,M,2978,Youssoufia Berrechid,3360,MAT Tetouan,0.0,2.0,8,0.0,0.75,4,0,1,0,2,1,0,0,0,40,43,38,36,0,2,1,0,53,47,50,1
+685148,562,RUS Cup,Russia Cup,R,12,Russia,E,21674,FC Olimpiyets Nizhny Novgorod,1275,Shinnik Yaroslavl,0.0,2.0,9.5,0.0,0.75,4.5,0,2,0,3,1,1,0,0,87,71,33,32,1,6,3,1,51,49,48,1
+688489,674,UKR Cup,Ukraine Cup,U,21,Ukraine,W,2060,PFC Oleksandria,5328,Zorya,+0.75,2.25,10,+0.25,1.0,4.5,0,1,2,2,1,2,0,0,58,101,28,53,2,1,2,4,36,64,50,1
+685147,562,RUS Cup,Russia Cup,R,12,Russia,E,236,CSKA Moscow,6748,FC Ufa,-0.75,2.25,9.5,-0.25,0.75,4.5,0,0,1,2,0,0,0,0,68,56,31,20,1,1,2,2,68,32,49,0
+688408,266,LVA VL,Latvia Virsliga,L,93,Latvia,L,2828,Metta/LU,1746,FK Jelgava,+0.25,2.75,,+0.25,1.0,,0,3,2,1,0,0,0,0,46,67,18,43,1,7,4,4,0,0,47,1
+688391,769,HRV Cup,Croatia Cup,C,98,Croatia,K,6291,HNK Gorica,5043,Hajduk Split,+0.25,2.5,9.5,+0.25,1.0,4.5,0,0,0,5,0,1,0,0,49,86,16,59,1,2,3,4,35,65,48,0
+688271,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,1188,Banik Ostrava,5526,Slavia Prague,+0.5,2.75,10,+0.25,1.0,4.5,0,0,3,3,1,0,0,0,56,62,33,40,0,0,3,2,45,55,46,0
+688117,900,RWA NL,Rwanda National League,R,166,Rwanda,L,8632,Police FC,9983,APR FC,+0.75,2.0,8.5,+0.25,0.75,4,0,0,2,2,1,2,0,0,38,52,14,23,2,0,4,1,0,0,46,0
+688272,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,2649,Ceske Budejovice,5437,Sparta Prague,+1.0,2.75,10.5,+0.5,1.25,5,0,2,5,3,2,0,0,0,44,53,21,33,0,2,6,3,0,0,46,1
+688612,1232,NOR Y Cup,Norway Youth Cup,N,70,Norway,N,27022,Sogndal U19,33600,Odd U19,-0.25,4.0,,-0.25,1.5,,0,1,2,2,2,1,0,0,58,54,25,24,0,1,0,0,0,0,50,1
+688492,1622,SUD L,Sudan League,S,161,Sudan,S,20525,Al Ahli Khartoum,22009,Al Hilal Obied,-0.25,2.0,,-0.25,0.75,,1,1,2,1,2,0,0,0,0,0,28,28,1,1,0,0,0,0,45,1
+688622,492,BRA,Brazilian Matches,B,47,Brazil,B,11236,Fortaleza U19,38093,Ferroviario U19,-0.25,3.0,,0.0,1.25,,1,0,2,2,0,0,0,0,40,32,28,26,2,1,2,2,48,52,38,1
+688274,640,CSK Cup,Czech Cup,C,10,the Czech Republic,J,5373,Slovan Liberec,5759,FK Teplice,-0.75,2.25,9.5,-0.25,1.0,4.5,0,0,4,4,1,1,0,0,55,56,38,37,2,2,4,1,48,52,38,1
+688394,769,HRV Cup,Croatia Cup,C,98,Croatia,K,9213,NK Opatija,5298,Dinamo Zagreb,+3.5,4.25,10.5,+1.5,1.75,5,0,3,0,3,1,0,0,0,39,57,19,38,0,3,0,1,30,70,37,1
+688358,1394,FIN VPO,Finland Veikkausliiga Play-Offs,F,61,Finland,F,4814,IFK Mariehamn,2088,FC Honka,+0.25,2.0,,0.0,0.75,,1,2,7,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,37,1
+686121,548,POL Cup,Poland Cup,P,20,Poland,B,3438,Stal Mielec,2446,Pogon Szczecin,+0.25,2.5,10,0.0,1.0,4.5,1,0,3,2,0,0,0,0,33,36,23,19,3,1,3,1,43,57,36,1
+688344,718,SVK Cup,Slovakia Cup,S,28,Slovakia,S,1550,FK Senica,1553,MFK Ruzomberok,+0.25,2.5,9.5,+0.25,1.0,4.5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,49,51,36,1
+688511,434,BLR PL,Belarus Premier League,B,94,Belarus,B,35109,FK Dnyapro,4604,BATE Borisov,+0.75,2.5,9,+0.25,1.0,4.5,0,0,1,0,0,0,0,0,45,52,29,14,3,1,1,1,52,48,35,1
+688171,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,26563,Etar 1924 Veliko Tarnovo,6308,CSKA Sofia,+0.75,2.25,,+0.25,0.75,,0,0,3,0,2,1,0,0,27,37,19,19,1,1,1,0,43,57,35,1
+688586,959,BWA PL,Botswana Premier League,B,178,Botswana,B,30915,BDF XI,32772,Notwane FC,-0.75,2.5,,-0.25,1.0,,1,0,0,0,0,0,0,0,9,15,7,7,1,0,2,1,32,68,11,1
+688557,445,HUN Cup,Hungary Cup,H,44,Hungary,X,11878,Dunaujvaros PASE,29893,Nagykanizsai ULE,0.0,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,8,9,1,3,0,1,0,0,43,57,8,1
+688446,445,HUN Cup,Hungary Cup,H,44,Hungary,X,29666,Tiszakecske FC,4146,Kaposvari Rakoczi,+0.5,2.25,,0.0,0.75,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1
+688371,101,SER SL,Serbia Super Liga,S,59,Serbia,S,1157,Spartak Subotica,5945,FK Macva Sabac,-1.0,2.5,9,-0.25,1.0,4,0,0,0,0,0,0,0,0,12,12,4,3,0,0,0,0,0,0,7,1
+686126,546,AUT Cup,Austria Cup,A,60,Austria,A,6553,ASK Ebreichsdorf,1193,FC Salzburg,+4,5.0,11,+1.75,2.25,5,0,1,0,0,0,0,0,0,6,16,3,8,0,1,0,0,25,75,7,1
+688444,445,HUN Cup,Hungary Cup,H,44,Hungary,X,3402,Gyirmot SE,6507,Soroksar,-0.75,2.75,,-0.25,1.25,,0,0,1,0,0,0,0,0,6,10,5,3,1,0,3,0,0,0,7,1
+688804,238,DZA D1,Algeria Division 1,A,111,Algeria,A,18968,US Biskra,2839,MC Alger,-0.25,2.0,8.5,-0.25,0.75,4,0,0,0,0,0,0,0,0,16,13,8,6,0,0,0,0,37,63,7,1
+685149,562,RUS Cup,Russia Cup,R,12,Russia,E,243,Zenit St Petersburg,435,Tomsk,-1.5,2.75,9.5,-0.5,1.25,4.5,0,0,0,0,0,0,0,0,11,5,9,4,0,1,2,0,66,34,7,1
+688554,531,EST Cup,Estonia Cup,E,84,Estonia,A,1484,Paide Linnameeskond,1481,FC Flora Tallinn,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,9,16,5,12,0,0,0,0,47,53,6,1
+688836,233,LTU AL,Lithuania A Lyga,L,95,Lithuania,L,1728,VMFD Zalgiris,14072,FK Panevezys,-2.5,3.25,,-1.0,1.5,,0,0,2,0,0,0,0,0,7,10,5,7,1,0,0,0,0,0,6,1
+686103,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,1031,Rio Ave,6515,Moreirense,-1.0,2.75,10,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,14,5,6,2,0,0,2,0,61,39,6,1
+688409,266,LVA VL,Latvia Virsliga,L,93,Latvia,L,12713,FC Caramba/Dinamo Riga,3404,Rigas FS,-0.25,2.25,,-0.25,0.75,,0,0,0,0,0,0,0,0,6,4,0,2,0,0,0,0,35,65,6,1
+688369,101,SER SL,Serbia Super Liga,S,59,Serbia,S,3791,Mladost Lucani,1164,FK Napredak,-0.25,2.5,9,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,6,12,1,8,0,0,0,0,42,58,5,1
+688345,718,SVK Cup,Slovakia Cup,S,28,Slovakia,S,1557,Dunajska Streda,1559,Spartak Trnava,-0.25,2.5,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,11,6,3,3,0,0,1,0,0,0,5,1
+688367,101,SER SL,Serbia Super Liga,S,59,Serbia,S,510,FK Vozdovac,1163,Rad Belgrade,-1.25,2.5,8.5,-0.5,1.0,4,0,0,0,0,0,0,0,0,8,5,3,4,0,0,0,0,61,39,5,1
+688553,531,EST Cup,Estonia Cup,E,84,Estonia,A,1784,JK Viljandi Tulevik,1478,JK Tammeka Tartu,+1.0,3.0,,+0.25,1.25,,0,0,0,2,0,0,0,0,5,8,0,8,0,0,0,3,36,64,5,1
+688368,101,SER SL,Serbia Super Liga,S,59,Serbia,S,1167,Javor Ivanjica,3764,FK Proleter Novi Sad,-1.0,2.25,9,-0.25,0.75,4,0,0,0,0,0,0,0,0,7,9,3,4,1,0,0,0,33,67,5,1
+685707,548,POL Cup,Poland Cup,P,20,Poland,B,2964,Olimpia Elblag,4796,Rakow Czestochowa,+1.0,2.5,9,+0.25,1.0,4.5,0,1,0,0,0,0,0,0,4,5,2,0,0,1,0,0,60,40,5,1
+688365,101,SER SL,Serbia Super Liga,S,59,Serbia,S,6352,Red Star Belgrade,19419,FK Backa Topola,-1.75,3.25,9,-0.75,1.5,4.5,0,0,0,0,0,0,0,0,12,2,6,0,0,0,0,0,88,12,4,1
+688403,2349,Qatar L2,Qatar League 2,Q,34,Qatar,K,13044,Al-Mu'aidar,18410,Lusail,-2.25,4.0,8.5,-1.0,1.5,4,0,0,0,0,0,0,0,0,5,2,1,1,0,0,0,0,45,55,3,1
+688803,238,DZA D1,Algeria Division 1,A,111,Algeria,A,2730,ASO Chlef,2725,CS Constantine,0.0,1.5,8.5,0.0,0.5,4,0,0,0,0,0,0,0,0,7,7,3,4,0,0,0,1,36,64,5,1
+688587,959,BWA PL,Botswana Premier League,B,178,Botswana,B,32590,Prisons XI Gaborone,14903,Township Rollers,+0.5,2.25,,+0.25,0.75,,0,0,1,0,0,0,0,0,3,2,2,2,0,0,0,0,74,26,2,1
+685704,548,POL Cup,Poland Cup,P,20,Poland,B,12030,Legia Warsaw II,1812,Odra Opole,+0.5,2.5,,+0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

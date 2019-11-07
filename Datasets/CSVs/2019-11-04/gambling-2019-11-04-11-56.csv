@@ -1,0 +1,17 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+690986,1062,Other Match,Other Match,O,4,International,G,17225,Kidderpore SC,22834,Army Red,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691427,435,JPN J3L,Japan J3-League,J,2,Japan,R,1289,Thespa Kusatsu,1299,Roasso Kumamoto,-0.25,2.25,9,-0.25,1.0,4,3,1,3,7,0,0,0,0,105,146,60,78,5,3,9,6,42,58,FT,1
+691060,2821,MMR UT,Myanmar University Tournament,M,9,Myanmar,M,38467,Pyay Zone,38616,Sittway Zone,+2.75,3.75,,+1.25,1.5,,1,3,5,6,1,0,0,0,104,130,51,74,5,5,6,4,0,0,FT,1
+691561,1998,India BAD 80m,India Bangalore A Division - 80 mins play,I,17,India,Y,33242,FC Deccan,24472,Parikrama,-0.75,2.5,,-0.25,1.0,,2,2,2,3,2,1,0,0,106,115,52,52,3,2,5,3,0,0,FT,1
+691070,915,IND SPL,India Shillong Premier League,I,17,India,Y,22380,Nongrim Hills,22706,Rangdajied United FC,+0.75,2.75,9.5,+0.25,1.0,4.5,3,2,0,8,2,0,0,0,97,104,49,90,4,5,8,10,0,0,79,1
+691565,2817,Il1W,Indonesia Liga 1 Women,I,65,Indonesia,Y,38268,PSIS Semarang Women,38254,Persija Jakarta Women,+1.0,3.25,,+0.5,1.25,,0,1,2,1,1,1,0,0,53,53,55,76,5,4,1,6,0,0,68,1
+691610,2330,TAJ VL,Tajikistan Vysshaya Liga,T,180,Tajikistan,T,28570,Regar Tadaz,30374,Khatlon Bokhtar,-0.75,3.0,,-0.25,1.25,,0,0,2,2,2,1,0,0,70,71,28,20,5,6,2,2,0,0,62,0
+691765,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10523,Kolkheti Poti,10521,FC Samtredia,+1.75,3.75,,+0.75,1.5,,1,0,0,1,0,0,0,0,48,97,21,47,1,2,2,3,32,68,HT,1
+691764,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10759,FC Gagra,29676,FC Telavi,+0.75,3.0,,+0.25,1.25,,1,0,2,2,0,0,0,0,68,74,30,33,2,2,5,2,49,51,HT,1
+691079,2000,India BSD,India Bangalore Super Division,I,17,India,Y,25301,AGORC Bangalore,18179,Income Tax SC,-0.25,2.25,,0.0,0.75,,0,0,2,1,1,0,0,0,48,55,25,35,0,1,3,4,0,0,HT,0
+690988,2473,Ukraine D1W,Ukraine Division 1 Women,U,21,Ukraine,W,37088,FC Podillya Women,18561,Pantery Uman Women,-1.25,3.75,,-0.5,1.5,,0,1,2,2,1,0,0,0,53,38,39,29,3,5,2,5,0,0,HT,1
+691292,2617,THA UG,Thailand University Games,T,8,Thailand,T,29579,Rajabhat Petchaburi Univerisity,33782,Thepsatri Rajabhat University,-1.75,3.75,,-0.75,1.5,,0,0,1,0,0,0,0,0,26,24,11,7,1,0,0,0,0,0,27,0
+691297,877,IRN D1,Iran Div 1,I,74,Iran,Y,9957,Naft Gachsaran,38057,Shohada Razakan,-0.5,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691296,877,IRN D1,Iran Div 1,I,74,Iran,Y,32174,Chooka Talesh,9572,Iranjavan Bushehr,-0.5,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+687886,191,RUS D1,Russia Division 1,R,12,Russia,E,3369,Krasnodar II,1346,Avangard Kursk,-0.25,2.25,9.5,0.0,0.75,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+688019,8,RUS PL,Russia Premier League,R,12,Russia,E,507,Ural,21704,FC Orenburg,0.0,2.25,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

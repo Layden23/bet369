@@ -1,0 +1,19 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688846,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37294,Persikasi Kabupaten Bekasi,31756,Patriot Candrabhaga,0.0,2.75,,0.0,1.0,,4,1,6,7,2,7,0,1,97,101,63,62,5,2,7,6,0,0,FT,1
+688837,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37421,Benpica FC Karawang,37367,Persitas Tasikmalaya,0.0,2.75,,0.0,1.25,,1,1,5,5,3,0,1,0,111,98,51,28,3,1,0,0,0,0,98,1
+688856,258,WClub F,World Club Friendlies,W,4,International,G,20233,Philippines U22,4972,Ceres FC,+1.0,3.5,,+0.5,1.5,,1,2,5,6,2,2,0,0,90,121,69,92,3,7,3,10,0,0,FT,1
+688857,258,WClub F,World Club Friendlies,W,4,International,G,11973,Mendiola FC,4400,Green Archers Utd,+0.5,3.25,,+0.25,1.25,,1,0,4,3,1,2,0,1,114,134,72,53,11,2,9,5,55,45,FT,1
+688838,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,7516,Persikab Bandung,37420,PSKC Kota Cimahi,+1.25,3.0,,+0.5,1.25,,0,4,0,0,1,1,0,0,62,80,8,29,2,4,5,8,0,0,89,1
+688681,263,Friendlies,Friendlies,F,4,International,G,38542,FK Sarajevo U21,38543,Japan Students U21,+1.0,3.5,,+0.5,1.5,,0,3,3,2,1,0,0,0,56,65,42,70,1,6,3,6,0,0,66,1
+688700,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,9045,Okzhetpes Kokshetau,2653,FC Astana,+1.0,3.0,,+0.5,1.25,,0,1,1,4,1,0,0,0,43,59,15,40,0,6,1,2,0,0,HT,1
+688381,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,11944,Nojima Women,5279,Albirex Niigata Women,0.0,2.0,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,21,27,14,23,0,0,1,1,32,68,23,1
+688383,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4591,Lecce U19,11700,Benevento U19,-0.75,3.0,10.5,-0.25,1.25,5,0,0,1,0,0,0,0,0,19,20,11,10,2,1,3,2,50,50,20,1
+688663,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,37798,Marcus Gdynia Women,38541,Wloclawek Women,0.0,4.0,,0.0,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688384,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4566,Cremonese U19,11667,Salernitana U19,-0.5,2.75,10,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+685700,1275,JPN J2L,Japan J2-League,J,2,Japan,R,9330,Kagoshima United,1334,FC Gifu,-0.5,2.25,9.5,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+688459,22,TUR Cup,Turkey Cup,T,26,Turkey,T,17002,Kastamonuspor,18383,24 Erzincanspor,-1.0,2.75,,-0.5,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688413,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,2652,Kaisar Kyzylorda,3727,Tobol Kostanay,+0.25,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688462,22,TUR Cup,Turkey Cup,T,26,Turkey,T,37233,Vanspor,15543,Sancaktepe Belediye,-0.25,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688460,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9628,Gumushanespor,8201,Samsunspor,+0.25,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1
+688602,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15577,Forest Rangers,16665,Power Dynamos,-0.25,2.25,,+0.5,0.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1
+688871,916,SER U19,Serbia U19 League,S,59,Serbia,S,4742,Red Star Belgrade U19,10835,FK Brodarac U19,-0.25,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,1

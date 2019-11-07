@@ -1,0 +1,19 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+690923,2617,THA UG,Thailand University Games,T,8,Thailand,T,33778,Nakhon Pathom Rajabhat University,33772,Pathumthani University,1.5,3.5,,0.75,1.5,,1,1,1,3,4,2,0,0,88,93,35,61,4,5,4,9,0,0,FT,1
+690942,881,AFC C U19,AFC U19 Championships,A,4,International,G,15920,Brunei U19,7715,Thailand U19,+5.75,6.75,10,+2.5,3.0,4.5,0,8,0,12,0,1,0,0,45,139,12,122,0,12,1,19,28,72,85,1
+691175,2561,India RC,India Regional Cup,I,17,India,Y,17225,Kidderpore SC,22834,Army Red,0.0,2.5,,0.0,1.0,,0,1,2,3,2,1,0,0,79,95,33,57,1,5,4,10,0,0,77,1
+690985,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38566,Persipu FC,38615,Mutiara 97,-0.75,3.0,,-0.25,1.25,,1,1,3,1,0,3,0,0,77,79,27,25,1,2,4,4,0,0,69,1
+690984,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38614,Parma FC Bandung,38597,Persigarsel,-0.5,3.0,,-0.25,1.25,,2,2,2,3,1,0,0,0,87,87,17,26,4,2,0,3,0,0,88,1
+690989,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,36983,Pro Direct,36916,PS Pemuda Jaya,0.0,2.5,,0.0,1.0,,4,0,4,0,4,3,1,0,103,90,57,24,6,0,7,2,0,0,88,1
+690986,1062,Other Match,Other Match,O,4,International,G,17225,Kidderpore SC,22834,Army Red,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691059,2821,MMR UT,Myanmar University Tournament,M,9,Myanmar,M,34388,Dagon FC,38587,Taungoo Zone,-1.0,2.75,,-0.5,1.0,,4,0,8,5,0,0,0,0,84,71,45,29,5,2,6,1,0,0,64,1
+691060,2821,MMR UT,Myanmar University Tournament,M,9,Myanmar,M,38467,Pyay Zone,38616,Sittway Zone,+2.75,3.75,,+1.25,1.5,,0,1,2,5,1,0,0,0,67,95,29,59,3,3,3,3,0,0,60,1
+691427,435,JPN J3L,Japan J3-League,J,2,Japan,R,1289,Thespa Kusatsu,1299,Roasso Kumamoto,-0.25,2.25,9,-0.25,1.0,4,0,0,0,7,0,0,0,0,60,102,24,58,0,2,4,6,36,64,57,0
+691561,1998,India BAD 80m,India Bangalore A Division - 80 mins play,I,17,India,Y,33242,FC Deccan,24472,Parikrama,-0.75,2.5,,-0.25,1.0,,2,2,0,2,1,1,0,0,63,73,32,33,3,2,4,3,0,0,50,1
+691070,915,IND SPL,India Shillong Premier League,I,17,India,Y,22380,Nongrim Hills,22706,Rangdajied United FC,+0.75,2.75,9.5,+0.25,1.0,4.5,1,0,0,5,0,0,0,0,63,61,30,54,2,2,4,6,0,0,HT,1
+691565,2817,Il1W,Indonesia Liga 1 Women,I,65,Indonesia,Y,38268,PSIS Semarang Women,38254,Persija Jakarta Women,+1.0,3.25,,+0.5,1.25,,0,0,0,1,1,0,0,0,39,39,31,60,2,2,0,5,0,0,HT,0
+691610,2330,TAJ VL,Tajikistan Vysshaya Liga,T,180,Tajikistan,T,28570,Regar Tadaz,30374,Khatlon Bokhtar,-0.75,3.0,,-0.25,1.25,,0,0,2,1,0,1,0,0,48,44,18,12,5,4,2,1,0,0,41,0
+691079,2000,India BSD,India Bangalore Super Division,I,17,India,Y,25301,AGORC Bangalore,18179,Income Tax SC,-0.25,2.25,,0.0,0.75,,0,0,0,0,0,0,0,0,13,18,4,9,0,1,0,0,0,0,11,0
+690988,2473,Ukraine D1W,Ukraine Division 1 Women,U,21,Ukraine,W,37088,FC Podillya Women,18561,Pantery Uman Women,-1.25,3.75,,-0.5,1.5,,0,0,1,0,0,0,0,0,11,11,8,7,2,2,0,1,0,0,10,0
+691764,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10759,FC Gagra,29676,FC Telavi,+0.75,3.0,,+0.25,1.25,,0,0,1,1,0,0,0,0,20,20,6,13,1,0,0,2,51,49,14,0
+691765,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10523,Kolkheti Poti,10521,FC Samtredia,+1.75,3.75,,+0.75,1.5,,0,0,0,0,0,0,0,0,17,35,5,17,0,0,0,2,32,68,13,0

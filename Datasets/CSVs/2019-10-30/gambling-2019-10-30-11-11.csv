@@ -1,0 +1,17 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688681,263,Friendlies,Friendlies,F,4,International,G,38542,FK Sarajevo U21,38543,Japan Students U21,+1.0,3.5,,+0.5,1.5,,0,3,3,2,2,0,0,0,68,82,51,90,2,7,3,8,0,0,83,1
+688700,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,9045,Okzhetpes Kokshetau,2653,FC Astana,+1.0,3.0,,+0.5,1.25,,0,1,1,4,1,0,0,0,48,66,17,42,0,6,2,2,0,0,50,1
+688381,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,11944,Nojima Women,5279,Albirex Niigata Women,0.0,2.0,8.5,0.0,0.75,4,0,0,0,1,0,0,0,0,36,48,22,40,0,0,2,2,32,68,41,1
+688383,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4591,Lecce U19,11700,Benevento U19,-0.75,3.0,10.5,-0.25,1.25,5,0,1,2,1,0,0,0,0,28,37,15,20,3,4,4,2,45,55,37,1
+688710,236,DZA YL,Algeria Youth League,A,111,Algeria,A,8882,NA Hussein Dey U21,11019,JS Saoura U21,+0.75,3.0,,+0.25,1.25,,0,0,1,1,0,0,0,0,21,23,7,8,0,1,1,1,0,0,14,1
+688462,22,TUR Cup,Turkey Cup,T,26,Turkey,T,37233,Vanspor,15543,Sancaktepe Belediye,-0.25,2.5,,0.0,1.0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1
+688459,22,TUR Cup,Turkey Cup,T,26,Turkey,T,17002,Kastamonuspor,18383,24 Erzincanspor,-1.0,2.75,,-0.5,1.25,,0,0,0,0,1,0,0,0,0,0,8,5,0,0,0,0,0,0,11,1
+688382,2408,Jpan L1W,Japan L1 League Women,J,2,Japan,R,9027,Parceiro Nagano Women,5310,Vegalta Sendai Women,-0.25,2.25,8,0.0,0.75,3.5,0,1,0,2,0,0,0,0,15,16,4,14,0,2,0,2,0,0,10,1
+688460,22,TUR Cup,Turkey Cup,T,26,Turkey,T,9628,Gumushanespor,8201,Samsunspor,+0.25,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,72,10,1
+688663,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,37798,Marcus Gdynia Women,38541,Wloclawek Women,+0.75,4.0,,+0.25,1.5,,0,0,0,0,0,0,0,0,5,11,1,6,0,1,0,0,0,0,10,1
+688413,390,KAZ PL,Kazakhstan Premier League,K,62,Kazakhstan,H,2652,Kaisar Kyzylorda,3727,Tobol Kostanay,+0.25,2.0,9,+0.25,0.75,4,0,0,1,0,0,0,0,0,5,8,5,5,0,0,1,1,0,0,9,1
+688384,756,ITA P Cup,Italy Primavera Cup,I,22,Italy,Y,4566,Cremonese U19,11667,Salernitana U19,-0.5,2.75,10,-0.25,1.0,4.5,1,0,1,0,0,0,0,0,9,19,4,9,1,0,0,0,34,66,8,1
+685700,1275,JPN J2L,Japan J2-League,J,2,Japan,R,9330,Kagoshima United,1334,FC Gifu,-0.5,2.25,9.5,-0.25,1.0,4.5,0,0,1,0,0,0,0,0,11,7,4,7,0,0,0,0,56,44,8,1
+688602,1197,ZMB SL,Zambia Super League,Z,179,Zambia,Z,15577,Forest Rangers,16665,Power Dynamos,-0.25,2.25,,0.0,0.75,,0,0,0,1,0,0,0,0,5,4,4,7,0,0,1,1,56,44,6,1
+688662,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,38539,Resovia Rzeszow II Women,38540,UKS Staszkowka Jelna Women,+2.5,4.0,,+1.0,1.75,,0,0,0,0,0,0,0,0,13,5,4,1,0,0,0,0,0,0,4,1
+688871,916,SER U19,Serbia U19 League,S,59,Serbia,S,4742,Red Star Belgrade U19,10835,FK Brodarac U19,-0.25,3.0,,0.0,1.25,,0,0,0,1,0,0,0,0,4,4,3,4,0,0,0,0,40,60,4,1

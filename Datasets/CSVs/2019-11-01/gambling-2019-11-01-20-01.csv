@@ -1,0 +1,69 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689020,379,CSK L3,Czech 3. Ligy,C,10,the Czech Republic,J,7530,FC Pisek,36533,Slavia Prague B,+0.25,3.25,,0.0,1.25,,1,0,2,7,1,1,0,0,90,109,82,92,8,4,5,5,0,0,FT,1
+689495,544,PER RL,Peru Reserve League,P,117,Peru,M,5520,UTC Cajamarca Reserves,5843,Unión Comercio Reserves,+0.25,3.25,,0.0,1.25,,1,2,2,3,1,2,1,0,67,74,30,37,1,3,0,0,0,0,77,1
+689184,784,ESP TG2,Spain Tercera Group 2,S,23,Spain,X,10075,Gijon Industrial,7612,Urraca CF,-0.5,2.25,,-0.25,1.0,,1,1,1,6,3,1,0,0,63,66,36,46,1,2,5,13,48,52,75,1
+687507,247,DNK D1,Denmark Division 1,D,15,Denmark,D,1617,Hvidovre IF,17527,Kolding IF,-0.5,3.0,10,-0.25,1.25,4.5,0,2,2,1,0,1,0,0,135,79,72,38,3,3,9,0,65,35,74,1
+689550,793,ESP TG16,Spain Tercera Group 16,S,23,Spain,X,22762,UD Logrones B,37709,CD Calahorra B,-0.5,2.75,,-0.25,1.25,,2,1,2,0,2,0,0,0,79,75,34,33,3,3,3,4,61,39,65,1
+687526,649,GER BII,Germany Bundesliga II,G,5,Germany,D,6175,Hannover 96,5486,Sandhausen,-0.5,2.5,10,-0.25,1.0,4.5,1,1,0,6,2,0,0,0,105,96,28,32,1,7,10,8,52,48,72,1
+687535,155,ESP S,Spain Segunda,S,23,Spain,X,3033,Ponferradina,6763,Malaga,0.0,2.0,9,0.0,0.75,4.5,0,0,1,3,1,2,0,0,89,93,43,63,2,1,4,4,47,53,76,0
+687538,158,TUR SL,Turkey Super Lig,T,26,Turkey,T,6602,Galatasaray,7096,Caykur Rizespor,-1.0,2.75,9.5,-0.25,1.0,4.5,2,0,1,3,1,3,0,0,88,64,57,47,5,3,1,3,62,38,71,1
+687527,649,GER BII,Germany Bundesliga II,G,5,Germany,D,5883,Jahn Regensburg,5467,VfL Osnabruck,-0.25,2.5,10,0.0,1.0,4.5,3,3,2,5,2,2,0,0,87,77,30,29,5,9,10,4,48,52,71,1
+689380,2809,GRCGSL,Greece Super League 2,G,13,Greece,X,10968,Doxa Dramas,27606,Apollon Larissa,-0.25,2.0,8.5,0.0,0.75,4,0,0,1,2,1,1,0,0,88,91,43,49,3,1,4,7,49,51,68,0
+689293,1803,DEN SG4,Denmark Series Group 4,D,15,Denmark,D,22375,Silkeborg KFUM,2781,IF Lyseng,-0.25,4.0,,0.0,1.75,,2,1,4,2,0,1,0,0,43,46,23,12,4,4,3,4,49,51,47,1
+689385,373,GER RL NE,Germany Regionalliga North East,G,5,Germany,D,2491,Hertha Berlin II,5925,Lichtenberg 47,-1.75,3.25,9.5,-0.75,1.25,4.5,0,2,6,1,0,0,0,0,87,39,46,24,2,4,3,2,73,27,46,1
+689236,625,MEX U20,Mexico U20 League,M,49,Mexico,M,8711,Puebla U20,6918,Unam Pumas U20,0.0,2.5,9,0.0,1.0,4,2,2,2,1,1,2,0,0,20,31,12,15,2,2,1,0,47,53,HT,1
+689386,373,GER RL NE,Germany Regionalliga North East,G,5,Germany,D,5641,Rot-Weiss Erfurt,2488,Halberstadt,-1.0,3.0,9.5,-0.25,1.25,4.5,0,1,5,2,1,0,0,0,54,47,28,22,1,3,2,1,47,53,46,1
+687417,198,NOR TL,Norway Tippeligaen,N,70,Norway,N,1397,Stromsgodset,2482,Rosenborg,+0.5,2.75,10,+0.25,1.0,4.5,1,1,3,4,0,0,0,0,61,39,29,20,2,1,4,5,61,39,HT,1
+689361,1870,SA LC,South Africa League Cup,S,37,South Africa,N,1249,Maritzburg Utd,8167,Highlands Park,-0.25,1.75,10,-0.25,0.75,4.5,0,1,2,1,1,1,0,0,74,61,46,40,0,4,3,1,0,0,HT,1
+687787,632,GER L3,Germany 3.Liga,G,5,Germany,D,2490,Zwickau,2422,SG Sonnenhof Grossaspach,-0.75,3.0,10,-0.25,1.25,4.5,0,0,6,5,0,1,0,0,46,60,27,25,0,1,3,3,42,58,HT,0
+689382,492,BRA,Brazilian Matches,B,47,Brazil,B,11073,Criciuma U19,27363,Juventude U19,-0.75,2.75,9.5,-0.25,1.25,4.5,0,1,6,1,0,2,0,0,44,43,24,16,4,1,4,2,66,34,45,1
+687222,104,DNK SL,Denmark Superligaen,D,15,Denmark,D,5295,Esbjerg,1630,AC Horsens,-0.5,2.25,10,-0.25,0.75,4.5,1,1,0,1,0,0,0,0,59,58,14,35,1,1,3,9,44,56,HT,1
+689158,216,AUT RO,Austria Regionalliga Ost,A,60,Austria,A,2886,Rapid Wien II,15392,SV Stripfing/Weiden,-0.75,2.5,,-0.25,1.0,,0,0,0,2,0,0,0,0,49,39,25,29,1,0,0,2,0,0,46,0
+689298,401,DNK SG2,Denmark Series Group 2,D,15,Denmark,D,32299,Union,15792,Frederikssund IK,0.0,3.25,9,0.0,1.25,4,2,1,3,0,0,0,0,0,42,39,14,13,4,3,3,2,58,42,HT,1
+688318,660,CSK L2,Czech 2. Liga,C,10,the Czech Republic,J,5318,FC Brno,3200,Slavoj Vysehrad,-2,3.0,10,-0.75,1.25,4.5,3,0,3,0,0,2,0,0,71,45,42,19,5,2,4,0,69,31,HT,1
+689155,219,AUT LL,Austria Landesliga,A,60,Austria,A,15096,Usv Mettersdorf,29555,SC Bruck an der Mur,-0.25,3.25,,0.0,1.25,,0,1,1,6,0,0,0,0,55,46,18,26,1,3,2,3,0,0,HT,1
+689154,219,AUT LL,Austria Landesliga,A,60,Austria,A,14696,SV Lebring,31901,Ilzer SV,-0.75,3.25,9,-0.25,1.25,4,0,1,2,3,1,2,0,0,42,44,22,27,3,6,1,3,49,51,HT,1
+688632,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,2113,FC Liefering,31520,FC Juniors OO,-0.75,3.25,10,-0.25,1.25,4.5,0,1,2,1,0,1,0,0,35,40,33,35,0,1,3,3,54,46,HT,1
+688633,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,2110,SV Kapfenberg,14493,Floridsdorfer AC,0.0,2.5,10,0.0,1.0,4.5,0,1,2,3,2,0,0,0,58,60,33,44,1,2,5,5,51,49,HT,1
+688634,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,5268,SV Ried,2111,SV Horn,-1.5,3.5,10,-0.5,1.5,4.5,2,0,1,1,1,2,0,0,46,39,36,18,4,2,3,1,50,50,HT,1
+688635,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,8203,Vorwarts Steyr,6326,Grazer AK,0.0,2.75,10.5,0.0,1.25,5,1,1,3,1,1,1,0,0,46,47,25,26,3,2,5,2,41,59,HT,1
+688630,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,6037,Austria Klagenfurt,5496,SKU Amstetten,-1.0,3.25,10,-0.5,1.25,4.5,0,0,2,1,1,1,0,0,52,39,58,30,1,1,3,2,57,43,HT,0
+688631,2557,AustriaL2,Austria 2. Liga,A,60,Austria,A,3817,FC Blau Weiss Linz,4050,SV Lafnitz,-0.25,2.75,9.5,0.0,1.25,4.5,0,4,2,4,2,0,0,0,50,48,22,36,1,5,5,1,51,49,HT,1
+689206,2196,Germany BW,Germany Bundesliga Women,G,5,Germany,D,3197,FFC Frankfurt Women,3195,SG Essen-Schonebeck Women,+0.25,3.0,10,0.0,1.25,4.5,1,0,4,2,0,0,0,0,29,44,15,19,1,5,0,1,35,65,HT,1
+689396,365,ARG PCM,Argentina Primera C Metropolitana,A,32,Argentina,A,11786,Canuelas FC,10628,El Porvenir,-0.75,2.25,9,-0.25,1.0,4.5,2,0,2,0,0,1,0,0,31,30,21,14,2,0,3,1,50,50,33,1
+689159,216,AUT RO,Austria Regionalliga Ost,A,60,Austria,A,32227,FC Marchfeld Donauauen,7978,Wiener Sportclub,-0.75,4.0,,-0.25,1.5,,1,0,5,3,0,0,0,0,35,28,20,17,3,0,1,2,0,0,31,1
+689397,365,ARG PCM,Argentina Primera C Metropolitana,A,32,Argentina,A,11816,Victoriano Arenas,10415,Ferrocarril Midland,0.0,2.25,9,0.0,0.75,4,1,0,1,0,1,0,0,0,35,33,21,13,2,1,2,0,57,43,31,1
+688031,204,ROM L1,Romania Liga I,R,30,Romania,L,1626,Viitorul Constanta,2231,Chindia Targoviste,-1.25,2.75,9,-0.5,1.0,4,2,0,1,1,0,0,0,0,44,25,28,18,3,4,3,1,64,36,31,1
+689173,764,ESP TG5,Spain Tercera Group 5,S,23,Spain,X,7311,Vilafranca,7148,Cerdanyola del Valles FC,-0.5,2.25,,-0.25,1.0,,0,0,0,2,0,0,0,0,24,26,13,13,0,2,1,4,44,56,30,0
+689368,368,GER RL SW,Germany Regionalliga South West,G,5,Germany,D,2418,Kickers Offenbach,7060,Alzenau,-0.75,2.75,9.5,-0.25,1.0,4.5,0,0,1,1,1,1,0,0,40,28,23,7,1,0,0,1,55,45,29,0
+689297,1319,NED EW,Holland Eredivisie Women,H,25,the Netherlands,H,2176,ADO Den Haag Women,2177,Heerenveen Women,-0.5,3.0,9.5,-0.25,1.5,4.5,0,0,3,0,0,0,0,0,20,21,12,4,1,1,3,0,57,43,28,0
+689156,219,AUT LL,Austria Landesliga,A,60,Austria,A,17027,SV Eltendorf,5525,Ritzing,+0.75,3.5,,+0.25,1.5,,0,0,1,1,1,0,0,0,26,29,12,13,0,1,1,2,35,65,28,0
+689359,518,ARG PDM,Argentina Primera D Metropolitana,A,32,Argentina,A,13250,Deportivo Paraguayo,12392,Deportivo Liniers,+0.5,2.25,8.5,+0.25,0.75,4,0,0,2,3,0,1,0,0,21,17,12,10,0,0,2,2,51,49,27,0
+689138,411,GER LB H,Germany Oberliga Hessen,G,5,Germany,D,14825,Hessen Dreieich,18182,TSV Eintracht Stadtallendorf,+0.25,3.25,9.5,+0.5,0.75,4.5,0,0,0,0,0,0,0,0,34,32,12,21,0,0,1,0,50,50,27,0
+689324,1802,ENG PL2,England Premier League 2,E,14,England,Y,22518,Southampton U23,22545,Brighton U23,-0.25,3.25,,0.0,1.25,,0,0,0,0,0,0,0,0,5,3,2,2,0,0,0,0,0,0,2,0
+689323,1802,ENG PL2,England Premier League 2,E,14,England,Y,22539,Man City U23,22541,Leicester U23,0.0,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,1,0
+687455,187,FRA L2,France Ligue 2,F,31,France,F,6336,Chateauroux,5795,Auxerre,+0.25,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,2,2,1,2,0,0,0,0,38,62,1,0
+687450,187,FRA L2,France Ligue 2,F,31,France,F,5957,Caen,2346,US Orleans 45,-0.25,2.0,9,-0.25,0.75,4.5,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,85,15,1,0
+688999,354,FRA N,France National,F,31,France,F,23068,Sporting Club Toulon,27164,FC Bastia-Borgo,0.0,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,78,22,1,0
+687451,187,FRA L2,France Ligue 2,F,31,France,F,1112,Troyes,1062,Valenciennes,-1.0,2.25,9,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,75,25,1,0
+687454,187,FRA L2,France Ligue 2,F,31,France,F,1056,AC Ajaccio,24485,Rodez,-0.5,2.0,8.5,-0.25,0.75,4,0,0,0,0,0,0,0,0,1,4,0,1,0,0,0,0,19,81,1,0
+687447,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,6189,De Graafschap,6510,Excelsior,-1.25,3.5,9.5,-0.5,1.5,4.5,0,0,0,0,0,0,0,0,0,6,0,1,0,0,0,0,10,90,1,0
+688995,354,FRA N,France National,F,31,France,F,2310,Ajaccio GFCA,13236,Lyon Duchere,0.0,1.75,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91,9,1,0
+687452,187,FRA L2,France Ligue 2,F,31,France,F,7341,Chambly Thelle FC,6903,Guingamp,+0.25,2.0,9,0.0,0.75,4,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,74,26,1,0
+687441,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,1051,Cambuur Leeuwarden,6511,NEC,-0.75,3.25,10,-0.25,1.25,4.5,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,100,1,0
+688997,354,FRA N,France National,F,31,France,F,2336,Dunkerque,11809,Concarneau,-1.0,2.25,8.5,-0.25,0.75,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+688998,354,FRA N,France National,F,31,France,F,2342,Red Star FC 93,24486,Le Puy,-0.5,2.25,9,-0.25,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,1,0
+689001,354,FRA N,France National,F,31,France,F,18829,Villefranche,1102,Laval,-0.5,2.0,9,-0.25,0.75,4.5,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,13,87,1,0
+687446,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,6131,FC Den Bosch,6418,Helmond Sport,-1.25,3.25,10.5,-0.5,1.25,5,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,32,68,1,0
+689379,2314,France N2,France National 2,F,31,France,F,35157,Marignane Gignac,10799,Louhans-Cuiseaux,+0.25,2.75,,+0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+687440,40,NED E,Holland Eredivisie,H,25,the Netherlands,H,190,PEC Zwolle,5810,Ajax,+2.5,4.0,10.5,+1.0,1.75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,1,0
+689325,1802,ENG PL2,England Premier League 2,E,14,England,Y,22686,Stoke U23,22549,West Brom U23,-1.0,3.0,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+689326,1802,ENG PL2,England Premier League 2,E,14,England,Y,22542,Tottenham U23,22420,Arsenal U23,+0.75,3.25,,+0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+688996,354,FRA N,France National,F,31,France,F,15555,AS Beziers,2337,Boulogne,0.0,2.25,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,100,0,1,0
+687448,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,6055,Telstar,6528,FC Utrecht Reserves,-0.5,3.25,10,-0.25,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+687445,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,5611,FC Eindhoven,7534,AZ Reserves,-0.75,3.5,9.5,-0.25,1.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+687442,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,7305,FC Dordrecht,6265,FC Oss,-0.25,3.0,9.5,0.0,1.25,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689322,1802,ENG PL2,England Premier League 2,E,14,England,Y,22538,Derby U23,22535,Wolverhampton U23,-0.75,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+687444,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,5983,Maastricht,6430,Almere City FC,0.0,3.0,10.5,0.0,1.25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+687443,1810,Holland ED,Holland Eerste Divisie,H,25,the Netherlands,H,1045,NAC,524,Go Ahead Eagles,-0.5,3.0,10.5,-0.25,1.25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+689000,354,FRA N,France National,F,31,France,F,7048,US Quevilly,18717,Cholet,-0.5,2.25,9.5,-0.25,1.0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0

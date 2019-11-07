@@ -1,0 +1,22 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689172,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37029,Villa 2000 B,36983,Pro Direct,0.0,2.75,,0.0,1.25,,0,1,8,5,1,1,0,0,111,101,47,44,0,1,0,0,0,0,FT,1
+688923,2817,Il1W,Indonesia Liga 1 Women,I,65,Indonesia,Y,38253,PS TIRA Women,38266,Persib Bandung Women,0.0,3.0,,0.0,1.25,,1,1,5,4,2,2,0,0,85,88,41,51,1,1,4,2,0,0,85,0
+688884,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30579,FK Aktobe Reserves,30409,Kyran Reserves,0.0,3.25,,0.0,1.25,,6,0,6,5,3,1,0,1,140,149,76,56,10,2,9,4,0,0,87,1
+688885,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30578,FK Atyrau Reserves,35079,FK Arys,+0.75,3.5,,+0.25,1.5,,0,1,2,1,5,2,0,1,132,99,59,60,0,1,1,5,0,0,85,1
+689219,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30408,Irtysh Pavlodar Reserves,31353,Zhetysu Taldykorgan Reserves,0.0,3.0,,0.0,1.25,,3,1,3,3,1,2,0,0,0,0,0,0,2,1,0,0,0,0,87,1
+688817,1345,HRV U19,Croatia U19 League,C,98,Croatia,K,17443,Slaven Koprivnica U19,32626,NK Dugopolje U19,-0.75,3.0,9,-0.25,1.25,4,5,0,4,1,2,1,0,0,144,127,66,44,9,2,13,1,61,39,90,1
+688919,917,AFC C U19W,AFC U19 Womens Championship,A,4,International,G,7763,Myanmar Women U19,15805,China Women U19,+3.75,5.0,11,+1.75,2.25,5.5,1,4,2,4,1,2,0,0,54,67,26,46,5,7,0,5,45,55,87,1
+689178,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,35197,Akademia Ontustyk Reserves,30212,Sdyushor 8,+1.25,3.75,,+0.5,1.5,,0,2,2,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,85,1
+688851,915,IND SPL,India Shillong Premier League,I,17,India,Y,37348,Ryntih SC,10292,Langsning SC,-0.25,2.25,10,0.0,1.0,4.5,3,0,3,6,1,2,0,0,99,91,94,52,7,0,10,3,52,48,68,1
+688841,22,TUR Cup,Turkey Cup,T,26,Turkey,T,30283,Bayburt GO Idarespor,870,Bursaspor,+0.5,2.5,9.5,+0.25,1.0,4.5,1,0,1,3,0,1,0,0,53,57,19,36,1,0,1,1,42,58,45,1
+689194,2493,Korea KLW,South Korea K-League Women,S,3,Korea,H,26173,Gyeongju Women,12821,Hwacheon KSPO Women,-0.25,2.75,,0.0,1.0,,1,0,3,3,0,0,0,0,30,38,23,32,4,2,0,1,50,50,44,1
+688850,538,VNM Cup,Vietnam Cup,V,78,Vietnam,Y,4098,Quang Nam,4129,Ha Noi FC,+0.75,3.0,,+0.75,0.75,,1,0,2,7,0,1,0,0,39,43,26,44,3,2,4,3,42,58,42,1
+688906,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,16091,Dunajska Streda U19,1567,MFK Zemplin Michalovce U19,-2.75,3.75,,-1.25,1.5,,2,0,1,1,0,1,0,0,47,50,20,13,4,0,5,1,55,45,42,1
+688720,435,JPN J3L,Japan J3-League,J,2,Japan,R,4724,Nagano Parceiro,2995,YSCC,-0.25,2.0,9,0.0,0.75,4,0,0,3,2,0,0,0,0,43,40,33,24,1,1,4,2,0,0,41,1
+689276,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,38270,FK Usti nad Labem U19,2816,Slovan Liberec U19,+3,4.75,,+1.25,2.0,,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,38,1
+688907,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,2575,MFK Ruzomberok U19,2572,FC Nitra U19,+0.25,2.5,,+0.25,1.0,,1,0,2,0,0,0,0,0,43,33,24,18,2,3,3,1,41,59,38,1
+688909,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,2579,Spartak Trnava U19,2578,Slovan Bratislava U19,+1.25,3.0,,+0.5,1.25,,0,0,4,2,0,0,0,0,21,29,8,12,0,2,2,3,48,52,37,1
+688830,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,8508,Moik Baku,17982,Zaqatala,-0.25,2.75,,0.0,1.0,,0,0,0,0,0,0,0,0,14,9,7,2,0,1,0,1,61,39,14,1
+688831,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32520,Neftchi Baku II,32522,Sabail FC II,+0.75,2.75,,+0.25,1.0,,0,0,1,0,0,0,0,0,15,9,7,4,0,0,0,1,65,35,14,1
+688829,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,8656,FK Kapaz,32521,Zira IK II,-1.25,3.0,,-0.5,1.25,,0,0,1,0,0,0,0,0,14,12,12,2,0,0,1,1,0,0,13,1
+689220,22,TUR Cup,Turkey Cup,T,26,Turkey,T,38552,Baskent Akademi,887,Sivasspor,+2.25,3.75,10,+1.0,1.5,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,1

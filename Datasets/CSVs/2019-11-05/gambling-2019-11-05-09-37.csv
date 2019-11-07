@@ -1,0 +1,9 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692560,2817,Il1W,Indonesia Liga 1 Women,I,65,Indonesia,Y,38251,Persipura Jayapura Women,38267,Bali United Women,-1.25,3.25,,-0.5,1.25,,3,0,4,3,0,0,0,0,76,47,43,11,6,2,5,0,0,0,FT,1
+692735,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33673,PSID Jombang,4447,Persekap Pasuruan,-0.25,3.0,,0.0,1.25,,0,0,1,4,0,0,0,0,27,35,16,22,1,0,2,3,0,0,21,0
+692730,2617,THA UG,Thailand University Games,T,8,Thailand,T,12509,Kasem Bundit University,38633,Mahanakorn University,-0.75,3.0,,-0.25,1.25,,0,0,2,0,0,0,0,0,38,13,15,1,1,0,1,0,0,0,22,0
+692728,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33674,PS Kota Pahlawan,37387,PSIL Lumajang,-0.25,2.5,,0.0,1.0,,0,0,2,1,0,0,0,0,24,23,18,11,0,1,0,1,0,0,26,0
+692727,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,4464,Perseta Tulungagung,37682,Persikoba Batu,-1.75,3.25,,-0.75,1.25,,0,0,0,0,0,0,0,0,25,25,14,7,0,0,1,1,0,0,22,0
+692719,2617,THA UG,Thailand University Games,T,8,Thailand,T,33772,Pathumthani University,33774,Rajamangala University Thanyaburi,+1.25,3.0,,+0.5,1.25,,0,0,0,0,0,0,0,0,17,13,13,6,0,0,0,1,0,0,15,0
+692726,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,36728,Putra Sinar Giri,36893,Perspa Pacitan,-0.75,2.75,,-0.25,1.0,,0,0,2,0,0,0,0,0,14,12,14,1,1,0,1,0,0,0,11,0
+692741,2561,India RC,India Regional Cup,I,17,India,Y,30086,Jamshedpur FC II,28873,Royals FC,-1.0,2.75,,-0.5,1.25,,0,0,0,0,0,0,0,0,4,10,1,6,0,1,0,0,0,0,4,0

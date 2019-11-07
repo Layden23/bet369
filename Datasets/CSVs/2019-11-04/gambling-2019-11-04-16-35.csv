@@ -1,0 +1,13 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692324,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,8315,Vitesse Reserves,15691,Feyenoord Reserves,0.25,3.75,10,0.25,1.75,4.5,0,2,6,2,0,0,0,0,98,93,50,61,1,5,2,8,48,52,77,1
+692173,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,32468,Kilmarnock Reserves,32478,Motherwell Reserves,+0.75,3.25,,+0.25,1.25,,1,2,4,2,2,1,0,0,31,48,31,44,2,2,4,6,0,0,79,1
+692174,2575,Scotland RL,Scotland Reserve League,S,24,Scotland,S,32470,Queen of South Reserves,32472,Ross County Reserves,+1.0,3.0,,+0.5,1.25,,0,3,0,3,0,3,0,0,110,72,59,31,2,4,6,3,0,0,82,1
+691068,653,IRN PL,Iran Pro League,I,74,Iran,Y,1265,Foolad Khuzestan,6412,Persepolis,+0.25,1.75,,0.0,0.5,,0,1,4,4,1,0,0,0,85,62,56,36,1,1,0,1,0,0,60,1
+692317,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28493,Al-Ahli Doha U23,28480,Umm Salal U23,+0.5,3.5,9,+0.25,1.25,4,0,0,3,3,0,0,0,0,54,62,33,43,5,6,8,5,0,0,48,0
+692318,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28494,Al-Sadd SC U23,28495,Al Duhail U23,+1.0,3.0,,+0.5,1.25,,0,0,1,6,2,0,0,0,55,66,17,38,0,2,1,5,0,0,45,0
+692313,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2307,Busaiteen,2025,Al-Najma Manama,0.0,2.75,9.5,+0.5,0.75,4.5,2,0,2,2,0,1,0,0,39,42,25,24,5,1,1,2,0,0,35,1
+692314,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,10426,Qalali,2050,Al Hala,+1.0,3.0,9,+0.25,1.25,4.5,1,0,1,4,1,0,0,0,31,24,10,28,1,1,0,2,0,0,38,1
+692316,2809,GRCGSL,Greece Super League 2,G,13,Greece,X,7090,Giannina,949,Ergotelis,-1.0,2.5,,-0.5,1.0,,0,1,5,3,0,1,0,0,42,30,42,19,2,1,5,1,53,47,35,1
+692508,544,PER RL,Peru Reserve League,P,117,Peru,M,11820,Deportivo Municipal Reserves,3986,Universitario de Deportes Reserves,+1.0,2.5,,0.5,1.0,,0,0,1,0,1,1,0,0,43,46,17,27,0,0,4,3,0,0,31,0
+692311,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,36933,Leixoes U23,32401,Feirense U23,-0.75,3.0,10,-0.25,1.25,4.5,0,0,1,2,0,0,0,0,34,41,22,26,1,1,0,4,54,46,34,0
+692334,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,28451,USC Bassam,28749,Bouaké FC,0.00,2.25,8.5,+0.5,0.75,4,0,0,1,0,0,0,0,0,2,1,0,1,0,0,0,1,0,0,2,0

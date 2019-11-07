@@ -1,0 +1,12 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+689177,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,32989,FK Aksu,30976,Altay Reserves,+0.25,3.25,,0.0,1.25,,1,1,1,2,3,1,0,0,76,92,30,31,4,3,2,4,0,0,72,1
+689275,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38475,Bina Putra,38523,Pesik Kuningan,+3,3.75,,+1.25,1.5,,1,1,1,4,1,2,0,0,41,37,9,16,2,1,1,3,0,0,HT,1
+689172,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37029,Villa 2000 B,36983,Pro Direct,0.0,2.75,,0.0,1.25,,0,1,4,4,0,0,0,0,48,43,24,21,0,1,0,0,0,0,37,1
+688923,2817,Il1W,Indonesia Liga 1 Women,I,65,Indonesia,Y,38253,PS TIRA Women,38266,Persib Bandung Women,0.0,3.0,,0.0,1.25,,0,0,3,1,0,1,0,0,29,34,18,21,0,0,3,0,0,0,33,1
+688884,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30579,FK Aktobe Reserves,30409,Kyran Reserves,0.0,3.25,,0.0,1.25,,2,0,1,2,2,0,0,0,53,48,31,19,2,0,3,2,0,0,32,1
+688885,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30578,FK Atyrau Reserves,35079,FK Arys,+0.75,3.5,,+0.25,1.5,,0,0,0,0,1,1,0,1,47,39,20,29,0,0,0,4,0,0,32,1
+689219,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,30408,Irtysh Pavlodar Reserves,31353,Zhetysu Taldykorgan Reserves,0.0,3.0,,0.0,1.25,,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,32,1
+688817,1345,HRV U19,Croatia U19 League,C,98,Croatia,K,17443,Slaven Koprivnica U19,32626,NK Dugopolje U19,-0.75,3.0,9,-0.25,1.25,4,0,0,0,0,0,1,0,0,55,46,21,18,1,0,6,0,61,39,31,1
+688919,917,AFC C U19W,AFC U19 Womens Championship,A,4,International,G,7763,Myanmar Women U19,15805,China Women U19,+3.75,5.0,11,+1.75,2.25,5.5,0,1,0,1,0,0,0,0,23,25,11,16,0,2,0,2,46,54,31,1
+689178,2331,Kazakhstan D2,Kazakhstan Division 2,K,62,Kazakhstan,H,35197,Akademia Ontustyk Reserves,30212,Sdyushor 8,+1.25,3.75,,+0.5,1.5,,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31,1
+688851,915,IND SPL,India Shillong Premier League,I,17,India,Y,37348,Ryntih SC,10292,Langsning SC,-0.25,2.25,10,0.0,1.0,4.5,0,0,1,0,0,0,0,0,31,24,27,11,2,0,1,1,0,0,14,1

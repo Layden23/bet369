@@ -1,0 +1,28 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+691764,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10759,FC Gagra,29676,FC Telavi,+0.75,3.0,,+0.25,1.25,,1,0,3,3,0,0,0,0,94,137,46,75,4,3,7,4,41,59,78,1
+691765,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10523,Kolkheti Poti,10521,FC Samtredia,+1.75,3.75,,+0.75,1.5,,1,0,0,4,1,0,0,0,81,160,37,87,1,6,2,9,32,68,78,1
+691079,2000,India BSD,India Bangalore Super Division,I,17,India,Y,25301,AGORC Bangalore,18179,Income Tax SC,-0.25,2.25,,0.0,0.75,,0,0,3,3,1,0,0,0,74,83,38,60,0,1,3,5,0,0,74,0
+691292,2617,THA UG,Thailand University Games,T,8,Thailand,T,29579,Rajabhat Petchaburi Univerisity,33782,Thepsatri Rajabhat University,-1.75,3.75,,-0.75,1.5,,1,0,3,0,0,0,0,0,47,35,32,15,2,0,5,1,0,0,54,1
+690988,2473,Ukraine D1W,Ukraine Division 1 Women,U,21,Ukraine,W,37088,FC Podillya Women,18561,Pantery Uman Women,-1.25,3.75,,-0.5,1.5,,1,1,4,2,4,1,1,0,91,75,63,46,6,8,6,7,0,0,76,1
+691295,877,IRN D1,Iran Div 1,I,74,Iran,Y,37982,Atrak Bojnourd FC,27441,Mes Novin Kerman,-0.25,2.25,,+0.5,0.75,,2,1,2,0,0,1,0,0,43,33,15,15,1,1,1,1,0,0,HT,1
+691413,877,IRN D1,Iran Div 1,I,74,Iran,Y,9690,Damash Gilan,7328,Esteghlal Khuzestan,0.0,1.75,8,0.0,0.75,3.5,0,0,1,1,1,1,0,0,25,34,14,8,1,1,1,1,0,0,39,0
+691416,877,IRN D1,Iran Div 1,I,74,Iran,Y,37171,Rayka Babol,9954,Mes Rafsanjan,+0.25,1.75,8,0.0,0.75,3.5,1,0,2,0,0,1,0,0,37,33,22,23,3,1,3,1,0,0,35,1
+691414,877,IRN D1,Iran Div 1,I,74,Iran,Y,27850,Khosheh Talaei,9692,Moghavemat Sepasi,0.0,1.75,8,0.0,0.75,3.5,0,0,3,1,1,1,0,0,41,43,40,33,0,2,4,0,0,0,38,0
+691297,877,IRN D1,Iran Div 1,I,74,Iran,Y,9957,Naft Gachsaran,38057,Shohada Razakan,-0.5,2.25,,-0.25,0.75,,0,0,2,0,1,1,0,0,50,42,23,5,2,0,2,1,0,0,36,0
+691296,877,IRN D1,Iran Div 1,I,74,Iran,Y,32174,Chooka Talesh,9572,Iranjavan Bushehr,-0.5,2.25,,-0.25,0.75,,1,0,2,0,0,0,0,0,39,33,25,16,1,2,3,2,0,0,37,1
+691415,877,IRN D1,Iran Div 1,I,74,Iran,Y,27209,Qashqai Shiraz,15796,Aluminium Arak,0.0,1.75,8,0.0,0.75,3.5,1,0,1,0,1,0,0,0,49,45,25,13,1,0,1,1,0,0,39,1
+687886,191,RUS D1,Russia Division 1,R,12,Russia,E,3369,Krasnodar II,1346,Avangard Kursk,-0.25,2.25,9.5,0.0,0.75,4.5,1,0,1,1,1,0,0,0,42,29,17,7,3,0,1,1,60,40,40,1
+688019,8,RUS PL,Russia Premier League,R,12,Russia,E,507,Ural,21704,FC Orenburg,0.0,2.25,9.5,0.0,1.0,4.5,0,1,0,2,0,1,0,0,80,37,40,11,3,1,7,6,68,32,39,1
+691300,877,IRN D1,Iran Div 1,I,74,Iran,Y,9688,Pas Hamedan,27846,Besat Kermanshah,-0.5,2.25,,-0.25,1.0,,0,0,2,1,0,0,0,0,30,13,12,4,0,0,3,0,0,0,24,0
+691420,877,IRN D1,Iran Div 1,I,74,Iran,Y,33134,Sorkhpooshan Pakdasht,9574,Niroye Zamini,-0.25,2.0,8,0.0,0.75,4,0,0,2,0,0,0,0,0,27,34,16,9,1,0,0,2,0,0,25,0
+691417,877,IRN D1,Iran Div 1,I,74,Iran,Y,33740,Arman Gohar,26971,Shahrdari Tabriz,-0.75,2.0,8,-0.25,0.75,3.5,0,1,1,0,1,1,0,0,45,29,31,17,0,2,3,1,0,0,23,1
+691419,877,IRN D1,Iran Div 1,I,74,Iran,Y,9689,Mes Kerman,22721,Baderan Tehran,-0.25,2.0,8,0.0,0.75,3.5,1,0,2,0,0,0,0,0,22,15,14,3,2,0,0,0,0,0,14,1
+691418,877,IRN D1,Iran Div 1,I,74,Iran,Y,37172,Gol Reyhan,32843,Navad Urmia,-0.25,1.75,8,+0.5,0.5,3.5,0,0,0,1,0,0,0,0,26,27,10,12,0,0,2,0,0,0,20,0
+692320,1998,India BAD 80m,India Bangalore A Division - 80 mins play,I,17,India,Y,18950,RWF,38618,Bangalore Gunners FC,-0.5,2.25,,-0.25,1.0,,0,0,0,2,0,0,0,0,34,36,14,18,0,0,2,3,0,0,24,0
+689966,434,BLR PL,Belarus Premier League,B,94,Belarus,B,5512,Slavia Mozyr,20051,FK Gomel,0.0,2.0,10.5,0.0,0.75,5,0,0,1,0,0,1,0,0,17,9,6,3,1,0,0,1,65,35,8,0
+691301,877,IRN D1,Iran Div 1,I,74,Iran,Y,32924,Persepolis Ganaveh,27662,Shahrdari Hamedan,-0.5,2.25,,-0.25,0.75,,0,0,0,0,0,0,0,0,10,6,4,1,0,0,1,0,0,0,7,0
+690928,819,KHG PL,Hong Kong Premier League,H,77,Hong Kong,Z,17516,HK Pegasus,3136,Southern District,+0.25,3.25,11,0.0,1.25,5,0,0,1,0,0,0,0,0,9,10,8,4,0,0,3,1,56,44,8,0
+691424,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1269,Persela Lamongan,2207,PS Barito Putera,-0.5,2.5,10,-0.25,1.0,4.5,0,0,1,0,0,0,0,0,6,11,8,2,0,0,3,0,0,0,7,0
+691302,877,IRN D1,Iran Div 1,I,74,Iran,Y,27458,Naft Omidiyeh,26972,Shahrdari Mahshahr,-0.5,2.25,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+690924,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,36347,Famalicao U23,32406,Estoril U23,+0.5,3.0,10,+0.25,1.25,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+690990,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16478,Maccabi Ironi Sderot,16763,Hapoel Ironi Gedera,-3.25,4.0,,-1.25,1.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

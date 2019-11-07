@@ -1,0 +1,41 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+691295,877,IRN D1,Iran Div 1,I,74,Iran,Y,37982,Atrak Bojnourd FC,27441,Mes Novin Kerman,-0.25,2.25,,+0.5,0.75,,2,1,3,1,1,2,0,0,71,77,27,39,3,1,4,4,0,0,79,1
+691413,877,IRN D1,Iran Div 1,I,74,Iran,Y,9690,Damash Gilan,7328,Esteghlal Khuzestan,0.0,1.75,8,0.0,0.75,3.5,1,0,1,2,2,2,0,0,54,57,30,15,4,2,5,1,0,0,68,1
+691415,877,IRN D1,Iran Div 1,I,74,Iran,Y,27209,Qashqai Shiraz,15796,Aluminium Arak,0.0,1.75,8,0.0,0.75,3.5,1,0,1,1,1,0,0,0,87,85,36,42,2,1,1,4,0,0,69,1
+691416,877,IRN D1,Iran Div 1,I,74,Iran,Y,37171,Rayka Babol,9954,Mes Rafsanjan,+0.25,1.75,8,0.0,0.75,3.5,1,0,2,2,0,2,0,1,77,66,43,48,3,3,7,2,0,0,64,1
+691297,877,IRN D1,Iran Div 1,I,74,Iran,Y,9957,Naft Gachsaran,38057,Shohada Razakan,-0.5,2.25,,-0.25,0.75,,1,0,4,4,2,2,0,0,89,70,48,12,5,0,7,3,0,0,63,1
+691414,877,IRN D1,Iran Div 1,I,74,Iran,Y,27850,Khosheh Talaei,9692,Moghavemat Sepasi,0.0,1.75,8,0.0,0.75,3.5,0,0,4,2,2,2,1,0,74,69,67,52,2,2,8,0,0,0,70,0
+691296,877,IRN D1,Iran Div 1,I,74,Iran,Y,32174,Chooka Talesh,9572,Iranjavan Bushehr,-0.5,2.25,,-0.25,0.75,,1,0,6,1,2,1,0,0,72,59,43,34,2,4,6,5,0,0,67,1
+687886,191,RUS D1,Russia Division 1,R,12,Russia,E,3369,Krasnodar II,1346,Avangard Kursk,-0.25,2.25,9.5,0.0,0.75,4.5,1,0,4,3,2,2,0,0,61,55,23,19,6,0,4,4,56,44,72,1
+688019,8,RUS PL,Russia Premier League,R,12,Russia,E,507,Ural,21704,FC Orenburg,0.0,2.25,9.5,0.0,1.0,4.5,1,2,2,3,1,1,0,0,133,57,71,26,5,2,13,9,66,34,71,1
+691419,877,IRN D1,Iran Div 1,I,74,Iran,Y,9689,Mes Kerman,22721,Baderan Tehran,-0.25,2.0,8,0.0,0.75,3.5,1,0,2,1,0,1,0,0,62,50,40,23,3,1,1,0,0,0,HT,1
+691418,877,IRN D1,Iran Div 1,I,74,Iran,Y,37172,Gol Reyhan,32843,Navad Urmia,-0.25,1.75,8,+0.5,0.5,3.5,0,0,1,1,3,1,0,0,51,53,28,28,0,0,3,2,0,0,47,0
+691420,877,IRN D1,Iran Div 1,I,74,Iran,Y,33134,Sorkhpooshan Pakdasht,9574,Niroye Zamini,-0.25,2.0,8,0.0,0.75,4,0,0,5,2,1,2,0,0,65,70,34,24,2,0,0,2,0,0,56,0
+691300,877,IRN D1,Iran Div 1,I,74,Iran,Y,9688,Pas Hamedan,27846,Besat Kermanshah,-0.5,2.25,,-0.25,1.0,,0,0,3,1,0,0,0,0,67,39,28,9,0,0,4,1,0,0,57,0
+691417,877,IRN D1,Iran Div 1,I,74,Iran,Y,33740,Arman Gohar,26971,Shahrdari Tabriz,-0.75,2.0,8,-0.25,0.75,3.5,2,1,4,1,2,1,0,0,88,64,70,31,2,3,10,3,0,0,53,1
+692320,1998,India BAD 80m,India Bangalore A Division - 80 mins play,I,17,India,Y,18950,RWF,38618,Bangalore Gunners FC,-0.5,2.25,,-0.25,1.0,,0,1,4,4,0,1,0,0,93,91,49,39,0,2,8,5,0,0,61,1
+689966,434,BLR PL,Belarus Premier League,B,94,Belarus,B,5512,Slavia Mozyr,20051,FK Gomel,0.0,2.0,10.5,0.0,0.75,5,0,2,5,0,0,2,0,0,74,51,41,23,2,3,5,4,63,37,HT,1
+691424,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1269,Persela Lamongan,2207,PS Barito Putera,-0.5,2.5,10,-0.25,1.0,4.5,0,0,4,1,1,0,0,0,69,59,60,29,1,1,6,1,0,0,HT,0
+691301,877,IRN D1,Iran Div 1,I,74,Iran,Y,32924,Persepolis Ganaveh,27662,Shahrdari Hamedan,-0.5,2.25,,-0.25,0.75,,1,1,1,0,0,0,0,0,59,37,31,12,1,2,6,2,0,0,HT,1
+690928,819,KHG PL,Hong Kong Premier League,H,77,Hong Kong,Z,17516,HK Pegasus,3136,Southern District,+0.25,3.25,11,0.0,1.25,5,0,0,3,0,0,1,0,0,47,42,40,27,3,2,7,4,51,49,HT,0
+691302,877,IRN D1,Iran Div 1,I,74,Iran,Y,27458,Naft Omidiyeh,26972,Shahrdari Mahshahr,-0.5,2.25,,-0.25,1.0,,0,0,2,0,0,0,0,0,33,27,13,15,0,2,1,3,0,0,30,0
+690924,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,36347,Famalicao U23,32406,Estoril U23,+0.75,2.75,10,+0.75,0.75,5,1,0,4,4,0,0,0,0,51,55,21,37,1,0,1,2,34,66,42,1
+692337,522,DNK R,Denmark Reserve League,D,15,Denmark,D,8346,Sonderjyske Reserves,7520,Odense BK Reserves,+0.25,3.25,10,0.0,1.25,4.5,0,0,0,0,0,0,0,0,40,53,14,24,0,1,1,1,0,0,26,0
+691174,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,8967,Maccabi Ironi Kiryat Ata,8653,Hapoel Migdal Haemeq,0.0,2.25,,0.0,1.0,,0,2,1,0,0,1,0,0,23,22,12,19,0,4,2,3,0,0,23,1
+690925,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9819,Bnei Baqa United,16770,Maccabi Neve Shaanan Eldad,+1.0,3.25,,+0.25,1.25,,0,1,0,2,0,0,0,0,35,23,9,15,0,3,0,3,46,54,26,1
+690926,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,8691,Ironi Nesher,16656,Hapoel Ihud Bnei Jat,-3,4.0,,-1.25,1.75,,1,0,3,0,0,0,0,0,37,35,27,17,2,0,6,1,0,0,27,1
+690992,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16772,Shimshon Tel Aviv,10114,SC Bnei Yaffo Ortodoxim,-1.25,2.75,,-0.5,1.25,,0,1,4,0,1,2,0,0,18,19,23,11,1,1,1,1,0,0,27,1
+690991,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8692,Hapoel Hod Hasharon,37649,Hapoel Qalansawe,+0.75,2.75,,+0.25,1.25,,0,1,0,1,0,1,0,0,22,30,12,24,1,2,0,1,0,0,26,1
+691329,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,5726,Ironi Kiryat Gat,9148,Hapoel Kfar Shalem,+4,4.0,,+1.5,1.5,,0,1,1,1,0,0,0,0,36,45,23,25,0,1,0,2,0,0,26,1
+691429,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,8675,Hapoel Kiryat Ono,8697,Beitar Petah Tikva,-1.0,3.0,,-0.25,1.25,,0,0,0,1,0,0,0,0,9,13,2,6,0,0,0,0,46,54,12,0
+691425,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,28256,Hapoel Tirat HaCarmel,10041,Maccabi Umm al-Fahm,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,1,0
+691558,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,2200,Ironi Tiberias,9139,Maccabi Tzur Shalom,0.0,2.5,,0.0,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+691559,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,9396,MS Tira,23665,Maccabi Tamra,-1.0,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+690927,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9900,Hapoel Sandala Gilboa,8684,Hapoel Beit Shean Mesilot,0.0,3.0,,0.0,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691555,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,28410,MS Shikun Hamizrah,9438,Ironi Modiin,-0.75,2.75,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691553,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8988,Beitar Ironi Maale Adumim,10116,Bnei Eilat,+1.0,3.25,,+0.5,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0
+690990,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16478,Maccabi Ironi Sderot,16763,Hapoel Ironi Gedera,-3,4.0,,-1.25,1.5,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692312,2609,PLE SPL,Palestine Gaza Strip Premier League,P,125,Palestine,B,37941,Al Ahli Gaza,32978,Ittihad Khanyounis,0.0,2.25,,0.0,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+691554,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16216,Ironi Beit Dagan,8766,Beitar Kfar Saba Shlomi,-0.5,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692351,568,EGY D2,Egypt Division 2,E,110,Egypt,A,10402,Olympic El Qanal,27760,Gomhoryet Shebin,-0.75,2.0,,-0.25,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0
+692352,568,EGY D2,Egypt Division 2,E,110,Egypt,A,1476,Petrojet,28260,Serameka,-0.25,2.0,,0.0,0.75,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

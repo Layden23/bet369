@@ -1,0 +1,7 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688427,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,37782,Persijo Jeneponto,37937,Perspin Pinrang,0.0,3.0,,0.0,1.25,,0,1,1,8,4,1,1,0,65,74,38,85,0,1,1,9,0,0,88,0
+688428,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38410,Panipi Raya FC,38453,Rajawali FC,+1.25,2.75,,+0.5,1.25,,1,1,2,4,0,1,0,0,43,50,16,25,3,3,0,5,0,0,42,1
+688429,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,1270,Persiba Bantul,3691,Persika Karawang,0.0,2.5,,0.0,1.0,,0,0,5,0,0,2,0,0,44,48,28,14,0,0,2,4,0,0,39,1
+688461,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38475,Bina Putra,38522,Cirebon FC,+0.25,2.75,,0.0,1.0,,0,0,1,0,0,0,0,0,31,26,6,2,0,0,0,0,0,0,28,1
+688075,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1328,Persebaya Surabaya,8322,PSS Sleman,-0.75,2.5,9,-0.25,1.0,4.5,0,1,2,1,1,0,0,0,25,22,23,15,1,2,1,1,52,48,26,1
+688475,2804,THA U19 C,Thailand U19 Cup,T,8,Thailand,T,17245,Lopburi FC U19,17244,Chainat FC U19,+0.25,2.5,,0.0,1.0,,0,1,0,2,0,0,0,0,22,31,11,17,0,2,2,1,0,0,25,1

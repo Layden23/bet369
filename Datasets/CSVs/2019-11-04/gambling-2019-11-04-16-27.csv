@@ -1,0 +1,14 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+688020,8,RUS PL,Russia Premier League,R,12,Russia,E,23,Krylia Sovetov,4651,Rubin Kazan,-0.25,2.0,9,0.0,0.75,4,0,0,5,3,3,4,0,0,112,113,51,46,5,5,13,9,51,49,FT,0
+692324,1306,NED R,Holland Reserve League,H,25,the Netherlands,H,8315,Vitesse Reserves,15691,Feyenoord Reserves,0.25,3.75,10,0.25,1.75,4.5,0,2,6,1,0,0,0,0,85,84,46,52,1,5,2,7,49,51,69,1
+692173,2827,UK List,UK List,U,206,None,W,32468,Kilmarnock Reserves,32478,Motherwell Reserves,+0.75,3.25,,+0.25,1.25,,1,2,4,2,2,1,0,0,27,40,29,39,2,2,3,6,0,0,70,1
+692174,2827,UK List,UK List,U,206,None,W,32470,Queen of South Reserves,32472,Ross County Reserves,+1.0,3.0,,+0.5,1.25,,0,2,0,3,0,3,0,0,98,67,54,30,2,3,6,3,0,0,74,1
+691068,653,IRN PL,Iran Pro League,I,74,Iran,Y,1265,Foolad Khuzestan,6412,Persepolis,+0.25,1.75,,0.0,0.5,,0,1,3,4,1,0,0,0,69,56,44,34,0,1,0,0,0,0,52,1
+692318,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28494,Al-Sadd SC U23,28495,Al Duhail U23,+1.0,3.0,,+0.5,1.25,,0,0,1,6,2,0,0,0,54,65,15,37,0,2,1,5,0,0,HT,0
+692317,2356,Qatar U23,Qatar U23 League,Q,34,Qatar,K,28493,Al-Ahli Doha U23,28480,Umm Salal U23,+0.5,3.5,9,+0.25,1.25,4,0,0,3,3,0,0,0,0,47,59,30,41,5,6,8,5,0,0,HT,0
+692313,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,2307,Busaiteen,2025,Al-Najma Manama,0.0,2.75,9.5,+0.5,0.75,4.5,2,0,2,2,0,1,0,0,35,33,22,19,5,1,0,1,0,0,27,1
+692314,1098,BHR K Cup,Bahrain Kings Cup,B,80,Bahrain,B,10426,Qalali,2050,Al Hala,+1.0,3.0,9,+0.25,1.25,4.5,1,0,0,3,1,0,0,0,24,20,8,22,1,1,0,1,0,0,29,1
+692316,2809,GRCGSL,Greece Super League 2,G,13,Greece,X,7090,Giannina,949,Ergotelis,-1.0,2.5,,-0.5,1.0,,0,1,4,2,0,0,0,0,35,26,31,16,2,1,3,1,52,48,26,1
+692508,544,PER RL,Peru Reserve League,P,117,Peru,M,11820,Deportivo Municipal Reserves,3986,Universitario de Deportes Reserves,+1.0,2.5,,0.5,1.0,,0,0,1,0,1,1,0,0,31,38,11,23,0,0,3,3,0,0,23,0
+692311,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,36933,Leixoes U23,32401,Feirense U23,-0.75,3.0,10,-0.25,1.25,4.5,0,0,1,1,0,0,0,0,28,27,20,17,1,0,0,4,57,43,26,0
+692334,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,28451,USC Bassam,28749,Bouaké FC,0.0,2.25,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0

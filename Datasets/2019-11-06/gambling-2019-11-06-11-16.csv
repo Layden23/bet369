@@ -1,0 +1,16 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+692767,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,4464,Perseta Tulungagung,33674,PS Kota Pahlawan,-0.75,3.25,,-0.25,1.25,,1,1,9,4,2,3,0,1,82,73,56,34,4,3,12,8,0,0,FT,1
+692958,2617,THA UG,Thailand University Games,T,8,Thailand,T,33774,Rajamangala University Thanyaburi,33778,Nakhon Pathom Rajabhat University,+0.25,3.0,,+0.25,1.25,,2,4,1,4,1,2,0,0,64,73,47,49,3,9,8,7,0,0,90,1
+692921,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,4826,Persewangi Banyuwangi,37026,Sumbersari FC,-1.0,3.0,,-0.5,1.25,,2,1,0,5,5,3,0,0,88,68,53,49,2,1,0,0,0,0,FT,1
+693091,881,AFC C U19,AFC U19 Championships,A,4,International,G,9682,North Korea U19,16823,Hong Kong U19,-3.25,4.25,,-1.5,1.75,,1,1,14,1,1,2,0,0,112,79,94,26,2,2,9,0,0,0,88,1
+692904,881,AFC C U19,AFC U19 Championships,A,4,International,G,6236,Myanmar U19,9720,China PR U19,+0.75,2.75,9,+0.25,1.0,4,0,2,5,5,1,1,0,0,83,63,55,46,4,2,2,0,57,43,88,1
+692634,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1327,PSM Makassar,4115,Kalteng Putra FC,-1.25,2.5,9.5,-0.5,1.0,4.5,2,1,7,1,0,1,0,1,78,69,80,55,12,2,7,3,0,0,86,1
+692635,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,8322,PSS Sleman,14199,Bali United,0.0,2.5,,0.0,1.0,,0,0,3,7,1,3,0,0,105,90,39,44,1,1,8,6,0,0,88,0
+693050,2561,India RC,India Regional Cup,I,17,India,Y,22123,Sikkim Police,28714,Punjab Police Jalandhar,0.0,3.0,,0.0,1.25,,2,0,3,1,1,1,0,0,94,97,45,49,4,2,6,5,0,0,84,1
+693071,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,3691,Persika Karawang,33675,Solok FC,-1.0,3.0,,-0.5,1.25,,4,1,9,2,1,2,0,0,85,78,63,42,10,2,7,2,0,0,90,1
+693070,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,38613,Bandung Timur FC,38597,Persigarsel,-0.25,2.75,,0.0,1.25,,4,2,7,7,3,2,0,0,69,67,20,36,4,2,1,2,0,0,88,1
+692797,917,AFC C U19W,AFC U19 Womens Championship,A,4,International,G,15822,North Korea Women U19,15818,South Korea Women U19,-1.25,3.0,,-0.5,1.25,,3,1,1,0,0,1,0,0,52,69,20,18,6,2,1,4,0,0,58,1
+693048,230,ARM L1,Armenia First League,A,88,Armenia,Y,36531,Dilijan FC,36655,FC West Armenia,+5.0,6.0,,+1.75,2.25,,0,0,0,2,0,0,0,0,6,30,0,10,0,0,0,0,0,0,16,0
+692633,2000,India BSD,India Bangalore Super Division,I,17,India,Y,33739,ADE FC,18932,Students Union,+0.25,2.75,,0.0,1.25,,0,0,0,0,0,0,0,0,34,28,13,20,0,0,0,0,0,0,15,0
+688991,1275,JPN J2L,Japan J2-League,J,2,Japan,R,224,Omiya Ardija,4570,Avispa Fukuoka,-0.75,2.25,9,-0.25,1.0,4.5,0,0,1,0,0,0,0,0,20,10,11,5,2,0,0,0,65,35,13,0
+688992,609,KOR Cup,South Korea Cup,S,3,Korea,H,21251,Daejeon Korail,348,Suwon Bluewings,+0.75,2.25,9.5,+0.25,1.0,4.5,0,0,0,1,0,0,0,0,12,21,9,15,0,1,1,0,0,0,15,0

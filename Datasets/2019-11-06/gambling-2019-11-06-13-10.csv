@@ -1,0 +1,28 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
+693073,2617,THA UG,Thailand University Games,T,8,Thailand,T,33773,Rajamangala University Rattanakosin,29579,Rajabhat Petchaburi Univerisity,-0.25,3.0,,0.0,1.25,,0,1,4,3,0,1,0,0,66,79,40,39,1,6,4,5,0,0,88,1
+692665,257,HKG RD,Hong Kong Reserve Division,H,77,Hong Kong,Z,28627,Lee Man FC Reserves,17000,Southern District Reserves,+1.25,3.25,8.5,+0.5,1.5,4,1,1,4,6,1,1,0,0,90,50,71,47,5,2,5,9,55,45,82,1
+692631,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,33934,Venghnuai FC,27392,Mizoram Police FC,+0.25,2.75,,0.0,1.0,,0,2,6,3,0,1,0,0,91,87,54,58,4,7,3,11,0,0,83,1
+692626,230,ARM L1,Armenia First League,A,88,Armenia,Y,2248,Pyunik Yerevan II,36808,FC Aragats,+0.25,3.5,,+0.25,1.25,,0,1,2,3,0,4,0,0,77,67,22,42,2,3,5,6,0,0,57,1
+692627,230,ARM L1,Armenia First League,A,88,Armenia,Y,36342,Sevan FC,36731,FC Van,+0.25,3.0,,0.0,1.25,,0,0,2,1,2,1,0,0,73,56,40,23,1,0,8,5,0,0,54,0
+692437,1795,BGR FL,Bulgaria First League,B,40,Bulgaria,B,26478,Dunav Ruse,5032,Botev Plovdiv,+0.25,2.25,,+0.25,1.0,,0,2,3,3,0,0,0,0,47,49,44,46,1,2,6,7,53,47,50,1
+693079,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,14063,Viktoria Zizkov U19,38646,Slavia Prague B U19,+2,5.0,,+0.75,2.0,,0,3,2,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,50,1
+693035,2824,PHL PC,Philippines PFL Cup,P,19,Philippines,F,20233,Philippines U22,11973,Mendiola FC,-0.5,3.0,9.5,+0.25,0.75,4.5,2,1,1,3,1,1,0,0,9,15,4,13,0,0,0,3,0,0,53,1
+693034,2824,PHL PC,Philippines PFL Cup,P,19,Philippines,F,4400,Green Archers Utd,4972,Ceres FC,+3.75,5.0,10,+2,1.5,4.5,0,1,0,0,0,1,0,0,44,85,22,40,0,4,4,6,0,0,51,1
+692772,881,AFC C U19,AFC U19 Championships,A,4,International,G,3592,UAE U19,15981,Nepal U19,-3.75,4.25,10.5,-1.5,1.75,5,2,0,2,1,0,0,0,0,80,34,43,22,4,2,1,4,0,0,HT,1
+692839,881,AFC C U19,AFC U19 Championships,A,4,International,G,15950,Malaysia U19,15920,Brunei U19,-6,6.75,11.5,-2.5,2.75,5.5,7,0,6,0,0,0,0,0,65,23,62,8,11,0,3,0,72,28,40,1
+692830,881,AFC C U19,AFC U19 Championships,A,4,International,G,9674,South Korea U19,15939,Singapore U19,-4.75,5.75,10.5,-2,2.5,5,5,0,3,0,0,1,0,0,44,31,39,11,5,0,2,0,0,0,40,1
+692636,196,IDN SL,Indonesia Super Liga,I,65,Indonesia,Y,1307,Persib Bandung,4116,PSIS Semarang,-0.75,2.0,10,-0.25,0.75,,1,0,1,3,0,0,0,0,44,33,22,10,2,0,2,3,0,0,39,1
+692762,2555,Indonesia L3,Indonesia Liga 3,I,65,Indonesia,Y,33705,Persedikab Kediri,36893,Perspa Pacitan,-1.75,4.0,,-0.75,1.5,,0,0,3,1,0,0,0,0,57,30,21,15,1,3,6,4,0,0,37,0
+692841,881,AFC C U19,AFC U19 Championships,A,4,International,G,7718,Vietnam U19,28777,Mongolia U19,-4.5,5.25,11,-2,2.25,5,0,0,1,0,0,0,0,0,14,14,8,11,1,1,0,2,62,38,10,0
+692840,881,AFC C U19,AFC U19 Championships,A,4,International,G,2169,Indonesia U19,23046,Timor Leste U19,-3.75,4.25,10,-1.5,1.75,4.5,1,0,3,0,0,0,0,0,12,8,12,1,1,0,0,1,0,0,9,1
+693014,1450,BRA Cup U20,Brazil U20 Cup,B,47,Brazil,B,8083,Goias U20,18897,Goiania U20,-1.25,3.5,9.5,-0.5,1.5,4.5,0,0,0,1,0,0,0,0,20,11,10,7,3,2,0,0,29,71,9,0
+692637,783,CMR E1,Cameroon Elite One,C,54,Cameroon,K,19775,AS Fortuna Mfou,20216,Eding Sport FC,-0.5,1.75,8,-0.25,0.75,3.5,0,0,1,0,0,0,0,0,4,4,1,1,0,0,0,0,57,43,4,0
+692638,783,CMR E1,Cameroon Elite One,C,54,Cameroon,K,20634,Feutcheu FC,3313,Fovu de Baham,0.0,2.0,8,0.0,0.75,3.5,0,0,0,0,0,0,0,0,8,7,4,4,0,0,0,0,51,49,9,0
+692649,598,KEN PL,Kenya Premier League,K,105,Kenya,K,6152,Western Stima,7252,Bandari FC,0.0,2.0,,0.0,0.75,,0,0,0,0,0,0,0,0,10,12,7,9,0,0,0,0,20,80,8,0
+692648,598,KEN PL,Kenya Premier League,K,105,Kenya,K,6153,Gor Mahia,7253,Mathare United,-1.0,2.25,,-0.5,1.0,,0,0,0,0,0,0,0,0,6,4,6,0,0,0,0,0,75,25,5,0
+692897,2382,KOS D1,Kosovo Division 1,K,140,Kosovo,K,33584,KF Vllaznia Pozheran,33587,KF Drenasi,-0.25,2.0,,0.0,0.75,,0,0,2,0,1,0,0,0,11,22,10,10,0,0,2,2,0,0,11,0
+692896,2382,KOS D1,Kosovo Division 1,K,140,Kosovo,K,32561,KF KEK-U,30443,KF Ramiz Sadiku,-0.5,2.0,,-0.25,0.75,,0,0,0,0,0,0,0,0,14,8,10,2,0,0,1,0,0,0,9,0
+692398,2181,ROM L2,Romania Liga II,R,30,Romania,L,26928,FC Arges Pitesti,36481,CSM Resita,-1.25,2.75,,-0.75,1.0,,0,0,0,1,0,0,0,0,20,13,5,6,0,0,1,0,53,47,9,0
+692674,833,UEFA YL,UEFA Youth League,U,4,International,G,13276,Lokomotiv Moscow U19,4524,Juventus U19,-0.5,3.25,10,-0.25,1.25,4.5,0,0,1,0,0,0,0,0,19,9,16,3,2,0,0,0,67,33,9,0
+693051,1379,HKG S Cup,Hong Kong Sapling Cup,H,77,Hong Kong,Z,11629,Happy Valley,8793,Yuen Long,+0.25,3.0,,0.0,1.25,,0,0,1,1,0,0,0,0,10,12,3,8,0,1,0,1,40,60,9,0
+692773,881,AFC C U19,AFC U19 Championships,A,4,International,G,4940,Uzbekistan U19,15998,India U19,-1.25,2.75,9.5,-0.5,1.25,4.5,0,0,0,0,0,0,0,0,7,9,1,2,0,0,0,1,0,0,3,0
