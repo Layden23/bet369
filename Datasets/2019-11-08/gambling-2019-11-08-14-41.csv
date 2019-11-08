@@ -1,0 +1,78 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal,Pitch,Weather
+693661,2561,India RC,India Regional Cup,I,17,India,Y,22834,Army Red,6782,Mohammedan SC,+0.5,2.5,,+0.25,1.0,,1,2,5,3,1,1,0,0,104,99,56,33,7,2,4,4,0,0,93,1,Pitch: GOOD,Weather: GOOD
+693338,943,SYR D1,Syria Division 1,S,64,Syria,X,10647,Al Ittihad Aleppo,32964,Jableh SC,-1.0,2.25,,-0.5,1.0,,2,1,10,2,1,1,0,0,80,72,80,51,6,3,11,7,56,44,85,1,Pitch: GOOD,Weather: GOOD
+693341,943,SYR D1,Syria Division 1,S,64,Syria,X,11692,Al Wahda Damascus,27155,Al-Shorta Damascus,-0.5,2.25,,-0.25,0.75,,0,0,2,3,4,1,0,0,105,78,60,46,6,2,9,4,49,51,86,0,Pitch: GOOD,Weather: GOOD
+693368,598,KEN PL,Kenya Premier League,K,105,Kenya,K,13781,Ushuru FC,14166,Bidco United,0.0,2.0,,0.0,0.75,,0,1,9,5,1,1,0,0,103,94,60,50,1,3,7,6,32,68,85,1,Pitch: GOOD,Weather: GOOD
+693513,1830,ROM LIII,Romania Liga III,R,30,Romania,L,25533,FCSB II,32855,CS Faurei,-0.5,3.0,,-0.25,1.25,,0,3,7,6,1,2,0,0,131,100,89,71,4,9,9,11,0,0,88,1,Pitch: GOOD,Weather: GOOD
+693340,943,SYR D1,Syria Division 1,S,64,Syria,X,11577,Al Nawaeir,2022,Al-Jazeera,-0.5,2.5,,-0.25,1.0,,0,0,3,1,0,1,0,0,93,100,75,40,4,2,5,5,51,49,82,0,Pitch: GOOD,Weather: GOOD
+693510,1830,ROM LIII,Romania Liga III,R,30,Romania,L,17051,CSM Pascani,33402,ACS Somuz Falticeni,+2.25,3.25,,+1.0,1.25,,0,6,3,11,3,2,0,0,92,123,45,96,3,12,6,14,0,0,88,1,Pitch: GOOD,Weather: GOOD
+693506,1830,ROM LIII,Romania Liga III,R,30,Romania,L,2923,CS Tunari,33094,CSM Medgidia,-2.5,3.5,,-1.0,1.5,,1,0,6,3,2,4,0,0,117,112,93,53,6,1,9,2,54,46,88,1,Pitch: GOOD,Weather: GOOD
+693249,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32522,Sabail FC II,8656,FK Kapaz,-0.25,2.75,,0.0,1.25,,1,0,2,4,1,4,0,0,112,82,62,57,1,1,2,1,58,42,83,1,Pitch: GOOD,Weather: GOOD
+693152,1103,BLR RL,Belarus Reserve League,B,94,Belarus,B,27542,FK Gomel Reserves,21404,FC Minsk Reserves,+1.5,3.5,,+0.5,1.5,,1,3,4,9,2,3,0,0,105,112,46,73,1,8,3,4,0,0,86,1,Pitch: GOOD,Weather: GOOD
+693450,881,AFC C U19,AFC U19 Championships,A,4,International,G,7718,Vietnam U19,38660,Guam U19,-6.5,7.0,,-2.75,3.0,,3,1,9,4,0,2,0,0,136,76,100,33,8,3,11,1,68,32,84,1,Pitch: GOOD,Weather: GOOD
+693503,1830,ROM LIII,Romania Liga III,R,30,Romania,L,2244,Avantul Reghin,9703,CF Metalurgistul Cugir,-0.5,3.0,,-0.25,1.25,,1,2,2,4,4,2,0,0,97,81,38,37,5,7,7,6,49,51,87,1,Pitch: GOOD,Weather: GOOD
+693501,1830,ROM LIII,Romania Liga III,R,30,Romania,L,27748,AFC Metalul Buzau,2633,FC Unirea 2004 Slobozia,+0.25,2.25,,0.0,0.75,,0,1,2,4,2,4,0,0,40,45,20,26,1,2,3,5,49,51,86,1,Pitch: GOOD,Weather: GOOD
+693512,1830,ROM LIII,Romania Liga III,R,30,Romania,L,2921,FC Zalau,16120,CS Luceafarul Oradea,+1.0,3.0,,+0.25,1.25,,3,3,4,6,2,3,0,0,121,106,78,71,6,4,6,2,0,0,86,1,Pitch: GOOD,Weather: GOOD
+693515,1830,ROM LIII,Romania Liga III,R,30,Romania,L,33215,Ghiroda SI Giarmata VII,8405,ACSO Filiasi,-2,3.5,,-1.0,1.5,,4,2,4,2,1,1,0,0,101,95,63,43,8,2,13,2,47,53,86,1,Pitch: GOOD,Weather: GOOD
+693514,1830,ROM LIII,Romania Liga III,R,30,Romania,L,22658,Foresta Suceava,36643,Husana Husi,-2,3.0,,-0.75,1.25,,4,0,9,3,1,1,0,0,90,67,55,26,11,0,8,6,63,37,84,1,Pitch: GOOD,Weather: GOOD
+693528,881,AFC C U19,AFC U19 Championships,A,4,International,G,2169,Indonesia U19,16823,Hong Kong U19,-2.25,3.75,,-1.0,1.5,,3,0,7,3,0,2,0,0,87,57,79,27,8,0,8,2,0,0,83,1,Pitch: GOOD,Weather: GOOD
+693742,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,26877,Leopard Sportif de Douala,38528,Fauve Azur Elite,-0.5,2.0,,-0.25,0.75,,1,1,2,4,2,3,0,0,59,62,24,31,3,4,2,5,49,51,81,1,Pitch: GOOD,Weather: GOOD
+693419,1854,ENG PLC U23,England U23 Premier League Cup,E,14,England,Y,22537,Newcastle U23,22549,West Brom U23,+0.5,3.25,,+0.25,1.25,,0,1,2,4,0,0,0,0,118,96,40,40,3,6,5,1,0,0,83,1,Pitch: GOOD,Weather: GOOD
+693508,1830,ROM LIII,Romania Liga III,R,30,Romania,L,23080,CSM Flacara Moreni,16116,FC Voluntari II,-0.75,3.0,,-0.25,1.25,,0,0,7,7,1,4,0,0,81,88,84,69,2,2,6,9,0,0,83,0,Pitch: GOOD,Weather: GOOD
+693741,1590,CMR E2,Cameroon Elite Two,C,54,Cameroon,K,35868,Foncha Street Bamenda,22257,Ngaoundere University FC,0.0,2.25,,0.0,0.75,,0,1,1,2,1,1,0,0,142,106,42,36,1,3,2,4,0,0,86,1,Pitch: GOOD,Weather: GOOD
+693509,1830,ROM LIII,Romania Liga III,R,30,Romania,L,28962,CSM Focsani,1419,Otelul Galati,-0.75,2.25,,-0.25,1.0,,4,0,8,0,2,1,0,0,0,0,71,37,4,0,0,0,0,0,84,1,Pitch: GOOD,Weather: GOOD
+693337,943,SYR D1,Syria Division 1,S,64,Syria,X,38432,Al Futowa,28152,Hutteen,+0.5,2.0,,+0.25,0.75,,1,2,0,4,3,2,0,1,68,67,40,61,5,4,3,6,44,56,80,1,Pitch: GOOD,Weather: GOOD
+693504,1830,ROM LIII,Romania Liga III,R,30,Romania,L,27279,CFR Cluj II,3658,Ariesul Turda,0.0,3.0,,0.0,1.25,,1,3,2,4,1,1,0,0,161,113,67,48,1,5,3,3,59,41,84,1,Pitch: GOOD,Weather: GOOD
+693669,1830,ROM LIII,Romania Liga III,R,30,Romania,L,32188,SR Brasov,10320,CS Sporting Rosiori,-0.75,2.75,,-0.25,1.0,,2,0,4,4,5,4,0,0,71,91,62,66,4,2,3,3,0,0,83,1,Pitch: GOOD,Weather: GOOD
+693342,943,SYR D1,Syria Division 1,S,64,Syria,X,10541,Al-Jaish Damascus,34116,Al Sahel Tartous,-0.75,2.5,,-0.25,1.0,,1,0,4,1,1,6,0,0,79,76,56,22,4,0,6,1,58,42,81,1,Pitch: GOOD,Weather: GOOD
+693517,1830,ROM LIII,Romania Liga III,R,30,Romania,L,2233,Unirea Dej,9543,CS Sanatatea Servicii Publice Cluj,-1.25,2.5,,-0.5,1.0,,4,1,2,6,1,2,0,0,116,130,77,73,9,5,4,6,47,53,84,1,Pitch: GOOD,Weather: GOOD
+693498,1830,ROM LIII,Romania Liga III,R,30,Romania,L,1624,ACS Poli Timisoara,16079,CNS Cetate Deva,+0.25,3.0,,0.0,1.25,,1,1,3,4,4,4,0,0,93,170,38,81,3,7,3,10,0,0,83,1,Pitch: GOOD,Weather: GOOD
+693339,943,SYR D1,Syria Division 1,S,64,Syria,X,10637,Al Karamah,33119,Al Taliya SC,-0.5,2.0,,-0.25,0.75,,0,0,1,2,0,0,0,0,112,113,61,52,0,0,0,0,50,50,78,0,Pitch: GOOD,Weather: GOOD
+693505,1830,ROM LIII,Romania Liga III,R,30,Romania,L,29737,Crisul Chisineu Cris,23375,Gloria Lunca Teuz Cermei,-1.25,3.0,,-0.5,1.25,,0,0,2,2,2,3,0,0,89,75,60,53,2,5,7,7,0,0,80,0,Pitch: GOOD,Weather: GOOD
+693689,704,ARG R,Argentina Reserve League,A,32,Argentina,A,36677,Central Cordoba SdE Reserves,27833,Patronato Parana Reserves,-0.25,2.5,,0.0,1.0,,0,0,4,6,3,2,0,0,103,82,59,47,0,3,7,4,0,0,78,0,Pitch: GOOD,Weather: GOOD
+693857,916,SER U19,Serbia U19 League,S,59,Serbia,S,14007,Radnicki Nis U19,37006,Mladost Lucani U19,-0.75,3.0,,-0.25,1.25,,1,0,6,2,1,2,0,0,82,83,65,52,2,0,5,1,48,52,80,1,Pitch: GOOD,Weather: GOOD
+693858,598,KEN PL,Kenya Premier League,K,105,Kenya,K,22171,Nairobi Stima,30062,Administration Police FC,-1.0,2.25,,-0.5,0.75,,2,1,2,4,1,1,0,0,68,65,38,35,3,1,6,4,0,0,74,1,Pitch: GOOD,Weather: GOOD
+693987,234,SVK YL,Slovakia Youth League,S,28,Slovakia,S,22827,Inter Bratislava U19,18102,Karlova Ves U19,-0.5,3.5,,-0.25,1.5,,4,0,8,5,1,3,0,0,0,0,0,0,4,0,0,0,0,0,80,1,Pitch: GOOD,Weather: GOOD
+693445,881,AFC C U19,AFC U19 Championships,A,4,International,G,16909,Afghanistan U19,4940,Uzbekistan U19,+1.75,3.0,9.5,+0.75,1.25,4.5,0,2,4,4,0,3,0,0,92,110,56,71,3,5,3,6,0,0,78,1,Pitch: GOOD,Weather: GOOD
+693499,1830,ROM LIII,Romania Liga III,R,30,Romania,L,38101,ACS Universitatea Dunarea Galati,36813,CSM Bacau,-0.25,2.25,,0.0,0.75,,1,0,1,3,4,3,0,0,73,80,37,42,6,3,7,6,48,52,80,1,Pitch: GOOD,Weather: GOOD
+693502,1830,ROM LIII,Romania Liga III,R,30,Romania,L,27747,AFC Progresul Spartac Bucuresti,25318,AFC Astra II,-2,3.5,,-1.0,1.5,,4,0,5,2,1,1,0,0,93,102,66,34,9,1,6,5,53,47,75,1,Pitch: GOOD,Weather: GOOD
+693322,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,7450,Al Draih,7759,Al Khaleej Saihat,+0.25,2.5,9.5,+0.25,1.0,4.5,0,1,4,3,1,3,0,0,59,58,36,29,2,4,5,1,48,52,66,1,Pitch: GOOD,Weather: GOOD
+693364,598,KEN PL,Kenya Premier League,K,105,Kenya,K,34133,Fortune Sacco,30721,St Josephs Youth,-0.5,2.25,,-0.25,1.0,,2,0,6,3,0,1,0,0,72,66,39,18,2,0,0,0,0,0,67,1,Pitch: GOOD,Weather: GOOD
+693415,480,SER PL,Serbia Prva Liga,S,59,Serbia,S,18240,Radnicki Pirot,9227,FK Sindelic Beograd,-1.0,2.25,,-0.25,0.75,,0,0,6,3,1,2,0,0,59,45,34,14,4,2,6,2,62,38,55,0,Pitch: GOOD,Weather: GOOD
+692855,346,SVK L2,Slovakia 2. Liga,S,28,Slovakia,S,8301,KFC Komarno,33335,MFK Ruzomberok B,-0.25,3.0,,0.0,1.25,,2,0,4,5,1,0,0,0,26,33,15,18,3,3,2,2,43,57,53,1,Pitch: GOOD,Weather: GOOD
+693179,721,HRV H2,Croatia 2.HNL,C,98,Croatia,K,9652,NK Dubrava Zagreb,14194,Bijelo Brdo,-0.5,2.5,8.5,-0.25,1.0,4,0,0,7,0,1,2,0,1,86,109,39,32,6,0,5,2,53,47,55,0,Pitch: GOOD,Weather: GOOD
+693548,552,TUN Cup,Tunisia Cup,T,55,Tunisia,T,18080,Sfax Railways,19406,ES Rades,-0.25,2.25,9,-0.25,0.75,4.5,2,0,0,7,2,1,0,0,55,43,36,41,4,1,0,0,0,0,50,1,Pitch: GOOD,Weather: GOOD
+693171,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,3513,Al-Oruba Sur,8664,Al-Khaboora,-0.5,2.5,,-0.25,1.0,,2,1,3,3,2,0,0,0,49,42,22,29,3,1,4,2,0,0,52,1,Pitch: GOOD,Weather: GOOD
+693277,653,IRN PL,Iran Pro League,I,74,Iran,Y,36487,Shahre Khodro,23591,Pars Jonoubi Jam,-0.75,1.75,8.5,-0.25,0.5,4,0,0,1,1,0,0,0,0,64,43,43,20,3,0,4,3,0,0,HT,0,Pitch: GOOD,Weather: GOOD
+693390,933,UAE D1,UAE Division 1,U,35,The United Arab Emirates (UAE),A,9313,Dibba Al Fujairah,9278,Al Thaid,-0.5,2.75,,-0.25,1.25,,1,0,4,3,0,0,0,0,57,49,23,25,5,3,3,2,0,0,HT,1,Pitch: GOOD,Weather: GOOD
+693391,933,UAE D1,UAE Division 1,U,35,The United Arab Emirates (UAE),A,918,Emirates Club RAK,23381,Al Hamriyah,-0.25,2.5,,0.0,1.0,,0,0,3,1,1,1,0,0,39,50,27,23,3,2,1,1,0,0,HT,0,Pitch: GOOD,Weather: GOOD
+693522,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,37887,Al Arabi Umm Al Quwain U19,23363,Al Ittihad Kalba U19,+1.0,3.5,,+0.5,1.5,,1,1,1,6,0,1,0,1,37,36,15,25,3,2,2,1,47,53,HT,1,Pitch: GOOD,Weather: GOOD
+693386,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,16616,Al Nasr SC U19,37888,Al Jazira U19,+1.0,3.5,,+0.5,1.5,,1,1,2,2,0,1,0,0,47,47,34,32,4,1,6,4,53,47,HT,1,Pitch: GOOD,Weather: GOOD
+693392,933,UAE D1,UAE Division 1,U,35,The United Arab Emirates (UAE),A,23452,Masfut,23380,Al Arabi Umm Al Quwain,+0.25,2.5,,+0.25,1.0,,0,0,3,4,2,1,0,0,47,46,19,26,1,0,1,2,0,0,HT,0,Pitch: GOOD,Weather: GOOD
+693172,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,8339,Saham,9483,Al-Nasr Salalah,0.0,3.0,,0.0,1.25,,1,0,0,2,1,1,0,0,50,53,29,36,1,1,1,2,0,0,HT,1,Pitch: GOOD,Weather: GOOD
+693523,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,16621,Al Ain SCC U19,37981,Shabab Al Ahli Dubai U19,+0.75,3.75,,+0.25,1.5,,3,0,1,1,3,2,0,0,41,52,31,30,5,1,1,2,49,51,49,1,Pitch: GOOD,Weather: GOOD
+693871,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,20910,Ndanda FC,13050,Young Africans,+0.75,2.25,,+0.25,1.0,,0,0,2,1,1,1,0,0,79,140,19,54,0,3,5,4,0,0,42,0,Pitch: GOOD,Weather: GOOD
+693298,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,6370,Hapoel Bnei Lod,956,Bnei Sakhnin,+1.5,3.0,9,+0.5,1.25,4.5,1,1,2,1,2,1,0,0,53,34,27,12,2,2,2,0,54,46,41,1,Pitch: GOOD,Weather: GOOD
+693518,1061,OLY Q W,Womens Olympic Qual,W,4,International,G,20424,Kenya Women,9734,Zambia Women,+0.25,2.5,,+0.25,1.0,,1,1,1,0,1,0,0,0,46,45,25,21,2,1,2,3,0,0,41,1,Pitch: GOOD,Weather: GOOD
+693296,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,5936,Hapoel Afula,5727,Hapoel Rishon Lezion,+1.0,2.25,9,+0.25,1.0,4.5,0,0,1,4,2,1,0,0,31,38,12,21,2,1,1,3,37,63,41,0,Pitch: GOOD,Weather: GOOD
+693556,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8304,Lanus Reserves,8149,Banfield Reserves,-0.25,2.5,9.5,0.0,1.0,4.5,2,1,1,0,1,0,0,0,67,49,30,22,3,3,3,3,49,51,41,1,Pitch: GOOD,Weather: GOOD
+693557,704,ARG R,Argentina Reserve League,A,32,Argentina,A,17359,Newell's Reserves,8852,Defensa y Justicia Reserves,-0.5,2.5,8.5,-0.25,1.0,4,0,1,2,0,0,0,0,0,76,40,43,17,1,1,5,1,67,33,40,1,Pitch: GOOD,Weather: GOOD
+693297,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,8765,Hapoel Ashkelon,961,Hapoel Akko,-0.25,2.25,9,0.0,1.0,4,1,0,1,0,2,0,0,0,51,43,21,16,1,4,6,2,57,43,40,1,Pitch: GOOD,Weather: GOOD
+693300,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,6023,Hapoel Petach Tikva,6232,Hapoel Ramat Gan,-0.25,2.25,8.5,0.0,0.75,4,0,0,1,2,0,0,0,0,47,87,30,51,2,0,3,6,45,55,40,0,Pitch: GOOD,Weather: GOOD
+693250,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,32519,FK Qarabag II,32528,FK Sumqayit II,-0.25,3.0,,0.0,1.25,,0,1,3,1,0,2,0,0,58,53,25,17,3,2,1,1,54,46,40,1,Pitch: GOOD,Weather: GOOD
+693299,341,ISR LL,Israel Leumit Liga,I,97,Israel,Y,7958,Hapoel Nir Ramat Hasharon,36610,Hapoel Nof HaGalil,-0.25,2.25,9,0.0,1.0,4,1,0,4,2,1,1,0,0,38,34,21,23,2,1,2,5,0,0,40,1,Pitch: GOOD,Weather: GOOD
+693870,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,32594,KMC FC,19557,Kagera Sugar,-0.25,2.25,8.5,-0.25,0.75,4,0,1,1,1,0,0,0,0,72,60,34,32,0,1,1,0,0,0,40,1,Pitch: GOOD,Weather: GOOD
+693356,845,UGA PL,Uganda Premier League,U,109,Uganda,W,33065,Wakiso Giants FC,37531,Busoga United FC,0.0,1.75,,+0.5,0.5,,0,1,1,0,0,1,0,0,59,48,56,30,2,2,5,4,0,0,39,1,Pitch: GOOD,Weather: GOOD
+693558,704,ARG R,Argentina Reserve League,A,32,Argentina,A,7981,Racing Club Reserves,12075,Huracan Reserves,-0.5,2.5,8.5,-0.25,1.0,4,0,0,1,0,0,1,0,0,55,46,34,19,2,0,4,2,61,39,39,0,Pitch: GOOD,Weather: GOOD
+693555,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8047,Godoy Cruz Reserves,7982,CA Independiente Reserves,0.0,2.25,9.5,0.0,1.0,4.5,0,0,3,2,2,1,0,0,17,8,20,25,0,0,0,1,43,57,38,0,Pitch: GOOD,Weather: GOOD
+693574,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8879,San Lorenzo Reserves,12709,Argentinos Jrs Reserves,-0.75,2.5,9.5,-0.25,1.0,4.5,2,2,1,4,1,1,0,0,24,34,19,38,2,6,0,3,36,64,38,1,Pitch: GOOD,Weather: GOOD
+693576,704,ARG R,Argentina Reserve League,A,32,Argentina,A,12674,Velez Sarsfield Reserves,12074,Boca Juniors Reserves,-0.25,2.5,9,0.0,1.0,4.5,1,0,1,0,0,0,0,0,54,48,14,20,2,2,0,3,47,53,37,1,Pitch: GOOD,Weather: GOOD
+693550,704,ARG R,Argentina Reserve League,A,32,Argentina,A,13587,CA Aldosivi Reserves,8851,Gimnasia LP Reserves,+0.25,2.25,9.5,0.0,0.75,4.5,0,0,0,2,2,0,0,0,24,26,13,17,0,2,0,1,34,66,37,0,Pitch: GOOD,Weather: GOOD
+693554,704,ARG R,Argentina Reserve League,A,32,Argentina,A,7510,Estudiantes LP Reserves,23858,CA Talleres de Córdoba Reserves,-1.0,2.5,9,-0.25,1.0,4.5,0,0,0,1,0,0,0,0,49,71,20,31,0,2,2,2,34,66,37,0,Pitch: GOOD,Weather: GOOD
+693573,704,ARG R,Argentina Reserve League,A,32,Argentina,A,8048,River Plate Reserves,16978,Rosario Central Reserves,-1.0,2.5,9,-0.25,1.0,4,0,0,2,4,1,2,0,0,43,45,28,32,3,2,4,2,57,43,36,0,Pitch: GOOD,Weather: GOOD
+693575,704,ARG R,Argentina Reserve League,A,32,Argentina,A,15848,Union Santa Fe Reserves,19610,Atletico Tucuman Reserves,-0.25,2.5,9,0.0,1.0,4.5,0,0,1,0,0,0,0,0,27,45,18,22,3,2,1,3,46,54,35,0,Pitch: GOOD,Weather: GOOD
+693274,1898,Burundi PL,Burundi Premier League,B,163,Burundi,B,37087,BS Dynamic,34078,Rukinzo FC,-0.5,2.25,,+0.25,0.5,,0,0,6,1,0,0,0,0,35,43,28,15,0,0,0,0,0,0,31,0,6' - 2nd Corner - BS Dynamic,2' - 1st Corner - BS Dynamic
+693446,881,AFC C U19,AFC U19 Championships,A,4,International,G,15980,Bangladesh U19,16906,Jordan U19,+2,3.25,,+0.75,1.25,,0,0,0,0,0,0,0,0,27,36,12,20,0,1,2,2,0,0,26,0,Pitch: GOOD,Weather: GOOD
+693278,653,IRN PL,Iran Pro League,I,74,Iran,Y,20388,Naft Mased Soleiman,9693,Nassaji Mazandaran,-0.25,1.75,8.5,0.0,0.5,4,0,0,0,1,0,0,0,0,35,23,23,9,0,0,0,0,0,0,25,0,Pitch: GOOD,Weather: GOOD
+693348,2378,Algeria WL,Algeria Womens League,A,111,Algeria,A,28751,Afak Relizane Women,28752,ESF Amizour Women,-0.5,3.0,,-0.25,1.25,,0,0,1,0,1,0,0,0,23,19,12,5,1,0,2,0,51,49,20,0,Pitch: GOOD,Weather: GOOD
+693375,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,27392,Mizoram Police FC,12765,Aizawl FC,+0.75,2.75,10,+0.25,1.25,4.5,0,1,0,1,0,0,0,0,17,16,5,8,0,1,0,2,0,0,11,1,Pitch: GOOD,Weather: GOOD

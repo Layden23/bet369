@@ -1,0 +1,28 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal,Pitch,Weather
+693424,2473,Ukraine D1W,Ukraine Division 1 Women,U,21,Ukraine,W,32563,Voskhod Stara Mayachka Women,38658,EMC Podillya Women,-2.75,3.25,,-1.0,1.25,,4,1,7,1,0,1,0,0,159,96,96,24,13,1,5,0,0,0,89,1,Pitch: GOOD,Weather: GOOD
+693085,349,INT W,Womens International,W,4,International,G,1913,China PR Women,5107,New Zealand Women,-1.0,2.25,9,-0.25,1.0,4,1,0,2,2,0,1,0,0,86,46,62,44,3,3,0,3,0,0,82,1,Pitch: GOOD,Weather: GOOD
+693058,653,IRN PL,Iran Pro League,I,74,Iran,Y,5943,Paykan,7632,Saipa Karadj,-0.25,2.0,8.5,0.0,0.75,4,1,0,2,1,1,0,0,0,98,108,38,53,4,1,1,0,0,0,64,1,Pitch: GOOD,Weather: GOOD
+693086,349,INT W,Womens International,W,4,International,G,8837,Paraguay Women,8713,Argentina Women,+0.75,2.75,9,+0.25,1.0,4,1,0,0,2,0,1,0,0,63,62,38,38,4,4,3,5,0,0,60,1,Pitch: GOOD,Weather: GOOD
+693083,1840,KOS SL,Kosovo Superliga,K,140,Kosovo,K,25231,KF Ferizaj,33460,KF Flamurtari Pristina,-0.25,2.25,,-0.25,1.0,,1,0,1,3,1,1,0,0,75,75,39,47,2,2,2,2,0,0,58,1,Pitch: GOOD,Weather: GOOD
+693163,1388,NOR EL U19,Norway U19 Elite League,N,70,Norway,N,5930,Viking FK U19,1855,Lillestrom U19,-1.75,4.5,9,-0.75,1.75,4,2,2,4,1,0,1,0,0,61,50,29,21,4,4,4,3,54,46,58,1,Pitch: GOOD,Weather: GOOD
+693089,2382,KOS D1,Kosovo Division 1,K,140,Kosovo,K,28778,KF Vitia,34987,FK Onix Banje,+0.25,2.5,,+0.25,1.0,,0,0,8,5,2,2,0,0,83,100,58,61,4,3,5,11,0,0,58,0,Pitch: GOOD,Weather: GOOD
+693295,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,3603,Juventud De Las Piedras Reserves,1889,Racing Club de Montevideo Reserves,-0.5,2.75,,-0.25,1.25,,0,0,1,2,4,2,0,0,66,50,52,33,1,4,5,4,0,0,60,0,Pitch: GOOD,Weather: GOOD
+693156,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,858,Al Shoalah,23451,Al Suqoor,-0.25,2.75,,0.0,1.0,,0,0,5,0,0,0,0,0,50,48,51,19,3,0,5,1,0,0,HT,0,Pitch: GOOD,Weather: GOOD
+693157,697,SAU Cup,Saudi Arabia Cup,S,36,Saudi Arabia,S,28557,Al Taqdom,866,Al Ittifaq Dammam,+1.25,3.0,,+0.5,1.25,,0,2,0,6,0,0,0,0,53,54,14,52,0,2,0,1,0,0,HT,1,Pitch: GOOD,Weather: GOOD
+693426,287,BRA U20,Brazil U20 League,B,47,Brazil,B,38659,Tuna Luso U20,9634,Remo PA U20,0.0,3.25,,0.0,1.25,,0,0,0,0,2,1,0,0,32,41,20,21,0,0,2,6,54,46,41,0,Pitch: GOOD,Weather: GOOD
+693168,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,2953,Fanja,30027,Sur SC,-0.75,2.5,,-0.25,1.0,,0,1,2,0,0,0,0,0,66,49,44,26,2,4,3,4,0,0,38,1,Pitch: GOOD,Weather: GOOD
+693169,429,OMN Su Cup,Oman Sultans Cup,O,33,Oman,A,9252,Oman FC,19067,Nizwa,-1.0,2.75,,-0.5,1.25,,2,0,0,1,1,0,0,0,36,34,15,19,2,0,2,8,0,0,36,1,Pitch: GOOD,Weather: GOOD
+693160,492,BRA,Brazilian Matches,B,47,Brazil,B,38236,CAAC Brasil FC,12779,Sao Cristovao RJ,+3.25,3.75,10.5,+1.25,1.5,5,0,1,0,3,0,0,0,0,34,34,13,15,0,3,0,0,0,0,21,1,Pitch: GOOD,Weather: GOOD
+693216,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,38373,Katwe United,38462,Mbale Heroes,+0.25,2.0,,0.0,0.75,,0,0,2,1,0,0,0,0,23,22,12,11,2,1,0,2,0,0,18,0,Pitch: GOOD,Weather: GOOD
+693218,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,38374,MYDA FC,20106,Paidha Black Angels,-0.25,2.0,,0.0,0.75,,0,0,0,0,0,0,0,0,22,21,9,12,0,1,0,2,0,0,17,0,Pitch: GOOD,Weather: GOOD
+693215,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,28241,Bukedea TC FC,34185,Saviours FC,-0.5,2.0,,-0.25,0.75,,0,0,0,0,0,0,0,0,23,28,14,9,2,0,0,1,0,0,16,0,Pitch: GOOD,Weather: GOOD
+693159,1124,TZA PL,Tanzania Premier League,T,106,Tanzania,T,9284,Simba Sports Club,16524,Tanzania Prisons,-0.75,1.75,9,-0.25,0.75,4.5,0,0,3,0,0,0,0,0,31,24,18,12,0,0,0,2,0,0,16,0,Pitch: GOOD,Weather: GOOD
+693217,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,28248,Kitara FC,27673,UPDF FC,-0.5,2.0,,-0.25,0.75,,1,0,0,1,0,0,0,0,27,25,17,18,1,1,0,3,0,0,15,1,Pitch: GOOD,Weather: GOOD
+693090,713,TUN L1,Tunisia League 1,T,55,Tunisia,T,4771,Esperance de Tunis,6213,Bizertin,-1.5,2.75,,-0.75,1.25,,0,0,0,0,0,0,0,0,0,0,17,13,0,0,0,0,0,0,14,0,Pitch: GOOD,Weather: GOOD
+693219,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,25370,Nyamityobora FC,12495,Water FC,-0.5,2.0,,-0.25,0.75,,0,0,0,0,0,0,0,0,31,20,16,6,2,0,0,2,0,0,14,0,Pitch: GOOD,Weather: GOOD
+693233,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,8893,CA River Plate Reserves,1577,Montevideo Wanderers Reserves,-0.25,2.5,,0.0,1.0,,0,0,0,1,0,0,0,0,20,19,14,9,0,0,1,0,0,0,13,0,Pitch: GOOD,Weather: GOOD
+693521,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,33623,Dove FC,28246,Kansai Plascon FC,+0.25,1.75,,0.0,0.75,,0,0,0,0,0,0,0,0,16,22,5,11,0,0,1,1,0,0,12,0,Pitch: GOOD,Weather: GOOD
+693520,704,ARG R,Argentina Reserve League,A,32,Argentina,A,33771,General Lamadrid Reserves,33949,Leandro N. Alem Reserves,-0.25,3.25,,-0.25,1.25,,0,0,0,0,0,0,0,0,14,15,5,4,0,0,3,0,0,0,11,0,Pitch: GOOD,Weather: GOOD
+693147,1854,ENG PLC U23,England U23 Premier League Cup,E,14,England,Y,23307,Burnley U23,23888,Crystal Palace U23,-0.75,2.75,,+0.25,0.5,,0,0,1,0,0,0,0,0,20,14,12,4,2,0,0,0,0,0,10,0,Pitch: GOOD,Weather: GOOD
+693191,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,25369,Doves All Stars,33712,Light SS FC,-0.5,2.0,,-0.25,0.75,,1,0,0,0,0,0,0,0,15,17,11,5,1,0,1,0,0,0,9,1,Pitch: GOOD,Weather: GOOD
+693192,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,18500,Ndejje University,38460,Kigezi Homeboys FC,-0.5,2.0,,-0.25,0.75,,0,0,1,0,0,0,0,0,10,16,13,15,0,0,0,0,0,0,9,0,Pitch: GOOD,Weather: GOOD

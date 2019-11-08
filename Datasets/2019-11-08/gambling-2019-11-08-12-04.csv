@@ -1,0 +1,31 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal,Pitch,Weather
+693438,915,IND SPL,India Shillong Premier League,I,17,India,Y,10251,Shillong Lajong FC,10292,Langsning SC,-1.5,3.25,10,-0.5,1.25,4.5,4,0,13,0,0,2,0,0,102,97,97,67,6,2,15,7,51,49,85,1,Pitch: GOOD,Weather: GOOD
+693282,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,9139,Maccabi Tzur Shalom,8693,Hapoel Asi Gilboa,-0.5,2.5,,-0.25,1.0,,3,1,3,3,0,1,0,0,87,65,40,25,5,1,2,2,52,48,76,1,Pitch: GOOD,Weather: GOOD
+693398,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,3714,Opava U19,1475,MFK Karvina U19,-0.75,3.25,,-0.25,1.25,,1,2,9,3,0,2,0,0,120,99,102,62,6,3,10,2,58,42,72,1,Pitch: GOOD,Weather: GOOD
+693363,598,KEN PL,Kenya Premier League,K,105,Kenya,K,30017,FC Talanta,6667,Nairobi City Stars,+0.25,2.25,,+0.5,0.5,,0,1,2,3,1,1,0,0,75,69,26,31,0,1,1,2,49,51,61,1,Pitch: GOOD,Weather: SUNNY
+693455,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,28688,FC Mariupol Reserves,27565,Karpaty Lviv Reserves,+0.25,3.5,,0.0,1.5,,1,0,2,6,1,0,0,0,50,57,28,46,2,3,2,3,0,0,48,1,Pitch: GOOD,Weather: GOOD
+693533,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36416,Rostov U20,36410,FK Tambov U20,+0.25,2.75,,0.0,1.25,,0,0,2,2,4,2,1,0,49,51,42,46,3,2,4,3,44,56,45,0,Pitch: GOOD,Weather: GOOD
+693289,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,17876,Tzeirei Kfar Kanna,18023,FC Tzeirey Tamra,-0.5,2.25,,-0.25,1.0,,0,0,3,1,2,0,0,0,43,34,21,19,0,0,6,1,54,46,48,0,Pitch: GOOD,Weather: GOOD
+693418,2000,India BSD,India Bangalore Super Division,I,17,India,Y,18943,Ozone FC,33667,FC Bengaluru United,-0.25,2.75,,-0.25,1.25,,0,1,1,5,1,2,0,0,51,50,20,48,0,1,1,5,0,0,46,1,Pitch: GOOD,Weather: GOOD
+693305,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8683,Hapoel Mahane Yehuda,37649,Hapoel Qalansawe,+0.25,2.75,,+0.25,1.25,,0,2,2,0,0,0,0,0,0,0,44,39,0,2,0,0,0,0,HT,1,Pitch: GOOD,Weather: GOOD
+693304,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,8699,Beitar Ramat Gan,9815,MS Tzeirey Taibe,+0.75,3.25,,+0.25,1.25,,0,2,3,1,2,1,0,0,44,45,24,33,0,2,2,5,0,0,HT,1,Pitch: GOOD,Weather: GOOD
+693371,1005,IND ST,India - Santosh Trophy,I,17,India,Y,10325,Karnataka,24161,Telangana,-1.5,3.0,,-0.5,1.25,,2,0,4,0,0,1,0,0,52,32,42,15,8,1,6,2,0,0,45,1,Pitch: GOOD,Weather: GOOD
+693688,2378,Algeria WL,Algeria Womens League,A,111,Algeria,A,28675,ASEAC Women,38303,AR Guelma Women,-5.5,6.25,,-2.25,2.75,,0,0,3,1,1,1,0,0,49,39,27,19,1,1,2,2,52,48,HT,0,Pitch: GOOD,Weather: GOOD
+693670,2311,Georgia EL2,Georgia Erovnuli Liga 2,G,57,Georgia,G,10592,Guria Lanchkhuti,10524,FC Zugdidi,-0.25,3.5,,-0.25,1.5,,0,0,2,5,1,0,0,0,42,52,24,45,0,5,3,7,44,56,HT,0,Pitch: GOOD,Weather: GOOD
+693290,840,ISR LBN,Israel Liga Bet North,I,97,Israel,Y,9144,Maccabi Sektzia Maalot,10688,Maccabi Bnei Nahf,-0.75,2.25,,-0.25,1.0,,2,0,4,0,1,0,0,0,33,40,22,14,3,0,4,1,53,47,37,1,Pitch: GOOD,Weather: GOOD
+693306,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16763,Hapoel Ironi Gedera,8992,Maccabi Ironi Netivot,+0.5,2.75,,+0.25,1.0,,0,0,1,2,1,0,0,0,37,41,17,28,1,1,2,4,0,0,35,0,Pitch: GOOD,Weather: GOOD
+693374,1855,IND MPL,India Mizoram Premier League,I,17,India,Y,22356,Ramhlun North FC,33934,Venghnuai FC,+0.25,2.5,,0.0,1.0,,3,2,3,1,0,0,0,0,36,33,17,23,4,4,2,2,0,0,34,1,Pitch: GOOD,Weather: GOOD
+693248,806,AZE D1,Azerbaijan Division 1,A,85,Azerbaijan,A,8437,Qaradag Lokbatan,32520,Neftchi Baku II,+0.75,2.75,,+0.25,1.0,,0,1,0,2,1,0,0,0,25,38,3,21,1,1,0,4,0,0,33,1,Pitch: GOOD,Weather: GOOD
+693307,842,ISR LBS,Israel Liga Bet South,I,97,Israel,Y,16478,Maccabi Ironi Sderot,9417,MS Shikun Hamizrach,-0.5,3.0,,-0.25,1.25,,0,0,1,2,0,1,0,0,45,45,24,13,1,2,1,1,53,47,32,0,Pitch: GOOD,Weather: GOOD
+693315,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,8676,FC Ironi Or Yehuda,6321,Maccabi Yavne,-1.25,2.5,,-0.5,1.0,,0,0,2,0,0,0,0,0,22,28,22,10,0,0,1,1,0,0,18,0,Pitch: GOOD,Weather: GOOD
+693317,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,9423,Maccabi Shaaraim,34712,Maccabi Kiryat Gat,-2.75,3.5,,-1.25,1.5,,0,0,0,0,0,0,0,0,7,9,3,5,0,0,0,0,0,0,5,0,Pitch: GOOD,Weather: GOOD
+693395,2573,POR U23 L,Portugal U23 League,P,45,Portugal,P,37037,Academica  U23,32402,Maritimo U23,0.0,2.75,10,0.0,1.25,4.5,0,0,0,0,0,0,0,0,6,11,3,2,0,0,2,0,40,60,4,0,Pitch: GOOD,Weather: GOOD
+693331,661,ARM PL,Armenia Premier League,A,88,Armenia,Y,7074,Gandzasar Kapan,37073,FC Urartu,0.0,2.25,,0.0,0.75,,0,0,0,0,0,0,0,0,4,7,1,4,0,1,0,0,0,0,4,0,Pitch: GOOD,Weather: GOOD
+693336,231,ISR YL,Israel Youth League,I,97,Israel,Y,9619,Beitar Jerusalem U19,9618,Maccabi Netanya U19,-0.5,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,11,2,5,1,0,0,0,0,0,0,3,0,Pitch: GOOD,Weather: GOOD
+693283,839,ISR LAN,Israel Liga Alef North,I,97,Israel,Y,8653,Hapoel Migdal Haemeq,28251,SC Haifa Robi Shapira,0.0,2.0,,0.0,0.75,,0,0,0,0,0,0,0,0,7,3,3,0,0,0,0,0,0,0,3,0,Pitch: GOOD,Weather: GOOD
+693366,598,KEN PL,Kenya Premier League,K,105,Kenya,K,33280,Migori Youth,35145,Muranga Seal,-0.5,2.5,,-0.25,1.0,,0,0,0,0,0,0,0,0,5,5,0,2,0,0,0,0,0,0,3,0,Pitch: GOOD,Weather: GOOD
+693456,637,UKR R,Ukraine Reserve League,U,21,Ukraine,W,31897,FK Lviv Reserves,7654,Vorskla Poltava Reserves,+0.75,3.25,,+0.25,1.25,,0,0,0,0,0,0,0,0,4,5,3,4,0,1,0,0,0,0,3,0,Pitch: GOOD,Weather: GOOD
+693316,841,ISR LAS,Israel Liga Alef South,I,97,Israel,Y,9419,Hapoel Azor,8695,Hapoel Marmorek,+0.75,2.75,,+0.25,1.25,,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0,2,0,Pitch: GOOD,Weather: GOOD
+693925,1205,POL Cup W,Poland Cup Women,P,20,Poland,B,38680,KA 4 Respect Krobia Women,38681,APLG Gdansk Women,+2,4.0,,+0.75,1.5,,0,0,0,0,0,0,0,0,1,5,0,2,0,0,0,0,0,0,2,0,Pitch: GOOD,Weather: GOOD
+693534,2769,RUS U20 L,Russia U20 League,R,12,Russia,E,36396,Spartak Moscow U20,36438,Krylia Sovetov U20,0.0,3.25,,0.0,1.25,,0,0,0,0,0,0,0,0,2,4,1,0,0,0,0,0,6,94,1,0,Pitch: GOOD,Weather: GOOD
+693399,220,CSK YL,Czech Youth League,C,10,the Czech Republic,J,1225,FK Pribram U19,1653,Mlada Boleslav U19,-2,4.0,,-0.75,1.75,,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,Pitch: GOOD,Weather: GOOD

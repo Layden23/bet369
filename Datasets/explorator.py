@@ -24,7 +24,8 @@ while 1:
             if "rd" in i:
                 if "sd" in i:
                     if "plus" in i:
-                        nlive.append(i)
+                        if "events" in i:
+                            nlive.append(i)
                 
     df = pd.DataFrame()
     df2 = pd.DataFrame()
