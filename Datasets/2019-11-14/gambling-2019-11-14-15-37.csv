@@ -1,0 +1,43 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal,Pitch,Weather
+695781,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,37895,Khor Fakkan U19,23442,Dubba Al Husun U19,0.0,3.25,9.5,0.0,1.25,4.5,1,2,8,5,1,1,0,0,91,90,86,70,10,5,19,15,0,0,93,1,Pitch: GOOD,Weather: GOOD
+695780,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,23363,Al Ittihad Kalba U19,38005,Al Rams U19,-1.0,3.75,,-0.5,1.5,,3,2,7,5,3,1,0,0,93,97,56,53,10,7,10,10,0,0,93,1,Pitch: GOOD,Weather: GOOD
+695784,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,23359,Sharjah SCC U19,16621,Al Ain SCC U19,-0.25,2.75,10,0.0,1.25,4.5,0,0,8,1,2,0,0,0,155,153,75,58,2,1,5,6,0,0,90,0,Pitch: GOOD,Weather: GOOD
+695778,1355,UAE U19,UAE U19 League,U,35,The United Arab Emirates (UAE),A,23361,Al Bataeh U19,20567,Dibba Al Fujairah U19,+0.75,4.0,,+0.25,1.5,,4,3,3,8,3,3,1,0,98,88,41,34,7,5,3,3,0,0,92,1,Pitch: GOOD,Weather: GOOD
+691960,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,8805,Malaysia,3198,Thailand,+0.25,2.5,9.5,0.0,1.0,4.5,2,1,4,6,3,2,0,0,80,109,71,89,7,4,5,6,43,57,90,1,Pitch: GOOD,Weather: GOOD
+696104,2683,CLW,Cameroon League Women,C,54,Cameroon,K,38647,Vision Sports Bamenda Women,35193,Eclair de Saa Women,+1.25,3.0,,+0.5,1.25,,0,0,5,2,0,1,0,0,101,109,55,45,4,1,3,2,46,54,80,0,Pitch: GOOD,Weather: GOOD
+695592,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,893,Lebanon,3619,South Korea,+1.0,2.25,9.5,+0.25,1.0,4.5,0,0,2,4,1,1,0,0,86,110,45,87,4,3,2,11,40,60,80,0,Pitch: GOOD,Weather: GOOD
+696103,2683,CLW,Cameroon League Women,C,54,Cameroon,K,35104,Caiman Douala Women,35204,Renaissance de Figuil Women,-0.5,2.75,,-0.25,1.0,,3,0,10,0,0,1,0,0,75,79,102,34,5,0,10,0,50,50,82,1,Pitch: GOOD,Weather: GOOD
+695753,183,EU F,Europe Friendlies,E,4,International,G,5681,Dynamo Dresden,5585,Chemnitzer,-0.25,3.25,8.5,-0.25,1.25,4,0,2,1,6,0,2,0,0,83,105,39,90,2,6,4,7,43,57,82,1,Pitch: GOOD,Weather: GOOD
+695764,1898,Burundi PL,Burundi Premier League,B,163,Burundi,B,35285,Bumamuru,23855,Inter Stars,-0.75,2.5,,-0.25,1.0,,0,1,2,3,1,1,0,0,103,109,67,69,1,2,8,3,0,0,79,1,Pitch: GOOD,Weather: GOOD
+695754,183,EU F,Europe Friendlies,E,4,International,G,6190,FC Emmen,5467,VfL Osnabruck,+0.25,3.25,8.5,0.0,1.25,4,0,2,2,3,0,0,0,0,71,96,34,72,0,8,2,13,0,0,83,1,Pitch: GOOD,Weather: GOOD
+696054,183,EU F,Europe Friendlies,E,4,International,G,5614,Unterhaching,5883,Jahn Regensburg,+0.25,3.25,,0.0,1.25,,3,3,3,5,2,2,0,0,90,80,60,44,6,4,12,4,0,0,80,1,Pitch: GOOD,Weather: GOOD
+695757,183,EU F,Europe Friendlies,E,4,International,G,5542,MSV Duisburg,6189,De Graafschap,-1.0,3.25,8.5,-0.25,1.25,4,1,1,6,3,0,0,0,0,70,59,36,24,4,6,7,4,53,47,80,1,Pitch: GOOD,Weather: GOOD
+691962,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,5663,Vietnam,3579,United Arab Emirates,0.0,2.0,9,0.0,0.75,4,1,0,1,1,0,0,0,1,86,88,53,51,1,1,4,5,54,46,77,1,Pitch: GOOD,Weather: GOOD
+696102,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,34185,Saviours FC,38462,Mbale Heroes,+0.25,2.75,,+0.25,1.25,,1,1,5,3,2,0,0,0,121,112,33,29,6,3,3,1,0,0,81,1,Pitch: GOOD,Weather: GOOD
+695807,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,18500,Ndejje University,28246,Kansai Plascon FC,-0.25,2.0,,-0.25,0.75,,3,1,3,9,1,1,0,0,97,79,69,72,5,3,4,8,0,0,78,1,Pitch: GOOD,Weather: GOOD
+695756,183,EU F,Europe Friendlies,E,4,International,G,6788,Fortuna Sittard,6418,Helmond Sport,-1.25,3.75,,-0.5,1.5,,1,1,4,3,0,0,0,0,75,90,50,45,3,5,1,5,0,0,77,1,Pitch: GOOD,Weather: GOOD
+695755,183,EU F,Europe Friendlies,E,4,International,G,513,FC Zurich,4993,FC Vaduz,-0.75,3.5,9,-0.25,1.5,4.5,3,3,6,3,1,2,0,0,136,95,55,47,5,4,2,2,54,46,72,1,Pitch: GOOD,Weather: GOOD
+696062,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38771,ES Berrouaghia,38772,O Media,+1.5,2.5,,+0.5,1.0,,0,3,2,5,2,0,0,0,124,130,31,61,1,5,1,4,0,0,74,1,Pitch: GOOD,Weather: GOOD
+695748,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,20106,Paidha Black Angels,25369,Doves All Stars,-0.25,2.25,,+0.5,0.5,,0,0,1,1,1,3,0,0,58,64,18,19,1,0,3,0,0,0,62,0,Pitch: GOOD,Weather: GOOD
+696063,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38773,Hydra AC,38774,CRB Dar Beida,+0.75,2.25,,+0.25,0.75,,2,2,0,3,4,1,0,0,92,92,30,35,6,6,3,3,45,55,73,1,Pitch: GOOD,Weather: GOOD
+695747,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,28241,Bukedea TC FC,38374,MYDA FC,-0.25,2.0,,0.0,0.75,,0,0,4,3,2,0,0,0,88,69,61,61,0,2,2,5,0,0,66,0,Pitch: GOOD,Weather: GOOD
+695806,1043,UGA D2,Uganda Division 2,U,109,Uganda,W,38460,Kigezi Homeboys FC,25370,Nyamityobora FC,-0.25,2.25,,0.0,0.75,,1,1,3,1,0,1,0,0,125,114,65,66,1,2,6,4,0,0,71,1,Pitch: GOOD,Weather: GOOD
+695888,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38757,Chabab Baladiat Mila,38758,JB Ain Kercha,0.0,2.25,,0.0,0.75,,0,0,4,2,0,0,0,0,76,80,37,45,3,1,5,3,47,53,72,0,Pitch: GOOD,Weather: SUNNY
+696061,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38770,CRB Boukadir,34249,CRB Ain Oussera,+0.25,2.0,,0.0,0.75,,0,0,1,0,1,1,0,0,82,86,35,61,1,1,2,2,0,0,66,0,Pitch: GOOD,Weather: GOOD
+695891,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38761,IB Khemis El Khechna,23845,RC Kouba,+0.25,2.0,,0.0,0.75,,0,0,1,4,1,0,0,0,68,82,24,43,0,3,0,3,39,61,60,0,Pitch: GOOD,Weather: GOOD
+695890,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38759,FCB Bir El Arch,38760,Entente de Collo,-0.5,2.25,,-0.25,1.0,,0,0,2,2,0,1,0,0,48,48,48,38,3,3,6,3,49,51,47,0,Pitch: GOOD,Weather: GOOD
+695839,212,URY RL,Uruguay Reserve League,U,52,Uruguay,W,22812,Boston River Reserves,3603,Juventud De Las Piedras Reserves,+0.75,2.5,,+0.25,1.0,,0,1,1,2,1,0,0,0,49,46,28,27,1,1,2,4,0,0,45,1,Pitch: GOOD,Weather: GOOD
+696055,183,EU F,Europe Friendlies,E,4,International,G,27854,HNK Grude,5381,Siroki Brijeg,+2.75,4.0,,+1.25,1.5,,1,1,0,7,1,0,0,0,29,65,7,52,1,6,0,7,0,0,37,1,Pitch: GOOD,Weather: GOOD
+695759,183,EU F,Europe Friendlies,E,4,International,G,4502,Viking FK,1392,IK Start,-0.75,3.25,10.5,-0.25,1.25,5,1,1,6,2,0,1,0,0,30,32,19,17,3,4,3,3,49,51,37,1,Pitch: GOOD,Weather: GOOD
+695662,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,1208,Syria,14254,China PR,+0.25,2.25,9.5,0.0,0.75,4.5,1,1,0,1,0,0,0,0,36,40,24,30,4,1,2,3,46,54,37,1,Pitch: GOOD,Weather: GOOD
+695725,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,13785,Afghanistan,12270,India,0.0,2.5,9,0.0,1.0,4,0,0,3,1,0,0,0,0,30,34,28,20,0,0,1,2,48,52,37,0,Pitch: GOOD,Weather: GOOD
+691959,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,8398,Iraq,3335,Iran,+0.75,1.75,9,+0.25,0.75,4,1,1,0,0,3,0,0,0,37,41,18,11,2,1,2,3,45,55,36,1,Pitch: GOOD,Weather: GOOD
+696057,183,EU F,Europe Friendlies,E,4,International,G,8530,Ciliverghe Mazzano,6827,Brescia,+2.75,3.75,,+1.25,1.5,,0,3,0,5,0,0,0,0,26,32,10,38,1,3,0,10,0,0,35,1,Pitch: GOOD,Weather: GOOD
+695913,183,EU F,Europe Friendlies,E,4,International,G,5884,Karlsruhe,4952,Aarau,-0.5,3.0,,-0.25,1.25,,0,0,9,1,1,1,0,0,42,35,32,18,0,0,1,4,0,0,35,0,Pitch: GOOD,Weather: GOOD
+695758,183,EU F,Europe Friendlies,E,4,International,G,5958,Bochum,2424,FC Viktoria Köln,0.0,3.25,8.5,0.0,1.25,4,0,0,2,0,0,0,0,0,31,32,21,14,4,2,1,3,50,50,35,0,Pitch: GOOD,Weather: GOOD
+695799,1372,EU Q U21,European U21 Championship Qual,E,4,International,G,4263,Azerbaijan U21,4463,Liechtenstein U21,-1.75,3.25,,-0.75,1.25,,0,0,1,0,0,0,0,0,56,30,25,5,2,1,4,0,69,31,34,0,Pitch: GOOD,Weather: GOOD
+695894,976,DZA Cup,Algeria Cup,A,111,Algeria,A,2728,MO Bejaia,38765,Olympique Akbou,-1.5,2.5,9,-0.5,1.0,4.5,1,0,2,0,0,0,0,0,35,27,24,21,2,0,2,1,59,41,29,1,Pitch: GOOD,Weather: SUNNY
+696111,183,EU F,Europe Friendlies,E,4,International,G,2416,Freiburg II,2421,Hoffenheim II,+0.25,3.0,,+0.5,0.75,,0,1,0,0,0,1,0,0,16,21,7,18,0,2,1,0,0,0,15,1,Pitch: GOOD,Weather: GOOD
+695818,2287,Ethiopia Cup,Ethiopia Cup,E,43,Ethiopia,A,20726,Ethiopia Bunna,28991,Welwalo Adigrat,0.0,1.75,,+0.5,0.5,,0,0,0,0,0,1,0,0,17,18,10,9,0,0,0,0,53,47,10,0,Pitch: GOOD,Weather: SUNNY
+696105,2683,CLW,Cameroon League Women,C,54,Cameroon,K,35192,Canon de Yaounde Women,38784,Renaissance Athletic Women,-2.25,3.5,,-1.0,1.5,,0,0,0,0,0,0,0,0,8,10,7,1,0,0,1,0,42,58,5,0,Pitch: GOOD,Weather: GOOD
+696058,183,EU F,Europe Friendlies,E,4,International,G,7549,Omonia Aradippou,6095,Nea Salamis Famagusta,+1.0,3.0,,+0.5,1.25,,0,0,0,0,0,0,0,0,4,9,1,2,0,0,0,0,54,46,5,0,Pitch: GOOD,Weather: GOOD

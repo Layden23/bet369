@@ -1,0 +1,23 @@
+MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal,Pitch,Weather
+695891,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38761,IB Khemis El Khechna,23845,RC Kouba,+0.25,2.0,,0.0,0.75,,0,0,2,9,3,1,1,0,136,157,55,97,2,3,4,6,45,55,117,0,Pitch: GOOD,Weather: GOOD
+695890,976,DZA Cup,Algeria Cup,A,111,Algeria,A,38759,FCB Bir El Arch,38760,Entente de Collo,-0.5,2.25,,-0.25,1.0,,0,0,4,2,2,1,0,0,121,118,101,99,5,9,12,5,46,54,106,0,Pitch: GOOD,Weather: GOOD
+695759,183,EU F,Europe Friendlies,E,4,International,G,4502,Viking FK,1392,IK Start,-0.75,3.25,10.5,-0.25,1.25,5,1,1,8,5,0,2,0,0,79,74,46,35,4,7,11,6,54,46,FT,1,Pitch: GOOD,Weather: GOOD
+695662,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,1208,Syria,14254,China PR,+0.25,2.25,9.5,0.0,0.75,4.5,2,1,0,8,1,1,0,0,91,102,55,88,8,2,6,6,44,56,92,1,Pitch: GOOD,Weather: GOOD
+695725,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,13785,Afghanistan,12270,India,0.0,2.5,9,0.0,1.0,4,1,0,5,3,0,0,0,0,84,91,67,63,3,4,3,8,43,57,90,1,Pitch: GOOD,Weather: GOOD
+691959,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,8398,Iraq,3335,Iran,+0.75,1.75,9,+0.25,0.75,4,1,1,1,0,3,2,0,1,103,87,50,27,2,3,8,5,53,47,89,1,Pitch: GOOD,Weather: GOOD
+696057,183,EU F,Europe Friendlies,E,4,International,G,8530,Ciliverghe Mazzano,6827,Brescia,+2.75,3.75,,+1.25,1.5,,1,4,1,11,0,0,0,0,54,91,30,87,7,12,4,15,0,0,FT,1,Pitch: GOOD,Weather: GOOD
+695913,183,EU F,Europe Friendlies,E,4,International,G,5884,Karlsruhe,4952,Aarau,-0.5,3.0,,-0.25,1.25,,1,1,12,2,1,1,0,0,114,97,78,64,1,2,3,4,0,0,88,1,Pitch: GOOD,Weather: GOOD
+695758,183,EU F,Europe Friendlies,E,4,International,G,5958,Bochum,2424,FC Viktoria Köln,0.0,3.25,8.5,0.0,1.25,4,2,2,5,4,0,0,0,0,80,84,47,40,9,8,5,8,50,50,89,1,Pitch: GOOD,Weather: GOOD
+695799,1372,EU Q U21,European U21 Championship Qual,E,4,International,G,4263,Azerbaijan U21,4463,Liechtenstein U21,-1.75,3.25,,-0.75,1.25,,1,0,9,1,2,2,0,0,150,59,78,10,6,1,9,1,71,29,86,1,Pitch: GOOD,Weather: GOOD
+695894,976,DZA Cup,Algeria Cup,A,111,Algeria,A,2728,MO Bejaia,38765,Olympique Akbou,-1.5,2.5,9,-0.5,1.0,4.5,2,1,4,3,0,0,0,0,93,70,57,55,4,2,3,4,59,41,79,1,Pitch: GOOD,Weather: SUNNY
+696111,183,EU F,Europe Friendlies,E,4,International,G,2416,Freiburg II,2421,Hoffenheim II,+0.25,3.0,,+0.5,0.75,,1,1,5,1,0,2,0,0,91,91,67,55,2,4,6,1,0,0,76,1,Pitch: GOOD,Weather: GOOD
+695818,2287,Ethiopia Cup,Ethiopia Cup,E,43,Ethiopia,A,20726,Ethiopia Bunna,28991,Welwalo Adigrat,0.0,1.75,,+0.5,0.5,,0,0,3,2,1,1,0,0,83,82,57,60,1,5,3,3,50,50,58,0,Pitch: GOOD,Weather: SUNNY
+696105,2683,CLW,Cameroon League Women,C,54,Cameroon,K,35192,Canon de Yaounde Women,38784,Renaissance Athletic Women,-2.25,3.5,,-1.0,1.5,,0,0,5,1,2,3,0,0,65,74,74,47,4,2,4,0,55,45,63,0,Pitch: GOOD,Weather: GOOD
+696058,183,EU F,Europe Friendlies,E,4,International,G,7549,Omonia Aradippou,6095,Nea Salamis Famagusta,+1.0,3.0,,+0.5,1.25,,0,2,0,4,0,0,0,0,50,59,23,49,1,6,3,5,44,56,61,1,Pitch: GOOD,Weather: GOOD
+695718,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,8603,Yemen,815,Palestine,+0.5,2.5,9.5,+0.25,1.0,4.5,0,0,1,1,0,3,0,1,57,65,41,45,2,1,2,1,53,47,HT,0,Pitch: GOOD,Weather: GOOD
+695854,205,INT U20,U20 International,U,4,International,G,1761,Portugal U20,1977,England U20,0.0,2.5,9,0.0,1.0,4,0,3,0,3,0,0,0,0,61,68,17,29,1,4,1,1,49,51,HT,1,Pitch: GOOD,Weather: GOOD
+696041,1064,AS WCup Q,Asia - World Cup Qualifying,A,4,International,G,898,Oman,10942,Bangladesh,-3,3.75,10.5,-0.75,1.0,5,0,0,3,0,0,0,0,0,66,38,58,7,3,1,4,0,75,25,46,0,Pitch: GOOD,Weather: GOOD
+695853,205,INT U20,U20 International,U,4,International,G,8393,Poland U20,8394,Switzerland U20,-0.25,2.75,,0.0,1.25,,1,0,1,2,0,0,0,0,63,77,31,50,3,2,1,2,50,50,HT,1,Pitch: GOOD,Weather: GOOD
+695765,1001,CIV PD,Ivory Coast Premier Division,I,152,Ivory Coast,K,11251,Africa Sports,23822,San-Pédro FC,+0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,0,1,0,0,21,17,15,6,0,0,1,0,55,45,17,0,Pitch: GOOD,Weather: GOOD
+695707,542,AF N CQ,African Nations Cup Qualifiers,A,4,International,G,2348,Mozambique,7086,Rwanda,-0.25,2.0,8.5,0.0,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NS,0,Pitch: GOOD,Weather: GOOD
+695706,542,AF N CQ,African Nations Cup Qualifiers,A,4,International,G,3993,Egypt,6534,Kenya,-1.5,2.25,8.5,-0.5,0.75,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,50,NS,0,Pitch: GOOD,Weather: GOOD

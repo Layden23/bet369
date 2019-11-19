@@ -82,6 +82,6 @@ while 1:
     dirname = ('/Users/jojoel/Google Drive/Github/bet369/Datasets/'+datetime.now().strftime('%Y-%m-%d')+'/')
     filename = datetime.now().strftime('gambling-%Y-%m-%d-%H-%M.csv')
     df2.to_csv(dirname+filename, index = False)
-    time.sleep(15)
+    time.sleep(30)
 
     

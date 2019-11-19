@@ -63,7 +63,7 @@ def hello():
     for i in ntest.columns:
         ntest[i] = pd.to_numeric(ntest[i])
     test["Probability"] = rf.predict_proba(ntest)[:,1]
-    test = test[["MatchID","Probability"]]
+    test = test[["MatchID","Status","Probability"]]
     testdict = test.to_dict('r')
     return jsonify(testdict)
 if __name__ == "__main__":

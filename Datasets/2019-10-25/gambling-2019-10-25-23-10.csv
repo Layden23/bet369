@@ -1,8 +1,0 @@
-MatchID,LeagueID,LeagueName,LeagueFullname,LeagueAbbreviation,CountryID,CountryName,CountryAbbreviation,HomeTeamID,HomeTeamName,GuestTeamID,GuestTeamName,HostHandicapFT,ExpectedGoalsFT,BettingCuoteFT,HostHandicapHT,ExpectedGoalsHT,BettingCuoteHT,HostGoalsFT,GuestGoalsFT,HostCornersFT,GuestCornersFT,HostYCFT,GuestYCFT,HostRCFT,GuestRCFT,HostAttacksFT,GuestAttacksFT,HostDAttacksFT,GuestDAttacksFT,HostonTargetFT,GuestonTargetFT,HostoffTargetFT,GuestoffTargetFT,HostPossessionFT,GuestPossessionFT,Status,Goal
-679710,108,PRT PL,Portugal Primeira Liga,P,45,Portugal,P,6353,Pacos Ferreira,1031,Rio Ave,0.0,2.25,10.5,0.0,1.0,5,0,0,2,4,0,1,0,0,92,77,31,27,3,1,12,4,49,51,80,0
-685861,805,ESP TG12,Spain Tercera Group 12,S,23,Spain,X,10234,Ibarra,10346,CD Marino,+0.5,2.25,,+0.25,1.0,,0,0,3,3,1,1,0,0,71,80,38,39,0,4,2,3,37,63,56,0
-685491,534,PER PD,Peru Primera Division,P,117,Peru,M,4601,Real Garcilaso,3453,Deportivo Municipal,-1.25,2.75,10,-0.5,1.0,4.5,1,0,6,2,1,1,0,0,81,50,68,35,5,0,5,9,66,34,54,1
-686156,606,ARG Cup,Argentina Cup,A,32,Argentina,A,2502,CA Independiente,6395,Lanus,0.0,2.0,9.5,0.0,0.75,4.5,0,1,0,3,2,5,0,0,65,47,30,29,2,5,4,1,59,41,HT,1
-685758,397,PRY DP,Paraguay Division Profesional,P,114,Paraguay,B,3236,Sol de America,3239,Sportivo Luqueno,-0.25,2.25,9.5,0.0,0.75,4.5,1,0,1,0,0,1,0,0,8,7,9,7,1,1,0,0,63,37,9,1
-686155,1046,MEX SD,Mexico Segunda Division,M,49,Mexico,M,16286,Cruz Azul Hidalgo,19297,Atletico San Luis II,-1.0,2.25,9.5,-0.25,1.0,4.5,0,0,1,0,0,0,0,0,6,5,4,2,1,0,0,0,69,31,8,1
-686373,287,BRA U20,Brazil U20 League,B,47,Brazil,B,38406,Bandeirante U20,29369,XV de Jau U20,-0.25,2.75,9.5,0.0,1.0,4.5,0,0,0,0,0,0,0,0,10,6,5,2,0,0,1,0,54,46,6,1
