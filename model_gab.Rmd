@@ -1,0 +1,86 @@
+---
+title: "bet369"
+author: "Gabriel Ristow Cidral"
+date: "11 de febrero de 2020"
+output: html_document
+---
+```{r}
+pacman::p_load(readr, caret, dplyr, ggplot2, randomForest, h2o, reshape)
+```
+
+```{r}
+ene <- read_delim("C:/Users/gabri/Desktop/bet369/Datasets/extraccio_per_minut.csv", 
+    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+ene$goal <- as.logical(ene$goal)
+
+```
+
+```{r}
+
+ene$bettingcuoteft <- NULL
+
+
+ene <- ene[complete.cases(ene), ]
+
+test <- ene %>% filter(matchid == 703013) 
+
+train <- ene %>% filter(matchid != 703013)
+
+#ggplot(data = ene %>% filter(matchid == 703013) , aes(x=status, y = goal)) + geom_line()
+
+```
+
+
+```{r}
+
+train <- train %>% arrange(matchid) %>% sample_n(50000)
+
+train$goal <- as.factor(train$goal)
+
+fit <- tuneRF(x = train[ , 1:5], y = train$goal, doBest = T)
+
+pred <- predict(fit,test)
+
+
+
+```
+
+```{r}
+
+#h2o.init()
+train.h2o <- as.h2o(train)
+test.h2o <- as.h2o(test)
+
+#dependent variable 
+y.dep <- 30
+
+#independent variables 
+x.indep <- c(1:29)
+
+#Random Forest
+system.time(
+  rforest.model <- h2o.randomForest(y=y.dep, x=x.indep, training_frame = train.h2o, 
+                                    ntrees = 1000, mtries = 3, max_depth = 4, seed = 1122))
+
+```
+
+```{r}
+
+h2o.performance(rforest.model)
+
+h2o.varimp(rforest.model)
+
+
+predict.rforest <- as.data.frame(h2o.predict(rforest.model, test.h2o))
+
+confusionMatrix(as.factor(predict.rforest$predict), base::as.factor(test$goal))
+
+test <- cbind(test,pred = predict.rforest$predict)
+
+head(test)
+
+melt
+
+```
+
