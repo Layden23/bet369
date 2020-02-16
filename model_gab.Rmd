@@ -2,61 +2,133 @@
 title: "bet369"
 author: "Gabriel Ristow Cidral"
 date: "11 de febrero de 2020"
-output: html_document
+output:
+  rmdformats::readthedown:
+    thumbnails: true
+    lightbox: true
+    toc_depth: 3
+    gallery: true
+    highlight: tango
 ---
 ```{r}
-pacman::p_load(readr, caret, dplyr, ggplot2, randomForest, h2o, reshape)
+pacman::p_load(readr, caret, dplyr, ggplot2, randomForest,kableExtra, h2o, reshape, arules, party)
+
 ```
 
+# Dataset extracted by minute from 01/01/2020 until 12/01/2020 (tbc)
+
 ```{r}
-ene <- read_delim("C:/Users/gabri/Desktop/bet369/Datasets/extraccio_per_minut.csv", 
-    "\t", escape_double = FALSE, trim_ws = TRUE)
+
+ene <- read_delim("Datasets/extraccio_per_minut.csv", 
+    "\t", escape_double = FALSE, locale = locale(decimal_mark = ",", 
+        grouping_mark = "."), trim_ws = TRUE)
+
 
 ene$goal <- as.logical(ene$goal)
 
 ```
 
+# cleaning dataset
+
+
+## Too many missing values
+
 ```{r}
 
 ene$bettingcuoteft <- NULL
+ene$hostgoalsft <- NULL
+ene$guestgoalsft <- NULL
 
 
-ene <- ene[complete.cases(ene), ]
+```
 
-test <- ene %>% filter(matchid == 703013) 
+## Exclude second half
 
-train <- ene %>% filter(matchid != 703013)
+```{r}
 
-#ggplot(data = ene %>% filter(matchid == 703013) , aes(x=status, y = goal)) + geom_line()
+ene <- ene %>% filter(status < 45)
+
+```
+
+
+# Descriptive analysis
+
+## Most repeated match id
+```{r}
+
+  best.sellers <- prop.table(table(ene$matchid))*100
+  #best.sellers <- best.sellers[best.sellers > 0.003]
+  best.sellers <- best.sellers[order(best.sellers, decreasing = T)]
+  barplot(head(best.sellers), las = 1, cex.names=1.5) 
 
 ```
 
 
 ```{r}
 
-train <- train %>% arrange(matchid) %>% sample_n(50000)
-
-train$goal <- as.factor(train$goal)
-
-fit <- tuneRF(x = train[ , 1:5], y = train$goal, doBest = T)
-
-pred <- predict(fit,test)
-
+names(ene)
 
 
 ```
 
 ```{r}
 
-#h2o.init()
+# Create a lag by group
+
+ene <- ene %>% group_by(matchid) %>% arrange(status) %>% 
+    mutate(lag = dplyr::lag(goal, n = 1, default = NA), fin = goal - lag)
+
+x <- ene %>% arrange(goal) %>% filter(goal == T) %>% slice(which.min(status))
+
+p <- x %>% group_by(status) %>% summarise(sum = sum(goal))
+
+p$dis <- discretize(p$status, breaks = 2)
+
+p$perc <- p$sum/sum(p$sum)
+ggplot(p, aes(x = dis, y = perc)) + geom_col()
+
+
+```
+
+## Plot decision tree
+
+```{r}
+
+ene$fin <- NULL
+ene$lag <- NULL
+
+ene$goal <- base::as.factor(ene$goal)
+
+t <- ctree(formula = goal~., data = head(ene,150000), controls = ctree_control(maxdepth = 3))
+
+# print tree
+
+plot(t)
+
+```
+
+
+```{r}
+
+test <- ene %>% filter(matchid == unique(ene$matchid)[1]) 
+
+train <- ene %>% filter(matchid != test$matchid[1])
+
+```
+# Modeling
+
+
+```{r}
+
+h2o.init()
 train.h2o <- as.h2o(train)
 test.h2o <- as.h2o(test)
 
 #dependent variable 
-y.dep <- 30
+y.dep <- 28
 
 #independent variables 
-x.indep <- c(1:29)
+x.indep <- c(1:27,29)
 
 #Random Forest
 system.time(
@@ -71,16 +143,52 @@ h2o.performance(rforest.model)
 
 h2o.varimp(rforest.model)
 
-
 predict.rforest <- as.data.frame(h2o.predict(rforest.model, test.h2o))
 
 confusionMatrix(as.factor(predict.rforest$predict), base::as.factor(test$goal))
 
 test <- cbind(test,pred = predict.rforest$predict)
 
-head(test)
 
-melt
+df <- melt(test, measure.vars = c("goal", "pred"))
+
+ggplot(data = df, aes(x = status, y = value, color = variable)) +  geom_jitter(width = 0.1, height = 0.1)
+
+which(test)
+
+
+```
+ 
+```{r}
+test <- list()
+train <- list()
+# apply model making different splits in train and test
+
+# include list of games in test
+g <- c(707991, 707992, 707993)
+
+for (i in 1:length(g)) {
+test[[i]] <- ene %>% filter(matchid == g[i]) 
+
+train[[i]] <- ene %>% filter(matchid != g[i])
+  
+}
+
+tr <- lapply(X = train, as.h2o)
+
+tr <- lapply(tr, function(x) h2o.randomForest(y=y.dep, x=x.indep, training_frame = x, 
+                                    ntrees = 1000, mtries = 3, max_depth = 4, seed = 1122))
+
+as.data.frame(h2o.predict(rforest.model, test.h2o))
+
+h2o.predict(rforest.model, test.h2o)
+
+test[[6]]
+
+logocv_fit<-logocv(x=my_data,dependent="NO2_conc",fixed=c("var1","var2","season"),random=c("intercept","var1"),group="site_id")
+plot(logocv_fit$NO2_conc,logocv_fit$logocv)
+rsq(lm(data=logocv_fit,NO2_conc~logocv))
 
 ```
 
+ 
